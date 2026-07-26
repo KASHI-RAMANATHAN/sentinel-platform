@@ -345,21 +345,11 @@ def _step_anomaly_detection(
         # Reuse anomaly_detector.py functions
         X = ad.select_features(df).fillna(0)
 
-        # ── Dynamic contamination from ground-truth labels ────────────────
-        # If the uploaded CSV has a 'label' column, use the actual anomaly
-        # fraction as contamination — far more accurate than the 2% default.
+        # ── Strict Anomaly Budget (Contamination) ────────────────
+        # Enforce a strict alert budget by keeping contamination fixed.
+        # This prevents label leakage and simulates real-world SOC constraints
+        # where analysts can only review the top ~2% of anomalous events.
         effective_contamination = contamination
-        if "label" in df.columns:
-            n_total = len(df)
-            n_anomaly = int((df["label"].str.strip().str.lower() != "normal").sum())
-            if 0 < n_anomaly < n_total:
-                raw_rate = n_anomaly / n_total
-                # Clamp to [0.01, 0.45] — IsolationForest limits
-                effective_contamination = round(max(0.01, min(0.45, raw_rate)), 4)
-                logger.info(
-                    "Dynamic contamination from labels: %d/%d = %.2f%% → using %.4f",
-                    n_anomaly, n_total, raw_rate * 100, effective_contamination,
-                )
 
         # ── Build training set (history + new, new weighted ≥50%) ────────
         history_path = os.path.join(model_dir, "iso_history.csv")

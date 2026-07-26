@@ -65,23 +65,11 @@ def prepare_features(df: pd.DataFrame):
 def split_dataset(X: pd.DataFrame, y: pd.Series, test_size: float = 0.2):
     """
     Split the dataset into training and testing sets.
-    Introduces slight label noise to prevent 1.0 overfitting on synthetic data.
     """
     logger.info(f"Splitting dataset with test_size={test_size}...")
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=test_size, random_state=42
     )
-    
-    # Introduce ~4% label noise in training set to ensure realistic model metrics
-    np.random.seed(42)
-    noise_idx = np.random.choice(y_train.index, size=int(len(y_train) * 0.04), replace=False)
-    unique_labels = y_train.unique()
-    if len(unique_labels) > 1:
-        for idx in noise_idx:
-            # pick a random different label
-            choices = [lbl for lbl in unique_labels if lbl != y_train[idx]]
-            y_train[idx] = np.random.choice(choices)
-            
     return X_train, X_test, y_train, y_test
 
 def train_classifier(X_train: pd.DataFrame, y_train: pd.Series) -> RandomForestClassifier:
