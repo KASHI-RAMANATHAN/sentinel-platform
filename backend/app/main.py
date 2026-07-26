@@ -13,9 +13,16 @@ Run locally with:
     uvicorn app.main:app --reload
 """
 
+import sys
+import os
+
+# Ensure backend root is in sys.path so 'import app' resolves on cloud hosts like Render
+backend_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if backend_dir not in sys.path:
+    sys.path.insert(0, backend_dir)
+
 import asyncio
 import logging
-import os
 
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.responses import JSONResponse
