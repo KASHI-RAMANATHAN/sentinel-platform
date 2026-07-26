@@ -72,6 +72,16 @@ class LogRecordRequest(BaseModel):
         description="(model feature) 1 if location was previously seen for this user, else 0.",
         example=0,
     )
+    auth_method_encoded: int = Field(
+        default=0, ge=0,
+        description="(model feature) Encoded authentication method.",
+        example=1,
+    )
+    entity_type_encoded: int = Field(
+        default=0, ge=0,
+        description="(model feature) Encoded entity/role type.",
+        example=2,
+    )
 
     # ── Contextual fields (enrichment only, not used by model) ────────
     user_id: Optional[str] = Field(default=None, example="U00673")

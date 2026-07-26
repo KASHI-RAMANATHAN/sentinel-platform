@@ -111,6 +111,8 @@ class PredictionService:
             "failed_login_count":  int(record.failed_login_count),
             "is_known_device":     int(record.is_known_device),
             "is_known_location":   int(record.is_known_location),
+            "auth_method_encoded": int(record.auth_method_encoded),
+            "entity_type_encoded": int(record.entity_type_encoded),
         }
 
     # ------------------------------------------------------------------

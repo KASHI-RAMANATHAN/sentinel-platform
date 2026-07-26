@@ -48,6 +48,8 @@ INFERENCE_FEATURES: List[str] = [
     "failed_login_count",
     "is_known_device",
     "is_known_location",
+    "auth_method_encoded",
+    "entity_type_encoded",
 ]
 
 # Human-readable descriptions (mirrors explainability.py feature_mapping)
@@ -60,6 +62,8 @@ _FEATURE_DESCRIPTIONS: Dict[str, str] = {
     "failed_login_count":  "Multiple failed login attempts were recorded",
     "is_known_device":     "An unknown or unfamiliar device was used",
     "is_known_location":   "Login originated from an unfamiliar location",
+    "auth_method_encoded": "An unusual authentication method was used",
+    "entity_type_encoded": "Activity deviates from normal behavior for this role",
 }
 
 # Isolation Forest score bounds observed over the full dataset threat slice.

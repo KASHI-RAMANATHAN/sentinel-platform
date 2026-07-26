@@ -175,6 +175,8 @@ export default function App() {
 
   useEffect(() => {
     fetchDashboardData();
+    const intervalId = setInterval(fetchDashboardData, 30000);
+    return () => clearInterval(intervalId);
   }, [fetchDashboardData]);
 
   const handleInvestigate = useCallback(async (alertId: string) => {

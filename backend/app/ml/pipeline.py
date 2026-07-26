@@ -43,6 +43,7 @@ from app.ml import anomaly_detector as ad
 from app.ml import attack_classifier as ac
 from app.ml import baseline_model as bm
 from app.ml import explainability as ex
+from app.ml import evaluation as ev
 from app.firebase.firestore_client import get_firestore_client
 from app.schemas.alert_schema import AlertSeverity
 
@@ -386,10 +387,24 @@ def _step_anomaly_detection(
         n_anomalies = int((predictions == -1).sum())
         step.success = True
         step.rows_out = len(df)
-        step.detail = (
+        
+        detail_msg = (
             f"Detected {n_anomalies}/{len(df)} anomalies "
-            f"({n_anomalies/max(len(df),1)*100:.1f}%) â†’ {pred_path}"
+            f"({n_anomalies/max(len(df),1)*100:.1f}%) -> {pred_path}"
         )
+        
+        label_col = "label" if "label" in df.columns else "attack_type" if "attack_type" in df.columns else None
+        if label_col:
+            metrics = ev.evaluate_budget_metrics(df, "anomaly_score", label_col, top_k_pct=0.01)
+            if metrics:
+                detail_msg += (
+                    f" | Budget Metrics (Top 1%): "
+                    f"Precision={metrics['precision']:.2f}, "
+                    f"Recall={metrics['recall']:.2f}, "
+                    f"FPR={metrics['fpr']:.4f}"
+                )
+                
+        step.detail = detail_msg
     except Exception as exc:
         step.error = str(exc)
         logger.exception("anomaly_detection step failed")

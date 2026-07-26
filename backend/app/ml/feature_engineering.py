@@ -126,9 +126,11 @@ def engineer_features(df: pd.DataFrame) -> pd.DataFrame:
         df = df.sort_index()
     else:
         # Fallbacks if entity_id is missing
+        # Cold-start entities (brand new, unseen entities) must be treated as
+        # untrusted (unseen = 0) to correctly trigger anomaly signals.
         df['failed_login_count'] = 0
-        df['is_known_device'] = 1
-        df['is_known_location'] = 1
+        df['is_known_device'] = 0
+        df['is_known_location'] = 0
 
     return df
 
