@@ -140,6 +140,33 @@ async def on_startup() -> None:
     try:
         init_firebase_app()
         get_firestore_client()  # Initialize gRPC in the main thread to prevent Windows crashes
+        from app.services.audit_service import audit_service
+        from app.schemas.audit_schema import AuditLogCreate, AuditActor, AuditCategory, AuditStatus
+        asyncio.create_task(
+            audit_service.log_event(
+                AuditLogCreate(
+                    actor=AuditActor.BACKEND,
+                    action="Backend Started",
+                    category=AuditCategory.SYSTEM,
+                    resource="main",
+                    status=AuditStatus.SUCCESS,
+                    details=f"Starting {settings.APP_NAME} in {settings.ENVIRONMENT} mode."
+                )
+            )
+        )
+        asyncio.create_task(
+            audit_service.log_event(
+                AuditLogCreate(
+                    actor=AuditActor.FIREBASE,
+                    action="Firebase Connected",
+                    category=AuditCategory.SYSTEM,
+                    resource="firestore",
+                    status=AuditStatus.SUCCESS,
+                    details="Successfully initialized Firebase Admin SDK and Firestore client."
+                )
+            )
+        )
+
     except Exception as exc:  # noqa: BLE001
         logger.warning("Firebase initialization skipped/failed: %s", exc)
 
@@ -153,6 +180,22 @@ async def on_startup() -> None:
 @app.exception_handler(Exception)
 async def global_exception_handler(request: Request, exc: Exception):
     logger.error(f"Unhandled exception: {exc}", exc_info=True)
+    try:
+        from app.services.audit_service import audit_service
+        from app.schemas.audit_schema import AuditLogCreate, AuditActor, AuditCategory, AuditStatus
+        await audit_service.log_event(
+            AuditLogCreate(
+                actor=AuditActor.BACKEND,
+                action="API Error",
+                category=AuditCategory.ERRORS,
+                resource=str(request.url),
+                status=AuditStatus.FAILED,
+                details=str(exc)
+            )
+        )
+    except Exception:
+        pass
+    
     return JSONResponse(
         status_code=500,
         content={"success": False, "message": "Internal Server Error", "details": str(exc)},

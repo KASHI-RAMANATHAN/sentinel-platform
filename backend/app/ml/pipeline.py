@@ -125,10 +125,30 @@ def run_pipeline(
     # â”€â”€ Step 1 â€” Feature Engineering â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
     df, step1 = _step_feature_engineering(df, processed_dir)
     result.steps.append(step1)
+    
+    from app.services.audit_service import audit_service
+    from app.schemas.audit_schema import AuditLogCreate, AuditActor, AuditCategory, AuditStatus
     if not step1.success:
+        audit_service.log_event_sync(AuditLogCreate(
+            actor=AuditActor.ML_ENGINE,
+            action="Feature Engineering Failed",
+            category=AuditCategory.ERRORS,
+            resource="pipeline",
+            status=AuditStatus.FAILED,
+            details=str(step1.error)
+        ))
         result.success = False
         result.error = step1.error
         return result
+    else:
+        audit_service.log_event_sync(AuditLogCreate(
+            actor=AuditActor.ML_ENGINE,
+            action="Feature Engineering Completed",
+            category=AuditCategory.SYSTEM,
+            resource="pipeline",
+            status=AuditStatus.SUCCESS,
+            details=step1.detail
+        ))
 
     # â”€â”€ Step 2 â€” Baseline Profiling â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
     profiles_df, step2 = _step_baseline(df, processed_dir)
@@ -140,6 +160,14 @@ def run_pipeline(
     df, iso_model, step3 = _step_anomaly_detection(df, processed_dir, model_dir, contamination)
     result.steps.append(step3)
     if not step3.success:
+        audit_service.log_event_sync(AuditLogCreate(
+            actor=AuditActor.ML_ENGINE,
+            action="Prediction Failed",
+            category=AuditCategory.ERRORS,
+            resource="pipeline",
+            status=AuditStatus.FAILED,
+            details=str(step3.error)
+        ))
         result.success = False
         result.error = step3.error
         return result
@@ -149,6 +177,15 @@ def run_pipeline(
     result.anomaly_rate_pct = round(
         result.anomalies_detected / max(len(df), 1) * 100, 2
     )
+    
+    audit_service.log_event_sync(AuditLogCreate(
+        actor=AuditActor.ML_ENGINE,
+        action="Prediction Completed",
+        category=AuditCategory.SYSTEM,
+        resource="pipeline",
+        status=AuditStatus.SUCCESS,
+        details=f"Isolation Forest processed {len(df)} events and detected {result.anomalies_detected} anomalies."
+    ))
 
     # â”€â”€ Step 4 â€” Attack Classification â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
     df, clf_model, step4 = _step_attack_classification(df, processed_dir, model_dir)
@@ -166,6 +203,15 @@ def run_pipeline(
     df, step5 = _step_shap(df, iso_model, processed_dir)
     result.steps.append(step5)
     result.shap_explained_rows = step5.rows_out
+    if step5.success and step5.rows_out > 0:
+        audit_service.log_event_sync(AuditLogCreate(
+            actor=AuditActor.ML_ENGINE,
+            action="SHAP Explanation Generated",
+            category=AuditCategory.SYSTEM,
+            resource="pipeline",
+            status=AuditStatus.SUCCESS,
+            details=step5.detail
+        ))
 
     # ── Step 6 — Firestore Sync (Subprocess) ───────────────────
     df, step6 = _step_firestore_sync(df, processed_dir)
@@ -188,6 +234,14 @@ def run_pipeline(
         result.total_duration_s, result.total_rows,
         result.anomalies_detected, result.anomaly_rate_pct,
     )
+    audit_service.log_event_sync(AuditLogCreate(
+        actor=AuditActor.ML_ENGINE,
+        action="Dataset Processed",
+        category=AuditCategory.SYSTEM,
+        resource="pipeline",
+        status=AuditStatus.SUCCESS,
+        details=f"Pipeline complete in {result.total_duration_s}s. {result.total_rows} rows processed."
+    ))
     return result
 
 
@@ -416,6 +470,29 @@ def _step_attack_classification(
         step.success = True
         step.rows_out = len(df)
         step.detail = f"Attack distribution: {attack_counts} â†’ {out_path}"
+        
+        from app.services.audit_service import audit_service
+        from app.schemas.audit_schema import AuditLogCreate, AuditActor, AuditCategory, AuditStatus
+        for attack_type, count in attack_counts.items():
+            if attack_type == "Normal":
+                continue
+            
+            # Map attack type to the event action required by prompt
+            # e.g., "Credential Abuse Detected"
+            if attack_type.lower() == "brute force":
+                action_name = "Credential Abuse Detected"
+            else:
+                action_name = f"{attack_type} Detected"
+
+            audit_service.log_event_sync(AuditLogCreate(
+                actor=AuditActor.ML_ENGINE,
+                action=action_name,
+                category=AuditCategory.SECURITY,
+                resource="pipeline",
+                status=AuditStatus.CRITICAL,
+                details=f"Detected {count} instances of {attack_type} during batch processing."
+            ))
+
     except Exception as exc:
         step.error = str(exc)
         logger.warning("attack_classification step failed (non-fatal): %s", exc)

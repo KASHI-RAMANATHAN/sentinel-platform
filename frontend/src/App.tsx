@@ -193,10 +193,15 @@ export default function App() {
         }, { merge: true });
 
         await addDoc(collection(db, 'audit_logs'), {
+            log_id: crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(7),
             timestamp: new Date().toISOString(),
+            actor: 'SOC Analyst',
             action: 'Investigated Alert',
-            alert_id: alertId,
-            performed_by: 'SOC Analyst'
+            category: 'Analyst',
+            resource: 'alert',
+            status: 'Success',
+            details: `Analyst assigned to investigate alert ${alertId}.`,
+            alert_id: alertId
         });
     } catch (e) {
         console.error('Error investigating alert in Firestore:', e);
@@ -235,10 +240,15 @@ export default function App() {
         }, { merge: true });
 
         await addDoc(collection(db, 'audit_logs'), {
+            log_id: crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(7),
             timestamp: new Date().toISOString(),
+            actor: 'SOC Analyst',
             action: 'Resolved Alert',
-            alert_id: alertId,
-            performed_by: 'SOC Analyst'
+            category: 'Analyst',
+            resource: 'alert',
+            status: 'Success',
+            details: `Analyst resolved alert ${alertId}.`,
+            alert_id: alertId
         });
     } catch (e) {
         console.error('Error resolving alert in Firestore:', e);

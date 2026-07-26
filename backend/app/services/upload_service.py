@@ -99,6 +99,20 @@ class UploadService:
         saved_path = self._save_raw(raw_bytes, original_name)
         logger.info("Saved raw upload → %s", saved_path)
 
+        from app.services.audit_service import audit_service
+        from app.schemas.audit_schema import AuditLogCreate, AuditActor, AuditCategory, AuditStatus
+        await audit_service.log_event(
+            AuditLogCreate(
+                actor=AuditActor.BACKEND,
+                action="CSV Uploaded",
+                category=AuditCategory.SYSTEM,
+                resource="upload",
+                status=AuditStatus.SUCCESS,
+                details=f"{len(df_raw)} records uploaded successfully from {original_name}."
+            )
+        )
+
+
         # ── 3. Run ML pipeline (in-process via thread to unblock event loop)
         try:
             from app.ml.pipeline import run_pipeline, PipelineResult
@@ -111,6 +125,20 @@ class UploadService:
             )
         except Exception as exc:
             logger.exception("Pipeline failed critically")
+            
+            from app.services.audit_service import audit_service
+            from app.schemas.audit_schema import AuditLogCreate, AuditActor, AuditCategory, AuditStatus
+            await audit_service.log_event(
+                AuditLogCreate(
+                    actor=AuditActor.BACKEND,
+                    action="Upload Failed",
+                    category=AuditCategory.ERRORS,
+                    resource="upload",
+                    status=AuditStatus.FAILED,
+                    details=f"Internal pipeline error: {exc}"
+                )
+            )
+
             raise HTTPException(
                 status_code=500,
                 detail=f"Internal pipeline error: {exc}"
