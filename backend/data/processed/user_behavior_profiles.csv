@@ -1,0 +1,71 @@
+entity_id,average_login_hour,login_hour_std,average_daily_logins,average_session_duration,preferred_auth_method,preferred_geo_location,preferred_device,preferred_resource
+006ed6e3-6fa1-4735-b572-f3d00b5cea6a,15.307692307692308,2.4625398604088757,1.8571428571428572,1590.3076923076924,password,Haiti,Firmware v1.2 | MAC: b8:dc:23:a9:a0:3f | TCP/IP,/etc/passwd
+016b6287-b008-45cc-a7f3-6ae925c73c44,9.571428571428571,2.0632844828435215,3.0,1355.5714285714287,token,Slovakia (Slovak Republic),macOS 14 | MAC: 8e:d9:70:5a:ed:19 | TCP/IP,/api/v1/data
+033d2bce-575a-4d2c-a5c5-650c8186a576,3.0,0.0,1.0,0.0,password,Russia,Ubuntu 22.04 | MAC: a2:d7:fa:36:dd:b9 | TCP/IP,login_endpoint
+09cb3942-43f5-4a85-bbc9-f87af668a617,10.3,2.5360557855395096,3.3333333333333335,1437.1,password,Guatemala,macOS 13 | MAC: 40:a0:df:3b:c5:61 | TCP/IP,file_share
+0bbb2599-11ce-4dd2-b45e-d1f03139d32c,8.294117647058824,4.149769660510582,2.4285714285714284,1392.8235294117646,token,Belgium,macOS 14 | MAC: a2:77:33:c2:8e:e8 | TCP/IP,sensitive_db
+157d94a1-06f0-48ff-a9ba-5a27907bfe36,13.714285714285714,1.4898926873369847,2.0,2024.0714285714287,password,Tonga,Windows 11 | MAC: 52:ec:5d:19:85:c2 | TCP/IP,/etc/passwd
+17a0df49-0d01-480f-989a-40c0e87d1c78,14.181818181818182,2.084783045383942,3.142857142857143,1872.0454545454545,certificate,Aruba,macOS 14 | MAC: bc:01:aa:42:86:52 | TCP/IP,db_query
+1c11f735-dc71-4d96-8c0f-d195c17af08a,8.793103448275861,1.9708466336074888,4.142857142857143,1680.4827586206898,certificate,Somalia,Windows 11 | MAC: 86:d8:20:c5:c3:ef | TCP/IP,file_share
+1d48a071-ab61-47b1-b93b-4c3220500494,3.0,0.0,1.0,0.0,password,Russia,Windows 11 | MAC: 9a:6f:ee:83:bc:55 | TCP/IP,login_endpoint
+1f115b76-d92c-4227-aadf-50853fcb7546,12.153846153846153,2.075498086651083,2.6,1666.8461538461538,token,Papua New Guinea,macOS 14 | MAC: be:a2:e2:da:e4:51 | TCP/IP,file_share
+27cb6f2a-8da0-4097-be0f-051b1b66b5a9,7.4,1.2983506020002018,2.142857142857143,2121.133333333333,password,Saint Barthelemy,Windows 10 | MAC: e6:af:68:87:fa:80 | TCP/IP,system_config
+30beb45f-6835-44f2-8eb8-1f9d7914c120,14.0,2.215646837627989,2.0,1709.75,token,Guinea,Firmware v1.2 | MAC: 0e:d8:d2:ef:1b:32 | TCP/IP,db_query
+314d3441-b8a6-471f-9ee3-4dc43b048a8b,3.0,0.0,1.0,0.0,password,Russia,Windows 10 | MAC: bc:a1:3d:5e:62:6e | TCP/IP,login_endpoint
+3dc98290-15ea-4b27-b0e9-12f2f2b43abf,3.0,0.0,1.0,0.0,password,Russia,Ubuntu 22.04 | MAC: 72:d0:fa:7b:f3:fb | TCP/IP,login_endpoint
+3f76be1d-1efa-4197-b394-988f847fd9b4,14.481481481481481,1.888637489554723,3.857142857142857,1977.6666666666667,certificate,Angola,Firmware v1.2 | MAC: 3a:75:70:03:24:1e | TCP/IP,/etc/passwd
+425a609f-7337-4599-b984-4388dc8aee30,11.92,1.6812693617224659,3.5714285714285716,1397.4,biometric,Seychelles,Windows 10 | MAC: b6:f8:7a:8c:e1:27 | TCP/IP,system_config
+43b7a3a6-9a8d-4a03-980d-7b71d8f56413,14.5,2.350811729908136,2.857142857142857,1801.2,token,Mauritania,Ubuntu 22.04 | MAC: 92:3f:c1:28:96:b9 | TCP/IP,db_query
+43e42caf-8181-48cc-b691-47eb89a2688b,14.26923076923077,1.8012815950359862,3.7142857142857144,1625.9615384615386,certificate,Turkmenistan,macOS 14 | MAC: 70:23:7d:bd:91:50 | TCP/IP,file_share
+43ff5011-3d1a-45dd-906e-5a9ab758588d,14.08,2.361496700541135,3.5714285714285716,2150.76,password,Kuwait,macOS 13 | MAC: 12:a1:25:04:ea:33 | TCP/IP,file_share
+4774bc58-c5f8-4c16-b786-0b5011c58ef0,12.166666666666666,2.124888588879783,2.0,1220.5,token,Philippines,Firmware v1.2 | MAC: 94:a9:0e:3b:85:5b | TCP/IP,/api/v1/data
+4b5305e5-17d2-482e-846a-0df5cafda613,3.0,0.0,1.0,0.0,password,Russia,macOS 13 | MAC: 78:71:cf:7c:9c:bc | TCP/IP,login_endpoint
+4d71c366-b41b-4143-8b10-550cd5704f32,9.133333333333333,1.8073922282301278,2.5,1802.9333333333334,token,Papua New Guinea,macOS 13 | MAC: e2:99:35:44:87:3b | TCP/IP,file_share
+4eb93eff-ce88-4b2d-94e8-0839fc3e058b,10.275862068965518,2.102660758660287,4.142857142857143,1994.0344827586207,biometric,Turkey,macOS 13 | MAC: 20:28:2b:f8:23:40 | TCP/IP,system_config
+4f2d4796-81d2-47de-8ce1-eb90e6697833,8.916666666666666,2.1852602405298507,3.4285714285714284,1721.375,certificate,Iraq,Ubuntu 22.04 | MAC: ac:97:41:62:d7:c2 | TCP/IP,/api/v1/data
+527eecfa-a79a-49aa-9b4e-2c249479e1e6,8.0,1.793708812585763,4.0,2005.0416666666667,biometric,Peru,macOS 13 | MAC: 82:6d:f2:56:2b:91 | TCP/IP,/etc/passwd
+55cee5db-9e87-404c-a208-6977a9f25336,12.8,1.873795909674026,1.4285714285714286,1916.6,password,Peru,Firmware v1.2 | MAC: 0a:9e:73:65:4b:0c | TCP/IP,/api/v1/data
+55fa1ab8-458f-4f19-bc07-c57449257af1,9.041666666666666,1.8528278426483,3.4285714285714284,1785.7916666666667,token,Burundi,Windows 10 | MAC: 10:4d:76:c4:4e:6d | TCP/IP,file_share
+5ec42e08-29a3-42e9-9d65-a441d58842de,14.733333333333333,3.268800616627507,4.285714285714286,1556.9666666666667,certificate,Reunion,Ubuntu 22.04 | MAC: 60:24:57:7d:53:ec | TCP/IP,port:22
+66aa9385-dd59-4a71-b6b8-24817b3a4e3e,16.304347826086957,1.3629774429099775,3.8333333333333335,2026.2173913043478,biometric,Hong Kong,Ubuntu 22.04 | MAC: 6c:01:c7:87:e8:92 | TCP/IP,/api/v1/data
+6808593f-dfed-4c43-a256-a6dc8f5486b7,11.428571428571429,1.7415415679698927,2.0,2073.1428571428573,certificate,Uzbekistan,macOS 13 | MAC: 2c:79:53:5a:d3:0c | TCP/IP,port:22
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,12.75,2.0903505010861942,3.4285714285714284,1874.625,token,Cuba,macOS 14 | MAC: 5a:ac:34:2f:c2:31 | TCP/IP,system_config
+6cedd15d-5800-4c02-87ea-7ff58db06746,3.0,0.0,1.0,0.0,password,Russia,Windows 11 | MAC: 40:a9:b4:e8:8a:9c | TCP/IP,login_endpoint
+6d7ce3c9-b4a6-4f3c-8d3a-ed99711c21c9,8.851851851851851,2.298891098964952,3.857142857142857,1676.962962962963,token,Belarus,macOS 14 | MAC: 20:4c:12:bd:4b:dc | TCP/IP,db_query
+75d66ed4-eb1f-49f2-910b-d1d033173470,16.363636363636363,2.2482316283126735,2.75,1864.909090909091,biometric,Czech Republic,macOS 14 | MAC: dc:0c:62:cc:a8:8e | TCP/IP,system_config
+76f72255-c01f-46bf-be6d-d58b7367c28d,3.0,0.0,1.0,0.0,password,Russia,Firmware v1.2 | MAC: 2e:c2:ac:0e:fd:a6 | TCP/IP,login_endpoint
+78660765-14f7-4e8d-95bc-b8d04094dded,3.0,0.0,1.0,0.0,password,Russia,Windows 11 | MAC: c6:09:1a:b3:72:23 | TCP/IP,login_endpoint
+89fa6a68-8fb5-427b-beb7-99193f22faf8,12.6,2.3260538075868906,3.3333333333333335,1628.35,certificate,Ukraine,Firmware v1.2 | MAC: 16:cc:b9:70:46:fc | TCP/IP,/api/v1/data
+8ae8905b-54b4-4482-a858-6eba6a34c854,15.444444444444445,2.3424729426782047,3.857142857142857,1837.3333333333333,certificate,Costa Rica,Firmware v1.2 | MAC: 00:d7:c7:0a:c2:f4 | TCP/IP,/api/v1/data
+8cbfedb0-f264-4ccc-b9ac-1b1ea8e56e0c,16.045454545454547,2.298597351331847,3.142857142857143,2012.4545454545455,biometric,Croatia,Windows 11 | MAC: e6:66:9f:cc:bf:e0 | TCP/IP,file_share
+91d63f78-e3e9-4e99-b10c-718b1eb0e38a,15.941176470588236,2.014652210534554,2.4285714285714284,1538.9411764705883,token,Niger,macOS 13 | MAC: aa:29:d6:a1:85:68 | TCP/IP,/etc/passwd
+958ca9ba-0cd6-40c2-8ea2-622b504867ba,16.105263157894736,2.685242319752441,2.7142857142857144,1644.8947368421052,token,Azerbaijan,macOS 13 | MAC: 66:29:5f:23:22:78 | TCP/IP,/etc/passwd
+96ef2ad6-b97e-4703-86c8-adfe7bf47042,3.0,0.0,1.0,0.0,password,Russia,Firmware v1.2 | MAC: 5c:90:33:63:97:74 | TCP/IP,login_endpoint
+97ac6aa8-bb24-48a3-9363-57b66f81cf4f,3.0,0.0,1.0,0.0,password,Russia,Firmware v1.2 | MAC: e0:89:a5:7d:2c:8e | TCP/IP,login_endpoint
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,14.28,2.372059583287626,4.166666666666667,1800.48,password,Saint Barthelemy,macOS 13 | MAC: c2:d6:70:e5:8e:03 | TCP/IP,/etc/passwd
+9c7c7377-79a2-4903-bbe3-3b243eae0032,12.76923076923077,1.535895295576609,1.8571428571428572,1300.923076923077,token,Korea,Windows 11 | MAC: 3e:d4:63:c4:fd:cc | TCP/IP,file_share
+9d9262af-2c8d-4e44-a71e-43a6bf85bf0e,11.045454545454545,1.5879688352247407,3.142857142857143,2047.909090909091,biometric,Mexico,Windows 10 | MAC: c8:00:9b:92:6b:dc | TCP/IP,/etc/passwd
+a1235a8c-93b7-4886-92f7-0c977de31a51,3.0,0.0,1.0,0.0,password,Russia,macOS 14 | MAC: 3e:1b:4d:4c:9b:2b | TCP/IP,login_endpoint
+a3d70628-ece6-4fa2-bd51-66e6451b4cf3,12.052631578947368,1.9571431620413324,2.7142857142857144,1285.421052631579,token,Poland,Windows 11 | MAC: 66:a6:1c:75:10:a1 | TCP/IP,system_config
+ab3b4d37-560c-45ee-a38c-254c076e2bba,14.4,1.5811388300841898,4.166666666666667,1824.04,password,Saint Kitts and Nevis,Windows 11 | MAC: 96:54:ef:41:0d:c9 | TCP/IP,file_share
+b5122df8-75b1-4a55-9426-2982e43e4288,3.0,0.0,1.0,0.0,password,Russia,Firmware v1.2 | MAC: 76:4e:de:5a:8a:f7 | TCP/IP,login_endpoint
+b540b30e-039f-4a25-8d61-68bd2defe193,3.0,0.0,1.0,0.0,password,Russia,Ubuntu 22.04 | MAC: b2:40:8c:17:1b:95 | TCP/IP,login_endpoint
+b7e6427c-bf78-4e3f-b6b7-51f79b749245,3.0,0.0,1.0,0.0,password,Russia,macOS 13 | MAC: ec:3a:53:9f:37:0d | TCP/IP,login_endpoint
+b8db0672-f42d-47cc-80d4-af5974273ca3,14.61111111111111,2.32982930172221,3.0,1809.8333333333333,biometric,Macao,Ubuntu 22.04 | MAC: 5e:5b:36:98:65:4e | TCP/IP,file_share
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,10.078947368421053,6.715780443859672,5.428571428571429,1256.921052631579,password,Burundi,Ubuntu 22.04 | MAC: 16:34:2c:d8:10:0f | TCP/IP,login_endpoint
+c0e3befd-4c71-40fe-9a0c-dd7cf1578470,14.285714285714286,2.2336094083368714,2.8,2030.4285714285713,biometric,Mauritania,Windows 10 | MAC: 7c:70:f9:70:8b:df | TCP/IP,db_query
+c1156d6d-0a4e-4b70-a6d9-64a3f510ab53,3.0,0.0,1.0,0.0,password,Russia,macOS 14 | MAC: 3c:0f:7e:66:0a:4e | TCP/IP,login_endpoint
+c84a7b28-550a-4b46-acab-3301bc8f7d29,15.791666666666666,2.2837643727287027,3.4285714285714284,1622.1666666666667,certificate,Ethiopia,macOS 13 | MAC: 38:51:37:c3:13:f0 | TCP/IP,system_config
+cc3ebdde-5ad5-4f06-b64d-7c877cd0129d,3.0,0.0,1.0,0.0,password,Russia,macOS 13 | MAC: 84:84:ae:8f:8d:05 | TCP/IP,login_endpoint
+ccf3a171-56dc-4907-ba6c-34ab6712303a,9.916666666666666,2.0198292365760864,3.4285714285714284,1680.2916666666667,password,Congo,Ubuntu 22.04 | MAC: 46:61:e5:47:d8:5d | TCP/IP,file_share
+d9acd158-4d34-45c5-85c1-4eb4b27b3d90,3.0,0.0,1.0,0.0,password,Russia,Windows 11 | MAC: 10:3d:15:b1:db:bd | TCP/IP,login_endpoint
+dc1110c1-080a-4dfb-a7c9-9b26114125c6,11.391304347826088,2.349838107282028,3.2857142857142856,1420.1304347826087,biometric,Fiji,macOS 13 | MAC: c8:f8:6d:43:f2:7c | TCP/IP,file_share
+dc5c0eed-8da0-465b-b898-97b9405cacec,14.68421052631579,1.9735087641318607,3.1666666666666665,1721.1052631578948,token,Pitcairn Islands,Firmware v1.2 | MAC: 28:88:ae:39:96:de | TCP/IP,file_share
+de53790a-a34b-4cf6-a053-da42f1afdb65,3.0,0.0,1.0,0.0,password,Russia,Firmware v1.2 | MAC: 7a:fb:34:06:91:f0 | TCP/IP,login_endpoint
+e623a689-5d59-4d2a-8eea-04e70ab54bde,9.0,1.5954480704349312,1.7142857142857142,1676.3333333333333,token,United Arab Emirates,Firmware v1.2 | MAC: c6:b7:6b:7f:34:b5 | TCP/IP,/etc/passwd
+e87466d7-ad66-41bd-9367-6a024fdc6e1b,3.0,0.0,1.0,0.0,password,Russia,Windows 10 | MAC: 1a:c0:cb:65:26:7c | TCP/IP,login_endpoint
+e9c349e0-3602-48ac-90f1-bc81448aaa9e,15.19047619047619,2.379475732573199,3.0,1733.6190476190477,token,Croatia,Ubuntu 22.04 | MAC: 22:ff:ca:ea:49:87 | TCP/IP,/etc/passwd
+ec5b227c-dfde-4fbf-bff3-50bf766ecb15,11.772727272727273,1.6015414652562276,3.6666666666666665,1920.0,biometric,Australia,Ubuntu 22.04 | MAC: 7c:07:2f:79:55:d0 | TCP/IP,/api/v1/data
+f4188f3f-8a14-4e62-a95b-4715c333e861,7.9655172413793105,1.6793442304468063,4.142857142857143,1969.8275862068965,certificate,Netherlands Antilles,Ubuntu 22.04 | MAC: e0:a5:fa:09:39:b9 | TCP/IP,/etc/passwd
+f72ada9b-2f32-451e-9738-811d70c2903f,3.0,0.0,1.0,0.0,password,Russia,macOS 13 | MAC: 66:1a:81:f4:3a:21 | TCP/IP,login_endpoint
+fed4057d-bb02-4576-b512-c4c3b253d218,14.523809523809524,2.1123221255066094,3.0,1584.904761904762,biometric,Cape Verde,Windows 11 | MAC: be:61:97:6f:1d:1f | TCP/IP,system_config

@@ -1,0 +1,501 @@
+entity_id,entity_type,department,home_country,default_city,default_ip,default_device,preferred_login_window,preferred_auth_method,preferred_resources
+0807daf0-be91-4c1a-a79c-9396bac73ebf,User,Engineering,Austria,Nortonport,177.239.26.180,macOS 13 - Chrome,08:00-18:00,MFA,"HRIS,Confluence,Email"
+a59c4ebf-5655-4c3e-988b-1a4ea91781fe,User,Finance,Korea,North Kimberlytown,77.50.200.16,macOS 13 - Chrome,08:00-17:00,SSO,"VPN,AWS Console,Intranet,Confluence"
+c6bb7a02-5266-4df3-a150-2297366b0fb0,User,HR,Greece,West Sheilaside,25.203.23.209,macOS 13 - Chrome,07:00-16:00,MFA,"Email,HRIS"
+5b49be46-937b-462a-9970-0e634f48a680,User,Finance,North Macedonia,North Amandaborough,192.148.107.47,macOS 13 - Firefox,11:00-20:00,Password,VPN
+ad4486ce-cb5f-483d-82c8-8276c2600b54,User,HR,Iran,Robinsonport,41.223.222.196,Windows 11 - Firefox,07:00-16:00,Password,"CRM,Jira,Confluence"
+6975e23c-3786-4461-bd42-551ffae47b36,User,Sales,Denmark,Lake Derrick,211.13.125.142,Windows 11 - Edge,06:00-15:00,SSO,Email
+d8478ef5-df0f-4110-97eb-d29e5fe00b1d,Device,IT,Azerbaijan,Cherylstad,56.132.159.134,Load Balancer,11:00-19:00,SSO,"Database,Confluence"
+2bd8944f-3114-4141-bf95-a9225fedf314,User,Operations,Mexico,Riveraborough,103.177.191.16,Windows 10 - Firefox,10:00-18:00,MFA,"HRIS,VPN,Confluence,Jira"
+fd15e74d-867c-4c96-8be5-bd42c9992a55,Device,IT,Christmas Island,South Kenneth,175.243.217.225,Load Balancer,06:00-15:00,SSO,CRM
+a64a4c27-8469-4342-a0cc-64879493034c,User,Marketing,Comoros,Cainchester,192.251.47.106,Windows 10 - Edge,11:00-21:00,Hardware Token,"HRIS,Jira"
+16fa9dad-342c-402d-a958-1a6f580081f2,User,Engineering,Cocos (Keeling) Islands,South Shirleymouth,45.63.31.190,Windows 11 - Chrome,07:00-15:00,SSO,"HRIS,VPN,Email"
+d9458b7c-5d7b-44a4-b0e2-367a97e82aa7,User,Finance,Japan,Bakerfort,25.99.199.124,Ubuntu 22.04 - Firefox,07:00-17:00,Biometric,"Email,HRIS"
+48757d39-d362-443e-bb01-087cfa8523bf,User,Marketing,Swaziland,South Ryanview,195.92.62.127,Windows 11 - Firefox,10:00-18:00,SSO,"Jira,VPN,AWS Console,GitLab"
+a51da90c-f3fc-4ccf-89fe-4daf9fc71edf,User,HR,Malta,South Christopher,71.77.36.121,macOS 13 - Firefox,11:00-21:00,SSO,"Jira,Confluence,AWS Console,HRIS"
+03f12768-e2ac-475d-beb1-037a16bf7398,User,Engineering,Tuvalu,Nicolefurt,152.61.227.10,Ubuntu 22.04 - Chrome,06:00-15:00,Password,"Jira,GitLab"
+b946f1a1-13a1-4bfa-b48a-9a99606a8371,User,Finance,Colombia,South Ashleybury,164.129.15.99,Windows 10 - Firefox,06:00-16:00,Hardware Token,Email
+eccd6861-c31a-4a95-9102-6236607a5e53,User,Sales,Malawi,Claudiahaven,129.113.102.220,Windows 11 - Edge,06:00-16:00,Biometric,"Email,Confluence"
+57f80a2b-64ec-4bdb-9bcc-23571e75be4a,User,Finance,Guernsey,Lake Daniellehaven,147.237.115.104,Windows 10 - Edge,10:00-18:00,Biometric,"Database,AWS Console,GitLab,VPN"
+ddbc0949-276f-489e-8d8d-9b6614c2cfae,User,Engineering,Netherlands,Lake Theresastad,52.59.41.93,macOS 13 - Safari,11:00-20:00,Hardware Token,GitLab
+ed97bae2-7436-4482-ae11-ad25e70441da,User,Operations,Honduras,Port Cassidy,119.5.187.42,Ubuntu 22.04 - Chrome,07:00-16:00,SSO,"Jira,Intranet,Database"
+a86dc8e7-0b2b-416a-b412-7d3358940480,Device,IT,Canada,North Stephanie,72.117.8.126,IoT Sensor,07:00-15:00,Hardware Token,"Confluence,VPN,AWS Console,Database"
+63c009d6-a1b2-458b-957e-50ddc13030b0,User,HR,Uruguay,West Richardland,151.249.204.200,Ubuntu 22.04 - Chrome,09:00-17:00,Hardware Token,"Email,CRM"
+4c25351f-8912-4d5c-a2b8-24de2cc2a8ef,User,Executive,Swaziland,North Erinfurt,76.215.101.102,macOS 13 - Safari,09:00-17:00,SSO,"Confluence,Intranet,Jira"
+4a127f57-29c1-4c00-b5ba-5a9dee67bdc2,User,Finance,Heard Island and McDonald Islands,Toddstad,33.73.73.22,Ubuntu 22.04 - Edge,09:00-17:00,Password,GitLab
+24eb2b10-47a1-4f10-992c-61f54a415f61,User,HR,Macao,Port Amberstad,153.101.193.52,Windows 11 - Edge,11:00-20:00,Password,"Intranet,Email,HRIS"
+dcd69345-7a5a-43f1-8ff0-98fce29a0df0,User,Marketing,Sri Lanka,Woodbury,40.143.126.234,Windows 10 - Safari,11:00-20:00,Password,"Intranet,CRM,VPN"
+1aea8e25-81f0-454e-88d5-0e2c0d7cae20,User,Engineering,Eritrea,Judyland,75.186.175.21,macOS 13 - Chrome,10:00-18:00,Password,"Intranet,CRM"
+5c4eb3b6-7f9d-4ec1-9bef-f8617f13d217,User,Sales,Mexico,Younghaven,178.127.107.41,Ubuntu 22.04 - Edge,09:00-19:00,Hardware Token,Confluence
+2b6b6335-fff6-4b79-8e2b-addd62df1915,User,Marketing,Iceland,New Michaelfurt,7.37.146.98,macOS 13 - Edge,07:00-16:00,MFA,"Confluence,AWS Console,CRM"
+d32346d9-1142-463d-bf92-d26a4abdb6cb,Device,IT,Mongolia,New Deniseside,190.123.101.190,App Server,08:00-16:00,Password,HRIS
+0a60cd24-7c14-436a-b9a8-cae6f60cb393,User,HR,Papua New Guinea,Lake Taylor,169.35.251.233,Windows 10 - Edge,11:00-19:00,Password,"AWS Console,Email"
+cf3f888d-adb6-4f8e-850c-17e6547b03c5,User,Operations,Russian Federation,Cameronland,171.67.98.137,macOS 13 - Chrome,06:00-16:00,Biometric,"HRIS,Intranet,CRM,Jira"
+0d9a5e9c-54fa-4ce4-a6a0-f0641c470bcc,Device,IT,Bahrain,Sandershaven,84.56.128.214,Network Router,06:00-14:00,Biometric,"Database,Intranet,Email"
+51c28ebd-1b19-49b8-8fff-24091b507240,User,Executive,Lesotho,Lake Makayla,9.165.199.250,Windows 10 - Edge,10:00-19:00,Password,"Intranet,AWS Console"
+9295c2f3-af23-4a96-b038-0133a13b4e96,Device,IT,Paraguay,Port Antonio,26.84.33.107,IoT Sensor,11:00-20:00,Hardware Token,"Confluence,VPN"
+79641fa8-2586-4b05-8a23-a0c56ff4d963,User,IT,Haiti,South Mia,115.62.77.129,macOS 13 - Edge,07:00-16:00,MFA,"HRIS,Intranet"
+e4cfdc3c-e119-4b08-9dc2-97619eac4ec5,User,Sales,Western Sahara,South Tiffany,146.253.67.206,Windows 10 - Chrome,09:00-18:00,Hardware Token,"AWS Console,Confluence"
+24a16d82-b239-437a-92ca-9a7d058e2119,User,Operations,Japan,Samuelmouth,59.212.13.181,Windows 10 - Chrome,06:00-16:00,Hardware Token,"HRIS,Jira"
+f164b82f-7549-48ba-84cc-40449d62434a,User,Engineering,Turkmenistan,Morrisonfort,17.17.179.251,Windows 11 - Firefox,11:00-21:00,Password,Database
+dce84429-da6c-483c-ab77-10a68837deff,Device,IT,Austria,North Todd,212.4.147.64,Load Balancer,06:00-16:00,SSO,"GitLab,CRM,HRIS"
+e4d5a2e6-4c5e-4e9c-b50e-4645fe8afb0e,User,IT,Anguilla,Ashleeburgh,9.231.13.184,macOS 13 - Edge,08:00-17:00,SSO,"AWS Console,Database,Confluence"
+5ec8e5ac-09a7-46fd-988f-ce97226cfaba,Device,IT,Switzerland,Danielport,79.225.85.96,Database Server,08:00-17:00,MFA,"HRIS,VPN,AWS Console,GitLab"
+be4d5716-2915-461e-a75d-d2a32856a330,Device,IT,Moldova,North Edwinside,191.203.5.77,App Server,11:00-21:00,Password,"AWS Console,GitLab,Jira,Database"
+531a9899-087a-4734-ad24-dab886a3c5fc,User,Executive,Mauritania,North Gerald,181.171.5.175,Ubuntu 22.04 - Edge,11:00-19:00,Password,"AWS Console,CRM,Confluence,Intranet"
+09bfcff2-5afb-4f1d-a847-d6510a7618c3,User,Finance,Spain,Williamsland,193.79.217.19,macOS 13 - Firefox,11:00-21:00,MFA,"Jira,CRM,Email,GitLab"
+29fb7bd5-9631-4ce8-aac7-43ac4ff3fb54,User,Sales,Senegal,Micheleton,79.192.112.133,Windows 10 - Edge,09:00-17:00,MFA,VPN
+b6fdbe33-7383-4835-9eea-ef9a6e25050c,User,Operations,Sri Lanka,Gregoryfort,192.88.201.146,macOS 13 - Safari,11:00-20:00,Biometric,"Jira,Intranet,GitLab"
+113283e2-d40f-4d06-a697-e227d603a478,Device,IT,Antigua and Barbuda,Audreyport,181.75.197.94,Network Router,11:00-21:00,Hardware Token,"Confluence,GitLab,Intranet,CRM"
+52b102d9-068d-4bea-83b1-150faff270cd,User,IT,Sierra Leone,Raymondbury,108.167.248.228,macOS 13 - Chrome,06:00-16:00,Password,"AWS Console,VPN,Database,Intranet"
+d61dea87-2cd4-4b39-94d2-1ea20ebcbb56,Device,IT,Afghanistan,Lake Lindseyview,124.155.170.255,IoT Sensor,09:00-19:00,Biometric,"Email,CRM,Database,HRIS"
+13f5b2f6-cdcf-455e-8707-985c1bd70ca5,User,Operations,Ukraine,Port John,102.106.255.90,Windows 10 - Chrome,11:00-21:00,MFA,"GitLab,CRM,AWS Console,Intranet"
+6f30a026-40ba-4a3e-b833-82c1c632d333,User,Engineering,Macao,East Pedro,100.135.201.69,Windows 10 - Firefox,07:00-17:00,SSO,GitLab
+44293230-c1ec-4b64-8d93-5927b0639e6a,User,Operations,Falkland Islands (Malvinas),Lake Stephanie,91.174.124.34,macOS 13 - Firefox,08:00-16:00,Hardware Token,"GitLab,CRM,HRIS,AWS Console"
+95d53fd3-c2fb-4b4b-b931-e7a5905b91f6,User,Executive,Panama,West Curtis,213.66.153.255,Windows 11 - Chrome,10:00-20:00,Password,"Database,Email,CRM"
+6cb81f20-5cc3-421c-af29-55f3f1f473b0,User,Marketing,South Africa,Port Ronald,86.152.110.218,macOS 13 - Chrome,06:00-15:00,MFA,"VPN,AWS Console,Jira,HRIS"
+bfd7cc58-1a38-4d51-a06d-b69235f7766d,User,HR,Egypt,Davilamouth,12.113.203.151,Ubuntu 22.04 - Firefox,07:00-15:00,Password,"CRM,Email"
+1e1f3be0-2ed5-40a6-b7e1-598b7c19823f,User,Marketing,Niger,South Christytown,151.18.185.62,macOS 13 - Chrome,06:00-16:00,SSO,VPN
+9076bea1-b00c-45b9-befd-b63c8ff763fd,User,Finance,Bahamas,Lake Johnville,70.247.128.38,Ubuntu 22.04 - Safari,07:00-16:00,SSO,Intranet
+2ce64956-3401-4782-9e96-185dbb8189c3,Device,IT,Guam,South Joshuachester,97.225.149.76,IoT Sensor,11:00-20:00,Password,"Database,CRM,Intranet"
+fe801c4c-85fa-4f09-8d98-43f4658db8ae,User,Sales,Argentina,South Gabriellafurt,72.152.92.39,Ubuntu 22.04 - Chrome,10:00-19:00,SSO,"Intranet,CRM,HRIS"
+7f5a0698-1664-4181-b957-42983dd45c54,User,Sales,Chile,Michellebury,166.189.255.200,Windows 11 - Chrome,06:00-16:00,MFA,HRIS
+aad87ae1-32a4-49a5-bcd8-fc754ae2afd5,User,Sales,British Indian Ocean Territory (Chagos Archipelago),Lake Benjaminville,189.232.212.121,Ubuntu 22.04 - Chrome,11:00-19:00,Hardware Token,Intranet
+9ca75d73-f96f-4a0e-ba51-eea7cac7abab,User,Sales,Falkland Islands (Malvinas),Briannatown,157.228.16.109,Windows 11 - Edge,06:00-14:00,Biometric,"GitLab,Intranet,Database,Jira"
+6c45c89d-290b-4911-9548-ffba26299811,Device,IT,San Marino,South Daniel,27.225.57.111,Database Server,09:00-19:00,Biometric,"HRIS,Email,CRM,Intranet"
+8df4964d-e634-4e23-8096-6aa127070bb2,User,IT,Gibraltar,North Cameronton,13.54.246.201,Windows 11 - Edge,09:00-17:00,Password,"Email,Intranet"
+6bd880a9-cc5a-4041-9fde-54ecf61fa58c,User,Sales,Afghanistan,East Elizabeth,137.191.142.43,Windows 10 - Firefox,11:00-19:00,Biometric,"AWS Console,Confluence"
+c5a235f5-212a-4c13-8c17-20c2a18eae7e,Device,IT,Senegal,East Stephanie,95.204.55.116,IoT Sensor,11:00-19:00,SSO,"VPN,HRIS"
+845fac08-4317-405e-81e3-a0791d0e0d39,User,Sales,El Salvador,Deckerland,126.93.163.47,Windows 10 - Firefox,09:00-18:00,Biometric,Intranet
+cf267664-01e3-4140-b6f5-77c3aa6a0d31,User,HR,Spain,Hicksfurt,120.215.209.0,macOS 13 - Safari,11:00-20:00,Hardware Token,AWS Console
+37553c82-8860-41a2-96a9-277ae9208308,User,Operations,Somalia,Tommyside,40.216.132.164,macOS 13 - Firefox,11:00-21:00,Hardware Token,"Email,Intranet,CRM,Confluence"
+dc3d2cf8-a8bd-485e-8a36-63ffa299af3c,User,Sales,Saint Pierre and Miquelon,Jacobport,58.237.244.51,macOS 13 - Firefox,07:00-16:00,SSO,"GitLab,CRM,Intranet,AWS Console"
+f4b14f77-25a0-47e8-9d17-bb8e4014f578,User,Operations,Palau,Port Andreaport,37.95.223.40,Windows 11 - Safari,07:00-17:00,MFA,"Email,HRIS"
+f7702878-2509-4e42-9024-69a41dc21997,User,Executive,France,West Blakeland,99.0.85.20,Windows 10 - Safari,09:00-18:00,Biometric,"Database,Email,Jira"
+b7fb977f-58ca-4fa7-820e-15fae70aeea9,User,Finance,Antarctica (the territory South of 60 deg S),Freemanshire,68.2.113.199,Windows 11 - Safari,09:00-19:00,Biometric,AWS Console
+c912a338-0cc0-4609-8d15-28bab871b44b,User,HR,Holy See (Vatican City State),Alexanderview,192.135.152.137,Windows 11 - Chrome,06:00-16:00,Biometric,GitLab
+bce849ee-4777-455b-92cb-54f361706a8f,Device,IT,Botswana,Dixonberg,218.122.17.19,Load Balancer,10:00-18:00,SSO,"Database,AWS Console"
+94b61d23-a355-4d5d-bba4-57abd92ea900,User,Operations,French Guiana,South Bethberg,168.248.59.38,Windows 11 - Safari,11:00-19:00,Hardware Token,"Jira,GitLab"
+3aaf3c98-901a-4f96-b274-9f75678f0ff8,User,Sales,Guadeloupe,Port Colleen,163.125.17.118,Windows 11 - Firefox,08:00-17:00,SSO,"HRIS,Jira,AWS Console"
+5704e871-cd0e-4d25-bef9-c9073153e68c,User,IT,Colombia,Port Jeffreyshire,179.37.93.51,Windows 10 - Edge,08:00-16:00,Biometric,"CRM,Email,Database"
+5895d877-447f-48e1-80d3-07310a72e6a9,User,Engineering,Philippines,Peterfort,134.102.166.0,Windows 11 - Safari,11:00-19:00,Hardware Token,"GitLab,HRIS,VPN,Intranet"
+3d367bfa-647a-4189-9a18-e044c6e5907c,User,Engineering,Cayman Islands,Christopherville,105.33.66.236,Windows 11 - Chrome,07:00-15:00,Hardware Token,"VPN,Email,AWS Console,CRM"
+d73aada5-3c87-4bd7-88d8-d61c7fca43bb,User,Marketing,Tanzania,Tranmouth,157.66.70.145,macOS 13 - Firefox,10:00-20:00,Biometric,Jira
+3aad11a1-d31f-4778-a403-bdd3371d94a8,Device,IT,Jordan,North Kevin,166.253.156.234,Load Balancer,06:00-14:00,SSO,"HRIS,AWS Console,Email,GitLab"
+66b01a70-1289-4b3a-acd9-371888c5ca0a,Device,IT,Jamaica,East Shane,136.91.105.50,Database Server,09:00-18:00,MFA,"Database,HRIS,GitLab,Jira"
+f1e766cd-2107-4d59-82b5-02cce01cc20b,User,Executive,French Southern Territories,Lake Eddieville,141.222.244.194,Windows 11 - Safari,06:00-16:00,SSO,"GitLab,CRM"
+e10c8d43-b563-4107-977d-056d9c488116,User,HR,United Arab Emirates,Nelsonport,160.112.93.45,Windows 10 - Edge,08:00-16:00,Password,"Database,VPN,AWS Console"
+fa4107ad-014f-4b6d-b0c6-7ecaab4dcd32,User,IT,United States Virgin Islands,South Chelsea,47.124.94.85,Windows 10 - Chrome,06:00-16:00,SSO,GitLab
+78d37773-cbee-45ea-a64f-21310163ed3d,User,Executive,Cook Islands,Donnamouth,214.219.169.42,Windows 11 - Chrome,08:00-16:00,Password,Database
+1433fbcf-22a3-41df-a332-d557b5f6e3b7,User,Sales,Ghana,Thompsonburgh,99.87.244.247,Windows 11 - Safari,11:00-19:00,Biometric,Jira
+c828bfb2-9bce-4deb-b66a-f3149c160cf1,User,Engineering,Argentina,New Ronald,66.107.37.141,Ubuntu 22.04 - Edge,09:00-18:00,Password,GitLab
+bbcf822c-867e-4c4e-98b6-b35bb2816b78,User,Sales,Wallis and Futuna,Port Patrickmouth,74.9.130.134,Windows 10 - Firefox,08:00-16:00,MFA,"Database,Intranet,VPN"
+38cfe8a1-b8a7-4ff7-86d9-235fdb9017cc,User,Operations,Cote d'Ivoire,Gibsonmouth,51.2.121.225,Windows 11 - Chrome,09:00-19:00,SSO,"CRM,VPN,Confluence,Intranet"
+1c2da290-ad8d-4b0b-ac4c-240ee41cdbb1,User,HR,New Caledonia,Schroederland,193.227.251.234,macOS 13 - Safari,09:00-19:00,Hardware Token,"Confluence,AWS Console,VPN,Intranet"
+ff416866-9d52-42a7-85c1-940e77985bec,User,Engineering,Bulgaria,West Elizabethburgh,214.227.95.150,Windows 10 - Firefox,06:00-14:00,Biometric,"GitLab,Jira,Intranet,Email"
+ab2768ed-5e0b-4f75-89ac-35007296ccb8,Device,IT,Cambodia,West Jeffreybury,45.13.170.65,Network Router,08:00-18:00,Hardware Token,Email
+320a17f6-a80a-46e1-8cd7-4bd1bc46d825,User,Operations,Antarctica (the territory South of 60 deg S),Richardshire,142.228.238.85,Ubuntu 22.04 - Chrome,09:00-19:00,Biometric,"Email,Database"
+97930139-c9fd-4f8f-ba7d-6d4e27c7a21c,User,Finance,Pakistan,North Deborahbury,179.9.199.3,Ubuntu 22.04 - Safari,09:00-17:00,MFA,"GitLab,HRIS,Intranet,Confluence"
+7f08f379-3021-4374-b751-26dc89d6f202,User,HR,Malta,Annaport,201.93.86.28,Ubuntu 22.04 - Chrome,10:00-19:00,Password,"Email,Jira"
+7c471295-29a7-4df7-affc-3a79526df374,User,Executive,Qatar,South Jacob,161.176.130.165,Windows 11 - Chrome,06:00-14:00,SSO,Confluence
+b42aac41-2733-4aa4-8449-e851acee9e67,User,Operations,Uzbekistan,Victoriaton,78.35.115.180,macOS 13 - Safari,06:00-16:00,Hardware Token,"Email,AWS Console"
+0c8df462-26ff-498f-a7ee-c99442f415a1,User,HR,Mayotte,Ericbury,45.186.246.127,macOS 13 - Edge,07:00-16:00,Hardware Token,"VPN,AWS Console,Intranet,Jira"
+4bad5fb8-285c-4740-9dcd-62efc45c0084,User,IT,Vietnam,Davisborough,67.111.214.247,Ubuntu 22.04 - Edge,11:00-20:00,Hardware Token,"HRIS,VPN,Jira"
+775df3c9-76d6-4ae8-a7c2-7d2da8e2172d,User,IT,New Caledonia,Stephensberg,87.141.59.3,Windows 11 - Safari,09:00-18:00,Hardware Token,"CRM,Database"
+77c4feb8-048a-400b-ab26-39c526dc0230,Device,IT,Georgia,North Christytown,4.248.205.68,Database Server,06:00-14:00,MFA,"CRM,GitLab"
+6cad6a25-b9e8-4285-ac91-60e5204c0071,User,IT,South Africa,West Eric,182.11.234.205,Ubuntu 22.04 - Safari,06:00-16:00,SSO,"Database,AWS Console,CRM,GitLab"
+3bd4c24d-86c3-4bc8-b5e9-bd9a297b07e5,User,Operations,Tokelau,New Adam,171.58.69.28,Ubuntu 22.04 - Chrome,10:00-20:00,Password,"VPN,HRIS,Confluence,Database"
+e0b8e38e-6481-48e1-b3ea-da2d60dcce16,Device,IT,Gambia,Garciaside,91.30.211.69,App Server,09:00-17:00,Password,Email
+936f8dc9-7554-4c6b-aff8-dd0dfe7f413a,User,Engineering,Peru,North Cynthiatown,19.23.142.231,Windows 11 - Chrome,11:00-20:00,Hardware Token,"GitLab,Intranet,Jira"
+f37a3ba8-fea8-4e49-8879-0b3ab35b3f9a,User,IT,Sierra Leone,Russellstad,41.111.23.182,Ubuntu 22.04 - Safari,07:00-17:00,Hardware Token,"VPN,AWS Console,HRIS,Email"
+6c93703a-f182-41fa-b4bc-39de227d8444,User,Executive,Peru,East Curtis,145.63.250.135,Ubuntu 22.04 - Chrome,11:00-19:00,SSO,"Database,Email,VPN"
+9f9691c3-3d77-458f-bb77-d4336763403f,Device,IT,Andorra,North Thomasborough,217.31.91.73,Load Balancer,07:00-17:00,SSO,"HRIS,Database,CRM,Jira"
+10dbad13-e7eb-4f1a-b7c1-33bb446fa7d0,Device,IT,Vietnam,Tabithafurt,60.106.2.121,App Server,06:00-16:00,MFA,"HRIS,CRM,Database,VPN"
+02ebd9d0-6223-4f36-9586-c9f9941673e1,User,Engineering,Guyana,New Heathershire,181.174.10.20,macOS 13 - Safari,08:00-18:00,Hardware Token,Database
+fc9e6986-edda-414e-a4a2-9d4b57f95ae5,User,Sales,New Zealand,Alejandroberg,28.38.205.234,macOS 13 - Edge,07:00-15:00,Password,"CRM,HRIS,GitLab,Database"
+81f4f34e-60be-4e46-9273-bbab3137785b,User,IT,Saint Vincent and the Grenadines,Lake Tamara,219.116.111.100,Windows 11 - Safari,08:00-16:00,Password,"Database,GitLab,VPN,CRM"
+7051577f-b153-4cc0-adf7-3b528ed12f5b,User,Operations,Grenada,Roblesshire,38.103.212.10,Ubuntu 22.04 - Safari,10:00-18:00,MFA,"Database,Intranet,VPN,Email"
+4b49df30-015c-419c-8dba-ce9f572cce50,User,IT,United States Minor Outlying Islands,South Susanchester,41.65.61.156,Ubuntu 22.04 - Firefox,07:00-15:00,MFA,"Email,CRM,HRIS"
+a2282162-9dd3-48d6-bae4-f07754449455,User,Finance,Ireland,Wellschester,115.179.91.183,Ubuntu 22.04 - Firefox,08:00-16:00,Biometric,"HRIS,Database,Intranet"
+b222c9b4-88c6-48ef-8361-bdf10319ce2a,User,Operations,Burkina Faso,Lukeport,182.103.67.160,Windows 10 - Chrome,06:00-16:00,Biometric,"Database,HRIS,AWS Console,Email"
+9b548c40-b138-4bb6-a602-410882238a1e,User,Finance,Armenia,South Russell,152.109.223.46,macOS 13 - Chrome,08:00-16:00,SSO,"VPN,AWS Console,HRIS,Email"
+fcc1c8c7-3f52-4473-bb1a-65c2bcbecd6a,User,Marketing,Angola,East Robert,182.123.233.234,Windows 10 - Edge,09:00-18:00,Biometric,Intranet
+e4f39ed5-2d66-458a-89f8-fd3e1225bd26,User,HR,Equatorial Guinea,Grimesberg,133.158.208.67,macOS 13 - Edge,11:00-21:00,MFA,"Intranet,Database,GitLab,Jira"
+d1a78ede-2f1c-434d-b536-a96b95473378,Device,IT,Taiwan,Seanshire,43.150.106.15,App Server,06:00-15:00,Hardware Token,Email
+af2fdbfa-1c87-4ff1-a848-176618904704,User,IT,Uruguay,New Aaronbury,202.106.212.128,Windows 10 - Safari,09:00-19:00,SSO,Database
+444d0f7c-7a51-4998-9e04-bbdf8b8de673,Device,IT,Zimbabwe,East Beverly,10.67.192.166,Load Balancer,09:00-17:00,SSO,"Database,Intranet,AWS Console,HRIS"
+adc02294-8c0f-4650-92b5-de56fcbed3f3,User,Sales,Grenada,New Jeremyborough,123.95.91.201,macOS 13 - Chrome,09:00-17:00,Biometric,"VPN,Confluence"
+754b1ccc-e0bf-4404-af85-61961458d41c,Device,IT,Rwanda,Alvaradoside,141.193.236.142,IoT Sensor,08:00-16:00,SSO,"AWS Console,GitLab,HRIS,Confluence"
+8e7b65fe-75cb-46bf-8745-e26f79c5416c,User,Sales,Montserrat,Lake Mark,97.29.246.197,Ubuntu 22.04 - Firefox,07:00-17:00,Biometric,"HRIS,Jira"
+784dc0c6-b3e2-4319-9d60-bbe928b7d2ce,User,Operations,Taiwan,Roblesland,144.106.51.246,Windows 11 - Firefox,06:00-14:00,Biometric,Database
+fd38964f-7317-4c50-9945-e27f41324f65,User,Sales,South Georgia and the South Sandwich Islands,Oliverberg,63.132.164.163,Ubuntu 22.04 - Edge,06:00-16:00,MFA,"HRIS,Jira"
+18a6ba32-0166-44dc-9cf9-725b8119d19d,User,Finance,Burundi,Alvarezport,211.165.51.246,Windows 10 - Firefox,07:00-16:00,SSO,Confluence
+afb38985-15ef-4dba-8ee6-14938a8dcca3,User,Sales,South Africa,Jonesmouth,206.253.187.142,Windows 11 - Edge,09:00-18:00,Hardware Token,"AWS Console,CRM,Email"
+d664939c-3828-4027-b999-819b73c33429,User,Sales,Ghana,East Paulview,103.165.173.177,Ubuntu 22.04 - Chrome,09:00-17:00,Password,"Jira,Intranet,Database,VPN"
+4e2b61b6-9ef4-480c-94ea-0f0be417229d,User,Sales,Antarctica (the territory South of 60 deg S),Port Traceymouth,105.121.219.255,Windows 11 - Firefox,08:00-17:00,Password,"GitLab,Jira,Confluence,Email"
+991f2784-7855-44a2-8959-c26437d869ff,User,HR,New Zealand,Carlaview,45.234.36.101,Windows 11 - Safari,11:00-20:00,Biometric,"Email,Confluence,Intranet,AWS Console"
+22942161-0b8f-45ee-b7e3-91f277afce8f,User,Executive,Cook Islands,Lake Elizabeth,26.122.137.180,macOS 13 - Firefox,11:00-20:00,Hardware Token,HRIS
+81229240-59fe-4755-b312-4ffb5b52bad7,User,Marketing,Slovenia,West Johntown,136.48.193.120,Windows 11 - Chrome,08:00-18:00,SSO,"Confluence,Database,Jira"
+f465eeec-8248-4ff4-b8ea-9b53880fb16b,User,Executive,Malawi,Hendersonview,107.152.118.164,Windows 10 - Firefox,07:00-17:00,Biometric,"GitLab,HRIS,Confluence,AWS Console"
+964267de-2fe2-4fc6-adb4-18e1d7367ff8,User,Marketing,Tuvalu,South Colleen,55.241.5.226,macOS 13 - Edge,11:00-21:00,Biometric,"Jira,GitLab"
+876c6995-5e61-4478-aa9f-b18e45800781,Device,IT,Gabon,Dennisville,49.217.104.141,Database Server,08:00-16:00,MFA,"Jira,VPN,Email"
+9bba6cb8-c145-4624-929d-3340b17434ef,User,Operations,Italy,West Charles,9.159.98.30,Windows 10 - Firefox,11:00-19:00,Biometric,"Jira,VPN,Intranet,Email"
+acdb1427-d422-4059-8a28-7c7fcdf8cdd6,User,Operations,Namibia,Justinton,120.148.125.34,Windows 11 - Edge,09:00-19:00,Biometric,"VPN,CRM"
+ce83fd45-2c70-4294-9900-450c14337ea7,User,Marketing,Japan,Lopezmouth,135.7.230.84,Windows 11 - Safari,11:00-21:00,Password,"Jira,CRM,Intranet"
+4a76e33d-5af2-4d32-9812-918becef3948,Device,IT,United States of America,North Brittanychester,39.158.145.170,App Server,06:00-16:00,Biometric,"Jira,CRM,AWS Console,Intranet"
+62fbad17-b236-4964-ab42-bea03bb859b4,User,Engineering,Guinea,West Dale,188.30.125.57,Windows 10 - Edge,11:00-19:00,Password,"CRM,Intranet,Confluence,Jira"
+3059a190-4594-48e9-9e86-3c71329c98d5,User,Finance,Hungary,Lake Kimberlyside,181.89.247.18,Ubuntu 22.04 - Safari,10:00-20:00,Biometric,"Jira,Intranet,GitLab,Confluence"
+5364e086-4b98-4b63-a092-9bfe43bb2dc7,User,Sales,United States Minor Outlying Islands,Lake Loriview,139.72.121.12,macOS 13 - Safari,11:00-19:00,Hardware Token,Database
+b6b23a23-3d6b-4c6f-b254-be9b11763d4a,User,Executive,Cameroon,North Deborahfurt,140.213.119.12,Windows 10 - Firefox,07:00-15:00,Biometric,"AWS Console,VPN,Database,Email"
+f87fbe58-7822-44ae-a158-0f88df21ecb0,User,Engineering,Aruba,South James,153.127.81.135,macOS 13 - Edge,09:00-19:00,SSO,"Intranet,AWS Console"
+51590ff6-56dc-4c69-b9dd-4b674cf580c8,User,Marketing,French Southern Territories,North Glenda,145.143.238.162,macOS 13 - Edge,10:00-18:00,Biometric,"Email,Database,VPN"
+20d48a7a-a0ec-4129-bac6-d3aec8132d77,User,Marketing,Svalbard & Jan Mayen Islands,West Mary,55.69.175.192,Ubuntu 22.04 - Chrome,09:00-18:00,Password,"VPN,GitLab,Database"
+b679a8bc-8c1c-4a7b-8923-0133a3628893,User,IT,Colombia,East Joanna,87.215.132.178,Windows 11 - Chrome,08:00-17:00,SSO,"Confluence,GitLab,VPN"
+dc5b2496-7b5d-435d-912e-991f1e580d97,User,IT,Malawi,New Jasonport,139.128.252.132,Windows 11 - Safari,10:00-20:00,SSO,"Intranet,AWS Console,Database,Jira"
+b3fc1fa4-776d-4ffc-8e9d-31d2e80352a9,Device,IT,Finland,Jacobston,140.179.41.18,IoT Sensor,09:00-18:00,MFA,"Intranet,HRIS,Database"
+654ae1a7-8dfa-4495-b832-1478e3cdd88c,User,Finance,Uganda,New Matthew,16.1.43.176,Windows 10 - Firefox,09:00-17:00,Biometric,CRM
+b6d1bdc6-d66f-4106-9f78-1f7fcd09e451,User,Engineering,Uruguay,Rojasstad,59.243.200.12,macOS 13 - Edge,08:00-16:00,Hardware Token,"HRIS,Jira"
+a3902e3e-8185-41ba-93c7-9e61d04ea1b9,User,IT,Pitcairn Islands,Lake Toddfort,119.146.113.94,Windows 10 - Edge,09:00-19:00,Hardware Token,Database
+66f1e054-3c37-45fe-a0f0-3c7a801179cd,User,HR,Cyprus,Port Williamview,66.128.83.234,Ubuntu 22.04 - Safari,06:00-14:00,Password,HRIS
+12431ca4-6714-4cc6-a2de-26ac96dfbdeb,Device,IT,Montserrat,Port Carolberg,142.43.157.196,Network Router,09:00-19:00,Password,"Intranet,VPN"
+d8e116ff-eee0-4717-978e-d5e1f4fd2f16,User,Executive,Cook Islands,Sarahbury,130.185.49.151,Windows 11 - Firefox,10:00-20:00,Hardware Token,AWS Console
+87b607b6-3c12-4025-b0c6-5beef702fdf6,User,Marketing,Montserrat,Lake Craigshire,55.37.125.229,macOS 13 - Chrome,09:00-18:00,SSO,"Intranet,CRM,Email,Jira"
+e085cef0-4c7e-4867-b8fb-5764a2ba5b7b,User,IT,Luxembourg,East Haroldfort,222.241.229.74,Ubuntu 22.04 - Chrome,08:00-17:00,SSO,"GitLab,Intranet"
+4a520685-9ee7-458c-8f66-8318c2eca197,User,Sales,Brazil,West Stacy,36.129.152.215,macOS 13 - Chrome,08:00-17:00,MFA,"CRM,Intranet,Email"
+9c6df36c-b386-4eb2-99da-2d9eb64eb85c,User,Finance,Sao Tome and Principe,Kristenmouth,5.41.162.51,Windows 11 - Safari,09:00-19:00,Password,"Database,Confluence,GitLab"
+8798f970-b67d-439e-87d9-90284b6db330,User,IT,Kyrgyz Republic,New Jennifer,106.176.149.230,Windows 10 - Firefox,09:00-18:00,SSO,"CRM,Confluence"
+dfacd683-5825-4b4d-b0af-493830b5f680,User,Marketing,Korea,New Jennifer,212.20.234.240,macOS 13 - Edge,09:00-17:00,Hardware Token,Intranet
+b7caf655-108d-4dbf-bb79-3d7dc12350dd,User,Engineering,Antarctica (the territory South of 60 deg S),Amyville,178.169.18.95,Windows 11 - Edge,10:00-18:00,Password,"GitLab,Confluence"
+0bc7495e-9540-4f43-a599-6eeff2a7b526,User,HR,Turkey,Lake Katelyn,2.29.138.105,Windows 10 - Edge,09:00-18:00,SSO,"AWS Console,Confluence,Database,Email"
+962c22fa-cc90-42da-8846-2893aecfdb78,User,Operations,Qatar,Williamland,161.152.165.182,Ubuntu 22.04 - Safari,06:00-15:00,MFA,"Confluence,Intranet,VPN,AWS Console"
+f315f03d-3624-486f-9064-af6814a4a6c3,Device,IT,Iceland,Port Jessicahaven,219.47.146.223,Database Server,11:00-19:00,MFA,Database
+f56a46eb-403f-49aa-8aba-c4ced7ad1a5a,User,IT,Cocos (Keeling) Islands,Corymouth,43.206.125.81,macOS 13 - Edge,10:00-18:00,Password,GitLab
+3551e119-0df1-4790-8239-82fbfefd492b,Device,IT,Faroe Islands,West Stevenland,95.45.253.68,Load Balancer,10:00-19:00,MFA,Email
+e2aebb0f-498f-479c-af1c-a11599a3118d,User,Executive,Georgia,Holmesland,49.242.142.39,Windows 10 - Safari,11:00-19:00,Hardware Token,"Jira,Confluence,HRIS,Database"
+607f4d5d-983a-4ae8-a16a-f722afd0d44f,User,Engineering,Liechtenstein,Michaelchester,180.98.240.112,Windows 11 - Edge,07:00-15:00,Hardware Token,Email
+510c766a-cd39-4b12-a784-a915b903cee2,Device,IT,Nauru,Lake Brenda,27.71.72.166,Network Router,09:00-17:00,MFA,"GitLab,AWS Console,Confluence,CRM"
+c25ba156-496e-4642-b653-558fe64c77e5,User,Sales,Benin,Port Roberthaven,42.168.3.83,macOS 13 - Edge,07:00-16:00,SSO,Confluence
+d07a5eab-5f14-47f1-a18d-ef92480c0083,User,Marketing,Lao People's Democratic Republic,West Chloe,83.29.8.206,Ubuntu 22.04 - Edge,10:00-19:00,Password,"Jira,VPN,Database,GitLab"
+145dba70-c27f-4c75-8d65-fd2541248e9b,User,IT,United Kingdom,New Barbaraside,96.186.104.240,Windows 10 - Chrome,11:00-20:00,SSO,"Email,VPN"
+098478e4-de3b-43b7-81e2-2f6998ec09ce,User,HR,Burkina Faso,Smithport,200.205.139.153,Ubuntu 22.04 - Firefox,11:00-21:00,Hardware Token,"Email,Database"
+245d53ff-bae8-4a18-8c4f-e0af35b73fe6,User,Engineering,Cape Verde,Port Danielleside,124.149.188.60,Ubuntu 22.04 - Safari,06:00-16:00,SSO,"AWS Console,Database"
+9b3d3320-16b9-43b1-85f1-ac0430c8f19a,User,IT,Iraq,Lloydchester,52.18.172.39,Ubuntu 22.04 - Chrome,09:00-19:00,Password,"Jira,AWS Console,Database,CRM"
+e23b99f4-8d58-4a2a-a18c-068906465063,User,Finance,Zimbabwe,North Nicole,143.134.3.161,macOS 13 - Safari,11:00-20:00,Biometric,AWS Console
+5033b816-e95f-4139-b54c-89d5c273c623,Device,IT,Croatia,Port Anthonyfurt,53.195.222.71,Network Router,06:00-15:00,Biometric,"Email,HRIS,CRM,Confluence"
+17444254-6c05-465d-9661-6d0b8c38e42d,User,Marketing,Greenland,Port Megan,136.138.81.145,Ubuntu 22.04 - Firefox,10:00-19:00,Password,"AWS Console,Intranet,Jira,GitLab"
+d4f56467-0038-4493-b00a-f2b5a148842c,User,Executive,Guadeloupe,Maryfort,172.163.88.173,macOS 13 - Safari,06:00-15:00,SSO,CRM
+9b5d4799-3e09-4a3d-8bb8-fc2fb7015fcc,User,Sales,Holy See (Vatican City State),Stricklandberg,143.101.231.187,Windows 11 - Edge,09:00-18:00,Biometric,"GitLab,CRM,Email,VPN"
+0b5f2273-58bd-4e9f-ac7f-c2760f7295c7,User,Sales,Togo,Davidbury,104.127.194.68,macOS 13 - Safari,11:00-19:00,MFA,"Email,Database,VPN,Intranet"
+6e084f03-3922-480c-a304-558ad6e832fe,Device,IT,Nepal,Lake Laura,169.37.118.81,IoT Sensor,08:00-16:00,Biometric,"GitLab,Confluence,Intranet,HRIS"
+b90d3dfc-f0db-4ce0-a6b6-74a125895c22,User,Engineering,French Southern Territories,New Laura,203.115.38.84,Windows 11 - Edge,10:00-18:00,Biometric,"CRM,Database,VPN,Confluence"
+6ab44e6f-69a4-4dab-a6c3-1a62047672c0,User,Sales,New Zealand,Oscarberg,116.254.148.233,Ubuntu 22.04 - Edge,07:00-17:00,Biometric,Confluence
+38d60f33-5153-464c-a022-4fce3ec0aa63,User,Sales,Anguilla,North Henry,122.97.225.117,macOS 13 - Chrome,07:00-17:00,Hardware Token,"Database,GitLab"
+a1d85fb3-fa8c-478e-9442-e86605f6eb2f,User,HR,Anguilla,Seanville,31.177.199.28,Ubuntu 22.04 - Safari,09:00-19:00,Hardware Token,"AWS Console,Database,Email,HRIS"
+b9734b2e-d29e-4e65-8e3a-45ecaaea5d42,User,Finance,Armenia,South Bianca,191.189.235.134,Windows 10 - Chrome,11:00-20:00,Hardware Token,"AWS Console,Jira,HRIS,CRM"
+29aabcc6-22c9-47ea-9794-f039bdfb0392,User,HR,Honduras,West Alicia,97.196.130.139,Windows 10 - Edge,06:00-16:00,SSO,"Confluence,CRM"
+1a12059b-60c7-45d4-ad87-2de4655876f5,User,HR,Thailand,Carlosstad,94.117.199.28,Ubuntu 22.04 - Firefox,08:00-18:00,SSO,"Intranet,Email"
+414b1d61-4f15-4090-b1fc-b30d408e4d9d,User,IT,Tokelau,Geraldstad,157.28.140.252,Windows 10 - Chrome,09:00-18:00,MFA,"Email,VPN,HRIS,Confluence"
+c73ab9e3-3b14-4dac-b4af-3d29d41531e7,User,IT,United States Virgin Islands,Stephenschester,23.169.192.201,Windows 11 - Chrome,08:00-17:00,MFA,"AWS Console,CRM,Confluence"
+a7339ebd-5348-4a1d-ae15-f546c52a6e5e,User,HR,Saint Barthelemy,New Calebberg,167.81.181.187,Windows 10 - Chrome,11:00-20:00,Password,"Intranet,Confluence"
+1dc2ad68-ad57-44cb-9a77-bd2e6e3335ed,User,HR,Reunion,Gentrymouth,193.122.214.67,Windows 11 - Chrome,07:00-17:00,Biometric,Confluence
+68971b50-b1a2-4e5e-a670-72c289ff1af1,User,Finance,Antigua and Barbuda,South Aliciafort,112.124.53.50,Ubuntu 22.04 - Firefox,10:00-18:00,MFA,"CRM,Email"
+50af7f58-7722-4f9f-a0bc-1786dc788b78,User,Engineering,Croatia,Port Kathleen,53.9.134.39,macOS 13 - Firefox,07:00-17:00,Hardware Token,"GitLab,Jira,AWS Console,CRM"
+d6a7a722-7ed7-4a4b-8209-b1b75b763dc5,User,Sales,United States Virgin Islands,New Antonio,195.39.139.80,macOS 13 - Chrome,07:00-15:00,Biometric,"CRM,Email,Jira,Database"
+1ac3991a-5c7e-4bb9-9bc2-c3a1656ee1d9,Device,IT,Sri Lanka,South Cody,216.85.159.29,App Server,11:00-19:00,Biometric,"CRM,Database,Intranet"
+36fb39a7-4fbb-4b05-a528-5727fb481c0c,User,Executive,Norway,East Cassandramouth,33.138.37.251,Windows 11 - Safari,07:00-15:00,Password,"CRM,Email,AWS Console"
+5228898e-16e4-4998-8cfb-224cdd5462de,User,Sales,Guyana,Charlesview,83.204.221.219,Ubuntu 22.04 - Safari,10:00-18:00,Password,Confluence
+b7fa1480-9307-4e18-abcd-966807f28d91,Device,IT,Maldives,South Reginachester,184.84.174.33,App Server,07:00-16:00,MFA,"HRIS,Email,Intranet"
+2cae34a5-0157-45aa-86ec-f2d115ae42d9,Device,IT,Malaysia,Taylormouth,61.134.165.91,App Server,07:00-15:00,Password,"Email,CRM,Confluence"
+836302d1-a68e-4842-990d-43026effa327,User,Executive,Angola,Brooksborough,125.178.235.167,macOS 13 - Firefox,08:00-18:00,Password,"Jira,GitLab,Confluence"
+e2add124-394c-4cf8-9d52-2e6fdc7ad272,User,IT,Armenia,Jenniferfort,204.87.211.59,Windows 11 - Edge,09:00-18:00,Password,"Email,CRM,Intranet,Jira"
+7fdeebcb-527c-48b9-b569-0ce445ec0f98,User,Marketing,China,Hillville,196.133.85.133,Windows 10 - Safari,10:00-18:00,Hardware Token,"CRM,VPN,HRIS,AWS Console"
+92070da8-d3cc-43ed-be16-6e106c554ce4,User,IT,Falkland Islands (Malvinas),Moorehaven,148.34.197.115,Windows 11 - Chrome,10:00-18:00,MFA,"Confluence,Database,HRIS,CRM"
+91b33370-67bf-45fc-b0cb-60173a321c12,User,Executive,Namibia,Markside,15.208.38.34,Ubuntu 22.04 - Safari,11:00-21:00,MFA,Email
+cad7833c-3fd4-47e4-a00a-131033cb289d,User,Marketing,Svalbard & Jan Mayen Islands,Watsonport,170.72.8.141,macOS 13 - Firefox,09:00-18:00,Biometric,AWS Console
+eca29210-47e8-43e5-8e0b-69fc99134d8e,User,Sales,Czech Republic,North Julieland,53.115.242.80,macOS 13 - Chrome,11:00-20:00,MFA,"Intranet,VPN,CRM"
+f8f7c228-cc6a-4b4b-b7b8-c1cdee1c14ae,User,Sales,New Caledonia,West Kennethville,119.213.143.227,Windows 10 - Chrome,09:00-18:00,Password,Email
+a8ddc4de-98ea-47e5-a789-f4d7390509a9,User,Operations,Maldives,Port Morgan,106.56.219.19,Windows 11 - Chrome,07:00-15:00,SSO,"Confluence,CRM"
+e7cf6693-c88e-4e07-b08c-79c9b83de91d,Device,IT,Martinique,East Shelby,183.224.60.44,Database Server,08:00-18:00,Biometric,"Database,GitLab,Confluence,AWS Console"
+2a5934f4-29d9-451b-9494-e27960a8cdf9,User,Engineering,Singapore,Stacytown,89.219.83.243,Ubuntu 22.04 - Firefox,07:00-15:00,MFA,HRIS
+9c359023-6cdf-4f67-99e3-c68890964b7e,Device,IT,Northern Mariana Islands,Brewermouth,133.254.117.2,App Server,09:00-17:00,Hardware Token,Database
+0ef48006-3194-4a7d-817d-40aa71b1e6f8,User,HR,Myanmar,West Annchester,87.70.120.255,macOS 13 - Chrome,11:00-19:00,SSO,"Intranet,Jira"
+4aee37b9-54dc-4d6f-a5e9-e7c6396fb139,User,HR,Samoa,Markshire,199.218.234.234,Ubuntu 22.04 - Safari,08:00-17:00,Biometric,"Email,Intranet,Jira,Database"
+f2a349c6-eb7e-4e3d-9fc2-e8a6af0eee4c,User,Engineering,Germany,Diazmouth,143.213.65.146,Windows 10 - Edge,06:00-15:00,MFA,"GitLab,HRIS,Jira,VPN"
+60e4fef1-b471-414f-b97e-29208c5acc9c,Device,IT,Jersey,Bartlettchester,178.184.242.87,Load Balancer,06:00-14:00,Hardware Token,"Email,Database"
+8e8e9909-93a0-4044-861a-13820d71a844,User,IT,New Caledonia,South Joefurt,38.49.126.49,macOS 13 - Chrome,06:00-15:00,MFA,"HRIS,Confluence,GitLab,Intranet"
+9646627b-d56a-4beb-bd2c-3107c7fefd8f,User,Sales,Cameroon,Carolynchester,4.213.222.138,Ubuntu 22.04 - Edge,08:00-16:00,Hardware Token,"Email,Database"
+ea127442-a88b-4d2e-bcae-8b5bef28631d,User,Executive,Panama,West Mark,89.23.146.68,macOS 13 - Safari,11:00-20:00,MFA,"AWS Console,VPN,CRM"
+584c20fa-2f6c-44b0-9260-7674054c8fbe,User,Finance,Ethiopia,Baldwinland,13.123.8.237,Ubuntu 22.04 - Firefox,07:00-17:00,Password,"AWS Console,Database,Email"
+105b5c2c-dcef-4fb5-a2d5-ba4542a62833,User,Sales,Azerbaijan,Hayesborough,98.24.247.101,Windows 11 - Firefox,08:00-17:00,Biometric,Database
+6c892c46-63b4-40ee-ad1d-fd00fe2ca1fb,User,Finance,Saudi Arabia,New Julietown,193.231.78.246,Windows 10 - Chrome,10:00-20:00,SSO,"HRIS,Confluence"
+ea655c9e-25a8-481e-b399-c28d234cb9d9,User,Finance,Burkina Faso,North Rebecca,4.244.101.241,macOS 13 - Firefox,11:00-20:00,Password,"Database,Confluence,CRM"
+38c6199f-ba1e-4e13-84d0-7b499e7d158c,User,Finance,Rwanda,Clarenceberg,209.87.178.94,macOS 13 - Firefox,11:00-21:00,Password,"Database,VPN"
+9664c4f5-4c4a-435f-9b81-c31967062acd,Device,IT,Botswana,Henryshire,82.135.242.186,IoT Sensor,06:00-15:00,Hardware Token,"CRM,GitLab,HRIS,AWS Console"
+5739605c-f6db-4a60-b075-4ac0032be316,User,Executive,Panama,Jensenborough,79.153.45.188,Windows 10 - Chrome,10:00-20:00,MFA,"Email,Confluence"
+d4141f01-13b6-4e0a-9fd6-412206f7200d,User,HR,Samoa,Smithtown,147.107.68.211,Ubuntu 22.04 - Edge,11:00-19:00,Hardware Token,"Email,VPN"
+21e5d310-09e0-4d2b-b86f-8eec5cd6946e,User,Finance,Venezuela,Port Gregorymouth,99.38.16.229,Windows 11 - Chrome,09:00-19:00,SSO,"Confluence,Intranet"
+94d34173-47dd-436c-a495-b25cdbb39980,Device,IT,Belize,Munozbury,11.170.182.172,Database Server,06:00-14:00,Password,"VPN,Database,HRIS,GitLab"
+b02bb9e6-3602-413c-99ac-e750e19a01c0,User,Finance,Saint Kitts and Nevis,Williamsfurt,25.19.51.211,Ubuntu 22.04 - Edge,06:00-15:00,MFA,"CRM,Database"
+3ce912c3-9b2b-4732-877b-2cc209ba230e,User,Operations,Spain,New Janet,212.87.111.233,Ubuntu 22.04 - Edge,11:00-19:00,Biometric,"Email,AWS Console,CRM"
+70a625b0-4f41-4193-bb66-ee0ff9b2fffb,User,Operations,Ireland,Tracyland,216.71.14.45,Windows 10 - Safari,07:00-16:00,Biometric,HRIS
+b248b7f7-a8da-4e38-8dac-5c594d21db33,User,Marketing,Panama,Ronaldland,181.223.113.3,macOS 13 - Safari,09:00-17:00,SSO,"Database,CRM,Intranet"
+0b5098d7-d381-4fd5-b54e-57fe7e1a0129,User,Engineering,Sao Tome and Principe,East Ashleyton,61.211.95.121,Ubuntu 22.04 - Firefox,08:00-17:00,Biometric,"Jira,VPN"
+c2b88bf9-8cd9-464d-aaa3-d720b27c7918,User,Executive,Iran,Lukemouth,194.108.42.167,macOS 13 - Safari,11:00-21:00,Password,"Confluence,Intranet,Email"
+0d7195f2-747e-4865-9da5-301657d2598c,User,Operations,Guernsey,Kennethmouth,213.210.26.165,Ubuntu 22.04 - Firefox,10:00-18:00,Biometric,"Jira,Email"
+a2235693-1819-4484-b406-5eb5d6653748,User,Engineering,Cayman Islands,Bassmouth,178.197.27.133,Ubuntu 22.04 - Chrome,06:00-14:00,Biometric,"Jira,Intranet,CRM"
+e73a2c46-f9a3-46d1-982f-8ecf8e5502d7,User,HR,Reunion,Samuelstad,55.181.90.126,Ubuntu 22.04 - Edge,11:00-21:00,SSO,Intranet
+b9a55697-b0df-4636-8463-49de3953a053,User,Engineering,French Southern Territories,Lake Juliaview,48.114.54.215,macOS 13 - Safari,07:00-16:00,Biometric,HRIS
+b1d74dac-d430-48d1-9aae-78d63b75de07,Device,IT,Papua New Guinea,West Dianaville,211.167.14.172,App Server,11:00-21:00,MFA,"Database,VPN,AWS Console,CRM"
+e08189b7-6642-4010-a49f-0ee100cb6c3a,User,Engineering,France,South Stephanieside,55.65.45.135,Ubuntu 22.04 - Safari,07:00-16:00,SSO,HRIS
+437e76f3-d78d-44e4-bf4d-331b503d77e4,User,Executive,Kuwait,Murrayfort,193.45.254.165,Windows 10 - Safari,08:00-17:00,SSO,"VPN,AWS Console,Email"
+281a9401-b78e-47d7-bd98-9b85957d25cc,User,Finance,Paraguay,Lake Paul,160.76.134.142,Ubuntu 22.04 - Firefox,09:00-17:00,Hardware Token,Database
+52b31928-79ec-4e71-aebe-0a121d410906,Device,IT,Peru,East Heather,74.51.30.180,Load Balancer,06:00-15:00,MFA,"VPN,Database"
+a321ca70-ba18-4b52-9632-5b6e64e45579,User,Sales,Tajikistan,Loweberg,24.17.154.22,Ubuntu 22.04 - Safari,11:00-19:00,Biometric,"HRIS,Database,Jira,CRM"
+10c0a46d-0cb3-4c11-b21b-bca4a48ab712,User,Executive,El Salvador,West Karenton,137.228.176.157,Windows 11 - Edge,10:00-19:00,Hardware Token,"Confluence,HRIS,VPN,AWS Console"
+428775c4-a85e-47a5-bfa1-e84d77465b5f,User,Executive,Faroe Islands,New Erin,116.20.168.234,Ubuntu 22.04 - Firefox,11:00-20:00,Hardware Token,"Database,AWS Console"
+e7bb7f97-6685-4ed9-95ae-441c3f628ce7,User,Operations,Vanuatu,West Geraldview,159.143.118.131,Windows 10 - Chrome,11:00-19:00,Hardware Token,"Confluence,HRIS,Email,Intranet"
+2bd94d4c-5326-4e02-ab8f-63284a37b5b0,User,Engineering,Armenia,Pamelashire,76.194.91.17,macOS 13 - Chrome,10:00-18:00,SSO,"Email,Intranet,VPN"
+c6ae19be-c9cc-4012-886b-f67a3b9cb3b7,Device,IT,Benin,Port Kevin,79.49.179.169,Load Balancer,09:00-18:00,SSO,"Email,HRIS"
+3dce4bc0-77d9-4a1f-af39-81b8071bf493,User,Engineering,Ukraine,Shafferview,15.43.27.152,Windows 10 - Firefox,11:00-19:00,SSO,Jira
+c152ce80-e2b4-4a12-ba8b-a540e5efa24c,User,HR,Norfolk Island,Mendozaview,187.118.176.147,Windows 10 - Safari,06:00-16:00,Hardware Token,"Intranet,Database,CRM,Jira"
+ee045ad6-bc8e-4daa-94a0-408ab1ab9950,User,Operations,Gibraltar,Aimeetown,152.157.228.150,Windows 11 - Safari,09:00-19:00,Hardware Token,"CRM,VPN,GitLab"
+2c721bf6-96eb-4cf6-bb1e-0db0aa4905c5,Device,IT,Aruba,Craighaven,13.39.151.6,Load Balancer,09:00-18:00,MFA,"AWS Console,VPN,Email"
+3ae40c10-caf7-4162-88b1-2164d1d7f387,Device,IT,French Southern Territories,West Heatherfurt,115.11.76.17,Load Balancer,08:00-18:00,Hardware Token,"VPN,Email,AWS Console,GitLab"
+5e8becf6-f214-4545-a202-3333fb636fb7,User,Executive,Iraq,Jasonhaven,69.156.234.159,macOS 13 - Firefox,08:00-17:00,SSO,"Database,VPN,Intranet,Email"
+252b2dec-a6a1-4b66-8ac6-433d1c6f4886,User,Engineering,Suriname,West Angelica,221.213.121.44,macOS 13 - Firefox,08:00-17:00,Biometric,"Jira,Email,VPN"
+ed95ae0a-3a2f-40cf-b406-a0611850913b,User,IT,Ethiopia,Berryshire,47.22.69.132,Windows 11 - Safari,09:00-17:00,Password,"AWS Console,Intranet"
+fe6ee93e-3517-449f-8e2f-f72ee38b294f,User,Sales,Isle of Man,Erikaland,118.197.113.32,Windows 11 - Edge,11:00-21:00,Biometric,Database
+d55b9b25-7cd4-40d0-8805-77d4787d8c1b,User,Marketing,Uruguay,North Michael,210.220.19.179,Windows 10 - Edge,09:00-19:00,MFA,"Intranet,Jira,HRIS"
+9650a739-9aa1-428e-924b-0aceebc5afc0,User,HR,Burundi,North Davidfort,131.2.84.194,Windows 11 - Firefox,09:00-17:00,Hardware Token,Database
+ab675a0b-bc07-4c21-94fa-dd78362e9555,User,Marketing,Saint Helena,Domingueztown,59.115.231.162,macOS 13 - Chrome,06:00-15:00,SSO,"VPN,Database"
+4a43e453-4b3d-43c2-94b2-5f6e561b3fc9,User,Sales,Bolivia,Jamesmouth,64.24.242.151,macOS 13 - Safari,07:00-17:00,MFA,"Jira,AWS Console,Email,CRM"
+ae791bbd-47eb-4a12-9c69-d47f8f47087a,User,IT,Rwanda,West Brad,197.160.36.126,macOS 13 - Firefox,07:00-17:00,SSO,Database
+d5e57111-b2f6-440d-aebb-ad098c9be517,User,Executive,Bermuda,Malloryborough,194.34.27.146,Ubuntu 22.04 - Firefox,11:00-19:00,Biometric,"Email,Jira,VPN"
+5c226696-e794-4aab-9a6f-5e9c830155d6,Device,IT,Israel,Christophershire,96.0.116.150,Network Router,10:00-20:00,Biometric,"Intranet,GitLab,AWS Console,Database"
+daa5ccfa-24b3-4452-b046-f08e3037a895,User,Executive,Papua New Guinea,New Steven,79.150.45.32,macOS 13 - Safari,06:00-15:00,MFA,"Jira,Intranet"
+404204ba-6eec-47ef-8904-9b2cd018b0af,Device,IT,Papua New Guinea,Jacksonland,115.20.210.201,Load Balancer,11:00-21:00,Biometric,"CRM,Jira"
+3a6b9a5d-b511-43f2-837f-193520b79c14,User,Sales,Sierra Leone,Heidiview,23.178.53.53,Windows 10 - Edge,06:00-16:00,Biometric,"AWS Console,Intranet,CRM"
+3ca54ac0-746a-415b-9f03-7621c891ac72,Device,IT,Switzerland,Lucerochester,188.28.137.133,IoT Sensor,07:00-17:00,MFA,"AWS Console,Intranet,Confluence,VPN"
+710862ac-ffcb-4f75-b9c3-b3fb010163a7,User,IT,Congo,Lake Dustinberg,211.122.219.113,Ubuntu 22.04 - Edge,06:00-15:00,Hardware Token,"Jira,AWS Console"
+f59e0927-59e5-4633-9241-fea4c2515c87,User,Marketing,Saint Kitts and Nevis,Lake Eugeneport,66.37.133.111,Windows 11 - Edge,10:00-18:00,SSO,HRIS
+e72064a9-5201-481c-b026-a51dd1cc1ed4,User,Engineering,Myanmar,Smithville,185.254.69.173,Windows 11 - Firefox,10:00-18:00,MFA,"VPN,AWS Console"
+9738249a-07d9-42e1-be14-b177369c827a,User,HR,Ecuador,North Matthewfort,81.114.155.128,Windows 10 - Safari,06:00-15:00,Biometric,"Database,CRM,VPN"
+3dd9866e-e786-4dcb-a1e0-a79aba58ca58,User,Marketing,Costa Rica,North Crystal,171.16.45.230,Windows 10 - Edge,11:00-21:00,Password,"CRM,VPN"
+cd056f0b-629b-451d-834c-f9087d5bc7dc,User,IT,Uzbekistan,Jeffreyfurt,111.76.117.198,macOS 13 - Firefox,09:00-19:00,SSO,"Intranet,Jira,VPN,CRM"
+52f07e74-07ce-4b43-8137-0c4d53480f07,User,Operations,Timor-Leste,New Michael,118.92.69.120,Windows 11 - Firefox,06:00-14:00,SSO,Email
+5af14b0e-2951-4296-9f5f-a3dbcca45752,User,Finance,Western Sahara,Annmouth,131.182.247.228,Windows 10 - Safari,10:00-20:00,SSO,"VPN,Intranet"
+d303a1a3-b19e-4bcf-a840-f18e74c4dc76,User,Executive,Macao,Haleyland,105.164.239.179,Windows 11 - Safari,10:00-19:00,Password,"HRIS,Jira"
+ce76fafc-d827-4660-8f13-c9aa35b0c6eb,User,HR,Tokelau,North Howard,213.231.72.13,Windows 11 - Firefox,08:00-17:00,Password,"VPN,Confluence,Intranet"
+332b4269-50c8-45d0-b1d9-d84c26fae026,User,Sales,Tunisia,Johnport,68.66.193.16,Windows 10 - Edge,11:00-20:00,Password,"VPN,HRIS,Jira,AWS Console"
+5b548998-4988-4aea-8364-9ef0729d7a51,User,IT,Gabon,Jackbury,141.194.184.160,Windows 10 - Chrome,09:00-17:00,SSO,"Database,Intranet,AWS Console,Email"
+a0f3899d-f875-4e21-9ab9-1f8aa5238b63,User,HR,New Zealand,North Emilyside,85.23.38.112,Windows 10 - Firefox,08:00-17:00,Biometric,"CRM,Confluence,Intranet"
+70895fbe-44b4-47ff-aef0-2e4f5a03df2e,User,IT,Luxembourg,New Peterville,197.110.224.186,Windows 11 - Edge,08:00-17:00,Hardware Token,AWS Console
+264d03ac-6450-410d-8c90-cd27f60cfc06,Device,IT,Anguilla,West Brian,210.106.59.135,Load Balancer,11:00-20:00,MFA,Email
+001ffea4-39f8-4802-9864-7fd47b1fdad0,User,Marketing,Sudan,Clementsmouth,66.68.107.49,Windows 10 - Firefox,08:00-18:00,Password,"Jira,Intranet,Email"
+a86b1b31-d558-4947-bdae-077e217b89a8,Device,IT,United Arab Emirates,Hernandezport,75.192.235.253,Load Balancer,10:00-19:00,Biometric,Database
+f9ba71ea-73c6-4cd0-b0be-088c4fb72b1e,Device,IT,Jordan,Philipmouth,43.52.172.7,Load Balancer,09:00-18:00,SSO,"Intranet,CRM,VPN"
+2240f078-c846-48c1-a74f-e94539ec6487,User,Executive,Tonga,Ryanport,107.93.30.228,Windows 10 - Safari,09:00-18:00,Hardware Token,"Confluence,Email"
+a887a9b9-fd2e-4b8a-8523-be9fe3cbc6f3,User,Finance,Mauritius,Vasquezberg,98.27.18.59,Windows 11 - Edge,06:00-14:00,SSO,HRIS
+5f13ca8f-9c0e-4d5f-b549-68487fffb4cd,User,Executive,Turks and Caicos Islands,Strongmouth,86.226.200.10,Windows 10 - Firefox,09:00-19:00,Password,"Database,Confluence,Email,AWS Console"
+6bb4cf7d-afed-45c7-bc3b-7af47efbeee2,Device,IT,Mozambique,Port Richard,104.147.78.200,Network Router,10:00-18:00,Password,VPN
+b36c657a-d61e-4cce-bd47-60227d2679b5,User,Finance,Vietnam,West Laura,174.234.141.33,macOS 13 - Chrome,06:00-15:00,Password,"AWS Console,CRM,VPN"
+488472b9-25e9-4253-a6da-7549677753ef,Device,IT,Greenland,Mcmillanstad,173.211.65.45,IoT Sensor,08:00-17:00,Biometric,"Email,AWS Console,VPN,Confluence"
+4b409f50-6a00-4160-b973-3e3cf60fe999,User,Engineering,Sierra Leone,West Debbie,125.53.220.6,Windows 10 - Safari,08:00-16:00,MFA,"Confluence,AWS Console,Intranet"
+86e47684-5bf6-4af8-a1d9-486d4a396536,Device,IT,Montserrat,Port Nicholas,153.23.115.85,App Server,09:00-18:00,Hardware Token,"Email,Confluence"
+f9828519-21d0-4ab9-b729-fcd3ce63839d,User,Finance,Algeria,North Leahfort,47.6.80.247,Windows 11 - Safari,08:00-17:00,SSO,"CRM,GitLab"
+1629b6db-800f-4c17-beee-287fddd4422f,User,Finance,Oman,East Alexandra,10.50.88.228,Windows 11 - Edge,08:00-18:00,MFA,"Intranet,GitLab,HRIS"
+64a97223-3f7f-41ff-9f52-84bbcc2b756e,User,Marketing,Pakistan,North Kimberly,195.133.155.70,Windows 11 - Chrome,10:00-20:00,Hardware Token,"AWS Console,Intranet,VPN,Database"
+8586de67-aac1-47e7-a43b-1b9a23b91d83,User,Executive,Chile,West Christine,83.101.235.170,Windows 10 - Chrome,09:00-19:00,Hardware Token,"AWS Console,Jira"
+39cfb5b2-5bba-44ce-95ca-d38c11c9466d,Device,IT,Comoros,West Davidhaven,174.137.49.227,Load Balancer,11:00-19:00,Password,Confluence
+ebb49a5b-2dc2-4782-b787-a2d67172bef5,User,Engineering,Burkina Faso,North Stacie,98.189.242.121,Ubuntu 22.04 - Safari,09:00-19:00,Hardware Token,CRM
+05ca2333-d379-4be5-a4ef-5b5fae8c7e5e,User,Operations,Hungary,Port Tanyaburgh,146.138.109.228,Ubuntu 22.04 - Chrome,09:00-18:00,SSO,Database
+27b7cc44-83e2-4cfe-8d17-c331c441ca7f,User,Finance,Belize,Alejandrochester,156.147.88.29,Ubuntu 22.04 - Firefox,07:00-15:00,Hardware Token,"VPN,Intranet,CRM,GitLab"
+04e8b5b6-6a87-4e9c-93d6-3926281e635f,User,Sales,India,Jordanchester,47.189.115.197,Windows 11 - Chrome,07:00-17:00,Biometric,CRM
+9ad182cd-78b4-4ede-b3e6-abcf61cc1cae,User,Engineering,New Zealand,Lake Eileenstad,166.169.60.201,Windows 10 - Safari,07:00-17:00,Password,Email
+a5ca60ea-df73-4cfc-a641-cfeb67312263,User,IT,Jersey,East Elizabeth,75.174.204.126,macOS 13 - Firefox,11:00-19:00,SSO,"Intranet,Confluence,Database"
+49ef5281-d726-49dd-aeaf-01bdb1fe44df,User,Engineering,Brazil,South Jasminmouth,100.166.15.93,Windows 10 - Chrome,10:00-20:00,MFA,Email
+355e0f23-ba14-400f-854a-392693142218,User,IT,Lebanon,North Christine,17.243.16.48,Windows 11 - Firefox,10:00-20:00,Password,"Database,CRM,Jira,VPN"
+078004ca-1093-483a-abe4-946adff0e28b,User,Sales,Austria,West Emily,1.114.137.216,Windows 10 - Safari,08:00-16:00,Password,"Email,Jira"
+881a28ed-8939-4c7d-9f4d-a85316a5cd0a,User,Operations,Qatar,Woodton,10.178.119.242,Windows 10 - Firefox,11:00-19:00,Password,"VPN,Intranet"
+8b39350c-9d25-4440-92bb-7ba273e35fd4,User,Operations,Switzerland,Johnborough,16.86.179.156,Windows 10 - Safari,09:00-17:00,Hardware Token,"Email,Database"
+5bad0e08-00ba-460b-a3a7-81face53dac8,User,Executive,Timor-Leste,Michellefort,73.112.88.13,Windows 11 - Chrome,11:00-20:00,SSO,Jira
+75ba14a5-4120-4241-942d-71237ca97848,Device,IT,Micronesia,New James,9.130.180.18,IoT Sensor,07:00-15:00,SSO,GitLab
+d4ee64ae-b429-44d6-9632-bbab5f0c63a9,User,Sales,Peru,East Destiny,170.158.48.171,Windows 10 - Safari,06:00-15:00,SSO,"Confluence,Database,Intranet,HRIS"
+09321937-e0d6-4c1c-8a67-816c87036277,User,Finance,French Guiana,Garciastad,10.52.19.190,macOS 13 - Safari,07:00-15:00,Hardware Token,CRM
+c434afc1-32e5-4623-b919-1db9241fdad1,User,Marketing,Bouvet Island (Bouvetoya),East Kellyfurt,15.92.2.153,Windows 10 - Edge,07:00-15:00,SSO,"Confluence,VPN,HRIS"
+6d397dff-b04d-4b45-ab0d-1e003f418c6b,Device,IT,Libyan Arab Jamahiriya,Ashleyville,5.163.90.227,Load Balancer,07:00-15:00,MFA,"Intranet,Jira"
+31173549-68d0-4ee0-a827-6a24759b79a2,User,Marketing,Canada,Russellbury,10.74.219.181,Windows 11 - Safari,09:00-17:00,SSO,"VPN,HRIS,CRM"
+caf54eda-fbd1-4f7b-bf8e-4a88467e323e,User,IT,Iraq,Kimhaven,168.195.171.242,Windows 10 - Edge,10:00-18:00,Biometric,"AWS Console,CRM,Email,Intranet"
+3d151821-0a39-4f33-9ce8-ad1e6249e52b,User,IT,Bulgaria,Sanchezchester,159.224.85.95,macOS 13 - Edge,06:00-15:00,Hardware Token,Database
+0ad6b4a6-dd0f-4eac-b036-7f2e6b7e0b4a,User,Executive,Thailand,West Alexisshire,16.0.124.233,macOS 13 - Edge,11:00-19:00,Biometric,"Email,VPN"
+6d6a973f-ee1f-4882-b444-a3f88a70fc3f,Device,IT,Chile,South Dale,119.208.89.217,IoT Sensor,11:00-19:00,SSO,GitLab
+9c60b520-0be2-4e6d-acd0-3fa015817939,User,Operations,Barbados,Joannaville,135.148.206.41,macOS 13 - Edge,06:00-14:00,SSO,"AWS Console,CRM,Jira,GitLab"
+512edc8e-4b0a-455a-a58d-bb499387dab8,User,Finance,Saint Lucia,South Tinaside,129.172.66.85,Windows 11 - Safari,07:00-15:00,Hardware Token,"Jira,Intranet,Confluence,CRM"
+5b4378f7-bf35-467a-a675-ca4224e37a53,User,Finance,Philippines,North Heathermouth,59.34.12.215,Windows 11 - Chrome,10:00-20:00,Hardware Token,"CRM,GitLab,Jira"
+0fac7a99-2967-4ded-a686-93e2d7463a0c,User,Finance,Reunion,Kimberlybury,124.3.82.199,macOS 13 - Chrome,10:00-19:00,Password,"Confluence,Email,Jira,GitLab"
+a77b96c6-753e-4a32-9284-5dc4900f303c,Device,IT,Lesotho,South Leeborough,70.66.126.200,Database Server,07:00-17:00,SSO,"Database,Jira,Intranet"
+c59a995d-ad83-41ea-a2e8-81ced60b9af8,User,Finance,South Georgia and the South Sandwich Islands,Harrismouth,81.21.143.9,macOS 13 - Safari,09:00-18:00,Password,"Database,GitLab,CRM,Jira"
+b7f1bcc2-cf0d-489e-8b5b-96b55581efbe,User,Finance,Armenia,North Michael,197.195.233.147,Windows 10 - Safari,07:00-16:00,SSO,"CRM,Database,Confluence"
+8f9cea10-7a24-4a91-aa9c-2653a1748e90,Device,IT,Jamaica,East Noahburgh,111.22.164.10,Network Router,09:00-19:00,Password,"VPN,CRM,Jira"
+c862c0a0-7a4c-4201-9c56-154f24071194,User,Operations,Western Sahara,Kathrynport,149.218.46.203,Windows 10 - Firefox,11:00-20:00,MFA,"Jira,HRIS,CRM"
+36761329-a6fc-49bf-b97b-11bddea3de15,User,Marketing,Slovakia (Slovak Republic),East Rachael,25.48.157.115,Ubuntu 22.04 - Edge,09:00-18:00,Hardware Token,"Email,HRIS,VPN"
+ff03c22a-aef2-424d-9506-e01f55b0348c,User,IT,Mauritius,Matthewville,204.255.149.13,macOS 13 - Edge,09:00-19:00,MFA,"Jira,CRM,Confluence,VPN"
+8848ea05-3059-4691-8f98-ad1392e7c1de,User,Sales,Wallis and Futuna,Hamiltonland,126.66.178.17,Ubuntu 22.04 - Chrome,08:00-16:00,SSO,"Confluence,Jira,HRIS,Intranet"
+08f69b40-6b20-439b-b670-2c11304c418f,User,Sales,Peru,North Samuelville,58.212.27.18,Windows 11 - Firefox,10:00-18:00,SSO,"VPN,Jira,GitLab,Database"
+ccad82d1-f998-4612-9d61-4c457abdf4cf,User,HR,Uruguay,West Amy,82.251.116.147,Ubuntu 22.04 - Edge,06:00-14:00,Hardware Token,VPN
+6c761366-0bb3-4e4b-9c42-b4c4ab7518bd,User,Operations,Netherlands,South Mistyport,1.45.136.136,Ubuntu 22.04 - Edge,07:00-16:00,Password,VPN
+f14282f5-a06e-4898-9be4-496f03c61602,User,Sales,Timor-Leste,New Sarahaven,135.208.153.121,macOS 13 - Chrome,07:00-15:00,SSO,"Jira,AWS Console,VPN"
+5b673046-1aa1-412a-bfd6-7b94ed873085,User,Operations,Korea,West Danielleberg,132.127.82.100,Ubuntu 22.04 - Edge,08:00-17:00,SSO,"GitLab,AWS Console"
+ee567f92-2ee5-4568-bead-b69b1588a93f,User,Marketing,Dominican Republic,Jessicastad,123.105.147.171,Windows 10 - Firefox,06:00-16:00,MFA,"Intranet,Confluence"
+0ba5f391-2bc4-4527-985d-14442c5740e6,User,Executive,Guyana,South Nicolemouth,166.38.41.37,Windows 11 - Edge,07:00-15:00,Password,"Intranet,VPN,CRM"
+1df0190e-cc18-4d5c-9679-03ab9e266f01,User,Operations,Djibouti,Jermainemouth,36.133.218.30,Windows 11 - Edge,11:00-21:00,SSO,"Jira,CRM,Confluence,Database"
+4124a60b-2ca4-49c2-8be5-b29fd17eb3dd,User,Finance,Saudi Arabia,East Jennifer,24.181.125.162,Ubuntu 22.04 - Safari,07:00-15:00,Biometric,"Confluence,CRM"
+56ca5441-97a0-460b-b725-c31e93222c31,Device,IT,Bahamas,Onealtown,6.170.237.244,Load Balancer,11:00-19:00,Password,CRM
+036c4624-3e3b-4420-b89e-daffe9e27084,User,Sales,Oman,Paulville,25.2.117.248,Windows 10 - Safari,07:00-17:00,Biometric,"Intranet,Confluence"
+6830bc94-9f53-4b62-847b-18fb90f34850,Device,IT,Tonga,North Andrea,168.192.114.59,Network Router,08:00-16:00,Biometric,"Intranet,Database,GitLab,AWS Console"
+32bcf6d7-37e7-4bf2-a268-17b817fc0740,User,Marketing,Benin,Cantrellfort,158.29.242.206,Ubuntu 22.04 - Edge,07:00-17:00,MFA,"Confluence,VPN,Jira"
+cb1fe027-2993-4149-a7ed-127947d5232c,Device,IT,Dominica,Friedmanburgh,61.117.233.179,IoT Sensor,07:00-17:00,Biometric,Jira
+c9d6989f-0bda-4c02-9396-ecd0032e9638,User,HR,France,Markberg,50.98.81.101,Windows 10 - Firefox,06:00-16:00,Biometric,VPN
+ec46c80b-5d5b-421a-ba7a-2dc18b260e6e,User,Operations,Cambodia,Johnport,145.47.10.126,Windows 10 - Chrome,10:00-20:00,Hardware Token,"CRM,HRIS,Confluence"
+d0bcb219-5ae1-45b9-924f-ae266f297b68,User,Executive,Montenegro,Desireeview,34.33.9.205,Windows 10 - Safari,09:00-19:00,Password,"GitLab,Confluence"
+fc15db0a-7558-4564-87b6-5e61a977ed31,User,Engineering,Mauritania,Hansonhaven,80.16.228.171,Windows 11 - Firefox,10:00-18:00,SSO,Jira
+7dba9976-bbb5-4301-a2bc-029eb46b4ce9,User,Executive,Azerbaijan,Lake Stevenland,220.99.254.147,macOS 13 - Edge,11:00-19:00,Password,"Jira,Confluence,Intranet"
+c6c283e0-c5c3-4d1e-88b8-2aec1f147c09,User,Marketing,Holy See (Vatican City State),Debratown,118.7.160.66,Ubuntu 22.04 - Safari,08:00-18:00,MFA,"Jira,AWS Console"
+8edfbaa7-3adf-4bae-8c88-64347c0fb70e,User,Sales,Cameroon,Smithfort,18.111.94.106,Windows 11 - Firefox,09:00-19:00,Hardware Token,"Intranet,AWS Console,Email"
+c2083077-336b-4274-81b7-2a275a4da9b6,User,IT,Puerto Rico,Millermouth,190.69.31.238,macOS 13 - Chrome,08:00-16:00,Biometric,Confluence
+86c050cc-4ad1-48a9-9e02-cadddddb23b4,User,HR,Netherlands Antilles,Woodsbury,97.155.181.231,macOS 13 - Safari,06:00-15:00,Password,"Confluence,Email,CRM"
+73f2e94b-5c0e-46c2-9acf-99c2512fcb6a,User,Engineering,Colombia,Port Timothyview,49.222.188.174,Ubuntu 22.04 - Firefox,09:00-17:00,Biometric,"HRIS,Database,GitLab,AWS Console"
+83cc133c-c1f5-4c54-a7fe-44df9473a11d,User,Engineering,Hong Kong,South Eileen,22.234.49.237,Windows 10 - Safari,06:00-14:00,SSO,"Database,CRM"
+7e7e3af3-68c6-4584-ad1f-1e700878cba5,User,Finance,Djibouti,Ortizville,76.45.173.228,Windows 11 - Chrome,09:00-18:00,Hardware Token,"Intranet,Confluence"
+59f3e630-bb32-48f1-91f6-1c89150b05e3,Device,IT,Luxembourg,West Lindaview,173.170.211.141,App Server,11:00-20:00,SSO,"Email,CRM,Jira,GitLab"
+8ea48d47-a50f-4d31-9b1b-8036b9524349,Device,IT,Palestinian Territory,Davisstad,136.153.146.117,Database Server,07:00-15:00,Password,"Database,AWS Console,Jira"
+0724bbf0-ea92-41cb-a5e4-a210f99f6f46,User,Operations,Vietnam,East Karen,1.90.153.166,Ubuntu 22.04 - Firefox,11:00-19:00,MFA,"AWS Console,Jira"
+6ff6bcdb-285b-4e6f-9bdd-437dc49928bf,Device,IT,Tanzania,West Melissa,46.169.197.163,Network Router,07:00-16:00,Hardware Token,Confluence
+4311b42e-25b6-4f56-8ab2-545e1aa8403a,User,Marketing,Sweden,West Eric,35.114.236.246,Ubuntu 22.04 - Firefox,09:00-18:00,Hardware Token,"Database,Jira,HRIS,VPN"
+069bb79a-ffdd-4715-ba25-abafec034c71,Device,IT,Thailand,Rogerschester,121.99.129.18,App Server,10:00-18:00,MFA,AWS Console
+f09999f3-175d-42a6-b04c-a33ab7a3ad4b,User,Marketing,Norway,New Marvinburgh,199.3.154.145,Ubuntu 22.04 - Edge,06:00-15:00,MFA,"Database,Jira,VPN,Email"
+30770577-6a5d-4c00-a9b1-bcc4ef243ffd,User,Engineering,Djibouti,East Scott,90.123.113.145,Ubuntu 22.04 - Safari,08:00-16:00,Biometric,CRM
+9cf3baa1-3969-400e-a9cd-6eb855bb9da8,User,HR,Sao Tome and Principe,New Sheila,120.193.54.42,Windows 10 - Edge,08:00-18:00,MFA,"Email,CRM"
+19263c50-1afc-432a-bb4e-dda893a4eae1,Device,IT,Svalbard & Jan Mayen Islands,Thomaston,220.163.148.63,Network Router,09:00-18:00,Password,"Confluence,AWS Console,HRIS,GitLab"
+cfdee76c-160e-42fb-9a28-c8c02ac56b19,User,Marketing,India,Millerport,21.252.125.20,Windows 11 - Edge,11:00-19:00,Password,"Database,AWS Console,Email,Intranet"
+3867bb94-1c5f-4907-b1e4-7ca58a09ecf6,User,Executive,Afghanistan,New Edwardville,158.145.86.228,Ubuntu 22.04 - Firefox,10:00-20:00,Biometric,"Jira,Database,CRM"
+13f65981-7cc0-478e-92ce-626b68627f40,User,Operations,Suriname,Smithberg,200.62.167.155,Windows 11 - Edge,08:00-18:00,Password,"GitLab,Confluence"
+e02f50fd-5155-4b2a-849e-d343834e180b,User,Sales,Sierra Leone,Eatonstad,130.206.207.0,Windows 10 - Firefox,11:00-20:00,SSO,"GitLab,AWS Console"
+436b2e13-9d82-4d4c-a86f-cd7710ebebc8,User,Operations,French Southern Territories,Colleenland,149.231.5.43,Ubuntu 22.04 - Firefox,07:00-15:00,Password,Confluence
+52f7f48e-bace-4387-9985-27908dc49028,User,Engineering,Mauritius,East Robertborough,123.19.45.83,Ubuntu 22.04 - Safari,06:00-16:00,Password,Jira
+06a1a892-46de-457e-b3fa-22c825bccd52,User,HR,Samoa,West Felicia,85.228.208.148,macOS 13 - Chrome,09:00-19:00,Biometric,"Email,CRM"
+1c5359b0-ebc9-4621-8948-d0ba86e547ab,User,Sales,Malawi,Port Chelsea,178.141.10.189,Ubuntu 22.04 - Firefox,10:00-18:00,MFA,"Jira,HRIS,Intranet,VPN"
+b835405f-70ab-46a5-9e32-9c0c16db0b9d,User,Sales,Congo,Ballardbury,208.165.97.236,Windows 11 - Firefox,08:00-17:00,SSO,VPN
+45a6bee8-03c5-4bc9-a9b4-bfcdd5cd232f,User,Finance,Italy,North Caitlinville,153.254.244.57,Ubuntu 22.04 - Chrome,09:00-18:00,MFA,"HRIS,Database,Email,CRM"
+08acb3ef-ea6a-4ec6-a958-911ac56e1276,User,HR,Costa Rica,South Ryanchester,24.226.161.19,macOS 13 - Firefox,09:00-18:00,MFA,"Email,Confluence"
+afd00162-bf37-4511-a52e-251da88a8977,User,Executive,Saint Pierre and Miquelon,Blackchester,25.45.84.124,Windows 10 - Edge,10:00-18:00,Hardware Token,"Intranet,AWS Console,Email,HRIS"
+2944af51-359b-4bc1-9a62-68fff7882c1b,Device,IT,Macao,Shannonburgh,117.24.63.23,Network Router,07:00-17:00,Hardware Token,"Confluence,AWS Console,HRIS"
+5e0b6393-be0d-4702-a312-ad9597e355f4,User,Finance,Ghana,Rodneyburgh,111.207.9.113,Windows 10 - Chrome,06:00-16:00,SSO,"Database,HRIS,Confluence"
+ff07f854-adcb-4b9c-931a-02f790c5f214,User,Executive,Mauritania,Stewartside,8.19.151.144,Ubuntu 22.04 - Edge,11:00-21:00,Password,"GitLab,VPN,Jira"
+f95ceea1-3d59-4622-a4fc-59fe77ce819e,User,Engineering,French Polynesia,South Teresaside,158.105.108.155,Ubuntu 22.04 - Safari,11:00-19:00,SSO,"Confluence,Email,AWS Console,Database"
+d789b8e5-c75c-45cb-bb67-90d7b6393c60,User,Engineering,Cameroon,Kathrynshire,212.124.36.248,Windows 10 - Firefox,06:00-16:00,Hardware Token,CRM
+fe3c014c-fd48-4343-883a-7cffdd4a6071,Device,IT,Madagascar,Lake Heathertown,55.58.86.131,Database Server,08:00-17:00,Password,"Email,Jira"
+953bcc2c-db06-48a4-997b-3e4a19d8ceb0,User,Marketing,North Macedonia,Port Ricardomouth,221.161.57.6,Ubuntu 22.04 - Chrome,06:00-16:00,SSO,"Jira,VPN,Database,AWS Console"
+80a280bc-88d3-425f-8ef4-3d32ceaf78ac,User,Finance,Antarctica (the territory South of 60 deg S),Jaredland,187.100.238.35,Windows 10 - Safari,11:00-19:00,Hardware Token,"HRIS,Database,CRM,AWS Console"
+4a2aacac-109c-437e-a271-421305563062,Device,IT,Sri Lanka,South Caitlin,83.7.181.39,Load Balancer,10:00-19:00,SSO,"Jira,AWS Console,Database"
+b08b2381-ce6d-4a30-8636-0414f07b774c,User,Sales,India,West Christopher,175.99.68.144,macOS 13 - Chrome,11:00-20:00,MFA,"Intranet,GitLab,AWS Console,CRM"
+92b9316a-69c1-4f4f-94fd-13a40ee400fd,Device,IT,Zimbabwe,West Connie,155.87.226.23,Load Balancer,07:00-15:00,Password,VPN
+84eeb876-a02f-4ee4-a658-7e673af0d2ec,User,Operations,Hungary,Lake Melanie,61.133.247.39,Windows 10 - Safari,07:00-17:00,SSO,"AWS Console,Intranet,Database,Confluence"
+177e2cca-5cc5-490b-a54c-d4c12d4e05b7,User,Executive,Brunei Darussalam,East Nicholasfort,188.32.184.54,macOS 13 - Safari,10:00-20:00,MFA,"HRIS,Jira,GitLab"
+4fa375fe-d1a2-4635-b63d-ccb77ba518b3,Device,IT,Mozambique,Philipshire,42.205.180.205,App Server,06:00-14:00,SSO,"Confluence,AWS Console,CRM,VPN"
+098848b9-2385-40bf-a256-3414e2f8eb3e,User,Executive,Greenland,Stevenborough,144.112.225.176,Windows 10 - Safari,11:00-21:00,MFA,Email
+14cc1ecb-43a3-4604-9378-0166a73031c4,Device,IT,Sao Tome and Principe,Newmanmouth,38.196.205.31,Network Router,10:00-19:00,Password,"Confluence,GitLab,Database,Email"
+82b45dd8-e962-4a24-a98a-554fa0eb31f4,User,Executive,Cuba,South Michaelville,74.0.174.250,macOS 13 - Firefox,06:00-16:00,Hardware Token,Intranet
+781fe5f2-0d2d-4cf1-8b2b-4f39afe34e63,Device,IT,Bouvet Island (Bouvetoya),Nortonmouth,111.214.158.171,IoT Sensor,11:00-21:00,MFA,GitLab
+f589ae4c-d185-4d59-9f5c-46458b9cda4a,User,Operations,Bolivia,South Saraview,6.208.247.231,Windows 11 - Edge,09:00-18:00,Hardware Token,"CRM,Email,Intranet,Jira"
+b2d3e7ee-bf98-4383-b851-e4ab2d0f3582,User,Sales,Turkey,Mcintoshchester,188.173.111.81,macOS 13 - Firefox,09:00-17:00,MFA,Email
+b6de7afb-06ad-46ad-8b7a-b25ef986e7f0,User,Executive,Guadeloupe,Lake Regina,51.70.87.23,macOS 13 - Chrome,07:00-15:00,Biometric,"Confluence,VPN"
+39548c64-99c9-4820-9ea4-a0f879f7c1d4,User,Executive,Italy,Knightstad,74.43.41.163,Ubuntu 22.04 - Chrome,09:00-17:00,Password,"VPN,Email"
+5f77aec2-3575-4c4f-8400-d7c5b67ca30a,User,Sales,Monaco,Walterview,71.88.204.197,Ubuntu 22.04 - Firefox,09:00-18:00,Biometric,"CRM,VPN,Confluence"
+b6e39e83-f5ea-43a1-ad9b-c51612636377,User,Engineering,Kazakhstan,Port Heatherfort,204.23.174.97,macOS 13 - Edge,08:00-16:00,Biometric,Confluence
+4baa3078-8371-44ee-bae6-7a7f643d6f91,User,Executive,Sri Lanka,Arellanoville,111.197.103.252,Ubuntu 22.04 - Chrome,06:00-16:00,Hardware Token,"AWS Console,CRM"
+e8e8ca71-bfdf-4a89-9eb6-54bfc2ad11d9,Device,IT,Solomon Islands,Williamstad,162.74.92.153,Network Router,08:00-17:00,MFA,"HRIS,Intranet,Jira,VPN"
+0b0c0dbb-3d93-407c-b8be-07a8ecabc4d1,User,Executive,Kyrgyz Republic,Julieport,50.138.90.120,Windows 11 - Firefox,07:00-15:00,Hardware Token,"HRIS,Jira,AWS Console"
+ae4339c2-5265-46a7-98c2-0f2b99a65c82,User,HR,Monaco,Jacksonmouth,200.196.209.189,Windows 11 - Edge,09:00-19:00,Hardware Token,"Jira,Email,GitLab"
+b3e02b14-6b11-462d-a17c-364bb5bcd092,User,Operations,Russian Federation,East Jamesmouth,98.16.57.48,Ubuntu 22.04 - Chrome,06:00-14:00,Biometric,"Jira,Intranet,Confluence"
+a6785e4b-61d3-4a62-8d91-3daace3ed39d,User,Marketing,Ethiopia,Everettton,209.245.10.209,Windows 10 - Safari,11:00-21:00,Biometric,"HRIS,GitLab,AWS Console,Database"
+89049fb5-82f4-434f-b5e0-34a2f8384317,User,Finance,Belarus,Andrewview,182.132.202.131,macOS 13 - Firefox,10:00-18:00,Hardware Token,"Database,CRM,HRIS"
+2908a2da-a440-48cf-88a8-0f6df863f5e4,User,Finance,Marshall Islands,Smithport,24.182.124.253,Windows 11 - Edge,06:00-15:00,SSO,"Email,Intranet,CRM,Jira"
+bc823607-9537-4686-92f8-71466ff9fef8,User,Operations,Yemen,Edwardsbury,188.239.57.191,Windows 11 - Edge,08:00-18:00,SSO,"AWS Console,GitLab"
+112a2444-562e-4906-a138-482bcce8f5eb,User,Engineering,Peru,Port Jenniferborough,136.80.221.145,Windows 11 - Edge,07:00-17:00,Biometric,"AWS Console,GitLab"
+6d0cbb14-6123-4e1f-be7b-6335e814a48e,User,HR,Indonesia,Daltonport,167.233.243.25,Windows 11 - Edge,07:00-17:00,SSO,AWS Console
+425b0699-f76d-40ec-8c48-2c7037c656b6,User,HR,Senegal,New Tracy,89.151.5.56,Ubuntu 22.04 - Edge,09:00-19:00,MFA,"Confluence,AWS Console,Email,CRM"
+04d807a3-b988-4e58-ad34-c0a1a2a6cd47,User,Finance,Austria,East Rebekahborough,27.143.33.203,Windows 11 - Edge,07:00-15:00,MFA,"Confluence,CRM,HRIS"
+4866d7ae-35af-41a0-b7c4-259d8929acdf,User,Marketing,Guernsey,East Wandaville,38.109.12.171,Windows 10 - Firefox,09:00-18:00,SSO,Email
+6de4458c-11fa-4d45-8abf-30bd9e3ecbbf,User,Operations,United States Virgin Islands,Port Ricardoborough,123.156.224.255,Windows 11 - Safari,07:00-15:00,MFA,"AWS Console,HRIS"
+05521552-e282-4dbe-94b5-685fa329977a,User,Sales,Monaco,Dannyton,200.15.163.99,Windows 11 - Edge,09:00-19:00,Biometric,"Jira,Intranet"
+486ed4c5-24ba-4839-924d-d20a7e19c005,User,Marketing,Bolivia,Kaiserton,44.69.86.62,Windows 11 - Edge,08:00-16:00,SSO,"AWS Console,Database,CRM"
+d098aeda-8653-4baa-9972-68fe92d2876c,User,HR,Bhutan,Kimfurt,129.227.129.46,macOS 13 - Chrome,09:00-17:00,SSO,"Database,Jira"
+4882175e-b7f1-4b6a-9c51-9b17401bf710,User,Executive,Argentina,Pattersonfurt,185.190.12.120,Windows 10 - Firefox,09:00-18:00,Password,"Intranet,Confluence,Database"
+4f709180-1a62-4d74-8017-38fc4e3622d0,User,Engineering,Falkland Islands (Malvinas),Kyleburgh,216.124.62.98,Ubuntu 22.04 - Chrome,10:00-20:00,MFA,"Confluence,AWS Console,GitLab,VPN"
+5b55c793-c7cb-4236-adbc-86dcfd9f4ad2,User,Operations,Taiwan,Alisontown,160.120.32.228,macOS 13 - Edge,09:00-18:00,Password,"Jira,Email,Confluence"
+a28569b9-c532-4a09-9f42-212e1c69b692,Device,IT,Israel,Cuevasville,51.178.88.7,Database Server,10:00-19:00,Hardware Token,"CRM,VPN"
+7ed7790c-c81a-4112-bf0c-be7d7d2c83d6,User,Marketing,Madagascar,Samuelstad,108.183.82.112,Ubuntu 22.04 - Firefox,11:00-21:00,MFA,"CRM,HRIS"
+01ce1202-d30c-4370-b201-e6cd6e1a18b2,User,Engineering,Congo,North Michaeltown,139.206.184.110,Windows 11 - Edge,11:00-20:00,MFA,"AWS Console,Email,Confluence,Jira"
+02d30b4b-f496-4028-89fc-7bb05befc91e,User,HR,Lebanon,South Timothyfurt,125.182.139.105,macOS 13 - Chrome,10:00-18:00,MFA,GitLab
+78a28947-63ad-4d5c-a64a-e1b19e669e36,Device,IT,Norway,Port William,3.173.38.39,IoT Sensor,07:00-15:00,SSO,"AWS Console,CRM,VPN"
+82e0fcec-fe31-490f-85f8-ba50e1c823cf,User,Executive,Costa Rica,Lake Catherine,19.73.99.8,Windows 10 - Safari,07:00-17:00,Biometric,"GitLab,Jira,CRM"
+e11ff372-ecaf-4ab2-99d9-15313c5024a7,User,IT,Western Sahara,Elizabethtown,132.173.239.108,Ubuntu 22.04 - Safari,11:00-20:00,Biometric,VPN
+4d542663-d400-4730-b881-3fa094bac4f3,User,Operations,Slovakia (Slovak Republic),Port Andrea,149.46.52.158,macOS 13 - Firefox,08:00-18:00,Password,"Database,AWS Console,GitLab,Confluence"
+2208be14-9700-4176-809d-e280b4c4d6e1,User,Finance,Jordan,Hensonberg,94.107.3.88,Ubuntu 22.04 - Firefox,07:00-16:00,MFA,"Jira,AWS Console"
+7eb9c38f-787f-4695-95ed-ee626908d6ba,User,Engineering,Comoros,Port Catherineview,212.83.5.148,macOS 13 - Firefox,09:00-19:00,Password,"Jira,VPN,Intranet,Database"
+6f8063b8-0150-4874-bf73-9226029e9dcc,User,Sales,Cayman Islands,Josebury,33.133.7.88,Windows 10 - Chrome,11:00-20:00,SSO,Confluence
+e9871422-5372-4a52-8c29-c8ccde27e594,User,Sales,Bouvet Island (Bouvetoya),Arnoldfurt,36.145.84.108,macOS 13 - Chrome,10:00-19:00,MFA,Intranet
+d84ae086-3627-4fc1-b2ae-062e5596fc78,User,Operations,Saint Helena,Amberhaven,173.75.255.26,Ubuntu 22.04 - Safari,07:00-17:00,Hardware Token,Database
+9dc776ce-3a99-4d50-9e56-bc7611b1918f,User,Executive,Sweden,Collinsshire,82.22.203.136,macOS 13 - Chrome,06:00-16:00,Password,"CRM,VPN,AWS Console"
+6405a6c8-7d77-4023-87a0-ae514d010862,User,IT,Christmas Island,Anthonyfort,21.184.197.217,Windows 11 - Edge,09:00-18:00,Hardware Token,"Jira,AWS Console,Confluence,HRIS"
+559d9c76-43db-4cc8-99a0-c01ee8272734,User,IT,South Africa,Richardville,197.61.184.111,Windows 10 - Safari,11:00-19:00,Hardware Token,"AWS Console,Confluence"
+ddbdb6e8-9352-41bc-b2e6-48932c25195f,User,Operations,Cameroon,North Todd,54.194.85.190,Windows 10 - Chrome,11:00-21:00,SSO,"CRM,Confluence,HRIS,AWS Console"
+87ef4cf7-1e1f-44e9-ac01-6be9a94340bc,User,Sales,Netherlands Antilles,Lake Georgebury,160.134.124.26,macOS 13 - Firefox,07:00-16:00,Biometric,Database
+ceda44ff-4a99-40be-af78-f6f1af598d50,User,HR,Sudan,Campbellton,40.116.133.82,macOS 13 - Firefox,06:00-14:00,Biometric,"Database,Intranet,Jira,VPN"
+16f7a348-c6e1-45ef-aa5d-b2b59530dda7,User,IT,Tokelau,Riverabury,99.200.254.16,Windows 10 - Chrome,07:00-16:00,MFA,AWS Console
+0101ffbb-e1dd-4ba3-872b-41ba9b8913f4,User,Sales,Rwanda,Seanview,36.26.23.6,Windows 10 - Edge,09:00-18:00,Biometric,"AWS Console,Email,CRM,Confluence"
+cb363dad-9a52-4a73-b718-d42a1b6ce3dc,User,Engineering,Guadeloupe,Martinhaven,144.62.92.126,Ubuntu 22.04 - Firefox,06:00-14:00,Password,"VPN,Intranet,CRM"
+74433488-bf64-4318-83d5-50201dff4973,User,Sales,Tonga,West Daniel,36.148.255.42,macOS 13 - Chrome,11:00-20:00,MFA,"Jira,AWS Console"
+ca8a5849-0f27-4c2d-8baf-73c822c3b543,User,Executive,Kenya,Hansonfurt,37.38.142.49,Ubuntu 22.04 - Chrome,08:00-16:00,MFA,Intranet
+ca17ba53-4a58-42bb-a346-210e97fc7c48,User,Marketing,Cape Verde,Vanessafort,104.119.194.52,macOS 13 - Edge,10:00-18:00,Hardware Token,Email
+f8dd565d-4bc1-479c-8e14-c31c229cc92d,User,Finance,Bangladesh,Denisehaven,131.242.230.44,Ubuntu 22.04 - Edge,09:00-18:00,Hardware Token,"Confluence,VPN"
+40666422-e20e-470a-ba41-a84839a0ffb5,User,IT,Sao Tome and Principe,Port Brandonview,15.26.112.80,macOS 13 - Safari,10:00-20:00,Password,"HRIS,Intranet,Database,Email"
+fe63b40b-303b-44bc-a702-2240bf96abfc,User,Engineering,Cook Islands,Katherineborough,95.252.229.122,macOS 13 - Safari,08:00-17:00,Biometric,"GitLab,VPN,Confluence,Jira"
+24c7e723-6038-46e7-9a57-3471f2a7b2ab,User,Sales,Chad,East Carolyn,176.76.211.111,Windows 10 - Edge,08:00-16:00,MFA,"GitLab,HRIS"
+a487520e-2fea-42fc-b872-e2816e4042f9,User,HR,Mauritania,Clarkton,27.111.26.233,Windows 10 - Safari,06:00-16:00,SSO,Email
+037d384c-1521-4f2e-9386-b26b133398cc,User,Marketing,Burkina Faso,New Nicholas,115.59.221.73,Windows 10 - Chrome,09:00-17:00,MFA,Database
+0000af56-3d53-49f4-973b-6eeb00dbca7d,User,Operations,Dominican Republic,New William,59.177.27.114,macOS 13 - Chrome,06:00-14:00,MFA,Database
+a60f25d3-e692-45be-97d6-932b2be50a12,User,Engineering,Guatemala,Woodchester,61.243.210.58,Windows 10 - Safari,10:00-19:00,Hardware Token,"Confluence,CRM"
+8fd4cf36-b70b-48fb-b009-679f07052e7b,Device,IT,Brunei Darussalam,Nicholsonburgh,154.203.8.53,Load Balancer,10:00-20:00,MFA,"AWS Console,GitLab,CRM,Jira"
+21de094b-9eba-4d0c-9d2c-402250473e78,Device,IT,Korea,Kelliburgh,215.102.30.192,Database Server,10:00-20:00,SSO,"GitLab,Confluence"
+3a399a3e-7457-4019-87c9-99309519a142,User,HR,Kyrgyz Republic,New Alexaville,116.8.245.162,macOS 13 - Firefox,06:00-14:00,MFA,"CRM,Confluence,Intranet,Database"
+a031ae0a-fc8f-4df1-bb24-0b1791d6d3ba,User,Executive,Suriname,Christinachester,22.117.18.80,macOS 13 - Edge,07:00-16:00,Password,"Jira,AWS Console,HRIS,Database"
+e5087288-c620-483d-9dbf-8212393afa32,User,IT,Uzbekistan,New Ashley,38.39.182.175,macOS 13 - Edge,11:00-19:00,Hardware Token,"Jira,Confluence,AWS Console,Email"
+6be7bbc1-e9e4-47c7-b2fb-de255d7af943,User,HR,Maldives,Port Kari,133.5.132.238,Ubuntu 22.04 - Safari,06:00-15:00,Hardware Token,"GitLab,Email,CRM"
+145224e0-92f8-4221-b571-d877a818c0bf,User,IT,Anguilla,East Autumnmouth,191.17.134.96,Windows 11 - Firefox,09:00-18:00,Password,"CRM,GitLab"
+10ac684d-66f5-45fb-8c60-57a6e0ee966a,User,Operations,Falkland Islands (Malvinas),South Nicholas,93.164.182.168,Windows 11 - Chrome,08:00-16:00,Password,"HRIS,CRM,VPN"
+c9c1b16e-13af-4c27-b31f-3f19acfbc028,User,IT,Papua New Guinea,Lake Katherine,41.162.202.245,Windows 11 - Chrome,07:00-15:00,Biometric,"VPN,Confluence,GitLab"
+8fb9b892-26d0-48d7-86b6-6e3cbc404ed2,Device,IT,Gambia,East Lisa,4.224.109.120,Database Server,06:00-16:00,MFA,"Database,HRIS,Confluence"
+82cc7a00-7efa-4f68-af5e-48da19594283,User,Engineering,Lithuania,Dawnstad,121.33.39.159,macOS 13 - Chrome,06:00-14:00,Hardware Token,"Intranet,VPN"
+b06f4185-369f-4043-aaa6-c7c952393e9d,User,Sales,Chile,Hallborough,55.140.54.245,macOS 13 - Firefox,11:00-21:00,Hardware Token,"Intranet,GitLab,Email"
+00a87eaa-6ef6-406b-869a-777df1608bb1,User,HR,Samoa,Port Joel,12.136.228.117,Windows 10 - Safari,07:00-15:00,Password,"Intranet,GitLab,Confluence"
+d886701e-233b-4a3c-944c-723d36c02938,User,Marketing,Anguilla,Ashleyville,123.193.105.91,Ubuntu 22.04 - Edge,06:00-16:00,SSO,CRM
+ffffacff-aa3e-4242-820b-4698983d8efa,User,Engineering,Azerbaijan,North Travismouth,12.184.175.13,Windows 11 - Safari,08:00-16:00,MFA,Confluence
+22dc03ea-2746-4ab9-a4a6-06ad4c4a4adc,User,Marketing,Syrian Arab Republic,West Jonathan,29.227.97.112,Ubuntu 22.04 - Chrome,10:00-18:00,MFA,"Jira,GitLab"
+a2194dce-ecbd-4227-9fcc-37cbadb7d5cc,User,Finance,Ecuador,West Scottchester,139.162.155.24,Ubuntu 22.04 - Firefox,09:00-19:00,Biometric,"Email,AWS Console"
+e10cf797-ba24-4fb1-a465-3ef1a2e01027,Device,IT,Senegal,New Edgarburgh,172.125.51.214,App Server,08:00-16:00,MFA,"HRIS,CRM,Email,Jira"
+f98a1c8f-ad4a-47e1-8cf3-0a95bd77e982,User,Executive,Sierra Leone,Lake Jameshaven,89.216.52.74,Windows 10 - Chrome,09:00-18:00,MFA,"Confluence,CRM"
+c4abe332-4245-4f4c-abed-00fb83718d3a,User,Marketing,Saint Lucia,Hawkinstown,217.163.53.174,Ubuntu 22.04 - Chrome,07:00-15:00,Password,"GitLab,Database,Confluence"
+a9b728d0-48d7-4fa4-9a2a-970424fb46b5,User,Engineering,Solomon Islands,North Randall,49.13.141.233,Windows 11 - Safari,08:00-18:00,Hardware Token,"CRM,GitLab,Jira,AWS Console"
+4cadf7ca-19d6-4c77-8218-acc7484ca234,Device,IT,Somalia,Lake Beth,92.33.45.203,Network Router,11:00-20:00,Hardware Token,"VPN,Database,HRIS"
+1121410e-a37b-45d8-8a9e-cd94c69d34ea,User,Executive,Liechtenstein,East Katrina,69.147.151.234,Windows 10 - Edge,10:00-19:00,Biometric,"HRIS,AWS Console,Intranet,Database"
+9fcf1ba3-51b6-4419-b51e-0e5f89e723c3,User,Engineering,Ukraine,North Kellyville,7.33.165.41,Windows 11 - Edge,06:00-15:00,SSO,"VPN,Confluence,GitLab"
+72900180-474a-4cf6-9a5f-45f7bfa4695b,User,HR,Thailand,Perezview,95.125.133.46,macOS 13 - Safari,09:00-19:00,Biometric,"Intranet,Database,HRIS"
+658f7291-52e5-49a5-9a92-9cb51f87a189,Device,IT,Fiji,Harrisshire,64.188.154.157,App Server,11:00-21:00,Hardware Token,"Database,HRIS"
+f6da7bd2-3393-4b65-94d4-2e74e6a45f7f,User,Finance,Guadeloupe,New Annetteborough,214.229.162.28,macOS 13 - Edge,10:00-20:00,SSO,Jira
+c41ff72f-ca8e-4fe7-8272-c28a3bbaf9d5,User,Marketing,Sao Tome and Principe,Jacksonburgh,94.190.229.111,Windows 11 - Safari,08:00-18:00,MFA,"Database,VPN,AWS Console"
+54950bae-5db9-426e-a6a8-d488c99749d3,User,Marketing,China,Tracyfurt,26.147.140.152,macOS 13 - Firefox,11:00-20:00,SSO,"VPN,Database"
+53e1e8a8-b5c6-4ad9-8846-40fad12c8b66,User,IT,Argentina,Paulton,138.130.157.28,Windows 10 - Safari,07:00-17:00,SSO,GitLab
+329b7867-67e2-4b95-af63-0c4b79d13ccc,Device,IT,Tuvalu,Lake Amy,14.175.60.228,IoT Sensor,11:00-20:00,MFA,"HRIS,Database"
+6649f379-cae6-4cb8-8b27-48d7917fb450,User,HR,Lao People's Democratic Republic,South Michaelstad,106.11.105.216,macOS 13 - Safari,11:00-19:00,SSO,"Email,VPN,Database,Intranet"

@@ -1,0 +1,3001 @@
+device_id,device_type,os
+DEV00000,Laptop,Ubuntu
+DEV00001,Desktop,Ubuntu
+DEV00002,Desktop,Ubuntu
+DEV00003,Desktop,Windows 11
+DEV00004,Desktop,macOS
+DEV00005,Desktop,Ubuntu
+DEV00006,Laptop,macOS
+DEV00007,Laptop,macOS
+DEV00008,Desktop,Windows 11
+DEV00009,Laptop,Windows 11
+DEV00010,Laptop,Ubuntu
+DEV00011,Laptop,macOS
+DEV00012,Laptop,macOS
+DEV00013,Desktop,Ubuntu
+DEV00014,Laptop,Ubuntu
+DEV00015,Desktop,macOS
+DEV00016,Laptop,Windows 11
+DEV00017,Laptop,macOS
+DEV00018,Desktop,Ubuntu
+DEV00019,Laptop,Ubuntu
+DEV00020,Desktop,macOS
+DEV00021,Desktop,Windows 11
+DEV00022,Laptop,macOS
+DEV00023,Desktop,Ubuntu
+DEV00024,Desktop,macOS
+DEV00025,Laptop,Windows 11
+DEV00026,Laptop,Ubuntu
+DEV00027,Desktop,macOS
+DEV00028,Desktop,Ubuntu
+DEV00029,Laptop,macOS
+DEV00030,Laptop,Ubuntu
+DEV00031,Laptop,macOS
+DEV00032,Desktop,macOS
+DEV00033,Desktop,Ubuntu
+DEV00034,Desktop,macOS
+DEV00035,Laptop,macOS
+DEV00036,Desktop,macOS
+DEV00037,Desktop,macOS
+DEV00038,Laptop,Windows 11
+DEV00039,Desktop,Ubuntu
+DEV00040,Laptop,Windows 11
+DEV00041,Desktop,Windows 11
+DEV00042,Desktop,Ubuntu
+DEV00043,Laptop,macOS
+DEV00044,Desktop,Windows 11
+DEV00045,Laptop,Ubuntu
+DEV00046,Desktop,macOS
+DEV00047,Laptop,Ubuntu
+DEV00048,Desktop,Windows 11
+DEV00049,Desktop,Windows 11
+DEV00050,Desktop,Ubuntu
+DEV00051,Desktop,Windows 11
+DEV00052,Desktop,Windows 11
+DEV00053,Laptop,Ubuntu
+DEV00054,Laptop,Windows 11
+DEV00055,Laptop,Ubuntu
+DEV00056,Laptop,Ubuntu
+DEV00057,Laptop,Windows 11
+DEV00058,Desktop,Ubuntu
+DEV00059,Desktop,Ubuntu
+DEV00060,Laptop,Windows 11
+DEV00061,Laptop,Windows 11
+DEV00062,Laptop,Ubuntu
+DEV00063,Desktop,macOS
+DEV00064,Laptop,Windows 11
+DEV00065,Desktop,Windows 11
+DEV00066,Laptop,Ubuntu
+DEV00067,Desktop,Windows 11
+DEV00068,Laptop,macOS
+DEV00069,Desktop,Windows 11
+DEV00070,Desktop,macOS
+DEV00071,Laptop,Ubuntu
+DEV00072,Laptop,Windows 11
+DEV00073,Desktop,Ubuntu
+DEV00074,Desktop,Ubuntu
+DEV00075,Laptop,Ubuntu
+DEV00076,Laptop,Windows 11
+DEV00077,Desktop,Windows 11
+DEV00078,Laptop,macOS
+DEV00079,Laptop,Windows 11
+DEV00080,Desktop,macOS
+DEV00081,Desktop,Ubuntu
+DEV00082,Laptop,macOS
+DEV00083,Desktop,macOS
+DEV00084,Laptop,Windows 11
+DEV00085,Laptop,Ubuntu
+DEV00086,Desktop,macOS
+DEV00087,Desktop,Windows 11
+DEV00088,Laptop,Windows 11
+DEV00089,Desktop,macOS
+DEV00090,Laptop,Windows 11
+DEV00091,Desktop,Windows 11
+DEV00092,Laptop,Ubuntu
+DEV00093,Desktop,Windows 11
+DEV00094,Desktop,macOS
+DEV00095,Desktop,Ubuntu
+DEV00096,Desktop,Windows 11
+DEV00097,Laptop,Ubuntu
+DEV00098,Laptop,Windows 11
+DEV00099,Desktop,Windows 11
+DEV00100,Desktop,Ubuntu
+DEV00101,Desktop,Ubuntu
+DEV00102,Laptop,Windows 11
+DEV00103,Laptop,macOS
+DEV00104,Desktop,Ubuntu
+DEV00105,Desktop,Windows 11
+DEV00106,Desktop,Ubuntu
+DEV00107,Desktop,Ubuntu
+DEV00108,Laptop,Windows 11
+DEV00109,Desktop,Windows 11
+DEV00110,Desktop,Ubuntu
+DEV00111,Desktop,Windows 11
+DEV00112,Desktop,Ubuntu
+DEV00113,Laptop,macOS
+DEV00114,Laptop,Ubuntu
+DEV00115,Laptop,Ubuntu
+DEV00116,Laptop,Ubuntu
+DEV00117,Desktop,Ubuntu
+DEV00118,Desktop,Windows 11
+DEV00119,Laptop,macOS
+DEV00120,Laptop,Ubuntu
+DEV00121,Desktop,Windows 11
+DEV00122,Desktop,Windows 11
+DEV00123,Desktop,Ubuntu
+DEV00124,Desktop,macOS
+DEV00125,Laptop,Windows 11
+DEV00126,Laptop,macOS
+DEV00127,Desktop,Windows 11
+DEV00128,Desktop,Ubuntu
+DEV00129,Laptop,Ubuntu
+DEV00130,Laptop,Ubuntu
+DEV00131,Desktop,Windows 11
+DEV00132,Laptop,macOS
+DEV00133,Desktop,Ubuntu
+DEV00134,Desktop,macOS
+DEV00135,Laptop,Windows 11
+DEV00136,Laptop,Windows 11
+DEV00137,Laptop,Windows 11
+DEV00138,Laptop,Ubuntu
+DEV00139,Desktop,Ubuntu
+DEV00140,Desktop,Windows 11
+DEV00141,Laptop,macOS
+DEV00142,Desktop,Ubuntu
+DEV00143,Desktop,Ubuntu
+DEV00144,Desktop,Windows 11
+DEV00145,Laptop,macOS
+DEV00146,Desktop,Windows 11
+DEV00147,Desktop,Windows 11
+DEV00148,Desktop,macOS
+DEV00149,Laptop,Windows 11
+DEV00150,Desktop,Windows 11
+DEV00151,Desktop,Windows 11
+DEV00152,Laptop,Ubuntu
+DEV00153,Desktop,macOS
+DEV00154,Desktop,macOS
+DEV00155,Desktop,Ubuntu
+DEV00156,Desktop,Ubuntu
+DEV00157,Laptop,macOS
+DEV00158,Laptop,Ubuntu
+DEV00159,Laptop,Windows 11
+DEV00160,Desktop,Ubuntu
+DEV00161,Desktop,Windows 11
+DEV00162,Desktop,macOS
+DEV00163,Laptop,Windows 11
+DEV00164,Laptop,Windows 11
+DEV00165,Laptop,Windows 11
+DEV00166,Desktop,macOS
+DEV00167,Desktop,Windows 11
+DEV00168,Laptop,Windows 11
+DEV00169,Desktop,Ubuntu
+DEV00170,Desktop,macOS
+DEV00171,Laptop,Ubuntu
+DEV00172,Desktop,macOS
+DEV00173,Desktop,Ubuntu
+DEV00174,Desktop,Windows 11
+DEV00175,Laptop,Ubuntu
+DEV00176,Laptop,macOS
+DEV00177,Desktop,macOS
+DEV00178,Laptop,macOS
+DEV00179,Desktop,Ubuntu
+DEV00180,Desktop,Windows 11
+DEV00181,Laptop,macOS
+DEV00182,Desktop,macOS
+DEV00183,Desktop,Windows 11
+DEV00184,Desktop,macOS
+DEV00185,Laptop,Windows 11
+DEV00186,Desktop,Ubuntu
+DEV00187,Laptop,macOS
+DEV00188,Laptop,Windows 11
+DEV00189,Desktop,macOS
+DEV00190,Laptop,macOS
+DEV00191,Desktop,macOS
+DEV00192,Laptop,Ubuntu
+DEV00193,Laptop,Ubuntu
+DEV00194,Desktop,macOS
+DEV00195,Desktop,macOS
+DEV00196,Desktop,Ubuntu
+DEV00197,Desktop,Ubuntu
+DEV00198,Desktop,Windows 11
+DEV00199,Laptop,macOS
+DEV00200,Desktop,macOS
+DEV00201,Desktop,Windows 11
+DEV00202,Desktop,macOS
+DEV00203,Laptop,macOS
+DEV00204,Laptop,macOS
+DEV00205,Desktop,macOS
+DEV00206,Laptop,Ubuntu
+DEV00207,Desktop,Windows 11
+DEV00208,Laptop,macOS
+DEV00209,Laptop,Ubuntu
+DEV00210,Desktop,Windows 11
+DEV00211,Desktop,Ubuntu
+DEV00212,Desktop,Windows 11
+DEV00213,Laptop,macOS
+DEV00214,Laptop,macOS
+DEV00215,Laptop,macOS
+DEV00216,Desktop,Ubuntu
+DEV00217,Laptop,Ubuntu
+DEV00218,Laptop,Ubuntu
+DEV00219,Laptop,macOS
+DEV00220,Laptop,Ubuntu
+DEV00221,Laptop,Windows 11
+DEV00222,Laptop,Ubuntu
+DEV00223,Desktop,Ubuntu
+DEV00224,Laptop,macOS
+DEV00225,Desktop,macOS
+DEV00226,Laptop,Windows 11
+DEV00227,Desktop,Windows 11
+DEV00228,Desktop,Windows 11
+DEV00229,Laptop,Windows 11
+DEV00230,Desktop,Ubuntu
+DEV00231,Desktop,Ubuntu
+DEV00232,Desktop,macOS
+DEV00233,Laptop,Ubuntu
+DEV00234,Desktop,Ubuntu
+DEV00235,Desktop,Windows 11
+DEV00236,Desktop,Windows 11
+DEV00237,Desktop,Ubuntu
+DEV00238,Desktop,macOS
+DEV00239,Desktop,macOS
+DEV00240,Laptop,Windows 11
+DEV00241,Desktop,Ubuntu
+DEV00242,Desktop,Ubuntu
+DEV00243,Desktop,Ubuntu
+DEV00244,Laptop,Ubuntu
+DEV00245,Desktop,Ubuntu
+DEV00246,Laptop,macOS
+DEV00247,Laptop,macOS
+DEV00248,Desktop,macOS
+DEV00249,Laptop,Ubuntu
+DEV00250,Laptop,macOS
+DEV00251,Laptop,Windows 11
+DEV00252,Laptop,Ubuntu
+DEV00253,Laptop,macOS
+DEV00254,Laptop,macOS
+DEV00255,Desktop,Ubuntu
+DEV00256,Laptop,macOS
+DEV00257,Desktop,Ubuntu
+DEV00258,Laptop,Windows 11
+DEV00259,Laptop,macOS
+DEV00260,Laptop,Windows 11
+DEV00261,Laptop,macOS
+DEV00262,Laptop,macOS
+DEV00263,Laptop,Windows 11
+DEV00264,Laptop,Ubuntu
+DEV00265,Laptop,Windows 11
+DEV00266,Laptop,Ubuntu
+DEV00267,Desktop,Ubuntu
+DEV00268,Laptop,macOS
+DEV00269,Desktop,Ubuntu
+DEV00270,Desktop,macOS
+DEV00271,Desktop,Ubuntu
+DEV00272,Laptop,Windows 11
+DEV00273,Desktop,Windows 11
+DEV00274,Desktop,Ubuntu
+DEV00275,Desktop,Windows 11
+DEV00276,Desktop,Ubuntu
+DEV00277,Laptop,Ubuntu
+DEV00278,Laptop,Ubuntu
+DEV00279,Laptop,macOS
+DEV00280,Desktop,Windows 11
+DEV00281,Desktop,Windows 11
+DEV00282,Laptop,macOS
+DEV00283,Desktop,Windows 11
+DEV00284,Laptop,Ubuntu
+DEV00285,Desktop,Windows 11
+DEV00286,Laptop,Windows 11
+DEV00287,Laptop,macOS
+DEV00288,Desktop,Ubuntu
+DEV00289,Laptop,Ubuntu
+DEV00290,Laptop,macOS
+DEV00291,Laptop,Windows 11
+DEV00292,Desktop,Ubuntu
+DEV00293,Laptop,macOS
+DEV00294,Desktop,Ubuntu
+DEV00295,Laptop,macOS
+DEV00296,Desktop,Ubuntu
+DEV00297,Desktop,Ubuntu
+DEV00298,Laptop,macOS
+DEV00299,Laptop,Windows 11
+DEV00300,Desktop,macOS
+DEV00301,Desktop,Windows 11
+DEV00302,Desktop,Ubuntu
+DEV00303,Desktop,Ubuntu
+DEV00304,Laptop,macOS
+DEV00305,Laptop,Ubuntu
+DEV00306,Desktop,Windows 11
+DEV00307,Desktop,Ubuntu
+DEV00308,Laptop,Windows 11
+DEV00309,Laptop,Ubuntu
+DEV00310,Laptop,Ubuntu
+DEV00311,Desktop,Windows 11
+DEV00312,Desktop,Ubuntu
+DEV00313,Laptop,macOS
+DEV00314,Desktop,macOS
+DEV00315,Laptop,Windows 11
+DEV00316,Laptop,Windows 11
+DEV00317,Laptop,macOS
+DEV00318,Laptop,Ubuntu
+DEV00319,Desktop,Windows 11
+DEV00320,Desktop,Ubuntu
+DEV00321,Desktop,Windows 11
+DEV00322,Laptop,Ubuntu
+DEV00323,Laptop,Ubuntu
+DEV00324,Laptop,Ubuntu
+DEV00325,Laptop,Windows 11
+DEV00326,Desktop,macOS
+DEV00327,Laptop,macOS
+DEV00328,Laptop,Windows 11
+DEV00329,Laptop,macOS
+DEV00330,Laptop,Ubuntu
+DEV00331,Laptop,Ubuntu
+DEV00332,Laptop,Windows 11
+DEV00333,Laptop,Windows 11
+DEV00334,Laptop,macOS
+DEV00335,Laptop,Ubuntu
+DEV00336,Laptop,Ubuntu
+DEV00337,Laptop,macOS
+DEV00338,Laptop,Windows 11
+DEV00339,Laptop,Ubuntu
+DEV00340,Laptop,Windows 11
+DEV00341,Laptop,Ubuntu
+DEV00342,Desktop,macOS
+DEV00343,Desktop,Ubuntu
+DEV00344,Laptop,macOS
+DEV00345,Laptop,Ubuntu
+DEV00346,Laptop,Windows 11
+DEV00347,Laptop,Ubuntu
+DEV00348,Laptop,Windows 11
+DEV00349,Desktop,Windows 11
+DEV00350,Desktop,Windows 11
+DEV00351,Desktop,macOS
+DEV00352,Laptop,Ubuntu
+DEV00353,Laptop,macOS
+DEV00354,Laptop,Windows 11
+DEV00355,Laptop,macOS
+DEV00356,Desktop,Windows 11
+DEV00357,Laptop,Ubuntu
+DEV00358,Laptop,Windows 11
+DEV00359,Laptop,Windows 11
+DEV00360,Laptop,macOS
+DEV00361,Desktop,Ubuntu
+DEV00362,Desktop,macOS
+DEV00363,Laptop,Windows 11
+DEV00364,Laptop,macOS
+DEV00365,Desktop,macOS
+DEV00366,Desktop,Ubuntu
+DEV00367,Laptop,Windows 11
+DEV00368,Laptop,macOS
+DEV00369,Laptop,macOS
+DEV00370,Desktop,macOS
+DEV00371,Laptop,macOS
+DEV00372,Desktop,Ubuntu
+DEV00373,Desktop,Windows 11
+DEV00374,Laptop,Windows 11
+DEV00375,Laptop,macOS
+DEV00376,Laptop,macOS
+DEV00377,Desktop,macOS
+DEV00378,Laptop,Ubuntu
+DEV00379,Laptop,Ubuntu
+DEV00380,Laptop,Windows 11
+DEV00381,Laptop,Windows 11
+DEV00382,Desktop,Ubuntu
+DEV00383,Laptop,Windows 11
+DEV00384,Laptop,Windows 11
+DEV00385,Desktop,Ubuntu
+DEV00386,Laptop,Ubuntu
+DEV00387,Desktop,Ubuntu
+DEV00388,Desktop,Windows 11
+DEV00389,Laptop,macOS
+DEV00390,Laptop,macOS
+DEV00391,Laptop,Windows 11
+DEV00392,Laptop,Ubuntu
+DEV00393,Laptop,Windows 11
+DEV00394,Laptop,macOS
+DEV00395,Desktop,macOS
+DEV00396,Desktop,Ubuntu
+DEV00397,Laptop,macOS
+DEV00398,Desktop,Windows 11
+DEV00399,Laptop,Ubuntu
+DEV00400,Laptop,Windows 11
+DEV00401,Laptop,macOS
+DEV00402,Desktop,Windows 11
+DEV00403,Desktop,Windows 11
+DEV00404,Laptop,Ubuntu
+DEV00405,Desktop,Windows 11
+DEV00406,Desktop,Windows 11
+DEV00407,Laptop,macOS
+DEV00408,Desktop,Windows 11
+DEV00409,Desktop,Ubuntu
+DEV00410,Laptop,Ubuntu
+DEV00411,Laptop,macOS
+DEV00412,Desktop,Ubuntu
+DEV00413,Laptop,Ubuntu
+DEV00414,Laptop,Windows 11
+DEV00415,Laptop,Ubuntu
+DEV00416,Laptop,Windows 11
+DEV00417,Desktop,Ubuntu
+DEV00418,Desktop,Windows 11
+DEV00419,Desktop,Windows 11
+DEV00420,Desktop,macOS
+DEV00421,Laptop,macOS
+DEV00422,Laptop,macOS
+DEV00423,Laptop,Windows 11
+DEV00424,Desktop,macOS
+DEV00425,Desktop,Windows 11
+DEV00426,Desktop,Ubuntu
+DEV00427,Desktop,Windows 11
+DEV00428,Desktop,macOS
+DEV00429,Laptop,Windows 11
+DEV00430,Desktop,Ubuntu
+DEV00431,Laptop,macOS
+DEV00432,Laptop,macOS
+DEV00433,Laptop,Ubuntu
+DEV00434,Laptop,Windows 11
+DEV00435,Desktop,macOS
+DEV00436,Laptop,Ubuntu
+DEV00437,Desktop,Ubuntu
+DEV00438,Laptop,Ubuntu
+DEV00439,Desktop,Windows 11
+DEV00440,Laptop,macOS
+DEV00441,Laptop,macOS
+DEV00442,Desktop,Windows 11
+DEV00443,Laptop,Ubuntu
+DEV00444,Desktop,Windows 11
+DEV00445,Laptop,Windows 11
+DEV00446,Desktop,macOS
+DEV00447,Desktop,Windows 11
+DEV00448,Desktop,macOS
+DEV00449,Laptop,Ubuntu
+DEV00450,Desktop,Windows 11
+DEV00451,Desktop,Windows 11
+DEV00452,Desktop,macOS
+DEV00453,Desktop,macOS
+DEV00454,Laptop,macOS
+DEV00455,Laptop,Ubuntu
+DEV00456,Desktop,macOS
+DEV00457,Laptop,Ubuntu
+DEV00458,Desktop,Ubuntu
+DEV00459,Laptop,macOS
+DEV00460,Laptop,macOS
+DEV00461,Desktop,macOS
+DEV00462,Laptop,macOS
+DEV00463,Desktop,Windows 11
+DEV00464,Laptop,Ubuntu
+DEV00465,Desktop,Ubuntu
+DEV00466,Laptop,Ubuntu
+DEV00467,Desktop,Windows 11
+DEV00468,Laptop,macOS
+DEV00469,Laptop,Windows 11
+DEV00470,Desktop,Windows 11
+DEV00471,Laptop,macOS
+DEV00472,Desktop,macOS
+DEV00473,Laptop,macOS
+DEV00474,Laptop,Ubuntu
+DEV00475,Desktop,Ubuntu
+DEV00476,Desktop,Ubuntu
+DEV00477,Laptop,Windows 11
+DEV00478,Desktop,Ubuntu
+DEV00479,Desktop,Ubuntu
+DEV00480,Laptop,Ubuntu
+DEV00481,Desktop,Ubuntu
+DEV00482,Desktop,macOS
+DEV00483,Laptop,Windows 11
+DEV00484,Desktop,Windows 11
+DEV00485,Laptop,Ubuntu
+DEV00486,Laptop,Ubuntu
+DEV00487,Laptop,Windows 11
+DEV00488,Laptop,Ubuntu
+DEV00489,Laptop,macOS
+DEV00490,Laptop,Ubuntu
+DEV00491,Laptop,Windows 11
+DEV00492,Laptop,Ubuntu
+DEV00493,Desktop,macOS
+DEV00494,Laptop,Ubuntu
+DEV00495,Desktop,Ubuntu
+DEV00496,Desktop,macOS
+DEV00497,Laptop,Ubuntu
+DEV00498,Laptop,Windows 11
+DEV00499,Laptop,Windows 11
+DEV00500,Desktop,Ubuntu
+DEV00501,Desktop,macOS
+DEV00502,Desktop,Ubuntu
+DEV00503,Desktop,Ubuntu
+DEV00504,Desktop,macOS
+DEV00505,Laptop,Ubuntu
+DEV00506,Laptop,Ubuntu
+DEV00507,Laptop,Ubuntu
+DEV00508,Desktop,Ubuntu
+DEV00509,Laptop,Windows 11
+DEV00510,Desktop,Ubuntu
+DEV00511,Desktop,Windows 11
+DEV00512,Laptop,macOS
+DEV00513,Desktop,Windows 11
+DEV00514,Laptop,macOS
+DEV00515,Laptop,Windows 11
+DEV00516,Laptop,Windows 11
+DEV00517,Laptop,Ubuntu
+DEV00518,Laptop,Ubuntu
+DEV00519,Desktop,Ubuntu
+DEV00520,Laptop,Windows 11
+DEV00521,Laptop,macOS
+DEV00522,Desktop,Ubuntu
+DEV00523,Laptop,Ubuntu
+DEV00524,Desktop,macOS
+DEV00525,Laptop,macOS
+DEV00526,Desktop,Windows 11
+DEV00527,Laptop,Ubuntu
+DEV00528,Desktop,Windows 11
+DEV00529,Desktop,Ubuntu
+DEV00530,Laptop,Windows 11
+DEV00531,Desktop,macOS
+DEV00532,Desktop,Ubuntu
+DEV00533,Desktop,macOS
+DEV00534,Laptop,macOS
+DEV00535,Desktop,Ubuntu
+DEV00536,Laptop,macOS
+DEV00537,Desktop,Windows 11
+DEV00538,Laptop,macOS
+DEV00539,Laptop,Ubuntu
+DEV00540,Laptop,Ubuntu
+DEV00541,Laptop,Ubuntu
+DEV00542,Desktop,Windows 11
+DEV00543,Desktop,Windows 11
+DEV00544,Laptop,macOS
+DEV00545,Laptop,Ubuntu
+DEV00546,Laptop,Windows 11
+DEV00547,Laptop,macOS
+DEV00548,Desktop,macOS
+DEV00549,Laptop,macOS
+DEV00550,Desktop,Windows 11
+DEV00551,Desktop,Ubuntu
+DEV00552,Laptop,macOS
+DEV00553,Desktop,Ubuntu
+DEV00554,Laptop,macOS
+DEV00555,Desktop,Ubuntu
+DEV00556,Desktop,Ubuntu
+DEV00557,Laptop,Ubuntu
+DEV00558,Desktop,Ubuntu
+DEV00559,Desktop,Ubuntu
+DEV00560,Laptop,Windows 11
+DEV00561,Desktop,macOS
+DEV00562,Desktop,Ubuntu
+DEV00563,Desktop,Windows 11
+DEV00564,Desktop,macOS
+DEV00565,Desktop,Windows 11
+DEV00566,Laptop,Windows 11
+DEV00567,Laptop,Ubuntu
+DEV00568,Desktop,macOS
+DEV00569,Desktop,Windows 11
+DEV00570,Desktop,Windows 11
+DEV00571,Laptop,Ubuntu
+DEV00572,Desktop,Ubuntu
+DEV00573,Laptop,macOS
+DEV00574,Desktop,macOS
+DEV00575,Laptop,Windows 11
+DEV00576,Laptop,Ubuntu
+DEV00577,Desktop,macOS
+DEV00578,Desktop,Windows 11
+DEV00579,Desktop,macOS
+DEV00580,Desktop,Ubuntu
+DEV00581,Desktop,Windows 11
+DEV00582,Laptop,Windows 11
+DEV00583,Laptop,Ubuntu
+DEV00584,Desktop,macOS
+DEV00585,Desktop,Windows 11
+DEV00586,Desktop,Ubuntu
+DEV00587,Laptop,Ubuntu
+DEV00588,Laptop,Windows 11
+DEV00589,Laptop,Ubuntu
+DEV00590,Desktop,Windows 11
+DEV00591,Desktop,macOS
+DEV00592,Desktop,macOS
+DEV00593,Desktop,Ubuntu
+DEV00594,Desktop,macOS
+DEV00595,Laptop,Ubuntu
+DEV00596,Laptop,Ubuntu
+DEV00597,Laptop,macOS
+DEV00598,Laptop,Windows 11
+DEV00599,Desktop,Ubuntu
+DEV00600,Laptop,Ubuntu
+DEV00601,Laptop,Windows 11
+DEV00602,Desktop,Ubuntu
+DEV00603,Desktop,macOS
+DEV00604,Desktop,Windows 11
+DEV00605,Desktop,Ubuntu
+DEV00606,Laptop,macOS
+DEV00607,Laptop,macOS
+DEV00608,Laptop,Windows 11
+DEV00609,Laptop,macOS
+DEV00610,Desktop,Ubuntu
+DEV00611,Desktop,Ubuntu
+DEV00612,Desktop,Windows 11
+DEV00613,Desktop,Windows 11
+DEV00614,Laptop,Windows 11
+DEV00615,Desktop,Ubuntu
+DEV00616,Desktop,Ubuntu
+DEV00617,Desktop,Windows 11
+DEV00618,Laptop,Windows 11
+DEV00619,Laptop,macOS
+DEV00620,Laptop,Windows 11
+DEV00621,Laptop,Ubuntu
+DEV00622,Desktop,Windows 11
+DEV00623,Laptop,Windows 11
+DEV00624,Laptop,Ubuntu
+DEV00625,Desktop,Ubuntu
+DEV00626,Desktop,Windows 11
+DEV00627,Desktop,macOS
+DEV00628,Desktop,Windows 11
+DEV00629,Desktop,Windows 11
+DEV00630,Laptop,Windows 11
+DEV00631,Laptop,macOS
+DEV00632,Laptop,macOS
+DEV00633,Laptop,Ubuntu
+DEV00634,Laptop,Windows 11
+DEV00635,Laptop,Windows 11
+DEV00636,Desktop,macOS
+DEV00637,Laptop,Windows 11
+DEV00638,Laptop,Ubuntu
+DEV00639,Desktop,Windows 11
+DEV00640,Laptop,Windows 11
+DEV00641,Laptop,macOS
+DEV00642,Laptop,Ubuntu
+DEV00643,Laptop,Ubuntu
+DEV00644,Laptop,Windows 11
+DEV00645,Desktop,macOS
+DEV00646,Laptop,Windows 11
+DEV00647,Laptop,macOS
+DEV00648,Laptop,macOS
+DEV00649,Laptop,Windows 11
+DEV00650,Desktop,Windows 11
+DEV00651,Laptop,Windows 11
+DEV00652,Desktop,macOS
+DEV00653,Desktop,Ubuntu
+DEV00654,Laptop,macOS
+DEV00655,Laptop,macOS
+DEV00656,Laptop,Windows 11
+DEV00657,Laptop,macOS
+DEV00658,Laptop,macOS
+DEV00659,Laptop,Ubuntu
+DEV00660,Laptop,macOS
+DEV00661,Laptop,macOS
+DEV00662,Laptop,Windows 11
+DEV00663,Desktop,Ubuntu
+DEV00664,Laptop,Ubuntu
+DEV00665,Laptop,Windows 11
+DEV00666,Desktop,Ubuntu
+DEV00667,Desktop,Windows 11
+DEV00668,Laptop,Ubuntu
+DEV00669,Laptop,Ubuntu
+DEV00670,Laptop,Ubuntu
+DEV00671,Laptop,macOS
+DEV00672,Laptop,Ubuntu
+DEV00673,Desktop,macOS
+DEV00674,Desktop,macOS
+DEV00675,Laptop,Windows 11
+DEV00676,Desktop,Ubuntu
+DEV00677,Laptop,Ubuntu
+DEV00678,Desktop,Ubuntu
+DEV00679,Desktop,macOS
+DEV00680,Desktop,Windows 11
+DEV00681,Desktop,Ubuntu
+DEV00682,Desktop,Windows 11
+DEV00683,Laptop,Ubuntu
+DEV00684,Desktop,Windows 11
+DEV00685,Laptop,macOS
+DEV00686,Desktop,macOS
+DEV00687,Laptop,Ubuntu
+DEV00688,Desktop,macOS
+DEV00689,Laptop,Windows 11
+DEV00690,Laptop,Ubuntu
+DEV00691,Desktop,macOS
+DEV00692,Laptop,macOS
+DEV00693,Laptop,Windows 11
+DEV00694,Desktop,Windows 11
+DEV00695,Desktop,Windows 11
+DEV00696,Desktop,Windows 11
+DEV00697,Laptop,Ubuntu
+DEV00698,Desktop,Ubuntu
+DEV00699,Desktop,macOS
+DEV00700,Desktop,Ubuntu
+DEV00701,Desktop,macOS
+DEV00702,Desktop,Ubuntu
+DEV00703,Desktop,Windows 11
+DEV00704,Desktop,Windows 11
+DEV00705,Laptop,Ubuntu
+DEV00706,Desktop,Ubuntu
+DEV00707,Laptop,macOS
+DEV00708,Laptop,Windows 11
+DEV00709,Laptop,macOS
+DEV00710,Laptop,Windows 11
+DEV00711,Desktop,macOS
+DEV00712,Laptop,Windows 11
+DEV00713,Desktop,macOS
+DEV00714,Desktop,Windows 11
+DEV00715,Desktop,macOS
+DEV00716,Laptop,Windows 11
+DEV00717,Desktop,Ubuntu
+DEV00718,Laptop,Ubuntu
+DEV00719,Desktop,Ubuntu
+DEV00720,Desktop,macOS
+DEV00721,Desktop,macOS
+DEV00722,Laptop,Windows 11
+DEV00723,Desktop,Windows 11
+DEV00724,Desktop,Ubuntu
+DEV00725,Desktop,Ubuntu
+DEV00726,Desktop,Ubuntu
+DEV00727,Laptop,Windows 11
+DEV00728,Laptop,macOS
+DEV00729,Desktop,macOS
+DEV00730,Laptop,Ubuntu
+DEV00731,Desktop,Windows 11
+DEV00732,Desktop,macOS
+DEV00733,Desktop,Ubuntu
+DEV00734,Laptop,macOS
+DEV00735,Desktop,macOS
+DEV00736,Desktop,Ubuntu
+DEV00737,Laptop,macOS
+DEV00738,Laptop,Ubuntu
+DEV00739,Desktop,Ubuntu
+DEV00740,Desktop,macOS
+DEV00741,Desktop,Ubuntu
+DEV00742,Desktop,Windows 11
+DEV00743,Laptop,macOS
+DEV00744,Laptop,Windows 11
+DEV00745,Desktop,Ubuntu
+DEV00746,Laptop,macOS
+DEV00747,Desktop,Ubuntu
+DEV00748,Laptop,Ubuntu
+DEV00749,Desktop,Ubuntu
+DEV00750,Desktop,Ubuntu
+DEV00751,Laptop,macOS
+DEV00752,Laptop,Windows 11
+DEV00753,Laptop,macOS
+DEV00754,Desktop,macOS
+DEV00755,Laptop,macOS
+DEV00756,Laptop,Ubuntu
+DEV00757,Laptop,Ubuntu
+DEV00758,Laptop,Windows 11
+DEV00759,Desktop,Windows 11
+DEV00760,Desktop,macOS
+DEV00761,Desktop,macOS
+DEV00762,Desktop,Ubuntu
+DEV00763,Laptop,macOS
+DEV00764,Desktop,macOS
+DEV00765,Laptop,Ubuntu
+DEV00766,Desktop,macOS
+DEV00767,Desktop,Ubuntu
+DEV00768,Laptop,Ubuntu
+DEV00769,Laptop,macOS
+DEV00770,Laptop,Ubuntu
+DEV00771,Desktop,macOS
+DEV00772,Desktop,Windows 11
+DEV00773,Desktop,Ubuntu
+DEV00774,Desktop,Windows 11
+DEV00775,Desktop,macOS
+DEV00776,Laptop,macOS
+DEV00777,Laptop,Ubuntu
+DEV00778,Desktop,Windows 11
+DEV00779,Desktop,macOS
+DEV00780,Desktop,Windows 11
+DEV00781,Laptop,macOS
+DEV00782,Laptop,macOS
+DEV00783,Desktop,Ubuntu
+DEV00784,Laptop,macOS
+DEV00785,Desktop,Ubuntu
+DEV00786,Laptop,Ubuntu
+DEV00787,Laptop,macOS
+DEV00788,Desktop,macOS
+DEV00789,Desktop,Ubuntu
+DEV00790,Desktop,Windows 11
+DEV00791,Desktop,Ubuntu
+DEV00792,Desktop,macOS
+DEV00793,Desktop,macOS
+DEV00794,Laptop,Windows 11
+DEV00795,Laptop,macOS
+DEV00796,Desktop,Windows 11
+DEV00797,Desktop,Ubuntu
+DEV00798,Desktop,macOS
+DEV00799,Laptop,macOS
+DEV00800,Laptop,Ubuntu
+DEV00801,Desktop,Windows 11
+DEV00802,Laptop,Windows 11
+DEV00803,Desktop,Ubuntu
+DEV00804,Desktop,Ubuntu
+DEV00805,Laptop,macOS
+DEV00806,Laptop,Ubuntu
+DEV00807,Desktop,Ubuntu
+DEV00808,Laptop,Ubuntu
+DEV00809,Laptop,Ubuntu
+DEV00810,Laptop,Windows 11
+DEV00811,Laptop,Windows 11
+DEV00812,Laptop,Windows 11
+DEV00813,Desktop,Ubuntu
+DEV00814,Desktop,macOS
+DEV00815,Desktop,Ubuntu
+DEV00816,Laptop,Windows 11
+DEV00817,Laptop,Ubuntu
+DEV00818,Laptop,Windows 11
+DEV00819,Desktop,Ubuntu
+DEV00820,Laptop,macOS
+DEV00821,Laptop,macOS
+DEV00822,Desktop,Windows 11
+DEV00823,Laptop,Windows 11
+DEV00824,Desktop,macOS
+DEV00825,Desktop,Windows 11
+DEV00826,Desktop,Ubuntu
+DEV00827,Laptop,Ubuntu
+DEV00828,Laptop,Windows 11
+DEV00829,Laptop,macOS
+DEV00830,Laptop,macOS
+DEV00831,Desktop,Ubuntu
+DEV00832,Laptop,Windows 11
+DEV00833,Laptop,Ubuntu
+DEV00834,Desktop,macOS
+DEV00835,Desktop,macOS
+DEV00836,Laptop,Ubuntu
+DEV00837,Laptop,Windows 11
+DEV00838,Laptop,Windows 11
+DEV00839,Laptop,Ubuntu
+DEV00840,Desktop,Ubuntu
+DEV00841,Desktop,macOS
+DEV00842,Laptop,Ubuntu
+DEV00843,Desktop,macOS
+DEV00844,Laptop,Ubuntu
+DEV00845,Desktop,Ubuntu
+DEV00846,Laptop,Ubuntu
+DEV00847,Laptop,Ubuntu
+DEV00848,Desktop,macOS
+DEV00849,Desktop,Ubuntu
+DEV00850,Laptop,macOS
+DEV00851,Laptop,macOS
+DEV00852,Laptop,macOS
+DEV00853,Laptop,Ubuntu
+DEV00854,Desktop,Ubuntu
+DEV00855,Desktop,macOS
+DEV00856,Laptop,macOS
+DEV00857,Laptop,Ubuntu
+DEV00858,Desktop,Windows 11
+DEV00859,Desktop,Ubuntu
+DEV00860,Desktop,Windows 11
+DEV00861,Laptop,Ubuntu
+DEV00862,Laptop,Windows 11
+DEV00863,Desktop,macOS
+DEV00864,Desktop,macOS
+DEV00865,Desktop,Windows 11
+DEV00866,Desktop,Windows 11
+DEV00867,Desktop,Ubuntu
+DEV00868,Desktop,Ubuntu
+DEV00869,Desktop,Windows 11
+DEV00870,Laptop,macOS
+DEV00871,Desktop,macOS
+DEV00872,Laptop,Ubuntu
+DEV00873,Desktop,macOS
+DEV00874,Desktop,Ubuntu
+DEV00875,Laptop,Windows 11
+DEV00876,Laptop,macOS
+DEV00877,Desktop,macOS
+DEV00878,Laptop,Windows 11
+DEV00879,Desktop,Windows 11
+DEV00880,Desktop,Ubuntu
+DEV00881,Laptop,Windows 11
+DEV00882,Laptop,Windows 11
+DEV00883,Laptop,macOS
+DEV00884,Desktop,Ubuntu
+DEV00885,Desktop,Ubuntu
+DEV00886,Laptop,Ubuntu
+DEV00887,Laptop,macOS
+DEV00888,Desktop,Ubuntu
+DEV00889,Laptop,Windows 11
+DEV00890,Desktop,Ubuntu
+DEV00891,Laptop,Ubuntu
+DEV00892,Desktop,macOS
+DEV00893,Laptop,Windows 11
+DEV00894,Laptop,macOS
+DEV00895,Laptop,Windows 11
+DEV00896,Desktop,Windows 11
+DEV00897,Desktop,macOS
+DEV00898,Laptop,Windows 11
+DEV00899,Desktop,macOS
+DEV00900,Desktop,macOS
+DEV00901,Desktop,Windows 11
+DEV00902,Laptop,Ubuntu
+DEV00903,Laptop,macOS
+DEV00904,Laptop,Windows 11
+DEV00905,Desktop,Ubuntu
+DEV00906,Desktop,Windows 11
+DEV00907,Laptop,macOS
+DEV00908,Laptop,Windows 11
+DEV00909,Desktop,Ubuntu
+DEV00910,Desktop,Ubuntu
+DEV00911,Laptop,Ubuntu
+DEV00912,Laptop,macOS
+DEV00913,Laptop,Ubuntu
+DEV00914,Laptop,Ubuntu
+DEV00915,Laptop,Ubuntu
+DEV00916,Laptop,Windows 11
+DEV00917,Desktop,Ubuntu
+DEV00918,Laptop,macOS
+DEV00919,Desktop,Windows 11
+DEV00920,Desktop,macOS
+DEV00921,Desktop,Windows 11
+DEV00922,Laptop,Ubuntu
+DEV00923,Laptop,Ubuntu
+DEV00924,Desktop,macOS
+DEV00925,Laptop,macOS
+DEV00926,Desktop,macOS
+DEV00927,Desktop,macOS
+DEV00928,Desktop,Windows 11
+DEV00929,Laptop,macOS
+DEV00930,Laptop,Windows 11
+DEV00931,Desktop,Windows 11
+DEV00932,Desktop,Ubuntu
+DEV00933,Laptop,Windows 11
+DEV00934,Desktop,macOS
+DEV00935,Desktop,Ubuntu
+DEV00936,Desktop,macOS
+DEV00937,Desktop,Windows 11
+DEV00938,Laptop,macOS
+DEV00939,Laptop,Ubuntu
+DEV00940,Laptop,macOS
+DEV00941,Desktop,Ubuntu
+DEV00942,Desktop,Windows 11
+DEV00943,Laptop,Ubuntu
+DEV00944,Desktop,Windows 11
+DEV00945,Desktop,Windows 11
+DEV00946,Desktop,Windows 11
+DEV00947,Laptop,Ubuntu
+DEV00948,Desktop,macOS
+DEV00949,Desktop,Ubuntu
+DEV00950,Desktop,Ubuntu
+DEV00951,Desktop,macOS
+DEV00952,Desktop,Ubuntu
+DEV00953,Laptop,Ubuntu
+DEV00954,Desktop,Windows 11
+DEV00955,Desktop,Windows 11
+DEV00956,Laptop,Windows 11
+DEV00957,Laptop,Windows 11
+DEV00958,Laptop,Windows 11
+DEV00959,Desktop,Ubuntu
+DEV00960,Laptop,macOS
+DEV00961,Desktop,Ubuntu
+DEV00962,Laptop,Ubuntu
+DEV00963,Laptop,Ubuntu
+DEV00964,Desktop,macOS
+DEV00965,Desktop,Ubuntu
+DEV00966,Desktop,Windows 11
+DEV00967,Laptop,Windows 11
+DEV00968,Desktop,Windows 11
+DEV00969,Laptop,Ubuntu
+DEV00970,Laptop,Windows 11
+DEV00971,Desktop,macOS
+DEV00972,Laptop,macOS
+DEV00973,Laptop,macOS
+DEV00974,Laptop,Ubuntu
+DEV00975,Laptop,Windows 11
+DEV00976,Desktop,macOS
+DEV00977,Laptop,Ubuntu
+DEV00978,Laptop,Ubuntu
+DEV00979,Laptop,Ubuntu
+DEV00980,Desktop,macOS
+DEV00981,Laptop,Ubuntu
+DEV00982,Laptop,Windows 11
+DEV00983,Laptop,Ubuntu
+DEV00984,Desktop,Ubuntu
+DEV00985,Desktop,macOS
+DEV00986,Laptop,Ubuntu
+DEV00987,Laptop,macOS
+DEV00988,Desktop,Ubuntu
+DEV00989,Laptop,Windows 11
+DEV00990,Laptop,macOS
+DEV00991,Desktop,Ubuntu
+DEV00992,Laptop,macOS
+DEV00993,Laptop,macOS
+DEV00994,Desktop,Windows 11
+DEV00995,Desktop,Ubuntu
+DEV00996,Laptop,Windows 11
+DEV00997,Desktop,Windows 11
+DEV00998,Laptop,Windows 11
+DEV00999,Laptop,Ubuntu
+DEV01000,Desktop,Ubuntu
+DEV01001,Laptop,Windows 11
+DEV01002,Desktop,Ubuntu
+DEV01003,Desktop,macOS
+DEV01004,Desktop,macOS
+DEV01005,Laptop,Ubuntu
+DEV01006,Laptop,Ubuntu
+DEV01007,Laptop,Ubuntu
+DEV01008,Desktop,Ubuntu
+DEV01009,Desktop,Ubuntu
+DEV01010,Desktop,Windows 11
+DEV01011,Desktop,Ubuntu
+DEV01012,Laptop,Ubuntu
+DEV01013,Desktop,Windows 11
+DEV01014,Laptop,macOS
+DEV01015,Desktop,Ubuntu
+DEV01016,Laptop,macOS
+DEV01017,Laptop,Ubuntu
+DEV01018,Laptop,Ubuntu
+DEV01019,Desktop,Ubuntu
+DEV01020,Laptop,Ubuntu
+DEV01021,Desktop,Windows 11
+DEV01022,Laptop,macOS
+DEV01023,Desktop,Windows 11
+DEV01024,Desktop,Ubuntu
+DEV01025,Laptop,macOS
+DEV01026,Laptop,Windows 11
+DEV01027,Laptop,macOS
+DEV01028,Desktop,Ubuntu
+DEV01029,Laptop,Ubuntu
+DEV01030,Desktop,Ubuntu
+DEV01031,Desktop,macOS
+DEV01032,Laptop,macOS
+DEV01033,Laptop,Windows 11
+DEV01034,Desktop,Windows 11
+DEV01035,Laptop,Ubuntu
+DEV01036,Laptop,Windows 11
+DEV01037,Desktop,macOS
+DEV01038,Desktop,Ubuntu
+DEV01039,Desktop,macOS
+DEV01040,Desktop,macOS
+DEV01041,Desktop,Ubuntu
+DEV01042,Laptop,Windows 11
+DEV01043,Laptop,Windows 11
+DEV01044,Desktop,macOS
+DEV01045,Laptop,Ubuntu
+DEV01046,Laptop,Windows 11
+DEV01047,Desktop,Windows 11
+DEV01048,Laptop,Windows 11
+DEV01049,Desktop,Ubuntu
+DEV01050,Desktop,macOS
+DEV01051,Desktop,Ubuntu
+DEV01052,Desktop,macOS
+DEV01053,Desktop,Ubuntu
+DEV01054,Laptop,Windows 11
+DEV01055,Laptop,Windows 11
+DEV01056,Laptop,Windows 11
+DEV01057,Laptop,macOS
+DEV01058,Laptop,Windows 11
+DEV01059,Laptop,Ubuntu
+DEV01060,Laptop,macOS
+DEV01061,Laptop,Ubuntu
+DEV01062,Laptop,Windows 11
+DEV01063,Desktop,Ubuntu
+DEV01064,Laptop,Ubuntu
+DEV01065,Desktop,Windows 11
+DEV01066,Laptop,Windows 11
+DEV01067,Laptop,macOS
+DEV01068,Desktop,Ubuntu
+DEV01069,Desktop,Windows 11
+DEV01070,Desktop,macOS
+DEV01071,Laptop,Windows 11
+DEV01072,Desktop,macOS
+DEV01073,Desktop,Windows 11
+DEV01074,Desktop,Windows 11
+DEV01075,Laptop,macOS
+DEV01076,Desktop,Ubuntu
+DEV01077,Desktop,macOS
+DEV01078,Desktop,Windows 11
+DEV01079,Desktop,Ubuntu
+DEV01080,Desktop,macOS
+DEV01081,Desktop,Windows 11
+DEV01082,Laptop,macOS
+DEV01083,Laptop,Ubuntu
+DEV01084,Desktop,macOS
+DEV01085,Laptop,Ubuntu
+DEV01086,Desktop,Ubuntu
+DEV01087,Laptop,Ubuntu
+DEV01088,Desktop,Ubuntu
+DEV01089,Desktop,Windows 11
+DEV01090,Laptop,Ubuntu
+DEV01091,Laptop,Ubuntu
+DEV01092,Desktop,Ubuntu
+DEV01093,Laptop,macOS
+DEV01094,Laptop,macOS
+DEV01095,Desktop,macOS
+DEV01096,Desktop,Windows 11
+DEV01097,Desktop,macOS
+DEV01098,Desktop,Ubuntu
+DEV01099,Desktop,Ubuntu
+DEV01100,Laptop,macOS
+DEV01101,Laptop,Ubuntu
+DEV01102,Laptop,macOS
+DEV01103,Desktop,Windows 11
+DEV01104,Laptop,Windows 11
+DEV01105,Laptop,macOS
+DEV01106,Desktop,Windows 11
+DEV01107,Desktop,Ubuntu
+DEV01108,Desktop,Windows 11
+DEV01109,Laptop,macOS
+DEV01110,Laptop,Windows 11
+DEV01111,Desktop,Ubuntu
+DEV01112,Desktop,macOS
+DEV01113,Laptop,Windows 11
+DEV01114,Laptop,Windows 11
+DEV01115,Desktop,Ubuntu
+DEV01116,Laptop,macOS
+DEV01117,Laptop,Windows 11
+DEV01118,Laptop,Ubuntu
+DEV01119,Desktop,Ubuntu
+DEV01120,Desktop,Windows 11
+DEV01121,Desktop,Windows 11
+DEV01122,Laptop,macOS
+DEV01123,Laptop,Ubuntu
+DEV01124,Desktop,Windows 11
+DEV01125,Laptop,macOS
+DEV01126,Laptop,macOS
+DEV01127,Laptop,macOS
+DEV01128,Laptop,Windows 11
+DEV01129,Laptop,Windows 11
+DEV01130,Desktop,Windows 11
+DEV01131,Desktop,macOS
+DEV01132,Desktop,macOS
+DEV01133,Desktop,macOS
+DEV01134,Laptop,Windows 11
+DEV01135,Desktop,Ubuntu
+DEV01136,Laptop,Windows 11
+DEV01137,Laptop,Ubuntu
+DEV01138,Desktop,Windows 11
+DEV01139,Laptop,Ubuntu
+DEV01140,Desktop,Ubuntu
+DEV01141,Laptop,Windows 11
+DEV01142,Desktop,Ubuntu
+DEV01143,Desktop,Ubuntu
+DEV01144,Laptop,Windows 11
+DEV01145,Desktop,Windows 11
+DEV01146,Laptop,Ubuntu
+DEV01147,Desktop,Ubuntu
+DEV01148,Desktop,macOS
+DEV01149,Desktop,Windows 11
+DEV01150,Desktop,Windows 11
+DEV01151,Laptop,macOS
+DEV01152,Laptop,Windows 11
+DEV01153,Desktop,Ubuntu
+DEV01154,Desktop,Windows 11
+DEV01155,Desktop,Windows 11
+DEV01156,Desktop,Windows 11
+DEV01157,Laptop,macOS
+DEV01158,Laptop,macOS
+DEV01159,Desktop,Ubuntu
+DEV01160,Desktop,macOS
+DEV01161,Desktop,macOS
+DEV01162,Desktop,Ubuntu
+DEV01163,Laptop,Ubuntu
+DEV01164,Laptop,macOS
+DEV01165,Desktop,Ubuntu
+DEV01166,Laptop,macOS
+DEV01167,Desktop,macOS
+DEV01168,Desktop,macOS
+DEV01169,Desktop,Windows 11
+DEV01170,Desktop,Windows 11
+DEV01171,Laptop,macOS
+DEV01172,Desktop,Ubuntu
+DEV01173,Laptop,macOS
+DEV01174,Desktop,Windows 11
+DEV01175,Laptop,macOS
+DEV01176,Desktop,macOS
+DEV01177,Desktop,macOS
+DEV01178,Laptop,Windows 11
+DEV01179,Laptop,macOS
+DEV01180,Desktop,Windows 11
+DEV01181,Desktop,macOS
+DEV01182,Desktop,macOS
+DEV01183,Laptop,macOS
+DEV01184,Laptop,Ubuntu
+DEV01185,Desktop,macOS
+DEV01186,Desktop,Windows 11
+DEV01187,Laptop,macOS
+DEV01188,Laptop,Ubuntu
+DEV01189,Desktop,macOS
+DEV01190,Laptop,Ubuntu
+DEV01191,Desktop,Windows 11
+DEV01192,Laptop,Ubuntu
+DEV01193,Desktop,Ubuntu
+DEV01194,Laptop,macOS
+DEV01195,Desktop,macOS
+DEV01196,Laptop,Windows 11
+DEV01197,Desktop,macOS
+DEV01198,Laptop,Ubuntu
+DEV01199,Desktop,Windows 11
+DEV01200,Laptop,macOS
+DEV01201,Desktop,Ubuntu
+DEV01202,Laptop,Windows 11
+DEV01203,Laptop,Ubuntu
+DEV01204,Laptop,Ubuntu
+DEV01205,Laptop,Ubuntu
+DEV01206,Laptop,Ubuntu
+DEV01207,Desktop,macOS
+DEV01208,Desktop,Ubuntu
+DEV01209,Desktop,macOS
+DEV01210,Desktop,Ubuntu
+DEV01211,Desktop,macOS
+DEV01212,Desktop,Windows 11
+DEV01213,Laptop,macOS
+DEV01214,Laptop,Ubuntu
+DEV01215,Desktop,Windows 11
+DEV01216,Laptop,macOS
+DEV01217,Laptop,Ubuntu
+DEV01218,Desktop,Windows 11
+DEV01219,Laptop,macOS
+DEV01220,Desktop,Windows 11
+DEV01221,Desktop,Windows 11
+DEV01222,Laptop,Ubuntu
+DEV01223,Desktop,Windows 11
+DEV01224,Laptop,Windows 11
+DEV01225,Desktop,Ubuntu
+DEV01226,Desktop,Ubuntu
+DEV01227,Desktop,Ubuntu
+DEV01228,Laptop,Windows 11
+DEV01229,Laptop,macOS
+DEV01230,Desktop,Windows 11
+DEV01231,Desktop,Ubuntu
+DEV01232,Laptop,Windows 11
+DEV01233,Desktop,Windows 11
+DEV01234,Laptop,macOS
+DEV01235,Desktop,Windows 11
+DEV01236,Laptop,Ubuntu
+DEV01237,Desktop,macOS
+DEV01238,Desktop,macOS
+DEV01239,Desktop,Ubuntu
+DEV01240,Desktop,Ubuntu
+DEV01241,Laptop,Windows 11
+DEV01242,Desktop,Ubuntu
+DEV01243,Desktop,Windows 11
+DEV01244,Desktop,Windows 11
+DEV01245,Desktop,Ubuntu
+DEV01246,Laptop,Ubuntu
+DEV01247,Desktop,macOS
+DEV01248,Laptop,macOS
+DEV01249,Desktop,macOS
+DEV01250,Desktop,macOS
+DEV01251,Laptop,Windows 11
+DEV01252,Laptop,macOS
+DEV01253,Desktop,macOS
+DEV01254,Laptop,macOS
+DEV01255,Laptop,Windows 11
+DEV01256,Laptop,macOS
+DEV01257,Laptop,Ubuntu
+DEV01258,Laptop,Windows 11
+DEV01259,Laptop,Windows 11
+DEV01260,Desktop,Windows 11
+DEV01261,Laptop,macOS
+DEV01262,Desktop,Windows 11
+DEV01263,Desktop,Ubuntu
+DEV01264,Laptop,Ubuntu
+DEV01265,Laptop,Ubuntu
+DEV01266,Desktop,Windows 11
+DEV01267,Desktop,Windows 11
+DEV01268,Desktop,Ubuntu
+DEV01269,Desktop,Windows 11
+DEV01270,Laptop,Windows 11
+DEV01271,Laptop,Ubuntu
+DEV01272,Laptop,Windows 11
+DEV01273,Desktop,Windows 11
+DEV01274,Laptop,Ubuntu
+DEV01275,Desktop,macOS
+DEV01276,Laptop,Windows 11
+DEV01277,Desktop,Windows 11
+DEV01278,Laptop,macOS
+DEV01279,Laptop,Ubuntu
+DEV01280,Desktop,Windows 11
+DEV01281,Desktop,Windows 11
+DEV01282,Desktop,Ubuntu
+DEV01283,Desktop,Ubuntu
+DEV01284,Laptop,Windows 11
+DEV01285,Laptop,Windows 11
+DEV01286,Laptop,Ubuntu
+DEV01287,Desktop,Windows 11
+DEV01288,Desktop,Windows 11
+DEV01289,Desktop,Ubuntu
+DEV01290,Desktop,Windows 11
+DEV01291,Desktop,Windows 11
+DEV01292,Desktop,macOS
+DEV01293,Laptop,Windows 11
+DEV01294,Desktop,macOS
+DEV01295,Laptop,Windows 11
+DEV01296,Laptop,Ubuntu
+DEV01297,Desktop,Ubuntu
+DEV01298,Laptop,macOS
+DEV01299,Laptop,Windows 11
+DEV01300,Desktop,macOS
+DEV01301,Laptop,Windows 11
+DEV01302,Desktop,macOS
+DEV01303,Desktop,Windows 11
+DEV01304,Laptop,Ubuntu
+DEV01305,Desktop,macOS
+DEV01306,Laptop,Windows 11
+DEV01307,Laptop,Ubuntu
+DEV01308,Desktop,macOS
+DEV01309,Desktop,macOS
+DEV01310,Desktop,Ubuntu
+DEV01311,Laptop,macOS
+DEV01312,Desktop,Windows 11
+DEV01313,Laptop,macOS
+DEV01314,Laptop,Ubuntu
+DEV01315,Laptop,Ubuntu
+DEV01316,Laptop,Windows 11
+DEV01317,Desktop,Ubuntu
+DEV01318,Laptop,macOS
+DEV01319,Desktop,macOS
+DEV01320,Desktop,macOS
+DEV01321,Desktop,macOS
+DEV01322,Desktop,Ubuntu
+DEV01323,Laptop,macOS
+DEV01324,Desktop,Ubuntu
+DEV01325,Laptop,Ubuntu
+DEV01326,Desktop,Windows 11
+DEV01327,Laptop,macOS
+DEV01328,Laptop,macOS
+DEV01329,Desktop,Windows 11
+DEV01330,Laptop,macOS
+DEV01331,Laptop,Ubuntu
+DEV01332,Desktop,Ubuntu
+DEV01333,Laptop,macOS
+DEV01334,Laptop,macOS
+DEV01335,Laptop,macOS
+DEV01336,Desktop,macOS
+DEV01337,Laptop,Ubuntu
+DEV01338,Desktop,macOS
+DEV01339,Desktop,Ubuntu
+DEV01340,Laptop,macOS
+DEV01341,Laptop,Windows 11
+DEV01342,Desktop,Ubuntu
+DEV01343,Laptop,Ubuntu
+DEV01344,Laptop,Windows 11
+DEV01345,Laptop,Ubuntu
+DEV01346,Desktop,Windows 11
+DEV01347,Laptop,macOS
+DEV01348,Desktop,macOS
+DEV01349,Laptop,Windows 11
+DEV01350,Desktop,Ubuntu
+DEV01351,Laptop,Ubuntu
+DEV01352,Desktop,macOS
+DEV01353,Laptop,Windows 11
+DEV01354,Laptop,macOS
+DEV01355,Desktop,Windows 11
+DEV01356,Desktop,macOS
+DEV01357,Desktop,Windows 11
+DEV01358,Laptop,macOS
+DEV01359,Laptop,Windows 11
+DEV01360,Laptop,macOS
+DEV01361,Laptop,Windows 11
+DEV01362,Desktop,macOS
+DEV01363,Laptop,macOS
+DEV01364,Desktop,Windows 11
+DEV01365,Laptop,macOS
+DEV01366,Desktop,macOS
+DEV01367,Desktop,Windows 11
+DEV01368,Desktop,macOS
+DEV01369,Laptop,Ubuntu
+DEV01370,Desktop,Ubuntu
+DEV01371,Desktop,Windows 11
+DEV01372,Desktop,Ubuntu
+DEV01373,Desktop,macOS
+DEV01374,Laptop,macOS
+DEV01375,Laptop,Windows 11
+DEV01376,Desktop,Ubuntu
+DEV01377,Desktop,Ubuntu
+DEV01378,Laptop,Ubuntu
+DEV01379,Laptop,Ubuntu
+DEV01380,Laptop,macOS
+DEV01381,Laptop,macOS
+DEV01382,Laptop,macOS
+DEV01383,Desktop,Windows 11
+DEV01384,Laptop,Windows 11
+DEV01385,Laptop,Ubuntu
+DEV01386,Desktop,Windows 11
+DEV01387,Laptop,Windows 11
+DEV01388,Desktop,Ubuntu
+DEV01389,Laptop,macOS
+DEV01390,Desktop,Ubuntu
+DEV01391,Laptop,Windows 11
+DEV01392,Desktop,Windows 11
+DEV01393,Desktop,Windows 11
+DEV01394,Desktop,macOS
+DEV01395,Laptop,Windows 11
+DEV01396,Desktop,Windows 11
+DEV01397,Desktop,macOS
+DEV01398,Laptop,Windows 11
+DEV01399,Laptop,Windows 11
+DEV01400,Desktop,Ubuntu
+DEV01401,Laptop,Windows 11
+DEV01402,Laptop,Ubuntu
+DEV01403,Laptop,Ubuntu
+DEV01404,Desktop,Windows 11
+DEV01405,Laptop,macOS
+DEV01406,Laptop,macOS
+DEV01407,Laptop,Ubuntu
+DEV01408,Desktop,Ubuntu
+DEV01409,Laptop,macOS
+DEV01410,Desktop,Windows 11
+DEV01411,Laptop,Ubuntu
+DEV01412,Desktop,Ubuntu
+DEV01413,Desktop,macOS
+DEV01414,Laptop,Ubuntu
+DEV01415,Laptop,Ubuntu
+DEV01416,Desktop,macOS
+DEV01417,Laptop,Windows 11
+DEV01418,Laptop,Windows 11
+DEV01419,Laptop,macOS
+DEV01420,Laptop,macOS
+DEV01421,Laptop,macOS
+DEV01422,Desktop,Ubuntu
+DEV01423,Desktop,Ubuntu
+DEV01424,Desktop,Windows 11
+DEV01425,Laptop,Windows 11
+DEV01426,Laptop,Windows 11
+DEV01427,Laptop,Ubuntu
+DEV01428,Desktop,macOS
+DEV01429,Desktop,Ubuntu
+DEV01430,Laptop,Windows 11
+DEV01431,Desktop,Ubuntu
+DEV01432,Desktop,Ubuntu
+DEV01433,Desktop,Windows 11
+DEV01434,Laptop,Windows 11
+DEV01435,Laptop,macOS
+DEV01436,Laptop,Ubuntu
+DEV01437,Desktop,Windows 11
+DEV01438,Laptop,macOS
+DEV01439,Laptop,Windows 11
+DEV01440,Desktop,Windows 11
+DEV01441,Desktop,macOS
+DEV01442,Desktop,macOS
+DEV01443,Desktop,macOS
+DEV01444,Desktop,macOS
+DEV01445,Desktop,Ubuntu
+DEV01446,Desktop,Windows 11
+DEV01447,Laptop,Ubuntu
+DEV01448,Laptop,Ubuntu
+DEV01449,Laptop,Windows 11
+DEV01450,Laptop,macOS
+DEV01451,Laptop,Ubuntu
+DEV01452,Laptop,Windows 11
+DEV01453,Desktop,macOS
+DEV01454,Desktop,macOS
+DEV01455,Desktop,Windows 11
+DEV01456,Desktop,Windows 11
+DEV01457,Laptop,Ubuntu
+DEV01458,Laptop,Windows 11
+DEV01459,Desktop,Windows 11
+DEV01460,Laptop,Windows 11
+DEV01461,Desktop,Ubuntu
+DEV01462,Laptop,macOS
+DEV01463,Desktop,Windows 11
+DEV01464,Laptop,Windows 11
+DEV01465,Laptop,Ubuntu
+DEV01466,Laptop,Windows 11
+DEV01467,Desktop,macOS
+DEV01468,Laptop,Ubuntu
+DEV01469,Laptop,Windows 11
+DEV01470,Laptop,Windows 11
+DEV01471,Laptop,Ubuntu
+DEV01472,Laptop,Windows 11
+DEV01473,Laptop,Ubuntu
+DEV01474,Laptop,Ubuntu
+DEV01475,Laptop,Ubuntu
+DEV01476,Desktop,Windows 11
+DEV01477,Desktop,Ubuntu
+DEV01478,Laptop,macOS
+DEV01479,Desktop,macOS
+DEV01480,Laptop,Windows 11
+DEV01481,Laptop,Windows 11
+DEV01482,Laptop,Windows 11
+DEV01483,Desktop,macOS
+DEV01484,Desktop,Ubuntu
+DEV01485,Desktop,macOS
+DEV01486,Laptop,Windows 11
+DEV01487,Laptop,macOS
+DEV01488,Desktop,Windows 11
+DEV01489,Desktop,Windows 11
+DEV01490,Laptop,macOS
+DEV01491,Desktop,Windows 11
+DEV01492,Desktop,Windows 11
+DEV01493,Laptop,Ubuntu
+DEV01494,Laptop,Windows 11
+DEV01495,Desktop,macOS
+DEV01496,Desktop,Ubuntu
+DEV01497,Desktop,Windows 11
+DEV01498,Desktop,macOS
+DEV01499,Desktop,macOS
+DEV01500,Desktop,macOS
+DEV01501,Desktop,Ubuntu
+DEV01502,Desktop,macOS
+DEV01503,Desktop,macOS
+DEV01504,Laptop,Windows 11
+DEV01505,Laptop,Windows 11
+DEV01506,Desktop,Windows 11
+DEV01507,Desktop,Windows 11
+DEV01508,Desktop,Ubuntu
+DEV01509,Desktop,macOS
+DEV01510,Laptop,Ubuntu
+DEV01511,Desktop,macOS
+DEV01512,Laptop,Windows 11
+DEV01513,Laptop,Ubuntu
+DEV01514,Desktop,macOS
+DEV01515,Desktop,Windows 11
+DEV01516,Laptop,Ubuntu
+DEV01517,Desktop,Ubuntu
+DEV01518,Desktop,Ubuntu
+DEV01519,Desktop,Ubuntu
+DEV01520,Desktop,Ubuntu
+DEV01521,Desktop,Ubuntu
+DEV01522,Desktop,Windows 11
+DEV01523,Laptop,Ubuntu
+DEV01524,Laptop,Ubuntu
+DEV01525,Laptop,Ubuntu
+DEV01526,Laptop,Ubuntu
+DEV01527,Laptop,Ubuntu
+DEV01528,Laptop,Windows 11
+DEV01529,Laptop,Windows 11
+DEV01530,Desktop,Windows 11
+DEV01531,Laptop,Ubuntu
+DEV01532,Laptop,macOS
+DEV01533,Desktop,Ubuntu
+DEV01534,Desktop,macOS
+DEV01535,Desktop,Windows 11
+DEV01536,Laptop,macOS
+DEV01537,Desktop,Windows 11
+DEV01538,Desktop,Ubuntu
+DEV01539,Desktop,Ubuntu
+DEV01540,Desktop,macOS
+DEV01541,Laptop,Ubuntu
+DEV01542,Laptop,Ubuntu
+DEV01543,Laptop,Windows 11
+DEV01544,Laptop,Ubuntu
+DEV01545,Laptop,macOS
+DEV01546,Desktop,macOS
+DEV01547,Desktop,Ubuntu
+DEV01548,Laptop,Ubuntu
+DEV01549,Laptop,Ubuntu
+DEV01550,Desktop,Windows 11
+DEV01551,Desktop,Ubuntu
+DEV01552,Laptop,Ubuntu
+DEV01553,Laptop,macOS
+DEV01554,Laptop,Ubuntu
+DEV01555,Laptop,Ubuntu
+DEV01556,Desktop,Ubuntu
+DEV01557,Laptop,Ubuntu
+DEV01558,Desktop,macOS
+DEV01559,Desktop,macOS
+DEV01560,Desktop,Ubuntu
+DEV01561,Laptop,macOS
+DEV01562,Laptop,Windows 11
+DEV01563,Laptop,Ubuntu
+DEV01564,Desktop,Ubuntu
+DEV01565,Laptop,Ubuntu
+DEV01566,Laptop,macOS
+DEV01567,Desktop,Windows 11
+DEV01568,Desktop,Windows 11
+DEV01569,Desktop,macOS
+DEV01570,Desktop,macOS
+DEV01571,Desktop,Windows 11
+DEV01572,Laptop,Windows 11
+DEV01573,Laptop,Windows 11
+DEV01574,Desktop,Windows 11
+DEV01575,Laptop,Windows 11
+DEV01576,Laptop,Ubuntu
+DEV01577,Desktop,Windows 11
+DEV01578,Laptop,Ubuntu
+DEV01579,Laptop,Ubuntu
+DEV01580,Laptop,Ubuntu
+DEV01581,Laptop,Windows 11
+DEV01582,Desktop,Ubuntu
+DEV01583,Desktop,Windows 11
+DEV01584,Laptop,Windows 11
+DEV01585,Desktop,Ubuntu
+DEV01586,Laptop,Ubuntu
+DEV01587,Laptop,Windows 11
+DEV01588,Laptop,Ubuntu
+DEV01589,Desktop,macOS
+DEV01590,Desktop,Windows 11
+DEV01591,Desktop,macOS
+DEV01592,Laptop,macOS
+DEV01593,Desktop,Ubuntu
+DEV01594,Laptop,Windows 11
+DEV01595,Laptop,Ubuntu
+DEV01596,Laptop,Ubuntu
+DEV01597,Laptop,macOS
+DEV01598,Desktop,macOS
+DEV01599,Desktop,Ubuntu
+DEV01600,Desktop,macOS
+DEV01601,Laptop,macOS
+DEV01602,Laptop,Ubuntu
+DEV01603,Desktop,Ubuntu
+DEV01604,Desktop,Ubuntu
+DEV01605,Laptop,Ubuntu
+DEV01606,Laptop,Windows 11
+DEV01607,Desktop,Ubuntu
+DEV01608,Desktop,macOS
+DEV01609,Laptop,macOS
+DEV01610,Laptop,Ubuntu
+DEV01611,Laptop,Windows 11
+DEV01612,Laptop,Ubuntu
+DEV01613,Desktop,macOS
+DEV01614,Laptop,macOS
+DEV01615,Laptop,Ubuntu
+DEV01616,Desktop,macOS
+DEV01617,Laptop,Ubuntu
+DEV01618,Laptop,Windows 11
+DEV01619,Desktop,Ubuntu
+DEV01620,Desktop,Windows 11
+DEV01621,Desktop,Windows 11
+DEV01622,Laptop,Ubuntu
+DEV01623,Laptop,Windows 11
+DEV01624,Desktop,Ubuntu
+DEV01625,Desktop,macOS
+DEV01626,Desktop,Windows 11
+DEV01627,Desktop,Windows 11
+DEV01628,Laptop,Ubuntu
+DEV01629,Laptop,macOS
+DEV01630,Laptop,Ubuntu
+DEV01631,Desktop,Ubuntu
+DEV01632,Desktop,Windows 11
+DEV01633,Laptop,macOS
+DEV01634,Laptop,macOS
+DEV01635,Desktop,Windows 11
+DEV01636,Desktop,Ubuntu
+DEV01637,Laptop,Windows 11
+DEV01638,Laptop,macOS
+DEV01639,Laptop,Windows 11
+DEV01640,Desktop,Windows 11
+DEV01641,Desktop,Windows 11
+DEV01642,Laptop,macOS
+DEV01643,Laptop,macOS
+DEV01644,Desktop,Windows 11
+DEV01645,Desktop,Ubuntu
+DEV01646,Laptop,Windows 11
+DEV01647,Laptop,macOS
+DEV01648,Laptop,Ubuntu
+DEV01649,Laptop,macOS
+DEV01650,Laptop,Ubuntu
+DEV01651,Desktop,Ubuntu
+DEV01652,Laptop,macOS
+DEV01653,Laptop,Windows 11
+DEV01654,Desktop,Windows 11
+DEV01655,Laptop,Ubuntu
+DEV01656,Laptop,Windows 11
+DEV01657,Laptop,Windows 11
+DEV01658,Desktop,Windows 11
+DEV01659,Laptop,Ubuntu
+DEV01660,Laptop,macOS
+DEV01661,Laptop,Windows 11
+DEV01662,Laptop,macOS
+DEV01663,Laptop,macOS
+DEV01664,Laptop,Windows 11
+DEV01665,Desktop,macOS
+DEV01666,Laptop,Ubuntu
+DEV01667,Desktop,macOS
+DEV01668,Laptop,macOS
+DEV01669,Laptop,macOS
+DEV01670,Desktop,Ubuntu
+DEV01671,Laptop,Windows 11
+DEV01672,Laptop,Windows 11
+DEV01673,Desktop,Ubuntu
+DEV01674,Laptop,Windows 11
+DEV01675,Desktop,macOS
+DEV01676,Desktop,Windows 11
+DEV01677,Desktop,Windows 11
+DEV01678,Desktop,Windows 11
+DEV01679,Laptop,macOS
+DEV01680,Desktop,macOS
+DEV01681,Desktop,Windows 11
+DEV01682,Laptop,Windows 11
+DEV01683,Desktop,Ubuntu
+DEV01684,Desktop,Windows 11
+DEV01685,Laptop,Ubuntu
+DEV01686,Laptop,macOS
+DEV01687,Desktop,macOS
+DEV01688,Desktop,macOS
+DEV01689,Laptop,Ubuntu
+DEV01690,Laptop,macOS
+DEV01691,Desktop,macOS
+DEV01692,Desktop,Windows 11
+DEV01693,Desktop,Windows 11
+DEV01694,Desktop,Ubuntu
+DEV01695,Laptop,macOS
+DEV01696,Laptop,Windows 11
+DEV01697,Laptop,macOS
+DEV01698,Laptop,Ubuntu
+DEV01699,Laptop,macOS
+DEV01700,Desktop,Windows 11
+DEV01701,Laptop,Windows 11
+DEV01702,Laptop,Ubuntu
+DEV01703,Desktop,Ubuntu
+DEV01704,Laptop,Windows 11
+DEV01705,Desktop,Windows 11
+DEV01706,Laptop,Windows 11
+DEV01707,Desktop,macOS
+DEV01708,Desktop,Windows 11
+DEV01709,Desktop,Ubuntu
+DEV01710,Laptop,macOS
+DEV01711,Desktop,macOS
+DEV01712,Desktop,Windows 11
+DEV01713,Laptop,macOS
+DEV01714,Desktop,Ubuntu
+DEV01715,Laptop,Windows 11
+DEV01716,Laptop,macOS
+DEV01717,Laptop,macOS
+DEV01718,Laptop,macOS
+DEV01719,Desktop,macOS
+DEV01720,Desktop,Windows 11
+DEV01721,Desktop,macOS
+DEV01722,Laptop,Windows 11
+DEV01723,Desktop,Windows 11
+DEV01724,Laptop,Windows 11
+DEV01725,Laptop,Windows 11
+DEV01726,Laptop,Windows 11
+DEV01727,Laptop,macOS
+DEV01728,Laptop,Windows 11
+DEV01729,Laptop,Ubuntu
+DEV01730,Desktop,Ubuntu
+DEV01731,Laptop,macOS
+DEV01732,Laptop,Windows 11
+DEV01733,Desktop,Windows 11
+DEV01734,Laptop,Ubuntu
+DEV01735,Desktop,macOS
+DEV01736,Desktop,macOS
+DEV01737,Laptop,Ubuntu
+DEV01738,Desktop,Windows 11
+DEV01739,Desktop,Ubuntu
+DEV01740,Desktop,Windows 11
+DEV01741,Desktop,Ubuntu
+DEV01742,Desktop,macOS
+DEV01743,Desktop,Windows 11
+DEV01744,Desktop,Windows 11
+DEV01745,Desktop,Ubuntu
+DEV01746,Laptop,Ubuntu
+DEV01747,Laptop,macOS
+DEV01748,Laptop,Ubuntu
+DEV01749,Desktop,Ubuntu
+DEV01750,Desktop,Ubuntu
+DEV01751,Desktop,Ubuntu
+DEV01752,Desktop,Windows 11
+DEV01753,Desktop,Windows 11
+DEV01754,Desktop,Windows 11
+DEV01755,Laptop,Windows 11
+DEV01756,Laptop,Windows 11
+DEV01757,Desktop,Ubuntu
+DEV01758,Desktop,Ubuntu
+DEV01759,Desktop,macOS
+DEV01760,Desktop,Ubuntu
+DEV01761,Desktop,Ubuntu
+DEV01762,Laptop,Ubuntu
+DEV01763,Laptop,Windows 11
+DEV01764,Desktop,macOS
+DEV01765,Laptop,Windows 11
+DEV01766,Desktop,Ubuntu
+DEV01767,Desktop,macOS
+DEV01768,Desktop,macOS
+DEV01769,Desktop,macOS
+DEV01770,Laptop,macOS
+DEV01771,Desktop,Ubuntu
+DEV01772,Laptop,Windows 11
+DEV01773,Desktop,Windows 11
+DEV01774,Desktop,macOS
+DEV01775,Laptop,macOS
+DEV01776,Laptop,Ubuntu
+DEV01777,Desktop,macOS
+DEV01778,Laptop,Ubuntu
+DEV01779,Laptop,macOS
+DEV01780,Laptop,Windows 11
+DEV01781,Laptop,Windows 11
+DEV01782,Desktop,Ubuntu
+DEV01783,Laptop,macOS
+DEV01784,Laptop,Ubuntu
+DEV01785,Laptop,Ubuntu
+DEV01786,Desktop,macOS
+DEV01787,Desktop,macOS
+DEV01788,Desktop,macOS
+DEV01789,Desktop,macOS
+DEV01790,Desktop,macOS
+DEV01791,Laptop,Windows 11
+DEV01792,Desktop,Windows 11
+DEV01793,Desktop,macOS
+DEV01794,Laptop,macOS
+DEV01795,Desktop,macOS
+DEV01796,Desktop,Windows 11
+DEV01797,Laptop,Ubuntu
+DEV01798,Laptop,Windows 11
+DEV01799,Laptop,macOS
+DEV01800,Desktop,macOS
+DEV01801,Desktop,macOS
+DEV01802,Desktop,macOS
+DEV01803,Desktop,Windows 11
+DEV01804,Laptop,Ubuntu
+DEV01805,Laptop,macOS
+DEV01806,Laptop,Windows 11
+DEV01807,Desktop,Windows 11
+DEV01808,Laptop,Ubuntu
+DEV01809,Laptop,Windows 11
+DEV01810,Laptop,Windows 11
+DEV01811,Laptop,Windows 11
+DEV01812,Desktop,Ubuntu
+DEV01813,Desktop,macOS
+DEV01814,Laptop,macOS
+DEV01815,Laptop,Windows 11
+DEV01816,Desktop,Windows 11
+DEV01817,Desktop,Windows 11
+DEV01818,Desktop,Windows 11
+DEV01819,Desktop,Windows 11
+DEV01820,Laptop,Ubuntu
+DEV01821,Desktop,macOS
+DEV01822,Laptop,Windows 11
+DEV01823,Laptop,Ubuntu
+DEV01824,Laptop,macOS
+DEV01825,Laptop,Windows 11
+DEV01826,Laptop,macOS
+DEV01827,Laptop,Ubuntu
+DEV01828,Desktop,Ubuntu
+DEV01829,Desktop,Ubuntu
+DEV01830,Desktop,Ubuntu
+DEV01831,Desktop,macOS
+DEV01832,Desktop,Ubuntu
+DEV01833,Laptop,Ubuntu
+DEV01834,Desktop,Ubuntu
+DEV01835,Laptop,Ubuntu
+DEV01836,Desktop,Windows 11
+DEV01837,Laptop,Ubuntu
+DEV01838,Desktop,macOS
+DEV01839,Laptop,Windows 11
+DEV01840,Laptop,macOS
+DEV01841,Desktop,macOS
+DEV01842,Laptop,Ubuntu
+DEV01843,Desktop,macOS
+DEV01844,Desktop,macOS
+DEV01845,Desktop,macOS
+DEV01846,Laptop,Windows 11
+DEV01847,Desktop,Windows 11
+DEV01848,Desktop,Windows 11
+DEV01849,Desktop,macOS
+DEV01850,Desktop,Windows 11
+DEV01851,Desktop,Ubuntu
+DEV01852,Laptop,Ubuntu
+DEV01853,Desktop,Ubuntu
+DEV01854,Laptop,macOS
+DEV01855,Desktop,Ubuntu
+DEV01856,Laptop,macOS
+DEV01857,Laptop,macOS
+DEV01858,Laptop,Windows 11
+DEV01859,Desktop,Windows 11
+DEV01860,Desktop,macOS
+DEV01861,Desktop,Windows 11
+DEV01862,Desktop,Windows 11
+DEV01863,Desktop,macOS
+DEV01864,Laptop,Windows 11
+DEV01865,Laptop,Windows 11
+DEV01866,Laptop,Windows 11
+DEV01867,Desktop,macOS
+DEV01868,Laptop,Windows 11
+DEV01869,Desktop,Ubuntu
+DEV01870,Desktop,Windows 11
+DEV01871,Desktop,macOS
+DEV01872,Desktop,macOS
+DEV01873,Laptop,macOS
+DEV01874,Laptop,macOS
+DEV01875,Desktop,Windows 11
+DEV01876,Desktop,Windows 11
+DEV01877,Laptop,macOS
+DEV01878,Desktop,Ubuntu
+DEV01879,Desktop,macOS
+DEV01880,Desktop,Windows 11
+DEV01881,Laptop,Ubuntu
+DEV01882,Laptop,Ubuntu
+DEV01883,Laptop,Windows 11
+DEV01884,Laptop,Ubuntu
+DEV01885,Laptop,macOS
+DEV01886,Laptop,macOS
+DEV01887,Desktop,Windows 11
+DEV01888,Desktop,Ubuntu
+DEV01889,Laptop,Ubuntu
+DEV01890,Laptop,macOS
+DEV01891,Laptop,Ubuntu
+DEV01892,Desktop,Ubuntu
+DEV01893,Desktop,macOS
+DEV01894,Laptop,macOS
+DEV01895,Laptop,Windows 11
+DEV01896,Desktop,Windows 11
+DEV01897,Desktop,Ubuntu
+DEV01898,Laptop,Ubuntu
+DEV01899,Laptop,Ubuntu
+DEV01900,Desktop,Windows 11
+DEV01901,Desktop,Windows 11
+DEV01902,Laptop,macOS
+DEV01903,Desktop,Ubuntu
+DEV01904,Laptop,Ubuntu
+DEV01905,Desktop,macOS
+DEV01906,Laptop,Ubuntu
+DEV01907,Desktop,macOS
+DEV01908,Desktop,Windows 11
+DEV01909,Desktop,Windows 11
+DEV01910,Laptop,macOS
+DEV01911,Laptop,macOS
+DEV01912,Laptop,Windows 11
+DEV01913,Desktop,macOS
+DEV01914,Desktop,Ubuntu
+DEV01915,Laptop,Windows 11
+DEV01916,Desktop,Ubuntu
+DEV01917,Desktop,macOS
+DEV01918,Desktop,Ubuntu
+DEV01919,Desktop,Ubuntu
+DEV01920,Laptop,macOS
+DEV01921,Desktop,Ubuntu
+DEV01922,Laptop,macOS
+DEV01923,Desktop,Windows 11
+DEV01924,Laptop,Ubuntu
+DEV01925,Laptop,macOS
+DEV01926,Desktop,Ubuntu
+DEV01927,Laptop,macOS
+DEV01928,Laptop,Ubuntu
+DEV01929,Desktop,Ubuntu
+DEV01930,Laptop,Windows 11
+DEV01931,Laptop,macOS
+DEV01932,Laptop,macOS
+DEV01933,Laptop,Ubuntu
+DEV01934,Laptop,macOS
+DEV01935,Laptop,Ubuntu
+DEV01936,Desktop,macOS
+DEV01937,Laptop,Windows 11
+DEV01938,Laptop,Ubuntu
+DEV01939,Desktop,Windows 11
+DEV01940,Laptop,Windows 11
+DEV01941,Desktop,macOS
+DEV01942,Desktop,Windows 11
+DEV01943,Desktop,Windows 11
+DEV01944,Laptop,Windows 11
+DEV01945,Laptop,Ubuntu
+DEV01946,Desktop,Ubuntu
+DEV01947,Laptop,macOS
+DEV01948,Desktop,macOS
+DEV01949,Laptop,Ubuntu
+DEV01950,Desktop,Ubuntu
+DEV01951,Desktop,Ubuntu
+DEV01952,Laptop,Windows 11
+DEV01953,Laptop,Windows 11
+DEV01954,Laptop,Ubuntu
+DEV01955,Laptop,Windows 11
+DEV01956,Desktop,Ubuntu
+DEV01957,Laptop,macOS
+DEV01958,Laptop,Ubuntu
+DEV01959,Desktop,macOS
+DEV01960,Desktop,Ubuntu
+DEV01961,Laptop,Windows 11
+DEV01962,Desktop,Windows 11
+DEV01963,Laptop,Ubuntu
+DEV01964,Laptop,Ubuntu
+DEV01965,Desktop,Windows 11
+DEV01966,Laptop,Windows 11
+DEV01967,Laptop,Windows 11
+DEV01968,Laptop,Windows 11
+DEV01969,Desktop,Ubuntu
+DEV01970,Laptop,Windows 11
+DEV01971,Laptop,macOS
+DEV01972,Laptop,macOS
+DEV01973,Laptop,Windows 11
+DEV01974,Desktop,Windows 11
+DEV01975,Laptop,Windows 11
+DEV01976,Desktop,Ubuntu
+DEV01977,Laptop,Ubuntu
+DEV01978,Laptop,Windows 11
+DEV01979,Desktop,Windows 11
+DEV01980,Desktop,macOS
+DEV01981,Desktop,Windows 11
+DEV01982,Desktop,macOS
+DEV01983,Desktop,macOS
+DEV01984,Desktop,macOS
+DEV01985,Laptop,macOS
+DEV01986,Laptop,macOS
+DEV01987,Laptop,Windows 11
+DEV01988,Laptop,Windows 11
+DEV01989,Laptop,Ubuntu
+DEV01990,Laptop,Windows 11
+DEV01991,Laptop,macOS
+DEV01992,Desktop,Ubuntu
+DEV01993,Laptop,macOS
+DEV01994,Desktop,Windows 11
+DEV01995,Desktop,Ubuntu
+DEV01996,Desktop,macOS
+DEV01997,Laptop,Ubuntu
+DEV01998,Desktop,Windows 11
+DEV01999,Desktop,macOS
+DEV02000,Desktop,macOS
+DEV02001,Laptop,macOS
+DEV02002,Laptop,Windows 11
+DEV02003,Desktop,macOS
+DEV02004,Laptop,macOS
+DEV02005,Desktop,macOS
+DEV02006,Laptop,Ubuntu
+DEV02007,Laptop,Ubuntu
+DEV02008,Desktop,Ubuntu
+DEV02009,Laptop,macOS
+DEV02010,Laptop,Windows 11
+DEV02011,Desktop,Windows 11
+DEV02012,Laptop,macOS
+DEV02013,Desktop,Windows 11
+DEV02014,Desktop,macOS
+DEV02015,Laptop,Ubuntu
+DEV02016,Desktop,Ubuntu
+DEV02017,Laptop,Windows 11
+DEV02018,Desktop,Windows 11
+DEV02019,Laptop,Ubuntu
+DEV02020,Laptop,Ubuntu
+DEV02021,Laptop,Windows 11
+DEV02022,Laptop,macOS
+DEV02023,Desktop,macOS
+DEV02024,Desktop,Windows 11
+DEV02025,Desktop,macOS
+DEV02026,Desktop,macOS
+DEV02027,Desktop,macOS
+DEV02028,Laptop,Windows 11
+DEV02029,Laptop,Ubuntu
+DEV02030,Desktop,Windows 11
+DEV02031,Desktop,macOS
+DEV02032,Desktop,Ubuntu
+DEV02033,Laptop,Ubuntu
+DEV02034,Laptop,macOS
+DEV02035,Laptop,macOS
+DEV02036,Laptop,Windows 11
+DEV02037,Desktop,macOS
+DEV02038,Desktop,Windows 11
+DEV02039,Desktop,macOS
+DEV02040,Laptop,macOS
+DEV02041,Desktop,macOS
+DEV02042,Desktop,Windows 11
+DEV02043,Desktop,Ubuntu
+DEV02044,Desktop,macOS
+DEV02045,Desktop,Ubuntu
+DEV02046,Desktop,macOS
+DEV02047,Laptop,Ubuntu
+DEV02048,Laptop,Ubuntu
+DEV02049,Desktop,Ubuntu
+DEV02050,Laptop,macOS
+DEV02051,Laptop,Windows 11
+DEV02052,Laptop,Windows 11
+DEV02053,Laptop,macOS
+DEV02054,Laptop,Windows 11
+DEV02055,Desktop,macOS
+DEV02056,Desktop,Windows 11
+DEV02057,Desktop,macOS
+DEV02058,Laptop,Ubuntu
+DEV02059,Desktop,macOS
+DEV02060,Laptop,Ubuntu
+DEV02061,Laptop,macOS
+DEV02062,Laptop,macOS
+DEV02063,Laptop,macOS
+DEV02064,Desktop,macOS
+DEV02065,Desktop,Windows 11
+DEV02066,Laptop,macOS
+DEV02067,Desktop,Windows 11
+DEV02068,Laptop,Windows 11
+DEV02069,Laptop,Ubuntu
+DEV02070,Laptop,macOS
+DEV02071,Desktop,Windows 11
+DEV02072,Desktop,Ubuntu
+DEV02073,Desktop,Windows 11
+DEV02074,Desktop,Windows 11
+DEV02075,Desktop,macOS
+DEV02076,Laptop,macOS
+DEV02077,Laptop,Ubuntu
+DEV02078,Desktop,Ubuntu
+DEV02079,Desktop,Ubuntu
+DEV02080,Laptop,Windows 11
+DEV02081,Desktop,Windows 11
+DEV02082,Desktop,macOS
+DEV02083,Laptop,Ubuntu
+DEV02084,Desktop,Windows 11
+DEV02085,Desktop,Windows 11
+DEV02086,Desktop,Ubuntu
+DEV02087,Desktop,Ubuntu
+DEV02088,Laptop,Windows 11
+DEV02089,Desktop,macOS
+DEV02090,Laptop,Ubuntu
+DEV02091,Desktop,Windows 11
+DEV02092,Laptop,Ubuntu
+DEV02093,Desktop,Windows 11
+DEV02094,Laptop,macOS
+DEV02095,Laptop,Ubuntu
+DEV02096,Laptop,Ubuntu
+DEV02097,Laptop,Windows 11
+DEV02098,Desktop,Windows 11
+DEV02099,Desktop,Ubuntu
+DEV02100,Desktop,Ubuntu
+DEV02101,Desktop,Ubuntu
+DEV02102,Laptop,macOS
+DEV02103,Desktop,Windows 11
+DEV02104,Desktop,macOS
+DEV02105,Desktop,Windows 11
+DEV02106,Laptop,Ubuntu
+DEV02107,Desktop,Windows 11
+DEV02108,Desktop,macOS
+DEV02109,Laptop,Windows 11
+DEV02110,Laptop,Ubuntu
+DEV02111,Laptop,Windows 11
+DEV02112,Desktop,Ubuntu
+DEV02113,Desktop,Windows 11
+DEV02114,Laptop,macOS
+DEV02115,Laptop,Ubuntu
+DEV02116,Desktop,Windows 11
+DEV02117,Desktop,Ubuntu
+DEV02118,Desktop,macOS
+DEV02119,Laptop,Ubuntu
+DEV02120,Desktop,macOS
+DEV02121,Desktop,Windows 11
+DEV02122,Laptop,Windows 11
+DEV02123,Laptop,Windows 11
+DEV02124,Laptop,Ubuntu
+DEV02125,Laptop,macOS
+DEV02126,Laptop,Windows 11
+DEV02127,Desktop,Ubuntu
+DEV02128,Laptop,Ubuntu
+DEV02129,Desktop,Ubuntu
+DEV02130,Desktop,Ubuntu
+DEV02131,Laptop,Ubuntu
+DEV02132,Laptop,macOS
+DEV02133,Laptop,macOS
+DEV02134,Laptop,Windows 11
+DEV02135,Desktop,Windows 11
+DEV02136,Desktop,macOS
+DEV02137,Laptop,macOS
+DEV02138,Desktop,Windows 11
+DEV02139,Desktop,macOS
+DEV02140,Laptop,macOS
+DEV02141,Laptop,Windows 11
+DEV02142,Laptop,Windows 11
+DEV02143,Laptop,Windows 11
+DEV02144,Desktop,Windows 11
+DEV02145,Desktop,Windows 11
+DEV02146,Laptop,Ubuntu
+DEV02147,Laptop,macOS
+DEV02148,Laptop,Windows 11
+DEV02149,Laptop,Ubuntu
+DEV02150,Desktop,macOS
+DEV02151,Desktop,macOS
+DEV02152,Laptop,Windows 11
+DEV02153,Desktop,Ubuntu
+DEV02154,Desktop,Windows 11
+DEV02155,Desktop,macOS
+DEV02156,Laptop,Ubuntu
+DEV02157,Laptop,Ubuntu
+DEV02158,Desktop,Ubuntu
+DEV02159,Desktop,macOS
+DEV02160,Desktop,Windows 11
+DEV02161,Desktop,Windows 11
+DEV02162,Laptop,Windows 11
+DEV02163,Laptop,Windows 11
+DEV02164,Desktop,Windows 11
+DEV02165,Desktop,Ubuntu
+DEV02166,Desktop,macOS
+DEV02167,Laptop,Ubuntu
+DEV02168,Laptop,Ubuntu
+DEV02169,Desktop,Ubuntu
+DEV02170,Desktop,Ubuntu
+DEV02171,Laptop,Windows 11
+DEV02172,Laptop,macOS
+DEV02173,Laptop,Ubuntu
+DEV02174,Desktop,macOS
+DEV02175,Desktop,macOS
+DEV02176,Desktop,Windows 11
+DEV02177,Desktop,Windows 11
+DEV02178,Desktop,Windows 11
+DEV02179,Laptop,Windows 11
+DEV02180,Laptop,Windows 11
+DEV02181,Laptop,Windows 11
+DEV02182,Desktop,Windows 11
+DEV02183,Laptop,macOS
+DEV02184,Desktop,Ubuntu
+DEV02185,Desktop,Windows 11
+DEV02186,Laptop,Windows 11
+DEV02187,Laptop,Windows 11
+DEV02188,Desktop,macOS
+DEV02189,Desktop,macOS
+DEV02190,Desktop,Ubuntu
+DEV02191,Desktop,macOS
+DEV02192,Laptop,Ubuntu
+DEV02193,Laptop,Ubuntu
+DEV02194,Desktop,macOS
+DEV02195,Laptop,Windows 11
+DEV02196,Desktop,macOS
+DEV02197,Laptop,Ubuntu
+DEV02198,Laptop,macOS
+DEV02199,Laptop,macOS
+DEV02200,Laptop,macOS
+DEV02201,Desktop,Ubuntu
+DEV02202,Laptop,Windows 11
+DEV02203,Desktop,macOS
+DEV02204,Desktop,macOS
+DEV02205,Desktop,Ubuntu
+DEV02206,Desktop,Windows 11
+DEV02207,Laptop,Windows 11
+DEV02208,Laptop,macOS
+DEV02209,Laptop,macOS
+DEV02210,Laptop,macOS
+DEV02211,Desktop,macOS
+DEV02212,Desktop,Ubuntu
+DEV02213,Laptop,Ubuntu
+DEV02214,Desktop,macOS
+DEV02215,Laptop,Windows 11
+DEV02216,Laptop,Windows 11
+DEV02217,Laptop,Ubuntu
+DEV02218,Laptop,macOS
+DEV02219,Laptop,Ubuntu
+DEV02220,Laptop,Ubuntu
+DEV02221,Laptop,macOS
+DEV02222,Laptop,Windows 11
+DEV02223,Laptop,Windows 11
+DEV02224,Desktop,macOS
+DEV02225,Desktop,Ubuntu
+DEV02226,Laptop,macOS
+DEV02227,Desktop,macOS
+DEV02228,Laptop,Ubuntu
+DEV02229,Desktop,Ubuntu
+DEV02230,Laptop,macOS
+DEV02231,Laptop,Ubuntu
+DEV02232,Laptop,macOS
+DEV02233,Desktop,Windows 11
+DEV02234,Desktop,Windows 11
+DEV02235,Laptop,macOS
+DEV02236,Desktop,macOS
+DEV02237,Desktop,macOS
+DEV02238,Laptop,Ubuntu
+DEV02239,Laptop,Ubuntu
+DEV02240,Desktop,Windows 11
+DEV02241,Desktop,Windows 11
+DEV02242,Desktop,Windows 11
+DEV02243,Desktop,Ubuntu
+DEV02244,Laptop,Ubuntu
+DEV02245,Laptop,Ubuntu
+DEV02246,Laptop,Ubuntu
+DEV02247,Laptop,Windows 11
+DEV02248,Laptop,macOS
+DEV02249,Desktop,macOS
+DEV02250,Laptop,macOS
+DEV02251,Desktop,Windows 11
+DEV02252,Desktop,Windows 11
+DEV02253,Laptop,Ubuntu
+DEV02254,Laptop,Windows 11
+DEV02255,Laptop,Windows 11
+DEV02256,Desktop,Windows 11
+DEV02257,Desktop,macOS
+DEV02258,Desktop,Windows 11
+DEV02259,Laptop,macOS
+DEV02260,Laptop,macOS
+DEV02261,Laptop,Ubuntu
+DEV02262,Desktop,Windows 11
+DEV02263,Laptop,Windows 11
+DEV02264,Laptop,Windows 11
+DEV02265,Laptop,Windows 11
+DEV02266,Desktop,Windows 11
+DEV02267,Laptop,Windows 11
+DEV02268,Laptop,macOS
+DEV02269,Desktop,macOS
+DEV02270,Laptop,Windows 11
+DEV02271,Laptop,Ubuntu
+DEV02272,Desktop,Windows 11
+DEV02273,Desktop,Ubuntu
+DEV02274,Desktop,Windows 11
+DEV02275,Laptop,Windows 11
+DEV02276,Desktop,macOS
+DEV02277,Laptop,Windows 11
+DEV02278,Laptop,Windows 11
+DEV02279,Desktop,Windows 11
+DEV02280,Desktop,Windows 11
+DEV02281,Laptop,Windows 11
+DEV02282,Laptop,Windows 11
+DEV02283,Desktop,Ubuntu
+DEV02284,Laptop,Ubuntu
+DEV02285,Desktop,Windows 11
+DEV02286,Desktop,macOS
+DEV02287,Laptop,Ubuntu
+DEV02288,Laptop,Windows 11
+DEV02289,Laptop,Windows 11
+DEV02290,Desktop,Ubuntu
+DEV02291,Laptop,macOS
+DEV02292,Desktop,Windows 11
+DEV02293,Desktop,Windows 11
+DEV02294,Laptop,macOS
+DEV02295,Laptop,Windows 11
+DEV02296,Desktop,macOS
+DEV02297,Desktop,macOS
+DEV02298,Laptop,macOS
+DEV02299,Desktop,Windows 11
+DEV02300,Desktop,macOS
+DEV02301,Desktop,Ubuntu
+DEV02302,Laptop,Ubuntu
+DEV02303,Desktop,macOS
+DEV02304,Desktop,Ubuntu
+DEV02305,Laptop,Windows 11
+DEV02306,Laptop,macOS
+DEV02307,Laptop,Ubuntu
+DEV02308,Laptop,Ubuntu
+DEV02309,Desktop,macOS
+DEV02310,Desktop,Windows 11
+DEV02311,Laptop,macOS
+DEV02312,Desktop,macOS
+DEV02313,Desktop,Windows 11
+DEV02314,Laptop,Ubuntu
+DEV02315,Laptop,Windows 11
+DEV02316,Desktop,Ubuntu
+DEV02317,Desktop,Ubuntu
+DEV02318,Desktop,Ubuntu
+DEV02319,Desktop,macOS
+DEV02320,Desktop,Windows 11
+DEV02321,Laptop,Ubuntu
+DEV02322,Desktop,macOS
+DEV02323,Desktop,macOS
+DEV02324,Desktop,macOS
+DEV02325,Laptop,Ubuntu
+DEV02326,Laptop,macOS
+DEV02327,Desktop,macOS
+DEV02328,Laptop,macOS
+DEV02329,Laptop,Windows 11
+DEV02330,Desktop,Windows 11
+DEV02331,Laptop,Windows 11
+DEV02332,Desktop,macOS
+DEV02333,Desktop,Windows 11
+DEV02334,Laptop,Windows 11
+DEV02335,Desktop,Ubuntu
+DEV02336,Laptop,Ubuntu
+DEV02337,Desktop,Windows 11
+DEV02338,Desktop,Windows 11
+DEV02339,Laptop,Windows 11
+DEV02340,Laptop,macOS
+DEV02341,Laptop,Windows 11
+DEV02342,Laptop,Ubuntu
+DEV02343,Laptop,macOS
+DEV02344,Desktop,Ubuntu
+DEV02345,Laptop,macOS
+DEV02346,Laptop,macOS
+DEV02347,Laptop,Ubuntu
+DEV02348,Laptop,Windows 11
+DEV02349,Laptop,Ubuntu
+DEV02350,Laptop,Windows 11
+DEV02351,Laptop,Windows 11
+DEV02352,Laptop,macOS
+DEV02353,Desktop,Windows 11
+DEV02354,Laptop,Ubuntu
+DEV02355,Laptop,macOS
+DEV02356,Desktop,Ubuntu
+DEV02357,Desktop,macOS
+DEV02358,Desktop,Ubuntu
+DEV02359,Laptop,Ubuntu
+DEV02360,Laptop,Windows 11
+DEV02361,Laptop,macOS
+DEV02362,Laptop,macOS
+DEV02363,Laptop,macOS
+DEV02364,Laptop,Windows 11
+DEV02365,Desktop,Ubuntu
+DEV02366,Desktop,macOS
+DEV02367,Desktop,macOS
+DEV02368,Desktop,macOS
+DEV02369,Laptop,Ubuntu
+DEV02370,Laptop,Ubuntu
+DEV02371,Laptop,macOS
+DEV02372,Desktop,Windows 11
+DEV02373,Laptop,Ubuntu
+DEV02374,Laptop,Windows 11
+DEV02375,Desktop,Windows 11
+DEV02376,Laptop,macOS
+DEV02377,Desktop,Ubuntu
+DEV02378,Desktop,macOS
+DEV02379,Desktop,Ubuntu
+DEV02380,Laptop,Windows 11
+DEV02381,Desktop,macOS
+DEV02382,Desktop,Windows 11
+DEV02383,Desktop,Windows 11
+DEV02384,Laptop,Windows 11
+DEV02385,Desktop,macOS
+DEV02386,Desktop,Windows 11
+DEV02387,Laptop,Ubuntu
+DEV02388,Laptop,macOS
+DEV02389,Laptop,Windows 11
+DEV02390,Laptop,macOS
+DEV02391,Laptop,Ubuntu
+DEV02392,Laptop,macOS
+DEV02393,Laptop,macOS
+DEV02394,Laptop,Windows 11
+DEV02395,Desktop,Windows 11
+DEV02396,Laptop,macOS
+DEV02397,Desktop,Windows 11
+DEV02398,Laptop,Ubuntu
+DEV02399,Laptop,Ubuntu
+DEV02400,Laptop,Ubuntu
+DEV02401,Desktop,Ubuntu
+DEV02402,Laptop,Ubuntu
+DEV02403,Desktop,macOS
+DEV02404,Desktop,Windows 11
+DEV02405,Laptop,Ubuntu
+DEV02406,Desktop,macOS
+DEV02407,Laptop,macOS
+DEV02408,Laptop,Windows 11
+DEV02409,Desktop,Ubuntu
+DEV02410,Laptop,Ubuntu
+DEV02411,Laptop,Windows 11
+DEV02412,Desktop,Windows 11
+DEV02413,Laptop,macOS
+DEV02414,Laptop,Windows 11
+DEV02415,Laptop,macOS
+DEV02416,Laptop,macOS
+DEV02417,Desktop,Ubuntu
+DEV02418,Laptop,Ubuntu
+DEV02419,Desktop,Ubuntu
+DEV02420,Desktop,Windows 11
+DEV02421,Desktop,Windows 11
+DEV02422,Laptop,macOS
+DEV02423,Laptop,Windows 11
+DEV02424,Desktop,Windows 11
+DEV02425,Laptop,Windows 11
+DEV02426,Desktop,macOS
+DEV02427,Laptop,Ubuntu
+DEV02428,Laptop,Ubuntu
+DEV02429,Desktop,Windows 11
+DEV02430,Desktop,Windows 11
+DEV02431,Laptop,Ubuntu
+DEV02432,Desktop,Ubuntu
+DEV02433,Laptop,Windows 11
+DEV02434,Laptop,macOS
+DEV02435,Desktop,Ubuntu
+DEV02436,Desktop,Ubuntu
+DEV02437,Desktop,macOS
+DEV02438,Laptop,Windows 11
+DEV02439,Desktop,Windows 11
+DEV02440,Desktop,Ubuntu
+DEV02441,Desktop,Ubuntu
+DEV02442,Laptop,Ubuntu
+DEV02443,Desktop,macOS
+DEV02444,Desktop,Ubuntu
+DEV02445,Laptop,macOS
+DEV02446,Desktop,macOS
+DEV02447,Desktop,Ubuntu
+DEV02448,Laptop,macOS
+DEV02449,Laptop,macOS
+DEV02450,Laptop,macOS
+DEV02451,Laptop,Windows 11
+DEV02452,Laptop,Ubuntu
+DEV02453,Desktop,Windows 11
+DEV02454,Desktop,Windows 11
+DEV02455,Laptop,Ubuntu
+DEV02456,Desktop,macOS
+DEV02457,Laptop,Ubuntu
+DEV02458,Desktop,Ubuntu
+DEV02459,Desktop,Windows 11
+DEV02460,Laptop,Windows 11
+DEV02461,Laptop,Ubuntu
+DEV02462,Desktop,Windows 11
+DEV02463,Desktop,Ubuntu
+DEV02464,Laptop,Ubuntu
+DEV02465,Desktop,macOS
+DEV02466,Desktop,Windows 11
+DEV02467,Desktop,Windows 11
+DEV02468,Desktop,Ubuntu
+DEV02469,Laptop,macOS
+DEV02470,Laptop,Ubuntu
+DEV02471,Laptop,macOS
+DEV02472,Laptop,Ubuntu
+DEV02473,Laptop,macOS
+DEV02474,Desktop,Windows 11
+DEV02475,Desktop,Ubuntu
+DEV02476,Desktop,Windows 11
+DEV02477,Laptop,Windows 11
+DEV02478,Laptop,macOS
+DEV02479,Desktop,Ubuntu
+DEV02480,Desktop,macOS
+DEV02481,Laptop,Windows 11
+DEV02482,Laptop,Windows 11
+DEV02483,Desktop,Ubuntu
+DEV02484,Laptop,Ubuntu
+DEV02485,Desktop,Ubuntu
+DEV02486,Laptop,macOS
+DEV02487,Desktop,Windows 11
+DEV02488,Laptop,Windows 11
+DEV02489,Desktop,Ubuntu
+DEV02490,Desktop,Windows 11
+DEV02491,Laptop,Ubuntu
+DEV02492,Desktop,Ubuntu
+DEV02493,Desktop,macOS
+DEV02494,Laptop,macOS
+DEV02495,Desktop,Ubuntu
+DEV02496,Desktop,Windows 11
+DEV02497,Laptop,Windows 11
+DEV02498,Laptop,Ubuntu
+DEV02499,Desktop,Windows 11
+DEV02500,Laptop,Ubuntu
+DEV02501,Laptop,Ubuntu
+DEV02502,Desktop,Windows 11
+DEV02503,Desktop,Ubuntu
+DEV02504,Laptop,Ubuntu
+DEV02505,Laptop,macOS
+DEV02506,Desktop,macOS
+DEV02507,Laptop,Windows 11
+DEV02508,Laptop,macOS
+DEV02509,Laptop,Ubuntu
+DEV02510,Laptop,macOS
+DEV02511,Desktop,Windows 11
+DEV02512,Desktop,Windows 11
+DEV02513,Laptop,macOS
+DEV02514,Laptop,Ubuntu
+DEV02515,Desktop,Windows 11
+DEV02516,Desktop,Ubuntu
+DEV02517,Laptop,macOS
+DEV02518,Desktop,macOS
+DEV02519,Desktop,Ubuntu
+DEV02520,Desktop,Ubuntu
+DEV02521,Desktop,macOS
+DEV02522,Desktop,macOS
+DEV02523,Desktop,Windows 11
+DEV02524,Laptop,Ubuntu
+DEV02525,Desktop,Ubuntu
+DEV02526,Laptop,macOS
+DEV02527,Laptop,macOS
+DEV02528,Desktop,Ubuntu
+DEV02529,Desktop,macOS
+DEV02530,Desktop,macOS
+DEV02531,Desktop,macOS
+DEV02532,Laptop,Windows 11
+DEV02533,Laptop,Windows 11
+DEV02534,Laptop,macOS
+DEV02535,Desktop,Windows 11
+DEV02536,Desktop,macOS
+DEV02537,Laptop,macOS
+DEV02538,Desktop,macOS
+DEV02539,Laptop,macOS
+DEV02540,Desktop,Ubuntu
+DEV02541,Laptop,Windows 11
+DEV02542,Desktop,macOS
+DEV02543,Desktop,Windows 11
+DEV02544,Laptop,Ubuntu
+DEV02545,Laptop,Ubuntu
+DEV02546,Desktop,Ubuntu
+DEV02547,Desktop,Windows 11
+DEV02548,Desktop,Windows 11
+DEV02549,Desktop,Ubuntu
+DEV02550,Desktop,Ubuntu
+DEV02551,Desktop,macOS
+DEV02552,Laptop,Windows 11
+DEV02553,Desktop,Windows 11
+DEV02554,Laptop,Windows 11
+DEV02555,Laptop,Ubuntu
+DEV02556,Desktop,Ubuntu
+DEV02557,Laptop,macOS
+DEV02558,Desktop,Windows 11
+DEV02559,Desktop,Windows 11
+DEV02560,Desktop,Windows 11
+DEV02561,Desktop,Windows 11
+DEV02562,Desktop,macOS
+DEV02563,Laptop,Ubuntu
+DEV02564,Desktop,macOS
+DEV02565,Laptop,Ubuntu
+DEV02566,Laptop,Windows 11
+DEV02567,Laptop,macOS
+DEV02568,Laptop,macOS
+DEV02569,Desktop,macOS
+DEV02570,Desktop,macOS
+DEV02571,Laptop,Ubuntu
+DEV02572,Laptop,Windows 11
+DEV02573,Laptop,Windows 11
+DEV02574,Desktop,Windows 11
+DEV02575,Laptop,Windows 11
+DEV02576,Laptop,macOS
+DEV02577,Desktop,Windows 11
+DEV02578,Laptop,Ubuntu
+DEV02579,Desktop,Windows 11
+DEV02580,Laptop,macOS
+DEV02581,Laptop,Ubuntu
+DEV02582,Laptop,macOS
+DEV02583,Laptop,macOS
+DEV02584,Desktop,Ubuntu
+DEV02585,Laptop,Ubuntu
+DEV02586,Laptop,Windows 11
+DEV02587,Laptop,macOS
+DEV02588,Laptop,Windows 11
+DEV02589,Desktop,macOS
+DEV02590,Laptop,Windows 11
+DEV02591,Laptop,Ubuntu
+DEV02592,Desktop,Windows 11
+DEV02593,Laptop,Windows 11
+DEV02594,Desktop,Ubuntu
+DEV02595,Laptop,Ubuntu
+DEV02596,Laptop,Ubuntu
+DEV02597,Laptop,Ubuntu
+DEV02598,Laptop,Ubuntu
+DEV02599,Laptop,Windows 11
+DEV02600,Desktop,Ubuntu
+DEV02601,Desktop,macOS
+DEV02602,Desktop,Windows 11
+DEV02603,Laptop,Ubuntu
+DEV02604,Laptop,Windows 11
+DEV02605,Laptop,Windows 11
+DEV02606,Desktop,Ubuntu
+DEV02607,Desktop,macOS
+DEV02608,Laptop,Windows 11
+DEV02609,Desktop,Windows 11
+DEV02610,Laptop,macOS
+DEV02611,Laptop,macOS
+DEV02612,Laptop,macOS
+DEV02613,Laptop,Windows 11
+DEV02614,Desktop,Windows 11
+DEV02615,Laptop,Windows 11
+DEV02616,Desktop,Windows 11
+DEV02617,Laptop,Windows 11
+DEV02618,Laptop,Ubuntu
+DEV02619,Desktop,Ubuntu
+DEV02620,Laptop,Windows 11
+DEV02621,Desktop,macOS
+DEV02622,Desktop,Ubuntu
+DEV02623,Desktop,Ubuntu
+DEV02624,Desktop,Windows 11
+DEV02625,Desktop,Windows 11
+DEV02626,Laptop,macOS
+DEV02627,Desktop,Ubuntu
+DEV02628,Laptop,macOS
+DEV02629,Desktop,Windows 11
+DEV02630,Laptop,macOS
+DEV02631,Desktop,Ubuntu
+DEV02632,Desktop,Ubuntu
+DEV02633,Desktop,Ubuntu
+DEV02634,Laptop,macOS
+DEV02635,Desktop,Ubuntu
+DEV02636,Laptop,macOS
+DEV02637,Desktop,Ubuntu
+DEV02638,Laptop,Ubuntu
+DEV02639,Laptop,Windows 11
+DEV02640,Desktop,macOS
+DEV02641,Desktop,Ubuntu
+DEV02642,Desktop,Ubuntu
+DEV02643,Laptop,Windows 11
+DEV02644,Laptop,Ubuntu
+DEV02645,Desktop,Windows 11
+DEV02646,Desktop,Windows 11
+DEV02647,Laptop,Windows 11
+DEV02648,Desktop,Ubuntu
+DEV02649,Laptop,Ubuntu
+DEV02650,Laptop,Windows 11
+DEV02651,Desktop,macOS
+DEV02652,Laptop,macOS
+DEV02653,Desktop,Windows 11
+DEV02654,Desktop,macOS
+DEV02655,Desktop,Windows 11
+DEV02656,Laptop,Ubuntu
+DEV02657,Desktop,macOS
+DEV02658,Laptop,macOS
+DEV02659,Laptop,Windows 11
+DEV02660,Desktop,macOS
+DEV02661,Laptop,macOS
+DEV02662,Desktop,macOS
+DEV02663,Desktop,Ubuntu
+DEV02664,Desktop,Windows 11
+DEV02665,Laptop,Windows 11
+DEV02666,Desktop,Ubuntu
+DEV02667,Laptop,Ubuntu
+DEV02668,Desktop,Windows 11
+DEV02669,Laptop,Ubuntu
+DEV02670,Laptop,macOS
+DEV02671,Desktop,macOS
+DEV02672,Desktop,Windows 11
+DEV02673,Laptop,Ubuntu
+DEV02674,Laptop,macOS
+DEV02675,Laptop,Ubuntu
+DEV02676,Desktop,Windows 11
+DEV02677,Desktop,Windows 11
+DEV02678,Laptop,Ubuntu
+DEV02679,Laptop,Windows 11
+DEV02680,Desktop,Windows 11
+DEV02681,Desktop,macOS
+DEV02682,Desktop,Ubuntu
+DEV02683,Desktop,Ubuntu
+DEV02684,Desktop,Windows 11
+DEV02685,Desktop,Ubuntu
+DEV02686,Laptop,Ubuntu
+DEV02687,Desktop,macOS
+DEV02688,Desktop,Ubuntu
+DEV02689,Laptop,Ubuntu
+DEV02690,Laptop,Windows 11
+DEV02691,Laptop,Windows 11
+DEV02692,Laptop,Windows 11
+DEV02693,Laptop,Ubuntu
+DEV02694,Desktop,Windows 11
+DEV02695,Laptop,Windows 11
+DEV02696,Laptop,macOS
+DEV02697,Desktop,macOS
+DEV02698,Laptop,macOS
+DEV02699,Laptop,Ubuntu
+DEV02700,Laptop,Windows 11
+DEV02701,Laptop,Ubuntu
+DEV02702,Laptop,Ubuntu
+DEV02703,Desktop,macOS
+DEV02704,Desktop,Ubuntu
+DEV02705,Laptop,Windows 11
+DEV02706,Desktop,Windows 11
+DEV02707,Laptop,Ubuntu
+DEV02708,Laptop,macOS
+DEV02709,Desktop,macOS
+DEV02710,Desktop,macOS
+DEV02711,Laptop,macOS
+DEV02712,Laptop,macOS
+DEV02713,Desktop,macOS
+DEV02714,Desktop,Ubuntu
+DEV02715,Desktop,macOS
+DEV02716,Desktop,Windows 11
+DEV02717,Laptop,Ubuntu
+DEV02718,Desktop,macOS
+DEV02719,Laptop,Ubuntu
+DEV02720,Laptop,macOS
+DEV02721,Laptop,macOS
+DEV02722,Laptop,Windows 11
+DEV02723,Desktop,Windows 11
+DEV02724,Laptop,Windows 11
+DEV02725,Laptop,Ubuntu
+DEV02726,Desktop,Windows 11
+DEV02727,Desktop,Windows 11
+DEV02728,Desktop,Windows 11
+DEV02729,Desktop,Ubuntu
+DEV02730,Desktop,macOS
+DEV02731,Laptop,macOS
+DEV02732,Laptop,Windows 11
+DEV02733,Laptop,Ubuntu
+DEV02734,Desktop,Ubuntu
+DEV02735,Laptop,Ubuntu
+DEV02736,Laptop,Windows 11
+DEV02737,Desktop,Ubuntu
+DEV02738,Laptop,macOS
+DEV02739,Desktop,macOS
+DEV02740,Laptop,Windows 11
+DEV02741,Desktop,Windows 11
+DEV02742,Laptop,Windows 11
+DEV02743,Laptop,Ubuntu
+DEV02744,Laptop,Ubuntu
+DEV02745,Laptop,Ubuntu
+DEV02746,Desktop,Ubuntu
+DEV02747,Desktop,Windows 11
+DEV02748,Laptop,Ubuntu
+DEV02749,Desktop,Windows 11
+DEV02750,Laptop,Ubuntu
+DEV02751,Desktop,macOS
+DEV02752,Desktop,Windows 11
+DEV02753,Desktop,Ubuntu
+DEV02754,Desktop,Windows 11
+DEV02755,Laptop,macOS
+DEV02756,Desktop,macOS
+DEV02757,Desktop,Windows 11
+DEV02758,Desktop,Windows 11
+DEV02759,Desktop,Windows 11
+DEV02760,Desktop,macOS
+DEV02761,Desktop,macOS
+DEV02762,Desktop,Windows 11
+DEV02763,Laptop,macOS
+DEV02764,Laptop,Windows 11
+DEV02765,Laptop,Windows 11
+DEV02766,Laptop,Windows 11
+DEV02767,Desktop,Windows 11
+DEV02768,Laptop,macOS
+DEV02769,Laptop,Ubuntu
+DEV02770,Laptop,macOS
+DEV02771,Desktop,Ubuntu
+DEV02772,Desktop,Windows 11
+DEV02773,Laptop,macOS
+DEV02774,Desktop,Ubuntu
+DEV02775,Laptop,Windows 11
+DEV02776,Laptop,Ubuntu
+DEV02777,Desktop,macOS
+DEV02778,Desktop,macOS
+DEV02779,Laptop,Windows 11
+DEV02780,Laptop,macOS
+DEV02781,Desktop,macOS
+DEV02782,Desktop,macOS
+DEV02783,Laptop,Windows 11
+DEV02784,Desktop,macOS
+DEV02785,Laptop,Windows 11
+DEV02786,Laptop,Ubuntu
+DEV02787,Desktop,Windows 11
+DEV02788,Laptop,macOS
+DEV02789,Desktop,Ubuntu
+DEV02790,Desktop,Windows 11
+DEV02791,Laptop,Ubuntu
+DEV02792,Laptop,Windows 11
+DEV02793,Laptop,macOS
+DEV02794,Desktop,Ubuntu
+DEV02795,Laptop,Ubuntu
+DEV02796,Laptop,Ubuntu
+DEV02797,Laptop,Windows 11
+DEV02798,Laptop,macOS
+DEV02799,Desktop,Windows 11
+DEV02800,Laptop,Windows 11
+DEV02801,Laptop,Windows 11
+DEV02802,Desktop,macOS
+DEV02803,Desktop,Ubuntu
+DEV02804,Desktop,macOS
+DEV02805,Desktop,macOS
+DEV02806,Desktop,macOS
+DEV02807,Desktop,Ubuntu
+DEV02808,Desktop,Ubuntu
+DEV02809,Laptop,Ubuntu
+DEV02810,Desktop,macOS
+DEV02811,Desktop,macOS
+DEV02812,Desktop,Windows 11
+DEV02813,Desktop,macOS
+DEV02814,Laptop,Windows 11
+DEV02815,Desktop,Windows 11
+DEV02816,Laptop,Ubuntu
+DEV02817,Desktop,Windows 11
+DEV02818,Laptop,macOS
+DEV02819,Desktop,Ubuntu
+DEV02820,Laptop,macOS
+DEV02821,Laptop,Windows 11
+DEV02822,Desktop,macOS
+DEV02823,Laptop,Ubuntu
+DEV02824,Desktop,macOS
+DEV02825,Laptop,Ubuntu
+DEV02826,Desktop,Ubuntu
+DEV02827,Desktop,macOS
+DEV02828,Desktop,Ubuntu
+DEV02829,Desktop,Windows 11
+DEV02830,Laptop,macOS
+DEV02831,Desktop,macOS
+DEV02832,Laptop,Ubuntu
+DEV02833,Desktop,macOS
+DEV02834,Desktop,Ubuntu
+DEV02835,Laptop,Windows 11
+DEV02836,Desktop,macOS
+DEV02837,Laptop,Ubuntu
+DEV02838,Laptop,macOS
+DEV02839,Desktop,macOS
+DEV02840,Laptop,Ubuntu
+DEV02841,Desktop,Ubuntu
+DEV02842,Laptop,Ubuntu
+DEV02843,Laptop,Ubuntu
+DEV02844,Laptop,Windows 11
+DEV02845,Desktop,macOS
+DEV02846,Laptop,Windows 11
+DEV02847,Desktop,Ubuntu
+DEV02848,Laptop,Ubuntu
+DEV02849,Desktop,macOS
+DEV02850,Laptop,Windows 11
+DEV02851,Desktop,Windows 11
+DEV02852,Desktop,Ubuntu
+DEV02853,Laptop,Windows 11
+DEV02854,Desktop,Windows 11
+DEV02855,Laptop,Ubuntu
+DEV02856,Laptop,Ubuntu
+DEV02857,Laptop,Windows 11
+DEV02858,Desktop,Ubuntu
+DEV02859,Laptop,macOS
+DEV02860,Desktop,Ubuntu
+DEV02861,Desktop,Windows 11
+DEV02862,Desktop,Ubuntu
+DEV02863,Desktop,Windows 11
+DEV02864,Desktop,macOS
+DEV02865,Desktop,macOS
+DEV02866,Laptop,macOS
+DEV02867,Laptop,Ubuntu
+DEV02868,Laptop,Ubuntu
+DEV02869,Laptop,Ubuntu
+DEV02870,Desktop,Windows 11
+DEV02871,Desktop,macOS
+DEV02872,Desktop,macOS
+DEV02873,Laptop,Ubuntu
+DEV02874,Desktop,Windows 11
+DEV02875,Laptop,macOS
+DEV02876,Desktop,macOS
+DEV02877,Desktop,macOS
+DEV02878,Desktop,Ubuntu
+DEV02879,Desktop,Ubuntu
+DEV02880,Desktop,Ubuntu
+DEV02881,Desktop,Ubuntu
+DEV02882,Laptop,macOS
+DEV02883,Laptop,Ubuntu
+DEV02884,Laptop,Windows 11
+DEV02885,Desktop,Windows 11
+DEV02886,Desktop,Windows 11
+DEV02887,Desktop,Windows 11
+DEV02888,Desktop,Windows 11
+DEV02889,Desktop,macOS
+DEV02890,Laptop,Ubuntu
+DEV02891,Desktop,Windows 11
+DEV02892,Laptop,Windows 11
+DEV02893,Desktop,macOS
+DEV02894,Laptop,Ubuntu
+DEV02895,Laptop,Ubuntu
+DEV02896,Desktop,macOS
+DEV02897,Desktop,Windows 11
+DEV02898,Laptop,macOS
+DEV02899,Laptop,macOS
+DEV02900,Laptop,macOS
+DEV02901,Laptop,macOS
+DEV02902,Desktop,Windows 11
+DEV02903,Laptop,macOS
+DEV02904,Laptop,Ubuntu
+DEV02905,Desktop,macOS
+DEV02906,Laptop,Ubuntu
+DEV02907,Laptop,Windows 11
+DEV02908,Laptop,Windows 11
+DEV02909,Laptop,macOS
+DEV02910,Laptop,macOS
+DEV02911,Laptop,Windows 11
+DEV02912,Laptop,Windows 11
+DEV02913,Desktop,Windows 11
+DEV02914,Desktop,Ubuntu
+DEV02915,Laptop,Windows 11
+DEV02916,Desktop,Ubuntu
+DEV02917,Desktop,Windows 11
+DEV02918,Laptop,macOS
+DEV02919,Desktop,macOS
+DEV02920,Desktop,macOS
+DEV02921,Laptop,Ubuntu
+DEV02922,Laptop,macOS
+DEV02923,Laptop,Windows 11
+DEV02924,Laptop,macOS
+DEV02925,Laptop,Windows 11
+DEV02926,Laptop,Ubuntu
+DEV02927,Desktop,Ubuntu
+DEV02928,Desktop,macOS
+DEV02929,Laptop,macOS
+DEV02930,Desktop,Ubuntu
+DEV02931,Desktop,Ubuntu
+DEV02932,Desktop,macOS
+DEV02933,Laptop,Ubuntu
+DEV02934,Desktop,Ubuntu
+DEV02935,Laptop,Windows 11
+DEV02936,Desktop,Ubuntu
+DEV02937,Laptop,macOS
+DEV02938,Desktop,Windows 11
+DEV02939,Desktop,Windows 11
+DEV02940,Desktop,Windows 11
+DEV02941,Desktop,Windows 11
+DEV02942,Desktop,macOS
+DEV02943,Desktop,Ubuntu
+DEV02944,Laptop,Windows 11
+DEV02945,Desktop,macOS
+DEV02946,Laptop,Ubuntu
+DEV02947,Desktop,macOS
+DEV02948,Laptop,Windows 11
+DEV02949,Laptop,Ubuntu
+DEV02950,Desktop,Ubuntu
+DEV02951,Laptop,Ubuntu
+DEV02952,Desktop,Ubuntu
+DEV02953,Laptop,macOS
+DEV02954,Desktop,Ubuntu
+DEV02955,Desktop,macOS
+DEV02956,Laptop,macOS
+DEV02957,Desktop,Windows 11
+DEV02958,Desktop,macOS
+DEV02959,Desktop,macOS
+DEV02960,Desktop,Windows 11
+DEV02961,Laptop,Windows 11
+DEV02962,Laptop,Windows 11
+DEV02963,Laptop,macOS
+DEV02964,Laptop,Ubuntu
+DEV02965,Desktop,Ubuntu
+DEV02966,Laptop,macOS
+DEV02967,Laptop,Windows 11
+DEV02968,Laptop,macOS
+DEV02969,Desktop,Ubuntu
+DEV02970,Laptop,Windows 11
+DEV02971,Desktop,Windows 11
+DEV02972,Laptop,macOS
+DEV02973,Laptop,Ubuntu
+DEV02974,Desktop,macOS
+DEV02975,Laptop,Windows 11
+DEV02976,Desktop,Windows 11
+DEV02977,Desktop,Ubuntu
+DEV02978,Laptop,macOS
+DEV02979,Laptop,Windows 11
+DEV02980,Desktop,Ubuntu
+DEV02981,Desktop,macOS
+DEV02982,Desktop,Windows 11
+DEV02983,Laptop,macOS
+DEV02984,Laptop,Ubuntu
+DEV02985,Laptop,Windows 11
+DEV02986,Laptop,macOS
+DEV02987,Laptop,Windows 11
+DEV02988,Laptop,Windows 11
+DEV02989,Laptop,Ubuntu
+DEV02990,Desktop,macOS
+DEV02991,Laptop,Ubuntu
+DEV02992,Laptop,macOS
+DEV02993,Desktop,Windows 11
+DEV02994,Laptop,macOS
+DEV02995,Desktop,macOS
+DEV02996,Desktop,Ubuntu
+DEV02997,Laptop,Windows 11
+DEV02998,Desktop,Ubuntu
+DEV02999,Desktop,Windows 11

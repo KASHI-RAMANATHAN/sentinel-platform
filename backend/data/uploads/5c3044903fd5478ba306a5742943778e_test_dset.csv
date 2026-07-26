@@ -1,0 +1,41 @@
+entity_id,entity_type,timestamp,source_ip,geo_location,resource_accessed,auth_method,session_duration,command_sequence,device_fingerprint,login_success,label
+953bcc2c-db06-48a4-997b-3e4a19d8ceb0,User,2026-07-07 12:07:20,221.161.57.6,"Port Ricardomouth, North Macedonia",VPN,SSO,25048,N/A,Ubuntu 22.04 - Chrome,True,Normal
+b06f4185-369f-4043-aaa6-c7c952393e9d,User,2026-06-26 17:26:35,55.140.54.245,"Hallborough, Chile",Email,Hardware Token,1991,N/A,macOS 13 - Firefox,True,Normal
+5bad0e08-00ba-460b-a3a7-81face53dac8,User,2026-07-21 13:34:54,73.112.88.13,"Stevensside, Andorra",Email,SSO,2180,N/A,Windows 11 - Chrome,True,Normal
+654ae1a7-8dfa-4495-b832-1478e3cdd88c,User,2026-07-23 13:00:15,16.1.43.176,"New Matthew, Uganda",CRM,Biometric,12715,N/A,Windows 10 - Firefox,True,Normal
+40666422-e20e-470a-ba41-a84839a0ffb5,User,2026-07-13 13:22:22,15.26.112.80,"Port Brandonview, Sao Tome and Principe",Database,Password,17094,UPDATE records -> pg_dump,macOS 13 - Safari,True,Normal
+2bd8944f-3114-4141-bf95-a9225fedf314,User,2026-07-15 10:31:34,103.177.191.16,"Riveraborough, Mexico",VPN,MFA,10207,N/A,Windows 10 - Firefox,True,Normal
+a887a9b9-fd2e-4b8a-8523-be9fe3cbc6f3,User,2026-07-24 07:35:12,98.27.18.59,"Vasquezberg, Mauritius",HRIS,SSO,10697,N/A,Windows 11 - Edge,True,Normal
+ddbc0949-276f-489e-8d8d-9b6614c2cfae,User,2026-07-13 18:04:37,52.59.41.93,"Lake Theresastad, Netherlands",GitLab,Hardware Token,19598,ssh -i key.pem -> aws s3 ls,macOS 13 - Safari,True,Normal
+5e0b6393-be0d-4702-a312-ad9597e355f4,User,2026-07-11 08:01:25,111.207.9.113,"Rodneyburgh, Ghana",Database,SSO,10572,pg_dump,Windows 10 - Chrome,True,Normal
+b1d74dac-d430-48d1-9aae-78d63b75de07,Device,2026-06-30 18:54:12,149.145.135.34,"Marilynhaven, Mauritania",VPN,Password,21108,N/A,App Server,True,Normal
+f27c7b89-a352-4e9f-8c3d-d3f3f22c8a11,User,2026-07-25 09:12:05,45.22.19.100,"London, United Kingdom",CRM,MFA,5400,N/A,Windows 11 - Edge,True,Normal
+c93e4b77-8c32-4d2a-a922-3b32a11b22e4,Service,2026-07-25 09:15:22,10.0.0.45,"US-East-1, AWS",API Gateway,Certificate,340,API_SYNC,Docker Container,True,Normal
+830b5e82-2d12-4f32-8419-7e3d11b22c23,User,2026-07-25 09:18:44,192.168.1.102,"Internal Network, HQ",HRIS,SSO,18420,N/A,macOS 14 - Chrome,True,Normal
+f27c7b89-a352-4e9f-8c3d-d3f3f22c8a11,User,2026-07-25 09:25:10,210.14.33.12,"Beijing, China",Database,Password,0,N/A,Unknown - Python-urllib,False,Anomaly_Impossible_Travel
+149c4d99-2a1f-4b8a-9822-2a22b11c99f1,Device,2026-07-25 09:30:00,10.0.1.15,"Internal Network, Data Center",Database,Token,1200,SELECT * FROM users,IoT Sensor,True,Normal
+7b8a1c92-3d4e-4f5a-b6c7-d8e9f0a1b2c3,User,2026-07-25 09:32:15,118.99.23.41,"Sydney, Australia",Email,MFA,4500,N/A,macOS 13 - Safari,True,Normal
+e23a4b56-7c8d-4e9f-a0b1-c2d3e4f5a6b7,User,2026-07-25 09:35:40,45.22.19.100,"London, United Kingdom",Admin Panel,SSO,8900,sudo su -> root,Windows 11 - Edge,True,Normal
+a1b2c3d4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 09:40:12,185.10.10.5,"Moscow, Russia",VPN,Password,0,N/A,Kali Linux - Firefox,False,Anomaly_Brute_Force
+a1b2c3d4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 09:40:15,185.10.10.5,"Moscow, Russia",VPN,Password,0,N/A,Kali Linux - Firefox,False,Anomaly_Brute_Force
+a1b2c3d4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 09:40:18,185.10.10.5,"Moscow, Russia",VPN,Password,0,N/A,Kali Linux - Firefox,False,Anomaly_Brute_Force
+a1b2c3d4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 09:40:21,185.10.10.5,"Moscow, Russia",VPN,Password,240,N/A,Kali Linux - Firefox,True,Anomaly_Brute_Force_Success
+3f4e5d6c-7b8a-9e0f-1a2b-3c4d5e6f7a8b,Service,2026-07-25 09:45:00,10.0.0.50,"US-West-2, AWS",Database,Certificate,150,DB_BACKUP_START,App Server,True,Normal
+9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d,User,2026-07-25 09:50:33,67.11.22.33,"Toronto, Canada",GitLab,MFA,12500,git clone repo -> aws configure,macOS 14 - Chrome,True,Normal
+c2b3a4d5-e6f7-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 09:55:10,192.168.1.200,"Internal Network, Branch Office",CRM,SSO,3600,N/A,Windows 10 - Chrome,True,Normal
+5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b,Device,2026-07-25 10:00:05,10.0.2.10,"Internal Network, Factory Floor",API Gateway,API Key,300,HEARTBEAT,IoT Sensor,True,Normal
+d1c2b3a4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 10:05:45,88.99.11.22,"Berlin, Germany",Email,Hardware Token,8500,N/A,Ubuntu 22.04 - Firefox,True,Normal
+2b3a4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e,User,2026-07-25 10:10:20,111.22.33.44,"Tokyo, Japan",HRIS,SSO,4200,N/A,Windows 11 - Chrome,True,Normal
+e5f64a5b-8c7d-9e0f-1a2b-3c4d5e6f7a8b,User,2026-07-25 10:15:30,221.161.57.6,"Port Ricardomouth, North Macedonia",Database,SSO,300,DROP TABLE users;,Ubuntu 22.04 - Chrome,True,Anomaly_Lateral_Movement
+7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d,Service,2026-07-25 10:20:00,10.0.0.55,"EU-Central-1, AWS",API Gateway,Certificate,400,SYNC_DATA,Docker Container,True,Normal
+b1a2c3d4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 10:25:15,33.44.55.66,"Paris, France",VPN,MFA,18000,N/A,macOS 13 - Safari,True,Normal
+4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a,Device,2026-07-25 10:30:45,149.145.135.34,"Marilynhaven, Mauritania",Admin Panel,Password,120,cat /etc/shadow,App Server,True,Anomaly_Privilege_Escalation
+0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a,User,2026-07-25 10:35:10,77.88.99.00,"Rome, Italy",CRM,Biometric,9600,N/A,Windows 10 - Edge,True,Normal
+9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d,User,2026-07-25 10:40:25,55.140.54.245,"Hallborough, Chile",Email,Hardware Token,2100,N/A,macOS 13 - Firefox,True,Normal
+2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c,Service,2026-07-25 10:45:50,10.0.0.60,"US-East-2, AWS",Database,Token,600,BATCH_INSERT,App Server,True,Normal
+5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f,User,2026-07-25 10:50:15,12.34.56.78,"Madrid, Spain",GitLab,SSO,14500,git push origin main,Windows 11 - Chrome,True,Normal
+8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c,Device,2026-07-25 10:55:40,10.0.3.20,"Internal Network, Warehouse",API Gateway,API Key,250,UPDATE_INVENTORY,IoT Sensor,True,Normal
+1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f,User,2026-07-25 11:00:05,99.88.77.66,"Seoul, South Korea",HRIS,MFA,6000,N/A,macOS 14 - Safari,True,Normal
+a1b2c3d4-e5f6-4a5b-8c7d-9e0f1a2b3c4d,User,2026-07-25 11:05:30,185.10.10.5,"Moscow, Russia",Database,Password,12000,SELECT * FROM credit_cards -> export,Kali Linux - Firefox,True,Anomaly_Data_Exfiltration
+4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c,Service,2026-07-25 11:10:15,10.0.0.65,"AP-South-1, AWS",API Gateway,Certificate,380,AUTH_CHECK,Docker Container,True,Normal
+7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f,User,2026-07-25 11:15:45,44.55.66.77,"Mumbai, India",VPN,SSO,22000,N/A,Windows 10 - Chrome,True,Normal

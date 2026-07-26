@@ -1,0 +1,1001 @@
+user_id,username,department,role,city,country,lat,lon,preferred_browser,preferred_os,preferred_start,preferred_end
+U00000,johnsonjoshua,Marketing,Analyst,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00001,donaldgarcia,Marketing,Admin,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00002,garzaanthony,Engineering,Engineer,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00003,robinsonwilliam,Sales,Manager,Delhi,India,28.61,77.2,Safari,Windows 11,7,15
+U00004,hoffmanjennifer,Engineering,Manager,Hyderabad,India,17.38,78.48,Safari,Ubuntu,9,17
+U00005,lrobinson,Finance,Analyst,Mumbai,India,19.07,72.87,Chrome,Windows 11,8,16
+U00006,lisa02,HR,Analyst,Hyderabad,India,17.38,78.48,Firefox,Windows 11,7,15
+U00007,jpeterson,IT,Engineer,Hyderabad,India,17.38,78.48,Firefox,macOS,7,15
+U00008,susanrogers,Sales,Manager,Delhi,India,28.61,77.2,Chrome,Windows 11,9,17
+U00009,jamesmichael,Engineering,Manager,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,9,17
+U00010,cassandra07,Marketing,Analyst,Mumbai,India,19.07,72.87,Edge,Ubuntu,10,18
+U00011,dudleynicholas,Marketing,Analyst,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00012,maria95,Finance,Intern,Bengaluru,India,12.97,77.59,Safari,Ubuntu,8,16
+U00013,janetwilliams,Marketing,Analyst,Delhi,India,28.61,77.2,Chrome,Windows 11,8,16
+U00014,kendragalloway,IT,Analyst,Chennai,India,13.08,80.27,Chrome,Windows 11,9,17
+U00015,michellejames,Finance,Intern,Delhi,India,28.61,77.2,Safari,macOS,9,17
+U00016,xreid,HR,Manager,Hyderabad,India,17.38,78.48,Edge,macOS,8,16
+U00017,mitchellclark,Marketing,Admin,Delhi,India,28.61,77.2,Safari,macOS,9,17
+U00018,jacqueline19,Finance,Manager,Hyderabad,India,17.38,78.48,Safari,Windows 11,9,17
+U00019,amandasanchez,Finance,Manager,Chennai,India,13.08,80.27,Safari,macOS,7,15
+U00020,ogray,IT,Admin,Chennai,India,13.08,80.27,Safari,macOS,10,18
+U00021,gabriellecameron,Marketing,Engineer,Mumbai,India,19.07,72.87,Firefox,macOS,7,15
+U00022,perezantonio,HR,Intern,Mumbai,India,19.07,72.87,Edge,Ubuntu,7,15
+U00023,richard13,Sales,Manager,Chennai,India,13.08,80.27,Chrome,macOS,9,17
+U00024,jason76,Finance,Analyst,Mumbai,India,19.07,72.87,Edge,macOS,8,16
+U00025,ithomas,Sales,Analyst,Delhi,India,28.61,77.2,Safari,Windows 11,7,15
+U00026,julieryan,HR,Manager,Chennai,India,13.08,80.27,Chrome,Windows 11,9,17
+U00027,zhurst,Engineering,Intern,Delhi,India,28.61,77.2,Chrome,macOS,7,15
+U00028,jeffrey28,Marketing,Intern,Bengaluru,India,12.97,77.59,Edge,Ubuntu,8,16
+U00029,ddavis,Finance,Admin,Delhi,India,28.61,77.2,Edge,macOS,10,18
+U00030,hernandezernest,Marketing,Analyst,Mumbai,India,19.07,72.87,Safari,macOS,10,18
+U00031,ycarlson,Finance,Manager,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,7,15
+U00032,dcarlson,Sales,Manager,Chennai,India,13.08,80.27,Chrome,Windows 11,8,16
+U00033,tasha01,Engineering,Engineer,Chennai,India,13.08,80.27,Firefox,Windows 11,8,16
+U00034,kayla51,HR,Intern,Delhi,India,28.61,77.2,Edge,macOS,8,16
+U00035,ryan70,Finance,Intern,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00036,teresa28,Marketing,Intern,Chennai,India,13.08,80.27,Firefox,Ubuntu,7,15
+U00037,harrellkenneth,Marketing,Engineer,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00038,ericfarmer,Engineering,Manager,Hyderabad,India,17.38,78.48,Edge,Windows 11,9,17
+U00039,georgetracy,Finance,Intern,Delhi,India,28.61,77.2,Edge,Ubuntu,10,18
+U00040,hickmannatasha,Engineering,Intern,Hyderabad,India,17.38,78.48,Chrome,Windows 11,8,16
+U00041,john39,Engineering,Manager,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00042,millertodd,Finance,Intern,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00043,spenceamanda,IT,Analyst,Hyderabad,India,17.38,78.48,Safari,Ubuntu,7,15
+U00044,davidalvarez,Finance,Manager,Hyderabad,India,17.38,78.48,Firefox,Windows 11,10,18
+U00045,josephbrennan,Marketing,Analyst,Chennai,India,13.08,80.27,Chrome,Windows 11,7,15
+U00046,ibrandt,Sales,Admin,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00047,jenniferross,Finance,Engineer,Delhi,India,28.61,77.2,Chrome,macOS,7,15
+U00048,samuel87,Engineering,Admin,Bengaluru,India,12.97,77.59,Edge,macOS,10,18
+U00049,wrightcaleb,Sales,Engineer,Delhi,India,28.61,77.2,Safari,macOS,7,15
+U00050,chapmanjerry,HR,Manager,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00051,adrianzimmerman,Finance,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00052,perezrebecca,IT,Admin,Chennai,India,13.08,80.27,Chrome,Windows 11,7,15
+U00053,chad34,Sales,Analyst,Delhi,India,28.61,77.2,Edge,Ubuntu,8,16
+U00054,ilewis,HR,Analyst,Chennai,India,13.08,80.27,Edge,Ubuntu,8,16
+U00055,esanchez,Sales,Admin,Delhi,India,28.61,77.2,Chrome,macOS,9,17
+U00056,glee,Marketing,Engineer,Delhi,India,28.61,77.2,Edge,Ubuntu,9,17
+U00057,agomez,Marketing,Admin,Chennai,India,13.08,80.27,Edge,Ubuntu,7,15
+U00058,dshields,Marketing,Analyst,Mumbai,India,19.07,72.87,Edge,macOS,8,16
+U00059,brownjessica,HR,Engineer,Mumbai,India,19.07,72.87,Chrome,macOS,10,18
+U00060,wrightjames,Engineering,Engineer,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00061,ltaylor,Marketing,Intern,Mumbai,India,19.07,72.87,Safari,macOS,8,16
+U00062,steven17,Engineering,Manager,Chennai,India,13.08,80.27,Chrome,Ubuntu,7,15
+U00063,williamsyvette,IT,Manager,Delhi,India,28.61,77.2,Chrome,Ubuntu,8,16
+U00064,novaksara,HR,Manager,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00065,gabrieltucker,Sales,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,9,17
+U00066,michellebarrera,IT,Engineer,Bengaluru,India,12.97,77.59,Edge,macOS,8,16
+U00067,nicholasgalloway,Marketing,Manager,Mumbai,India,19.07,72.87,Firefox,Windows 11,10,18
+U00068,sara74,Engineering,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,10,18
+U00069,uhorton,HR,Manager,Hyderabad,India,17.38,78.48,Edge,Windows 11,9,17
+U00070,smoore,HR,Analyst,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00071,tanyariley,Marketing,Admin,Mumbai,India,19.07,72.87,Firefox,Windows 11,10,18
+U00072,adkinsbrian,Finance,Admin,Chennai,India,13.08,80.27,Firefox,Windows 11,9,17
+U00073,hshaw,HR,Analyst,Chennai,India,13.08,80.27,Safari,macOS,10,18
+U00074,brianromero,IT,Admin,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00075,caseyjones,Engineering,Admin,Chennai,India,13.08,80.27,Edge,Ubuntu,10,18
+U00076,richarddavid,Marketing,Analyst,Hyderabad,India,17.38,78.48,Firefox,macOS,7,15
+U00077,bethwilliams,Sales,Analyst,Chennai,India,13.08,80.27,Safari,Ubuntu,9,17
+U00078,barnesbrandy,Sales,Manager,Hyderabad,India,17.38,78.48,Edge,Ubuntu,9,17
+U00079,sarah35,Sales,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00080,josephanderson,HR,Analyst,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00081,stephen10,IT,Intern,Delhi,India,28.61,77.2,Safari,macOS,9,17
+U00082,khowell,Marketing,Manager,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00083,jonesjason,Engineering,Manager,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00084,david51,Engineering,Engineer,Bengaluru,India,12.97,77.59,Edge,Ubuntu,8,16
+U00085,mikemoore,IT,Intern,Delhi,India,28.61,77.2,Edge,macOS,7,15
+U00086,cheryl80,IT,Manager,Hyderabad,India,17.38,78.48,Edge,macOS,10,18
+U00087,sarah12,IT,Manager,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00088,darrell18,Engineering,Admin,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00089,josephjacobs,IT,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00090,james48,Sales,Intern,Delhi,India,28.61,77.2,Edge,macOS,10,18
+U00091,dking,HR,Manager,Hyderabad,India,17.38,78.48,Firefox,macOS,10,18
+U00092,waltersmaria,HR,Intern,Hyderabad,India,17.38,78.48,Chrome,macOS,8,16
+U00093,smithkellie,HR,Analyst,Mumbai,India,19.07,72.87,Firefox,macOS,8,16
+U00094,evan78,Finance,Manager,Chennai,India,13.08,80.27,Safari,macOS,8,16
+U00095,hhoffman,Engineering,Intern,Bengaluru,India,12.97,77.59,Safari,Ubuntu,8,16
+U00096,landryhannah,IT,Engineer,Delhi,India,28.61,77.2,Edge,Ubuntu,10,18
+U00097,amydavenport,Sales,Intern,Hyderabad,India,17.38,78.48,Safari,Windows 11,7,15
+U00098,russellwilliams,IT,Intern,Mumbai,India,19.07,72.87,Edge,Ubuntu,9,17
+U00099,rachel05,IT,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,9,17
+U00100,evelynestrada,Marketing,Manager,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00101,kimberly69,IT,Admin,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00102,sarayoung,IT,Manager,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,8,16
+U00103,theresacochran,Finance,Intern,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,9,17
+U00104,vjohnson,IT,Analyst,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,9,17
+U00105,kimberly63,HR,Manager,Chennai,India,13.08,80.27,Chrome,macOS,7,15
+U00106,erik16,Finance,Manager,Chennai,India,13.08,80.27,Chrome,macOS,7,15
+U00107,garrisonjeffrey,Finance,Intern,Bengaluru,India,12.97,77.59,Chrome,macOS,8,16
+U00108,ybailey,Marketing,Analyst,Bengaluru,India,12.97,77.59,Firefox,Windows 11,10,18
+U00109,jeffreykeller,Finance,Analyst,Delhi,India,28.61,77.2,Chrome,macOS,7,15
+U00110,emurphy,Sales,Intern,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00111,michael86,Sales,Manager,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00112,sheila14,Sales,Engineer,Mumbai,India,19.07,72.87,Firefox,macOS,7,15
+U00113,beverlyterrell,Engineering,Admin,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00114,rodriguezryan,Engineering,Intern,Hyderabad,India,17.38,78.48,Firefox,macOS,10,18
+U00115,samuel81,IT,Manager,Hyderabad,India,17.38,78.48,Firefox,macOS,8,16
+U00116,mlam,IT,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,10,18
+U00117,bradley60,HR,Intern,Bengaluru,India,12.97,77.59,Edge,Ubuntu,7,15
+U00118,michaeljones,HR,Engineer,Delhi,India,28.61,77.2,Safari,Ubuntu,10,18
+U00119,cindy14,Finance,Analyst,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,10,18
+U00120,elizabeth56,Sales,Engineer,Mumbai,India,19.07,72.87,Edge,Windows 11,9,17
+U00121,angela36,IT,Admin,Bengaluru,India,12.97,77.59,Edge,macOS,10,18
+U00122,lbyrd,IT,Engineer,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00123,richard04,Marketing,Manager,Bengaluru,India,12.97,77.59,Firefox,macOS,10,18
+U00124,jason99,IT,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00125,steven73,HR,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00126,yleon,Engineering,Manager,Mumbai,India,19.07,72.87,Firefox,Windows 11,8,16
+U00127,donnacampbell,Finance,Manager,Delhi,India,28.61,77.2,Safari,Ubuntu,8,16
+U00128,clarence34,Engineering,Manager,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00129,lindsayhernandez,HR,Engineer,Mumbai,India,19.07,72.87,Edge,Ubuntu,8,16
+U00130,sanchezthomas,Sales,Analyst,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00131,gibsonolivia,Engineering,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,7,15
+U00132,jennifercruz,HR,Manager,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00133,psanchez,Engineering,Intern,Hyderabad,India,17.38,78.48,Safari,Windows 11,7,15
+U00134,staffordmichelle,Finance,Manager,Delhi,India,28.61,77.2,Firefox,Windows 11,7,15
+U00135,osbornejeffery,Sales,Intern,Bengaluru,India,12.97,77.59,Edge,macOS,7,15
+U00136,pwilliams,IT,Analyst,Hyderabad,India,17.38,78.48,Safari,Ubuntu,10,18
+U00137,bryantlaurie,Sales,Engineer,Delhi,India,28.61,77.2,Edge,macOS,7,15
+U00138,stephanie79,Marketing,Engineer,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00139,jrivas,Finance,Engineer,Bengaluru,India,12.97,77.59,Safari,Ubuntu,7,15
+U00140,vmerritt,HR,Engineer,Delhi,India,28.61,77.2,Edge,Ubuntu,10,18
+U00141,wcole,Engineering,Manager,Mumbai,India,19.07,72.87,Firefox,macOS,10,18
+U00142,maryramirez,IT,Engineer,Delhi,India,28.61,77.2,Edge,macOS,8,16
+U00143,rsims,Finance,Engineer,Bengaluru,India,12.97,77.59,Chrome,Windows 11,9,17
+U00144,sjones,IT,Engineer,Mumbai,India,19.07,72.87,Safari,macOS,9,17
+U00145,josephflores,HR,Admin,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00146,taylorjesse,IT,Analyst,Chennai,India,13.08,80.27,Firefox,Windows 11,7,15
+U00147,jasminebrown,Marketing,Admin,Chennai,India,13.08,80.27,Chrome,macOS,8,16
+U00148,drivera,Finance,Intern,Mumbai,India,19.07,72.87,Safari,Ubuntu,7,15
+U00149,abrown,Marketing,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00150,lstein,HR,Analyst,Mumbai,India,19.07,72.87,Chrome,Windows 11,10,18
+U00151,gateskathy,Marketing,Intern,Mumbai,India,19.07,72.87,Firefox,macOS,10,18
+U00152,wwoods,IT,Engineer,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,7,15
+U00153,karen68,IT,Admin,Mumbai,India,19.07,72.87,Chrome,macOS,7,15
+U00154,tracynelson,IT,Engineer,Delhi,India,28.61,77.2,Edge,macOS,10,18
+U00155,vjohnson,Marketing,Intern,Mumbai,India,19.07,72.87,Chrome,Windows 11,10,18
+U00156,dramsey,HR,Intern,Mumbai,India,19.07,72.87,Safari,Windows 11,8,16
+U00157,tinaferguson,Marketing,Manager,Chennai,India,13.08,80.27,Firefox,macOS,8,16
+U00158,qvargas,Engineering,Manager,Chennai,India,13.08,80.27,Chrome,Ubuntu,10,18
+U00159,millerroy,IT,Analyst,Chennai,India,13.08,80.27,Firefox,Ubuntu,8,16
+U00160,qwhite,Finance,Intern,Hyderabad,India,17.38,78.48,Edge,Ubuntu,10,18
+U00161,dmurphy,Engineering,Analyst,Bengaluru,India,12.97,77.59,Safari,Ubuntu,8,16
+U00162,matthew64,Engineering,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,9,17
+U00163,fking,Finance,Intern,Delhi,India,28.61,77.2,Safari,Ubuntu,10,18
+U00164,ismith,IT,Analyst,Mumbai,India,19.07,72.87,Edge,macOS,10,18
+U00165,cookemichael,Finance,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00166,harringtondenise,IT,Manager,Hyderabad,India,17.38,78.48,Safari,Windows 11,10,18
+U00167,herringjames,Engineering,Intern,Bengaluru,India,12.97,77.59,Chrome,macOS,9,17
+U00168,howelljohn,Marketing,Manager,Hyderabad,India,17.38,78.48,Safari,macOS,7,15
+U00169,kcaldwell,IT,Analyst,Bengaluru,India,12.97,77.59,Firefox,macOS,7,15
+U00170,stevenscott,HR,Admin,Hyderabad,India,17.38,78.48,Safari,Ubuntu,7,15
+U00171,gary91,Sales,Engineer,Hyderabad,India,17.38,78.48,Edge,macOS,7,15
+U00172,tamirodriguez,Marketing,Engineer,Mumbai,India,19.07,72.87,Safari,Windows 11,8,16
+U00173,hickmanbarbara,Finance,Analyst,Chennai,India,13.08,80.27,Chrome,Windows 11,10,18
+U00174,tsanders,HR,Analyst,Mumbai,India,19.07,72.87,Firefox,Ubuntu,7,15
+U00175,charlesvaughn,Sales,Intern,Bengaluru,India,12.97,77.59,Edge,Windows 11,8,16
+U00176,curtisbarton,Sales,Intern,Bengaluru,India,12.97,77.59,Edge,Ubuntu,7,15
+U00177,hoganashlee,Finance,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,8,16
+U00178,reedross,IT,Analyst,Mumbai,India,19.07,72.87,Edge,Windows 11,7,15
+U00179,casey50,Sales,Analyst,Hyderabad,India,17.38,78.48,Safari,macOS,9,17
+U00180,gshort,HR,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00181,oyu,IT,Admin,Chennai,India,13.08,80.27,Firefox,macOS,8,16
+U00182,bzimmerman,Engineering,Intern,Mumbai,India,19.07,72.87,Firefox,Windows 11,9,17
+U00183,jessicasheppard,Sales,Intern,Delhi,India,28.61,77.2,Firefox,Windows 11,7,15
+U00184,christina87,Finance,Manager,Delhi,India,28.61,77.2,Firefox,macOS,9,17
+U00185,ugraham,Marketing,Engineer,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,7,15
+U00186,marcus31,Marketing,Manager,Chennai,India,13.08,80.27,Chrome,Ubuntu,9,17
+U00187,nicole37,Finance,Manager,Mumbai,India,19.07,72.87,Edge,macOS,10,18
+U00188,frogers,Finance,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00189,hunter35,IT,Engineer,Mumbai,India,19.07,72.87,Edge,Windows 11,7,15
+U00190,matthew94,Engineering,Intern,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,9,17
+U00191,blackjames,IT,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,7,15
+U00192,jenniferfreeman,Engineering,Manager,Hyderabad,India,17.38,78.48,Safari,Windows 11,9,17
+U00193,hannahbrewer,Sales,Manager,Delhi,India,28.61,77.2,Chrome,macOS,9,17
+U00194,bwest,Marketing,Intern,Hyderabad,India,17.38,78.48,Chrome,Windows 11,9,17
+U00195,phillipsrichard,HR,Intern,Chennai,India,13.08,80.27,Chrome,Windows 11,7,15
+U00196,kevinperkins,IT,Intern,Bengaluru,India,12.97,77.59,Firefox,macOS,8,16
+U00197,wtran,Sales,Manager,Delhi,India,28.61,77.2,Safari,macOS,10,18
+U00198,jbarajas,Sales,Intern,Chennai,India,13.08,80.27,Firefox,Windows 11,10,18
+U00199,michael74,IT,Intern,Mumbai,India,19.07,72.87,Edge,Ubuntu,8,16
+U00200,john13,Sales,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,9,17
+U00201,david82,Engineering,Intern,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00202,javierwashington,Engineering,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,7,15
+U00203,tina34,Engineering,Admin,Delhi,India,28.61,77.2,Edge,macOS,8,16
+U00204,michaelturner,HR,Manager,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,8,16
+U00205,joshuamccann,Sales,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,8,16
+U00206,heidi27,Engineering,Analyst,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00207,salasaudrey,Finance,Analyst,Mumbai,India,19.07,72.87,Chrome,Windows 11,7,15
+U00208,vmendoza,Marketing,Engineer,Hyderabad,India,17.38,78.48,Safari,Ubuntu,7,15
+U00209,tammyking,IT,Admin,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00210,ewilson,IT,Engineer,Chennai,India,13.08,80.27,Chrome,Ubuntu,9,17
+U00211,kvasquez,Marketing,Engineer,Hyderabad,India,17.38,78.48,Safari,macOS,10,18
+U00212,hernandezlisa,Engineering,Analyst,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00213,christopher31,Sales,Admin,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,9,17
+U00214,yobrien,IT,Admin,Delhi,India,28.61,77.2,Safari,Windows 11,9,17
+U00215,kimberlyjames,IT,Intern,Chennai,India,13.08,80.27,Edge,Ubuntu,8,16
+U00216,levans,IT,Intern,Mumbai,India,19.07,72.87,Chrome,Ubuntu,10,18
+U00217,ntorres,Marketing,Analyst,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00218,lynchjody,Engineering,Engineer,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,7,15
+U00219,colleenbaker,Finance,Admin,Chennai,India,13.08,80.27,Chrome,macOS,9,17
+U00220,mooreglenn,Marketing,Engineer,Delhi,India,28.61,77.2,Safari,Ubuntu,9,17
+U00221,moorericky,HR,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,7,15
+U00222,ocarter,Finance,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,8,16
+U00223,jasmine71,Engineering,Analyst,Mumbai,India,19.07,72.87,Edge,Ubuntu,9,17
+U00224,sandrafrench,Sales,Analyst,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00225,ronaldstephens,HR,Analyst,Mumbai,India,19.07,72.87,Chrome,Windows 11,9,17
+U00226,rebekahserrano,Engineering,Manager,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00227,brownlaura,IT,Intern,Delhi,India,28.61,77.2,Safari,Ubuntu,8,16
+U00228,scott74,HR,Analyst,Bengaluru,India,12.97,77.59,Chrome,Windows 11,9,17
+U00229,gbender,Sales,Engineer,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,8,16
+U00230,mkim,IT,Admin,Hyderabad,India,17.38,78.48,Safari,Ubuntu,10,18
+U00231,prestonjessica,Sales,Engineer,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00232,anthony39,Marketing,Admin,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00233,keyemily,Finance,Intern,Mumbai,India,19.07,72.87,Chrome,Windows 11,7,15
+U00234,barbara27,Finance,Manager,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,9,17
+U00235,lmoon,Engineering,Intern,Mumbai,India,19.07,72.87,Safari,Windows 11,7,15
+U00236,fwalters,Sales,Manager,Bengaluru,India,12.97,77.59,Firefox,Windows 11,10,18
+U00237,harrisonricky,IT,Engineer,Hyderabad,India,17.38,78.48,Safari,Windows 11,7,15
+U00238,elizabeth25,Sales,Intern,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00239,ssteele,Engineering,Analyst,Chennai,India,13.08,80.27,Edge,macOS,10,18
+U00240,jcervantes,Engineering,Intern,Hyderabad,India,17.38,78.48,Chrome,Windows 11,9,17
+U00241,gibsonleonard,Sales,Engineer,Hyderabad,India,17.38,78.48,Safari,Ubuntu,10,18
+U00242,darrell68,HR,Manager,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00243,sandovalamy,HR,Analyst,Chennai,India,13.08,80.27,Edge,Windows 11,8,16
+U00244,hbrown,HR,Manager,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00245,cindy77,Finance,Intern,Bengaluru,India,12.97,77.59,Safari,macOS,7,15
+U00246,harrisandrea,Marketing,Admin,Delhi,India,28.61,77.2,Firefox,macOS,10,18
+U00247,samuel71,IT,Engineer,Mumbai,India,19.07,72.87,Safari,Ubuntu,8,16
+U00248,dudleychelsea,Sales,Engineer,Mumbai,India,19.07,72.87,Firefox,macOS,9,17
+U00249,jennifercollins,IT,Intern,Chennai,India,13.08,80.27,Chrome,Windows 11,9,17
+U00250,tranchristopher,Engineering,Engineer,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00251,murraydavid,IT,Admin,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00252,tyronemoran,Sales,Manager,Delhi,India,28.61,77.2,Chrome,Ubuntu,10,18
+U00253,robert77,Marketing,Engineer,Chennai,India,13.08,80.27,Edge,Windows 11,9,17
+U00254,stephenthomas,IT,Admin,Bengaluru,India,12.97,77.59,Edge,Ubuntu,10,18
+U00255,sandraromero,IT,Intern,Mumbai,India,19.07,72.87,Firefox,macOS,9,17
+U00256,michellehill,Marketing,Analyst,Delhi,India,28.61,77.2,Chrome,Ubuntu,7,15
+U00257,ymorgan,HR,Analyst,Chennai,India,13.08,80.27,Edge,Ubuntu,10,18
+U00258,lori44,HR,Analyst,Chennai,India,13.08,80.27,Safari,Windows 11,8,16
+U00259,cgrimes,HR,Admin,Delhi,India,28.61,77.2,Safari,macOS,7,15
+U00260,jreed,Marketing,Admin,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00261,ugibson,Engineering,Analyst,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00262,tinaallen,IT,Manager,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00263,xhall,HR,Engineer,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00264,vwilliams,Sales,Intern,Mumbai,India,19.07,72.87,Edge,Windows 11,8,16
+U00265,zthornton,Marketing,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,8,16
+U00266,qhughes,IT,Admin,Mumbai,India,19.07,72.87,Firefox,macOS,8,16
+U00267,tylerjohnson,Sales,Manager,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00268,molly71,Marketing,Admin,Bengaluru,India,12.97,77.59,Safari,Ubuntu,9,17
+U00269,jsmith,Sales,Admin,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00270,jpitts,HR,Engineer,Bengaluru,India,12.97,77.59,Safari,Ubuntu,8,16
+U00271,harrisontanya,Marketing,Admin,Delhi,India,28.61,77.2,Chrome,Ubuntu,7,15
+U00272,cindy61,HR,Intern,Chennai,India,13.08,80.27,Edge,Ubuntu,8,16
+U00273,melissa86,IT,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,8,16
+U00274,courtney78,Sales,Analyst,Chennai,India,13.08,80.27,Edge,Ubuntu,10,18
+U00275,williamsonjimmy,Finance,Engineer,Chennai,India,13.08,80.27,Firefox,Windows 11,9,17
+U00276,wendy16,Finance,Engineer,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00277,hodgesjane,IT,Admin,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00278,wallaceheather,Finance,Manager,Chennai,India,13.08,80.27,Safari,Windows 11,9,17
+U00279,williamslaura,HR,Engineer,Mumbai,India,19.07,72.87,Chrome,Windows 11,8,16
+U00280,michael62,Engineering,Engineer,Hyderabad,India,17.38,78.48,Safari,macOS,10,18
+U00281,amandaknight,Marketing,Admin,Delhi,India,28.61,77.2,Edge,macOS,7,15
+U00282,georgemiller,IT,Engineer,Bengaluru,India,12.97,77.59,Firefox,Windows 11,9,17
+U00283,pharvey,Finance,Engineer,Delhi,India,28.61,77.2,Firefox,Windows 11,10,18
+U00284,jdurham,IT,Intern,Delhi,India,28.61,77.2,Chrome,macOS,7,15
+U00285,stevenking,HR,Engineer,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00286,elizabeth74,Marketing,Engineer,Mumbai,India,19.07,72.87,Firefox,Windows 11,8,16
+U00287,charleslandry,Sales,Analyst,Chennai,India,13.08,80.27,Edge,macOS,9,17
+U00288,danielle64,Marketing,Manager,Hyderabad,India,17.38,78.48,Edge,Windows 11,10,18
+U00289,mbruce,HR,Manager,Hyderabad,India,17.38,78.48,Chrome,Windows 11,7,15
+U00290,gcastaneda,HR,Admin,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00291,patrickhoward,Engineering,Manager,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,9,17
+U00292,victoria40,HR,Engineer,Chennai,India,13.08,80.27,Firefox,Ubuntu,9,17
+U00293,khill,IT,Analyst,Hyderabad,India,17.38,78.48,Edge,Ubuntu,10,18
+U00294,lozanojulie,Sales,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00295,kimberly39,IT,Admin,Hyderabad,India,17.38,78.48,Edge,macOS,7,15
+U00296,jeffery39,Engineering,Engineer,Mumbai,India,19.07,72.87,Firefox,macOS,9,17
+U00297,erica21,IT,Admin,Mumbai,India,19.07,72.87,Safari,Windows 11,9,17
+U00298,parkerscott,IT,Engineer,Hyderabad,India,17.38,78.48,Firefox,macOS,9,17
+U00299,jessica14,Marketing,Engineer,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00300,julie23,Sales,Manager,Hyderabad,India,17.38,78.48,Chrome,Windows 11,9,17
+U00301,kristinwalter,Engineering,Manager,Delhi,India,28.61,77.2,Chrome,Windows 11,10,18
+U00302,alyssa42,IT,Admin,Mumbai,India,19.07,72.87,Chrome,macOS,9,17
+U00303,robin74,HR,Analyst,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00304,linda71,Sales,Analyst,Delhi,India,28.61,77.2,Safari,Ubuntu,8,16
+U00305,karenperez,Engineering,Engineer,Mumbai,India,19.07,72.87,Edge,Ubuntu,8,16
+U00306,zcoffey,Sales,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,10,18
+U00307,christopher60,Sales,Analyst,Hyderabad,India,17.38,78.48,Safari,Windows 11,8,16
+U00308,amanda75,Engineering,Intern,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00309,brenda51,Marketing,Analyst,Hyderabad,India,17.38,78.48,Firefox,macOS,7,15
+U00310,thomasharvey,HR,Manager,Chennai,India,13.08,80.27,Edge,Ubuntu,9,17
+U00311,rose31,Engineering,Manager,Delhi,India,28.61,77.2,Edge,Windows 11,8,16
+U00312,tblankenship,HR,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,7,15
+U00313,cwilson,Sales,Engineer,Delhi,India,28.61,77.2,Chrome,Ubuntu,8,16
+U00314,torrestravis,Sales,Intern,Hyderabad,India,17.38,78.48,Safari,macOS,10,18
+U00315,youngamanda,HR,Engineer,Chennai,India,13.08,80.27,Safari,Ubuntu,8,16
+U00316,qchavez,Finance,Admin,Delhi,India,28.61,77.2,Edge,Windows 11,9,17
+U00317,umatthews,Engineering,Admin,Hyderabad,India,17.38,78.48,Edge,Ubuntu,7,15
+U00318,nicolepena,HR,Manager,Bengaluru,India,12.97,77.59,Firefox,macOS,8,16
+U00319,rgilbert,HR,Manager,Mumbai,India,19.07,72.87,Firefox,Windows 11,7,15
+U00320,vaughnjeff,Sales,Manager,Mumbai,India,19.07,72.87,Edge,Windows 11,7,15
+U00321,xsampson,Sales,Engineer,Delhi,India,28.61,77.2,Chrome,Windows 11,9,17
+U00322,pollardmichael,Marketing,Manager,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00323,bruce43,Marketing,Admin,Chennai,India,13.08,80.27,Firefox,macOS,10,18
+U00324,rushmadison,Finance,Intern,Mumbai,India,19.07,72.87,Firefox,Ubuntu,10,18
+U00325,batesdarlene,Finance,Intern,Chennai,India,13.08,80.27,Safari,Ubuntu,7,15
+U00326,williamsmatthew,HR,Admin,Hyderabad,India,17.38,78.48,Edge,Ubuntu,8,16
+U00327,kristinharris,IT,Manager,Mumbai,India,19.07,72.87,Firefox,macOS,9,17
+U00328,brendali,HR,Manager,Delhi,India,28.61,77.2,Safari,Windows 11,7,15
+U00329,markhernandez,Finance,Manager,Mumbai,India,19.07,72.87,Chrome,Windows 11,10,18
+U00330,ramireztracey,Sales,Intern,Mumbai,India,19.07,72.87,Edge,Windows 11,10,18
+U00331,amberlindsey,Finance,Manager,Mumbai,India,19.07,72.87,Safari,macOS,9,17
+U00332,guerreroanthony,HR,Intern,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00333,howardkristina,Finance,Manager,Hyderabad,India,17.38,78.48,Firefox,Windows 11,10,18
+U00334,alfred40,IT,Admin,Chennai,India,13.08,80.27,Safari,Ubuntu,9,17
+U00335,judyfox,Engineering,Intern,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00336,alvarezkimberly,HR,Engineer,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00337,hayesjeffrey,HR,Admin,Delhi,India,28.61,77.2,Firefox,Windows 11,8,16
+U00338,acostaregina,Sales,Analyst,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00339,stephen00,HR,Analyst,Chennai,India,13.08,80.27,Firefox,Windows 11,10,18
+U00340,bboone,Sales,Engineer,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00341,henryrenee,IT,Admin,Bengaluru,India,12.97,77.59,Safari,Windows 11,9,17
+U00342,lammarc,HR,Admin,Delhi,India,28.61,77.2,Firefox,Windows 11,8,16
+U00343,cameronhill,Sales,Analyst,Hyderabad,India,17.38,78.48,Safari,macOS,9,17
+U00344,oscar98,IT,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00345,shawn96,Sales,Analyst,Chennai,India,13.08,80.27,Chrome,macOS,10,18
+U00346,mcguiredanny,Marketing,Admin,Hyderabad,India,17.38,78.48,Edge,macOS,9,17
+U00347,russellbeasley,Finance,Admin,Chennai,India,13.08,80.27,Safari,Windows 11,10,18
+U00348,dmorgan,Sales,Engineer,Bengaluru,India,12.97,77.59,Edge,Windows 11,7,15
+U00349,gperry,IT,Manager,Hyderabad,India,17.38,78.48,Safari,macOS,9,17
+U00350,ronald45,Sales,Admin,Bengaluru,India,12.97,77.59,Safari,macOS,10,18
+U00351,gloriawells,Sales,Manager,Chennai,India,13.08,80.27,Firefox,macOS,8,16
+U00352,deckerchristopher,HR,Manager,Hyderabad,India,17.38,78.48,Safari,macOS,10,18
+U00353,garnernathan,Marketing,Analyst,Mumbai,India,19.07,72.87,Safari,Windows 11,9,17
+U00354,angelawillis,Sales,Analyst,Bengaluru,India,12.97,77.59,Edge,Ubuntu,9,17
+U00355,elizabeth65,Marketing,Intern,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00356,uparrish,HR,Engineer,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00357,schmittcaroline,HR,Engineer,Mumbai,India,19.07,72.87,Firefox,macOS,8,16
+U00358,dale83,IT,Analyst,Chennai,India,13.08,80.27,Safari,Windows 11,9,17
+U00359,dianewalker,Sales,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00360,bellangela,Finance,Engineer,Delhi,India,28.61,77.2,Edge,macOS,8,16
+U00361,farmeraudrey,Engineering,Intern,Bengaluru,India,12.97,77.59,Firefox,macOS,7,15
+U00362,xbruce,Marketing,Manager,Hyderabad,India,17.38,78.48,Chrome,macOS,7,15
+U00363,lynchdiane,Marketing,Intern,Bengaluru,India,12.97,77.59,Safari,macOS,10,18
+U00364,anthony44,HR,Analyst,Bengaluru,India,12.97,77.59,Chrome,Windows 11,9,17
+U00365,michael22,Sales,Engineer,Delhi,India,28.61,77.2,Edge,Ubuntu,8,16
+U00366,vjones,IT,Intern,Bengaluru,India,12.97,77.59,Edge,macOS,7,15
+U00367,davisalyssa,Engineering,Analyst,Mumbai,India,19.07,72.87,Chrome,Ubuntu,7,15
+U00368,vbarnes,Marketing,Admin,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00369,mitchellgriffith,HR,Manager,Delhi,India,28.61,77.2,Chrome,Ubuntu,10,18
+U00370,wareeric,Marketing,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,10,18
+U00371,craigjoseph,Sales,Manager,Mumbai,India,19.07,72.87,Edge,macOS,9,17
+U00372,ctucker,Sales,Analyst,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00373,wnelson,Finance,Intern,Chennai,India,13.08,80.27,Firefox,Windows 11,8,16
+U00374,reeddaniel,IT,Manager,Chennai,India,13.08,80.27,Safari,Ubuntu,9,17
+U00375,trose,Sales,Admin,Mumbai,India,19.07,72.87,Chrome,Ubuntu,9,17
+U00376,walkertracey,Engineering,Engineer,Mumbai,India,19.07,72.87,Safari,Ubuntu,8,16
+U00377,smithkevin,Marketing,Admin,Bengaluru,India,12.97,77.59,Firefox,macOS,10,18
+U00378,katrinaduran,HR,Admin,Chennai,India,13.08,80.27,Edge,Windows 11,9,17
+U00379,mark07,Finance,Intern,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,10,18
+U00380,ythompson,Sales,Manager,Delhi,India,28.61,77.2,Edge,macOS,10,18
+U00381,vincentwhitaker,Sales,Intern,Delhi,India,28.61,77.2,Firefox,Windows 11,7,15
+U00382,charles06,Engineering,Admin,Delhi,India,28.61,77.2,Edge,macOS,7,15
+U00383,stevenschristian,Finance,Analyst,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00384,barbara96,Engineering,Admin,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00385,zroberts,Sales,Intern,Hyderabad,India,17.38,78.48,Safari,macOS,8,16
+U00386,burchgeorge,Marketing,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,10,18
+U00387,xcollier,Marketing,Manager,Mumbai,India,19.07,72.87,Chrome,Windows 11,7,15
+U00388,kimdaniel,Marketing,Engineer,Hyderabad,India,17.38,78.48,Chrome,Windows 11,9,17
+U00389,hchapman,HR,Intern,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00390,fosterkyle,IT,Intern,Hyderabad,India,17.38,78.48,Safari,Ubuntu,9,17
+U00391,jeffrey21,Marketing,Analyst,Chennai,India,13.08,80.27,Chrome,Windows 11,8,16
+U00392,schmidtjames,Sales,Manager,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00393,michael23,IT,Admin,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00394,thomasjames,Finance,Intern,Hyderabad,India,17.38,78.48,Firefox,Windows 11,8,16
+U00395,kathleenrios,Marketing,Engineer,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00396,stephanieburton,Finance,Manager,Hyderabad,India,17.38,78.48,Chrome,Windows 11,7,15
+U00397,wwebster,IT,Admin,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00398,kmaldonado,IT,Manager,Chennai,India,13.08,80.27,Edge,Windows 11,10,18
+U00399,michelle52,Finance,Admin,Bengaluru,India,12.97,77.59,Firefox,macOS,9,17
+U00400,cjones,Finance,Analyst,Delhi,India,28.61,77.2,Edge,macOS,9,17
+U00401,laura90,IT,Analyst,Delhi,India,28.61,77.2,Firefox,Windows 11,8,16
+U00402,william47,Marketing,Intern,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00403,xjohnson,Sales,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00404,chase19,IT,Manager,Bengaluru,India,12.97,77.59,Safari,Windows 11,9,17
+U00405,jford,Marketing,Manager,Bengaluru,India,12.97,77.59,Safari,Windows 11,9,17
+U00406,colelisa,IT,Admin,Delhi,India,28.61,77.2,Edge,Ubuntu,10,18
+U00407,marcalvarez,Finance,Analyst,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,9,17
+U00408,susanhayes,Sales,Manager,Mumbai,India,19.07,72.87,Chrome,Ubuntu,7,15
+U00409,toni18,Engineering,Manager,Hyderabad,India,17.38,78.48,Edge,Ubuntu,7,15
+U00410,benjaminzimmerman,HR,Engineer,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00411,nwarren,Finance,Admin,Chennai,India,13.08,80.27,Edge,Ubuntu,10,18
+U00412,michaelhardin,HR,Intern,Bengaluru,India,12.97,77.59,Safari,macOS,9,17
+U00413,vortiz,HR,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00414,mccormickdeborah,HR,Manager,Chennai,India,13.08,80.27,Firefox,Ubuntu,10,18
+U00415,riveraangela,Sales,Manager,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00416,umitchell,HR,Manager,Mumbai,India,19.07,72.87,Edge,Ubuntu,10,18
+U00417,mathewaguilar,Sales,Manager,Bengaluru,India,12.97,77.59,Safari,macOS,10,18
+U00418,sabrinacollins,IT,Intern,Mumbai,India,19.07,72.87,Safari,Windows 11,9,17
+U00419,tanderson,Finance,Admin,Mumbai,India,19.07,72.87,Safari,Windows 11,8,16
+U00420,collinsnicholas,Sales,Engineer,Delhi,India,28.61,77.2,Chrome,macOS,7,15
+U00421,lisa81,IT,Manager,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00422,bromero,Finance,Admin,Bengaluru,India,12.97,77.59,Safari,Ubuntu,7,15
+U00423,kyle35,Marketing,Intern,Chennai,India,13.08,80.27,Chrome,Windows 11,10,18
+U00424,ilee,Engineering,Engineer,Delhi,India,28.61,77.2,Firefox,macOS,10,18
+U00425,chrisrichard,Sales,Intern,Mumbai,India,19.07,72.87,Edge,Windows 11,7,15
+U00426,romeroamber,Finance,Manager,Chennai,India,13.08,80.27,Firefox,Ubuntu,8,16
+U00427,stanleynancy,Engineering,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00428,carlamoore,Marketing,Manager,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00429,mariewise,Engineering,Intern,Chennai,India,13.08,80.27,Safari,Ubuntu,7,15
+U00430,jenniferwilliams,Engineering,Engineer,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00431,erica37,Marketing,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,10,18
+U00432,karen73,Finance,Admin,Chennai,India,13.08,80.27,Safari,Ubuntu,8,16
+U00433,kylestokes,Marketing,Analyst,Chennai,India,13.08,80.27,Chrome,Windows 11,7,15
+U00434,mmckee,Finance,Admin,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00435,erika97,HR,Manager,Hyderabad,India,17.38,78.48,Edge,macOS,7,15
+U00436,xhammond,IT,Manager,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00437,ashaw,Engineering,Intern,Mumbai,India,19.07,72.87,Edge,Windows 11,7,15
+U00438,lisasolis,HR,Engineer,Mumbai,India,19.07,72.87,Firefox,Ubuntu,10,18
+U00439,moniquewilliams,HR,Admin,Hyderabad,India,17.38,78.48,Safari,Ubuntu,8,16
+U00440,jsawyer,Engineering,Admin,Bengaluru,India,12.97,77.59,Firefox,Windows 11,10,18
+U00441,dawsonzachary,HR,Manager,Chennai,India,13.08,80.27,Safari,macOS,7,15
+U00442,mitchellkathryn,HR,Analyst,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00443,shannon82,IT,Analyst,Chennai,India,13.08,80.27,Firefox,Windows 11,9,17
+U00444,odavis,Finance,Intern,Bengaluru,India,12.97,77.59,Safari,macOS,7,15
+U00445,bwilkerson,Engineering,Engineer,Delhi,India,28.61,77.2,Chrome,Ubuntu,10,18
+U00446,gbrown,Sales,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,7,15
+U00447,joe15,IT,Intern,Chennai,India,13.08,80.27,Chrome,macOS,9,17
+U00448,anthonygalvan,Sales,Admin,Delhi,India,28.61,77.2,Edge,macOS,8,16
+U00449,lacey20,Finance,Analyst,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00450,samantha72,Engineering,Manager,Hyderabad,India,17.38,78.48,Safari,Ubuntu,8,16
+U00451,awest,IT,Engineer,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,9,17
+U00452,smithjason,Sales,Admin,Bengaluru,India,12.97,77.59,Edge,Ubuntu,10,18
+U00453,anaacosta,HR,Engineer,Chennai,India,13.08,80.27,Safari,Ubuntu,8,16
+U00454,srodriguez,HR,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,10,18
+U00455,kevinwilliams,HR,Analyst,Delhi,India,28.61,77.2,Edge,Ubuntu,8,16
+U00456,nfowler,IT,Analyst,Mumbai,India,19.07,72.87,Firefox,macOS,8,16
+U00457,fbrown,HR,Intern,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00458,chenbailey,Sales,Manager,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00459,kellysmith,Marketing,Intern,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00460,john62,IT,Intern,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00461,millsmichael,HR,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,8,16
+U00462,myerstheodore,Sales,Intern,Chennai,India,13.08,80.27,Safari,macOS,10,18
+U00463,qzavala,Sales,Engineer,Delhi,India,28.61,77.2,Firefox,macOS,10,18
+U00464,kellycarlos,Engineering,Manager,Delhi,India,28.61,77.2,Firefox,Windows 11,7,15
+U00465,jessicafuller,Sales,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,7,15
+U00466,dennis58,Engineering,Analyst,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00467,lisa27,IT,Analyst,Delhi,India,28.61,77.2,Safari,Ubuntu,8,16
+U00468,zwelch,HR,Engineer,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00469,bryanparsons,Engineering,Engineer,Mumbai,India,19.07,72.87,Edge,Ubuntu,10,18
+U00470,mjohnson,IT,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00471,moodynina,IT,Intern,Hyderabad,India,17.38,78.48,Firefox,Windows 11,7,15
+U00472,sarah86,Marketing,Engineer,Mumbai,India,19.07,72.87,Chrome,Ubuntu,7,15
+U00473,wking,Marketing,Manager,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00474,justinatkins,Sales,Intern,Bengaluru,India,12.97,77.59,Safari,Windows 11,9,17
+U00475,glennmartin,Finance,Intern,Hyderabad,India,17.38,78.48,Safari,Windows 11,8,16
+U00476,lloydsamuel,IT,Admin,Delhi,India,28.61,77.2,Safari,Ubuntu,8,16
+U00477,ypaul,Finance,Analyst,Chennai,India,13.08,80.27,Chrome,macOS,8,16
+U00478,terri77,HR,Analyst,Chennai,India,13.08,80.27,Edge,Ubuntu,8,16
+U00479,sandra84,Marketing,Intern,Chennai,India,13.08,80.27,Firefox,macOS,9,17
+U00480,acostachristian,Sales,Engineer,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,10,18
+U00481,amymorris,Marketing,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,8,16
+U00482,murphykenneth,Engineering,Manager,Bengaluru,India,12.97,77.59,Firefox,Windows 11,9,17
+U00483,bmorrison,Marketing,Manager,Bengaluru,India,12.97,77.59,Safari,Ubuntu,9,17
+U00484,hannahbell,Sales,Intern,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00485,acostarhonda,Sales,Manager,Hyderabad,India,17.38,78.48,Safari,Ubuntu,8,16
+U00486,yhill,HR,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,8,16
+U00487,jonesdana,Finance,Manager,Chennai,India,13.08,80.27,Safari,macOS,10,18
+U00488,william20,IT,Intern,Delhi,India,28.61,77.2,Safari,macOS,10,18
+U00489,melindagregory,Finance,Engineer,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00490,ejohnson,HR,Manager,Mumbai,India,19.07,72.87,Firefox,Windows 11,7,15
+U00491,kimberlydiaz,Sales,Admin,Hyderabad,India,17.38,78.48,Chrome,macOS,10,18
+U00492,cherring,Sales,Analyst,Chennai,India,13.08,80.27,Chrome,macOS,9,17
+U00493,erikarush,IT,Engineer,Hyderabad,India,17.38,78.48,Edge,Ubuntu,8,16
+U00494,scott19,HR,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,10,18
+U00495,alyssasanders,Finance,Admin,Chennai,India,13.08,80.27,Firefox,macOS,8,16
+U00496,john10,Finance,Admin,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00497,victorhughes,Sales,Analyst,Bengaluru,India,12.97,77.59,Firefox,macOS,7,15
+U00498,greenjorge,HR,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00499,nlewis,Finance,Intern,Mumbai,India,19.07,72.87,Chrome,Ubuntu,7,15
+U00500,heather73,Finance,Manager,Bengaluru,India,12.97,77.59,Firefox,Windows 11,8,16
+U00501,taylorcharles,Finance,Admin,Hyderabad,India,17.38,78.48,Firefox,macOS,10,18
+U00502,rachelwallace,IT,Engineer,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00503,cochrantammy,Marketing,Analyst,Delhi,India,28.61,77.2,Safari,Ubuntu,9,17
+U00504,elizabeth18,Marketing,Engineer,Mumbai,India,19.07,72.87,Safari,macOS,7,15
+U00505,patricia22,Sales,Intern,Mumbai,India,19.07,72.87,Edge,Ubuntu,7,15
+U00506,william13,HR,Analyst,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,10,18
+U00507,joelsnyder,Sales,Intern,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00508,angela57,Engineering,Intern,Chennai,India,13.08,80.27,Chrome,Windows 11,7,15
+U00509,cherylmiller,IT,Engineer,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00510,raymond78,Finance,Analyst,Bengaluru,India,12.97,77.59,Chrome,macOS,9,17
+U00511,khammond,Engineering,Analyst,Mumbai,India,19.07,72.87,Edge,Windows 11,9,17
+U00512,martinezlogan,Marketing,Manager,Hyderabad,India,17.38,78.48,Safari,macOS,9,17
+U00513,coleerin,Engineering,Manager,Chennai,India,13.08,80.27,Safari,Windows 11,7,15
+U00514,david89,Sales,Intern,Bengaluru,India,12.97,77.59,Chrome,Windows 11,8,16
+U00515,katrinaanderson,IT,Manager,Mumbai,India,19.07,72.87,Safari,Windows 11,7,15
+U00516,guerraapril,Engineering,Engineer,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00517,fred53,Finance,Intern,Mumbai,India,19.07,72.87,Edge,macOS,9,17
+U00518,stacey84,Sales,Admin,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00519,kingcynthia,HR,Manager,Bengaluru,India,12.97,77.59,Edge,Ubuntu,10,18
+U00520,david49,Finance,Engineer,Delhi,India,28.61,77.2,Chrome,Windows 11,10,18
+U00521,shawgary,HR,Intern,Chennai,India,13.08,80.27,Firefox,Windows 11,10,18
+U00522,georgeweber,Marketing,Engineer,Bengaluru,India,12.97,77.59,Edge,macOS,9,17
+U00523,megan90,Marketing,Engineer,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00524,millerstacy,Marketing,Intern,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00525,debra96,IT,Intern,Chennai,India,13.08,80.27,Chrome,Windows 11,8,16
+U00526,jimenezcourtney,Sales,Engineer,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,7,15
+U00527,dawn47,Sales,Intern,Bengaluru,India,12.97,77.59,Firefox,macOS,10,18
+U00528,lindacohen,Engineering,Engineer,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00529,shawn02,Engineering,Engineer,Mumbai,India,19.07,72.87,Safari,macOS,8,16
+U00530,dperry,IT,Intern,Mumbai,India,19.07,72.87,Chrome,macOS,10,18
+U00531,matthewthomas,HR,Engineer,Delhi,India,28.61,77.2,Firefox,Windows 11,8,16
+U00532,jessica56,Finance,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,8,16
+U00533,kathleenrobertson,HR,Intern,Delhi,India,28.61,77.2,Edge,Windows 11,7,15
+U00534,floressteven,IT,Engineer,Bengaluru,India,12.97,77.59,Safari,macOS,7,15
+U00535,shannon21,HR,Manager,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00536,robertspatrick,Finance,Intern,Bengaluru,India,12.97,77.59,Firefox,macOS,7,15
+U00537,kwright,Finance,Analyst,Delhi,India,28.61,77.2,Edge,macOS,9,17
+U00538,sarah53,Engineering,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,7,15
+U00539,tyronerobertson,HR,Admin,Delhi,India,28.61,77.2,Chrome,Ubuntu,7,15
+U00540,fkoch,Engineering,Intern,Hyderabad,India,17.38,78.48,Edge,Ubuntu,9,17
+U00541,davisphillip,Engineering,Admin,Bengaluru,India,12.97,77.59,Chrome,Windows 11,9,17
+U00542,nlevy,Engineering,Engineer,Delhi,India,28.61,77.2,Edge,Windows 11,7,15
+U00543,brandon47,IT,Manager,Hyderabad,India,17.38,78.48,Edge,Windows 11,9,17
+U00544,amitchell,Finance,Analyst,Delhi,India,28.61,77.2,Edge,Ubuntu,10,18
+U00545,jordannicole,Engineering,Admin,Mumbai,India,19.07,72.87,Firefox,Windows 11,9,17
+U00546,kathryn50,Finance,Manager,Delhi,India,28.61,77.2,Chrome,Ubuntu,7,15
+U00547,jwilliams,HR,Analyst,Chennai,India,13.08,80.27,Firefox,Windows 11,10,18
+U00548,michaelroberts,Engineering,Analyst,Delhi,India,28.61,77.2,Edge,Ubuntu,10,18
+U00549,wgordon,Marketing,Admin,Delhi,India,28.61,77.2,Edge,Ubuntu,9,17
+U00550,marcia99,Finance,Admin,Mumbai,India,19.07,72.87,Edge,Windows 11,10,18
+U00551,andersoncolin,Engineering,Manager,Chennai,India,13.08,80.27,Firefox,macOS,10,18
+U00552,laura58,Engineering,Intern,Chennai,India,13.08,80.27,Firefox,Windows 11,9,17
+U00553,kari39,IT,Intern,Bengaluru,India,12.97,77.59,Chrome,Windows 11,8,16
+U00554,cporter,Engineering,Manager,Mumbai,India,19.07,72.87,Safari,macOS,7,15
+U00555,taylormason,Marketing,Engineer,Mumbai,India,19.07,72.87,Chrome,macOS,10,18
+U00556,jstone,Engineering,Admin,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00557,markaustin,HR,Analyst,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,8,16
+U00558,phillipjensen,IT,Analyst,Mumbai,India,19.07,72.87,Edge,Windows 11,9,17
+U00559,brittney88,Sales,Engineer,Bengaluru,India,12.97,77.59,Edge,Windows 11,8,16
+U00560,terickson,IT,Analyst,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00561,xcabrera,Finance,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00562,emily69,Engineering,Manager,Mumbai,India,19.07,72.87,Firefox,macOS,7,15
+U00563,laura09,Finance,Analyst,Delhi,India,28.61,77.2,Edge,Windows 11,7,15
+U00564,pbaker,IT,Admin,Bengaluru,India,12.97,77.59,Chrome,macOS,9,17
+U00565,jennifersilva,Finance,Engineer,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00566,alexandriagriffith,Engineering,Intern,Delhi,India,28.61,77.2,Chrome,Windows 11,8,16
+U00567,rhernandez,Engineering,Manager,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00568,anthonyvaughan,Marketing,Engineer,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00569,leescott,Finance,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00570,shernandez,Engineering,Intern,Mumbai,India,19.07,72.87,Chrome,Windows 11,7,15
+U00571,roberthampton,Marketing,Intern,Delhi,India,28.61,77.2,Safari,Windows 11,10,18
+U00572,vsalas,Finance,Analyst,Hyderabad,India,17.38,78.48,Edge,Windows 11,10,18
+U00573,thorntonapril,IT,Manager,Mumbai,India,19.07,72.87,Chrome,macOS,9,17
+U00574,whitney78,Marketing,Analyst,Delhi,India,28.61,77.2,Safari,Ubuntu,8,16
+U00575,ledwards,Engineering,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,10,18
+U00576,vbarr,Finance,Admin,Bengaluru,India,12.97,77.59,Edge,macOS,10,18
+U00577,erica49,IT,Analyst,Delhi,India,28.61,77.2,Safari,macOS,7,15
+U00578,plee,Sales,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,9,17
+U00579,angela34,Engineering,Analyst,Mumbai,India,19.07,72.87,Edge,Windows 11,8,16
+U00580,janet75,IT,Admin,Mumbai,India,19.07,72.87,Firefox,macOS,7,15
+U00581,ybailey,Engineering,Manager,Bengaluru,India,12.97,77.59,Edge,Ubuntu,8,16
+U00582,keith98,Finance,Admin,Delhi,India,28.61,77.2,Safari,Ubuntu,7,15
+U00583,zhuang,Finance,Admin,Bengaluru,India,12.97,77.59,Firefox,macOS,8,16
+U00584,stephanie24,Marketing,Analyst,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00585,robertsjennifer,Sales,Analyst,Bengaluru,India,12.97,77.59,Edge,Ubuntu,10,18
+U00586,sandra47,Engineering,Manager,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00587,jamesryan,Engineering,Analyst,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00588,derrick99,HR,Engineer,Mumbai,India,19.07,72.87,Chrome,Windows 11,8,16
+U00589,johnsantiago,Engineering,Admin,Delhi,India,28.61,77.2,Firefox,Windows 11,8,16
+U00590,danawilliams,Sales,Engineer,Mumbai,India,19.07,72.87,Firefox,Ubuntu,10,18
+U00591,erivera,Finance,Intern,Mumbai,India,19.07,72.87,Safari,macOS,8,16
+U00592,maldonadoderrick,Marketing,Admin,Mumbai,India,19.07,72.87,Firefox,Windows 11,8,16
+U00593,richarddonovan,IT,Analyst,Delhi,India,28.61,77.2,Firefox,Windows 11,8,16
+U00594,mwoods,Marketing,Admin,Bengaluru,India,12.97,77.59,Safari,macOS,7,15
+U00595,manuel01,Sales,Analyst,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00596,amandasharp,IT,Manager,Delhi,India,28.61,77.2,Firefox,macOS,7,15
+U00597,gentrygregory,HR,Analyst,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00598,sarahjohnson,IT,Engineer,Chennai,India,13.08,80.27,Firefox,Windows 11,9,17
+U00599,lfrench,HR,Analyst,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00600,nancy04,IT,Intern,Chennai,India,13.08,80.27,Safari,Windows 11,7,15
+U00601,hebertmatthew,IT,Analyst,Hyderabad,India,17.38,78.48,Safari,Windows 11,10,18
+U00602,ihays,Finance,Intern,Hyderabad,India,17.38,78.48,Chrome,Windows 11,8,16
+U00603,ismall,HR,Analyst,Mumbai,India,19.07,72.87,Chrome,Windows 11,7,15
+U00604,znelson,IT,Manager,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00605,riverajessica,Sales,Admin,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00606,jennifer05,Marketing,Manager,Chennai,India,13.08,80.27,Safari,Windows 11,10,18
+U00607,ashley32,HR,Manager,Chennai,India,13.08,80.27,Edge,Ubuntu,7,15
+U00608,gwilcox,Marketing,Analyst,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00609,christopher12,IT,Admin,Chennai,India,13.08,80.27,Safari,Windows 11,7,15
+U00610,thomasboyle,Engineering,Intern,Chennai,India,13.08,80.27,Chrome,Ubuntu,9,17
+U00611,greenjoe,Finance,Engineer,Delhi,India,28.61,77.2,Chrome,Windows 11,10,18
+U00612,stephanie49,Engineering,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,9,17
+U00613,greenmichael,IT,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,10,18
+U00614,bryanwilson,Finance,Analyst,Delhi,India,28.61,77.2,Safari,Ubuntu,10,18
+U00615,erik84,Engineering,Analyst,Bengaluru,India,12.97,77.59,Safari,Ubuntu,10,18
+U00616,fowlershelia,HR,Admin,Mumbai,India,19.07,72.87,Chrome,Windows 11,8,16
+U00617,christina32,Marketing,Analyst,Chennai,India,13.08,80.27,Safari,macOS,7,15
+U00618,vhernandez,IT,Admin,Bengaluru,India,12.97,77.59,Safari,macOS,7,15
+U00619,robert87,IT,Analyst,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,8,16
+U00620,kathleenbecker,Engineering,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,8,16
+U00621,foxallison,Finance,Engineer,Bengaluru,India,12.97,77.59,Safari,Windows 11,8,16
+U00622,christian91,Marketing,Manager,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00623,poolerebecca,IT,Admin,Chennai,India,13.08,80.27,Safari,macOS,7,15
+U00624,ashleyhernandez,Sales,Intern,Mumbai,India,19.07,72.87,Chrome,macOS,9,17
+U00625,melissa71,Engineering,Intern,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00626,jenniferburns,Engineering,Admin,Delhi,India,28.61,77.2,Chrome,Ubuntu,7,15
+U00627,dstokes,IT,Analyst,Delhi,India,28.61,77.2,Safari,macOS,9,17
+U00628,williambryant,Engineering,Manager,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,10,18
+U00629,hansenemily,Engineering,Intern,Bengaluru,India,12.97,77.59,Firefox,macOS,10,18
+U00630,jennifer64,Marketing,Intern,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,7,15
+U00631,reesebeth,HR,Analyst,Chennai,India,13.08,80.27,Firefox,Ubuntu,9,17
+U00632,hendersonisabella,Finance,Analyst,Chennai,India,13.08,80.27,Safari,Ubuntu,8,16
+U00633,michaelcesar,Sales,Engineer,Mumbai,India,19.07,72.87,Edge,Ubuntu,10,18
+U00634,ajohnson,Marketing,Intern,Bengaluru,India,12.97,77.59,Firefox,Windows 11,10,18
+U00635,kaylacannon,Engineering,Analyst,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00636,ybrooks,Finance,Manager,Delhi,India,28.61,77.2,Edge,Windows 11,7,15
+U00637,ykane,IT,Engineer,Bengaluru,India,12.97,77.59,Firefox,macOS,7,15
+U00638,qmiller,HR,Intern,Bengaluru,India,12.97,77.59,Safari,macOS,9,17
+U00639,desireebailey,Finance,Analyst,Chennai,India,13.08,80.27,Safari,macOS,7,15
+U00640,victorialong,IT,Admin,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00641,jessicawalker,Marketing,Engineer,Bengaluru,India,12.97,77.59,Firefox,Windows 11,9,17
+U00642,avilatiffany,Finance,Admin,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00643,inunez,HR,Intern,Bengaluru,India,12.97,77.59,Chrome,macOS,8,16
+U00644,opatel,Finance,Manager,Chennai,India,13.08,80.27,Chrome,Windows 11,10,18
+U00645,stevenmoore,Marketing,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,9,17
+U00646,sharonhardy,HR,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,10,18
+U00647,johnsondonna,Sales,Engineer,Delhi,India,28.61,77.2,Chrome,macOS,10,18
+U00648,allencarlos,HR,Engineer,Mumbai,India,19.07,72.87,Safari,Windows 11,9,17
+U00649,griffinemily,Marketing,Analyst,Mumbai,India,19.07,72.87,Firefox,Ubuntu,9,17
+U00650,sanchezbradley,Finance,Admin,Mumbai,India,19.07,72.87,Edge,Windows 11,8,16
+U00651,nyoung,Marketing,Analyst,Delhi,India,28.61,77.2,Edge,macOS,10,18
+U00652,taylorvictoria,HR,Analyst,Chennai,India,13.08,80.27,Safari,Ubuntu,10,18
+U00653,lisadennis,Sales,Admin,Hyderabad,India,17.38,78.48,Edge,Ubuntu,7,15
+U00654,barbara53,Marketing,Analyst,Bengaluru,India,12.97,77.59,Firefox,Windows 11,10,18
+U00655,nancy83,HR,Engineer,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00656,dturner,Marketing,Analyst,Mumbai,India,19.07,72.87,Chrome,Windows 11,8,16
+U00657,conniesimmons,Marketing,Analyst,Mumbai,India,19.07,72.87,Safari,Ubuntu,8,16
+U00658,wwilliams,Sales,Analyst,Mumbai,India,19.07,72.87,Safari,Windows 11,9,17
+U00659,ufloyd,Marketing,Admin,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,7,15
+U00660,trussell,Marketing,Intern,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,7,15
+U00661,iwhite,Finance,Manager,Chennai,India,13.08,80.27,Firefox,Ubuntu,8,16
+U00662,oallen,Finance,Analyst,Delhi,India,28.61,77.2,Edge,Windows 11,10,18
+U00663,meredith27,Marketing,Manager,Hyderabad,India,17.38,78.48,Firefox,macOS,9,17
+U00664,harttammy,IT,Analyst,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00665,paulscott,IT,Engineer,Delhi,India,28.61,77.2,Edge,macOS,8,16
+U00666,deborah75,IT,Intern,Hyderabad,India,17.38,78.48,Safari,Ubuntu,10,18
+U00667,nicholsmaria,Sales,Manager,Chennai,India,13.08,80.27,Firefox,Windows 11,7,15
+U00668,adamsemily,Engineering,Engineer,Mumbai,India,19.07,72.87,Edge,Windows 11,8,16
+U00669,russojacob,Finance,Engineer,Mumbai,India,19.07,72.87,Safari,macOS,9,17
+U00670,timothybooth,Finance,Engineer,Delhi,India,28.61,77.2,Chrome,Ubuntu,9,17
+U00671,kevin03,Marketing,Admin,Mumbai,India,19.07,72.87,Firefox,Ubuntu,10,18
+U00672,suzannewilson,IT,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00673,srocha,Finance,Manager,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00674,randyallen,Engineering,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,8,16
+U00675,kimberly67,Sales,Engineer,Mumbai,India,19.07,72.87,Chrome,macOS,7,15
+U00676,kyle58,Marketing,Engineer,Chennai,India,13.08,80.27,Safari,Ubuntu,7,15
+U00677,zowens,Sales,Analyst,Hyderabad,India,17.38,78.48,Safari,macOS,7,15
+U00678,ugill,Marketing,Engineer,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,8,16
+U00679,nathangutierrez,Sales,Admin,Chennai,India,13.08,80.27,Edge,Ubuntu,9,17
+U00680,joycesmith,HR,Engineer,Chennai,India,13.08,80.27,Chrome,Ubuntu,7,15
+U00681,mphillips,HR,Admin,Bengaluru,India,12.97,77.59,Edge,Ubuntu,8,16
+U00682,jerry93,Finance,Engineer,Hyderabad,India,17.38,78.48,Safari,Windows 11,9,17
+U00683,rpierce,Finance,Engineer,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00684,jonathan77,Sales,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00685,yjackson,Marketing,Engineer,Delhi,India,28.61,77.2,Firefox,macOS,7,15
+U00686,gary87,HR,Analyst,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00687,sabrinaweaver,Engineering,Analyst,Chennai,India,13.08,80.27,Firefox,macOS,8,16
+U00688,warrenmary,Marketing,Engineer,Mumbai,India,19.07,72.87,Chrome,Windows 11,10,18
+U00689,landryelizabeth,Marketing,Manager,Chennai,India,13.08,80.27,Firefox,Ubuntu,8,16
+U00690,gutierrezmegan,Marketing,Engineer,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,9,17
+U00691,carloshernandez,IT,Intern,Bengaluru,India,12.97,77.59,Safari,Ubuntu,7,15
+U00692,williambrooks,IT,Manager,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00693,bhopkins,Engineering,Intern,Chennai,India,13.08,80.27,Safari,macOS,8,16
+U00694,patelrobert,Sales,Intern,Hyderabad,India,17.38,78.48,Firefox,macOS,8,16
+U00695,morenojoshua,IT,Intern,Chennai,India,13.08,80.27,Chrome,Ubuntu,8,16
+U00696,andre62,Engineering,Analyst,Hyderabad,India,17.38,78.48,Firefox,Windows 11,7,15
+U00697,hullalice,Marketing,Analyst,Delhi,India,28.61,77.2,Chrome,Ubuntu,8,16
+U00698,jamesfox,HR,Intern,Bengaluru,India,12.97,77.59,Edge,macOS,10,18
+U00699,joseph61,Engineering,Manager,Delhi,India,28.61,77.2,Safari,Ubuntu,7,15
+U00700,susan79,IT,Analyst,Bengaluru,India,12.97,77.59,Edge,Ubuntu,7,15
+U00701,veronicaperez,Sales,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,7,15
+U00702,valdezmichele,IT,Intern,Bengaluru,India,12.97,77.59,Safari,Windows 11,7,15
+U00703,davisnicholas,HR,Engineer,Hyderabad,India,17.38,78.48,Safari,macOS,10,18
+U00704,abrown,IT,Intern,Chennai,India,13.08,80.27,Chrome,macOS,7,15
+U00705,christopherbruce,Engineering,Admin,Delhi,India,28.61,77.2,Firefox,macOS,7,15
+U00706,ariel18,Marketing,Intern,Delhi,India,28.61,77.2,Firefox,Ubuntu,8,16
+U00707,hallrachel,IT,Analyst,Chennai,India,13.08,80.27,Safari,macOS,8,16
+U00708,enelson,Engineering,Engineer,Mumbai,India,19.07,72.87,Edge,Windows 11,10,18
+U00709,rachel90,Marketing,Analyst,Mumbai,India,19.07,72.87,Firefox,macOS,9,17
+U00710,sarahedwards,Finance,Intern,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00711,brendagoodwin,HR,Admin,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00712,thickman,Finance,Intern,Chennai,India,13.08,80.27,Edge,macOS,10,18
+U00713,anneknight,IT,Engineer,Mumbai,India,19.07,72.87,Chrome,Ubuntu,7,15
+U00714,irhodes,IT,Engineer,Hyderabad,India,17.38,78.48,Chrome,macOS,8,16
+U00715,patrick21,Sales,Manager,Hyderabad,India,17.38,78.48,Edge,macOS,10,18
+U00716,brian63,IT,Admin,Bengaluru,India,12.97,77.59,Firefox,macOS,7,15
+U00717,petersonkayla,Sales,Manager,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,10,18
+U00718,unovak,IT,Manager,Mumbai,India,19.07,72.87,Edge,Ubuntu,9,17
+U00719,walterskristen,Marketing,Admin,Delhi,India,28.61,77.2,Firefox,macOS,9,17
+U00720,whenry,Finance,Manager,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00721,rreynolds,Marketing,Manager,Mumbai,India,19.07,72.87,Firefox,macOS,8,16
+U00722,nmiller,Sales,Intern,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00723,lauren11,IT,Engineer,Delhi,India,28.61,77.2,Chrome,Windows 11,9,17
+U00724,eric26,Engineering,Engineer,Hyderabad,India,17.38,78.48,Edge,Ubuntu,8,16
+U00725,michael10,Marketing,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00726,sean41,Sales,Engineer,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00727,christopherjordan,Marketing,Admin,Chennai,India,13.08,80.27,Safari,Windows 11,8,16
+U00728,fgarcia,Marketing,Engineer,Delhi,India,28.61,77.2,Safari,Ubuntu,9,17
+U00729,angela99,Sales,Engineer,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00730,michelle04,Sales,Intern,Mumbai,India,19.07,72.87,Edge,macOS,8,16
+U00731,fhughes,Marketing,Manager,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00732,ashleyjackson,Finance,Manager,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,7,15
+U00733,rjackson,HR,Admin,Chennai,India,13.08,80.27,Firefox,Windows 11,10,18
+U00734,joseph21,Engineering,Analyst,Bengaluru,India,12.97,77.59,Safari,macOS,9,17
+U00735,ryanfisher,Finance,Analyst,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00736,xpatton,IT,Admin,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00737,sheryl79,Finance,Admin,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00738,stephentaylor,Sales,Admin,Bengaluru,India,12.97,77.59,Safari,Windows 11,10,18
+U00739,rushmartin,Finance,Analyst,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00740,vbrock,Sales,Admin,Mumbai,India,19.07,72.87,Safari,macOS,8,16
+U00741,pcook,Marketing,Analyst,Chennai,India,13.08,80.27,Safari,Windows 11,7,15
+U00742,kevinmorrison,Engineering,Analyst,Delhi,India,28.61,77.2,Safari,Windows 11,8,16
+U00743,timothythompson,Sales,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00744,snovak,IT,Engineer,Mumbai,India,19.07,72.87,Firefox,macOS,10,18
+U00745,yfaulkner,Sales,Engineer,Bengaluru,India,12.97,77.59,Chrome,Windows 11,9,17
+U00746,markramirez,Marketing,Engineer,Delhi,India,28.61,77.2,Edge,macOS,7,15
+U00747,kdiaz,Engineering,Manager,Bengaluru,India,12.97,77.59,Safari,macOS,10,18
+U00748,brittanygardner,Engineering,Intern,Chennai,India,13.08,80.27,Firefox,Windows 11,8,16
+U00749,bentonsteven,Engineering,Manager,Chennai,India,13.08,80.27,Firefox,macOS,7,15
+U00750,samuelcarter,HR,Intern,Chennai,India,13.08,80.27,Safari,Ubuntu,8,16
+U00751,fuenteslaura,HR,Engineer,Hyderabad,India,17.38,78.48,Safari,macOS,10,18
+U00752,ichambers,Marketing,Admin,Chennai,India,13.08,80.27,Chrome,macOS,7,15
+U00753,john26,Marketing,Engineer,Delhi,India,28.61,77.2,Firefox,macOS,7,15
+U00754,mjones,Marketing,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,9,17
+U00755,iaguilar,IT,Engineer,Hyderabad,India,17.38,78.48,Safari,Windows 11,10,18
+U00756,ystephens,Finance,Intern,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00757,jacqueline89,Marketing,Analyst,Bengaluru,India,12.97,77.59,Chrome,macOS,9,17
+U00758,rodriguezjohn,Engineering,Engineer,Delhi,India,28.61,77.2,Chrome,macOS,8,16
+U00759,gabriel90,Sales,Admin,Delhi,India,28.61,77.2,Chrome,Ubuntu,10,18
+U00760,vrasmussen,Finance,Intern,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00761,grodriguez,Sales,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,8,16
+U00762,jeffrey88,Sales,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,7,15
+U00763,seanmyers,Engineering,Manager,Chennai,India,13.08,80.27,Safari,Ubuntu,9,17
+U00764,michaeljohnson,Marketing,Manager,Mumbai,India,19.07,72.87,Chrome,Ubuntu,8,16
+U00765,phillipssamantha,Finance,Analyst,Delhi,India,28.61,77.2,Safari,Ubuntu,7,15
+U00766,wilsonshelia,Marketing,Admin,Mumbai,India,19.07,72.87,Edge,macOS,9,17
+U00767,michaelcooper,HR,Intern,Delhi,India,28.61,77.2,Edge,Windows 11,9,17
+U00768,adrianabailey,Finance,Intern,Mumbai,India,19.07,72.87,Firefox,Ubuntu,8,16
+U00769,kimheather,IT,Intern,Bengaluru,India,12.97,77.59,Safari,Ubuntu,9,17
+U00770,carlos01,Sales,Engineer,Mumbai,India,19.07,72.87,Edge,macOS,10,18
+U00771,sweeneydeborah,HR,Manager,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00772,sarahyang,Engineering,Admin,Chennai,India,13.08,80.27,Chrome,macOS,7,15
+U00773,andrearivera,Sales,Manager,Delhi,India,28.61,77.2,Chrome,macOS,10,18
+U00774,omullen,Marketing,Manager,Mumbai,India,19.07,72.87,Firefox,Ubuntu,10,18
+U00775,lsoto,Finance,Intern,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,9,17
+U00776,vfoster,Marketing,Manager,Mumbai,India,19.07,72.87,Edge,macOS,7,15
+U00777,shannonjordan,Finance,Manager,Bengaluru,India,12.97,77.59,Edge,macOS,10,18
+U00778,bushjamie,Engineering,Manager,Hyderabad,India,17.38,78.48,Safari,Windows 11,9,17
+U00779,raylauren,HR,Manager,Chennai,India,13.08,80.27,Chrome,macOS,9,17
+U00780,michaelgonzalez,IT,Intern,Bengaluru,India,12.97,77.59,Safari,Windows 11,9,17
+U00781,bakermichelle,Engineering,Admin,Chennai,India,13.08,80.27,Firefox,macOS,9,17
+U00782,candice96,IT,Intern,Mumbai,India,19.07,72.87,Firefox,macOS,8,16
+U00783,baileymegan,IT,Manager,Chennai,India,13.08,80.27,Safari,Ubuntu,9,17
+U00784,lisamccarthy,IT,Admin,Mumbai,India,19.07,72.87,Chrome,macOS,10,18
+U00785,samantha91,Finance,Manager,Bengaluru,India,12.97,77.59,Chrome,macOS,10,18
+U00786,lawrenceallen,Finance,Manager,Mumbai,India,19.07,72.87,Edge,Ubuntu,8,16
+U00787,whiteheather,Marketing,Manager,Delhi,India,28.61,77.2,Safari,Ubuntu,7,15
+U00788,ibarnes,Marketing,Intern,Chennai,India,13.08,80.27,Safari,Windows 11,10,18
+U00789,fhenderson,Marketing,Intern,Delhi,India,28.61,77.2,Chrome,Windows 11,8,16
+U00790,angelaburns,Sales,Admin,Chennai,India,13.08,80.27,Edge,Windows 11,8,16
+U00791,jacobwilkinson,Sales,Manager,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00792,glennstephanie,Sales,Intern,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00793,ytaylor,Finance,Intern,Mumbai,India,19.07,72.87,Safari,Ubuntu,7,15
+U00794,fortiz,IT,Admin,Bengaluru,India,12.97,77.59,Edge,macOS,8,16
+U00795,cmckinney,Finance,Analyst,Bengaluru,India,12.97,77.59,Safari,macOS,9,17
+U00796,kjackson,Finance,Intern,Delhi,India,28.61,77.2,Safari,Windows 11,7,15
+U00797,flynnjeffrey,Finance,Admin,Chennai,India,13.08,80.27,Safari,Windows 11,7,15
+U00798,hillamanda,Finance,Intern,Delhi,India,28.61,77.2,Chrome,macOS,7,15
+U00799,kimberlycunningham,Engineering,Intern,Delhi,India,28.61,77.2,Edge,macOS,7,15
+U00800,hdunn,Marketing,Intern,Delhi,India,28.61,77.2,Safari,Ubuntu,7,15
+U00801,adamsamy,Finance,Intern,Chennai,India,13.08,80.27,Safari,Ubuntu,10,18
+U00802,amber07,IT,Manager,Delhi,India,28.61,77.2,Firefox,Ubuntu,7,15
+U00803,veronicagarcia,HR,Admin,Bengaluru,India,12.97,77.59,Safari,Ubuntu,7,15
+U00804,kennethkidd,Marketing,Engineer,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00805,fbaker,Marketing,Manager,Chennai,India,13.08,80.27,Firefox,Ubuntu,10,18
+U00806,hgrimes,Finance,Intern,Mumbai,India,19.07,72.87,Firefox,Ubuntu,7,15
+U00807,jasonrojas,Sales,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,10,18
+U00808,michelle96,IT,Admin,Hyderabad,India,17.38,78.48,Safari,Windows 11,8,16
+U00809,christinaglover,HR,Analyst,Mumbai,India,19.07,72.87,Firefox,macOS,10,18
+U00810,lindahudson,Marketing,Engineer,Hyderabad,India,17.38,78.48,Edge,Ubuntu,8,16
+U00811,candice25,Finance,Admin,Bengaluru,India,12.97,77.59,Safari,Ubuntu,7,15
+U00812,keith48,Finance,Intern,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00813,taylorkaren,Sales,Intern,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00814,rsellers,HR,Engineer,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00815,jacquelineanderson,Sales,Admin,Hyderabad,India,17.38,78.48,Firefox,macOS,10,18
+U00816,jenniferpoole,Finance,Intern,Delhi,India,28.61,77.2,Safari,Windows 11,7,15
+U00817,kburns,Finance,Engineer,Bengaluru,India,12.97,77.59,Edge,macOS,9,17
+U00818,courtney67,HR,Manager,Bengaluru,India,12.97,77.59,Chrome,Windows 11,7,15
+U00819,schultznicole,IT,Analyst,Chennai,India,13.08,80.27,Safari,Ubuntu,9,17
+U00820,powellkara,Sales,Engineer,Delhi,India,28.61,77.2,Chrome,Windows 11,8,16
+U00821,shawn75,Marketing,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00822,meltonmelanie,Sales,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,8,16
+U00823,simonstephen,HR,Manager,Delhi,India,28.61,77.2,Safari,macOS,7,15
+U00824,melissa86,Sales,Analyst,Chennai,India,13.08,80.27,Firefox,Windows 11,7,15
+U00825,tammysummers,Sales,Admin,Delhi,India,28.61,77.2,Firefox,macOS,9,17
+U00826,sadams,Sales,Intern,Hyderabad,India,17.38,78.48,Edge,Ubuntu,10,18
+U00827,amy29,Sales,Engineer,Hyderabad,India,17.38,78.48,Safari,Windows 11,10,18
+U00828,rkramer,IT,Manager,Mumbai,India,19.07,72.87,Edge,Ubuntu,7,15
+U00829,williamsconnie,Sales,Admin,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00830,ksmith,HR,Engineer,Mumbai,India,19.07,72.87,Safari,macOS,8,16
+U00831,bbryant,Sales,Manager,Mumbai,India,19.07,72.87,Safari,Ubuntu,7,15
+U00832,wendyblankenship,Sales,Analyst,Mumbai,India,19.07,72.87,Edge,macOS,8,16
+U00833,erik41,Marketing,Manager,Bengaluru,India,12.97,77.59,Edge,macOS,10,18
+U00834,john52,Finance,Manager,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00835,sanderskevin,Finance,Engineer,Delhi,India,28.61,77.2,Chrome,Windows 11,9,17
+U00836,rubendavis,Sales,Engineer,Hyderabad,India,17.38,78.48,Safari,Ubuntu,7,15
+U00837,smiththomas,IT,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00838,brittneystone,IT,Manager,Bengaluru,India,12.97,77.59,Edge,Windows 11,9,17
+U00839,ssmith,IT,Admin,Delhi,India,28.61,77.2,Chrome,macOS,10,18
+U00840,lisa62,Marketing,Manager,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00841,yjones,HR,Engineer,Delhi,India,28.61,77.2,Chrome,macOS,10,18
+U00842,crosscurtis,Sales,Engineer,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,10,18
+U00843,michael42,Finance,Admin,Delhi,India,28.61,77.2,Firefox,Windows 11,9,17
+U00844,wayala,Sales,Analyst,Mumbai,India,19.07,72.87,Firefox,Windows 11,10,18
+U00845,darlenebyrd,Finance,Intern,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,10,18
+U00846,morenoalan,IT,Manager,Hyderabad,India,17.38,78.48,Edge,macOS,9,17
+U00847,scottbowen,Marketing,Analyst,Bengaluru,India,12.97,77.59,Edge,macOS,7,15
+U00848,samanthajensen,Finance,Manager,Hyderabad,India,17.38,78.48,Edge,Ubuntu,10,18
+U00849,fheath,IT,Intern,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00850,taylordavid,IT,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,9,17
+U00851,bbell,IT,Engineer,Delhi,India,28.61,77.2,Edge,Windows 11,7,15
+U00852,kylie34,IT,Engineer,Bengaluru,India,12.97,77.59,Safari,macOS,9,17
+U00853,wrightcarolyn,HR,Analyst,Mumbai,India,19.07,72.87,Firefox,Ubuntu,9,17
+U00854,kimberly04,Engineering,Analyst,Chennai,India,13.08,80.27,Edge,macOS,10,18
+U00855,aprilhicks,HR,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00856,dphillips,Marketing,Intern,Delhi,India,28.61,77.2,Chrome,Ubuntu,10,18
+U00857,troyrodriguez,IT,Manager,Delhi,India,28.61,77.2,Edge,macOS,9,17
+U00858,elittle,Marketing,Admin,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00859,hatfieldsarah,HR,Manager,Chennai,India,13.08,80.27,Firefox,Ubuntu,8,16
+U00860,paulcombs,Sales,Intern,Mumbai,India,19.07,72.87,Firefox,Ubuntu,9,17
+U00861,rdiaz,IT,Manager,Mumbai,India,19.07,72.87,Edge,Windows 11,10,18
+U00862,kathrynbest,Marketing,Analyst,Bengaluru,India,12.97,77.59,Chrome,Windows 11,8,16
+U00863,smithcarlos,Engineering,Engineer,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,10,18
+U00864,jason06,Engineering,Intern,Delhi,India,28.61,77.2,Chrome,Windows 11,7,15
+U00865,courtney86,Engineering,Intern,Mumbai,India,19.07,72.87,Firefox,Windows 11,8,16
+U00866,fmiles,IT,Manager,Bengaluru,India,12.97,77.59,Edge,macOS,9,17
+U00867,joshuacollins,Engineering,Analyst,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,7,15
+U00868,terrimoore,Sales,Intern,Hyderabad,India,17.38,78.48,Edge,macOS,9,17
+U00869,peter14,Sales,Admin,Delhi,India,28.61,77.2,Safari,macOS,8,16
+U00870,pblair,Sales,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,10,18
+U00871,sanchezsandy,Engineering,Intern,Hyderabad,India,17.38,78.48,Firefox,Ubuntu,8,16
+U00872,chavezchelsea,Finance,Analyst,Hyderabad,India,17.38,78.48,Chrome,Windows 11,9,17
+U00873,elizabeth21,HR,Analyst,Delhi,India,28.61,77.2,Safari,macOS,8,16
+U00874,zimmermanjacqueline,IT,Analyst,Chennai,India,13.08,80.27,Chrome,Ubuntu,10,18
+U00875,tylerreed,Engineering,Admin,Mumbai,India,19.07,72.87,Firefox,Windows 11,8,16
+U00876,gary24,IT,Manager,Hyderabad,India,17.38,78.48,Edge,macOS,10,18
+U00877,wiseanthony,Finance,Analyst,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00878,enelson,HR,Admin,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,9,17
+U00879,jennifer91,Finance,Manager,Bengaluru,India,12.97,77.59,Firefox,Windows 11,7,15
+U00880,xgibson,HR,Admin,Hyderabad,India,17.38,78.48,Safari,Windows 11,10,18
+U00881,porterashley,Finance,Engineer,Mumbai,India,19.07,72.87,Chrome,Windows 11,7,15
+U00882,eric19,HR,Manager,Chennai,India,13.08,80.27,Safari,macOS,9,17
+U00883,perezwilliam,Engineering,Manager,Chennai,India,13.08,80.27,Chrome,Ubuntu,8,16
+U00884,trevinoalexander,IT,Analyst,Bengaluru,India,12.97,77.59,Safari,Ubuntu,9,17
+U00885,ruizpatrick,HR,Engineer,Hyderabad,India,17.38,78.48,Edge,Windows 11,7,15
+U00886,haroldhorne,Engineering,Admin,Mumbai,India,19.07,72.87,Safari,Windows 11,10,18
+U00887,tranrobin,IT,Engineer,Bengaluru,India,12.97,77.59,Chrome,macOS,9,17
+U00888,pwalker,IT,Manager,Bengaluru,India,12.97,77.59,Chrome,Windows 11,10,18
+U00889,umoon,Sales,Manager,Hyderabad,India,17.38,78.48,Safari,Ubuntu,7,15
+U00890,margaret95,Finance,Engineer,Mumbai,India,19.07,72.87,Chrome,Ubuntu,9,17
+U00891,shawrachel,Finance,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,9,17
+U00892,jeffreyblack,Finance,Intern,Bengaluru,India,12.97,77.59,Firefox,Windows 11,7,15
+U00893,finleycasey,Sales,Engineer,Bengaluru,India,12.97,77.59,Safari,Windows 11,9,17
+U00894,xcline,Sales,Intern,Chennai,India,13.08,80.27,Edge,Ubuntu,7,15
+U00895,mark87,Finance,Intern,Chennai,India,13.08,80.27,Chrome,macOS,8,16
+U00896,woodkelly,Marketing,Engineer,Delhi,India,28.61,77.2,Chrome,Ubuntu,9,17
+U00897,jodi37,Finance,Intern,Bengaluru,India,12.97,77.59,Edge,Ubuntu,7,15
+U00898,brittany73,IT,Manager,Delhi,India,28.61,77.2,Chrome,macOS,9,17
+U00899,edwardrandolph,Marketing,Manager,Hyderabad,India,17.38,78.48,Firefox,Windows 11,9,17
+U00900,hallmichael,Sales,Analyst,Hyderabad,India,17.38,78.48,Safari,Windows 11,10,18
+U00901,tapiaaaron,Sales,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00902,usweeney,Sales,Admin,Hyderabad,India,17.38,78.48,Edge,Windows 11,9,17
+U00903,dalton83,IT,Analyst,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00904,dvasquez,Engineering,Admin,Mumbai,India,19.07,72.87,Safari,macOS,10,18
+U00905,jenniferdavis,Sales,Analyst,Bengaluru,India,12.97,77.59,Edge,Ubuntu,7,15
+U00906,phyllismeyer,Finance,Admin,Chennai,India,13.08,80.27,Safari,macOS,10,18
+U00907,stephen19,HR,Intern,Bengaluru,India,12.97,77.59,Firefox,Windows 11,9,17
+U00908,wagnerdana,Engineering,Manager,Chennai,India,13.08,80.27,Edge,Windows 11,7,15
+U00909,kjones,IT,Manager,Bengaluru,India,12.97,77.59,Chrome,Windows 11,7,15
+U00910,grahamtamara,Marketing,Intern,Delhi,India,28.61,77.2,Firefox,Windows 11,10,18
+U00911,kellyrosales,Sales,Engineer,Mumbai,India,19.07,72.87,Chrome,Windows 11,8,16
+U00912,vhaynes,IT,Engineer,Hyderabad,India,17.38,78.48,Firefox,macOS,7,15
+U00913,louis43,Marketing,Engineer,Hyderabad,India,17.38,78.48,Firefox,macOS,9,17
+U00914,hardingderek,HR,Engineer,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00915,moorefrank,Marketing,Manager,Chennai,India,13.08,80.27,Safari,Windows 11,7,15
+U00916,hedwards,Sales,Manager,Bengaluru,India,12.97,77.59,Safari,macOS,8,16
+U00917,tami37,Marketing,Intern,Chennai,India,13.08,80.27,Safari,Windows 11,9,17
+U00918,steven11,Sales,Intern,Bengaluru,India,12.97,77.59,Firefox,macOS,8,16
+U00919,lindseytorres,HR,Analyst,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,10,18
+U00920,lewismelissa,Marketing,Analyst,Hyderabad,India,17.38,78.48,Edge,macOS,10,18
+U00921,christopherwright,IT,Admin,Delhi,India,28.61,77.2,Firefox,Ubuntu,8,16
+U00922,randy04,IT,Engineer,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00923,lori20,Sales,Manager,Delhi,India,28.61,77.2,Firefox,Windows 11,7,15
+U00924,jbond,Finance,Analyst,Mumbai,India,19.07,72.87,Chrome,macOS,8,16
+U00925,codygarcia,Engineering,Engineer,Mumbai,India,19.07,72.87,Safari,Ubuntu,8,16
+U00926,davidbrown,HR,Analyst,Bengaluru,India,12.97,77.59,Edge,Windows 11,8,16
+U00927,davidcolon,Engineering,Admin,Mumbai,India,19.07,72.87,Safari,macOS,9,17
+U00928,gina19,Marketing,Analyst,Bengaluru,India,12.97,77.59,Safari,Windows 11,7,15
+U00929,samantha10,Sales,Analyst,Hyderabad,India,17.38,78.48,Chrome,macOS,7,15
+U00930,gonzalezdebbie,Engineering,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,10,18
+U00931,christopherboone,Engineering,Manager,Hyderabad,India,17.38,78.48,Chrome,macOS,10,18
+U00932,david70,HR,Admin,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,7,15
+U00933,sandrahamilton,HR,Admin,Delhi,India,28.61,77.2,Edge,Windows 11,8,16
+U00934,ycrawford,IT,Admin,Chennai,India,13.08,80.27,Chrome,Windows 11,10,18
+U00935,nthompson,IT,Manager,Hyderabad,India,17.38,78.48,Edge,Ubuntu,9,17
+U00936,joshuagriffin,Sales,Engineer,Chennai,India,13.08,80.27,Safari,Ubuntu,10,18
+U00937,austinharvey,Sales,Intern,Chennai,India,13.08,80.27,Edge,Windows 11,10,18
+U00938,deborahporter,IT,Intern,Hyderabad,India,17.38,78.48,Edge,macOS,8,16
+U00939,rbrown,Finance,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,8,16
+U00940,mtaylor,Engineering,Intern,Mumbai,India,19.07,72.87,Safari,Ubuntu,7,15
+U00941,crystalpham,HR,Analyst,Mumbai,India,19.07,72.87,Chrome,Ubuntu,8,16
+U00942,mayokimberly,Sales,Intern,Bengaluru,India,12.97,77.59,Edge,Ubuntu,9,17
+U00943,timothy75,Finance,Analyst,Chennai,India,13.08,80.27,Edge,macOS,8,16
+U00944,paul20,Marketing,Engineer,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00945,carla04,Engineering,Analyst,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,9,17
+U00946,stokesthomas,Engineering,Analyst,Hyderabad,India,17.38,78.48,Edge,macOS,10,18
+U00947,katie32,Finance,Admin,Delhi,India,28.61,77.2,Firefox,macOS,8,16
+U00948,wrightjohn,Marketing,Engineer,Hyderabad,India,17.38,78.48,Safari,macOS,8,16
+U00949,gallagherstacie,HR,Manager,Delhi,India,28.61,77.2,Chrome,Ubuntu,7,15
+U00950,lkelly,Engineering,Intern,Bengaluru,India,12.97,77.59,Chrome,Windows 11,9,17
+U00951,joelstewart,Marketing,Analyst,Hyderabad,India,17.38,78.48,Chrome,Windows 11,9,17
+U00952,robin05,Finance,Intern,Mumbai,India,19.07,72.87,Chrome,Ubuntu,10,18
+U00953,annalopez,Finance,Manager,Hyderabad,India,17.38,78.48,Safari,macOS,7,15
+U00954,lweaver,Finance,Admin,Chennai,India,13.08,80.27,Firefox,Ubuntu,7,15
+U00955,djohnson,Marketing,Manager,Hyderabad,India,17.38,78.48,Chrome,Ubuntu,10,18
+U00956,carolynsmith,Marketing,Analyst,Mumbai,India,19.07,72.87,Edge,macOS,9,17
+U00957,nsmith,Marketing,Analyst,Mumbai,India,19.07,72.87,Safari,Windows 11,7,15
+U00958,lindsaypeterson,Finance,Manager,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00959,samantharichard,Marketing,Intern,Bengaluru,India,12.97,77.59,Edge,Ubuntu,7,15
+U00960,brian29,IT,Analyst,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,8,16
+U00961,kimmathis,Finance,Manager,Delhi,India,28.61,77.2,Edge,Windows 11,8,16
+U00962,susan56,IT,Manager,Mumbai,India,19.07,72.87,Edge,Ubuntu,8,16
+U00963,rogersmarcus,Finance,Analyst,Chennai,India,13.08,80.27,Edge,macOS,7,15
+U00964,jessicakim,IT,Intern,Chennai,India,13.08,80.27,Firefox,Ubuntu,9,17
+U00965,lbanks,Finance,Engineer,Mumbai,India,19.07,72.87,Edge,Windows 11,8,16
+U00966,jeffrey92,Sales,Admin,Chennai,India,13.08,80.27,Edge,macOS,9,17
+U00967,sparker,Marketing,Engineer,Bengaluru,India,12.97,77.59,Firefox,Windows 11,8,16
+U00968,david09,Sales,Admin,Hyderabad,India,17.38,78.48,Safari,macOS,8,16
+U00969,xrosales,IT,Intern,Mumbai,India,19.07,72.87,Safari,Windows 11,8,16
+U00970,whitelucas,Finance,Engineer,Bengaluru,India,12.97,77.59,Safari,Windows 11,8,16
+U00971,daniellegarcia,Finance,Manager,Mumbai,India,19.07,72.87,Edge,Windows 11,10,18
+U00972,vtaylor,Sales,Intern,Bengaluru,India,12.97,77.59,Firefox,Ubuntu,10,18
+U00973,youngtoni,IT,Engineer,Bengaluru,India,12.97,77.59,Safari,macOS,10,18
+U00974,daisymccarty,Sales,Admin,Mumbai,India,19.07,72.87,Chrome,macOS,10,18
+U00975,sean43,IT,Engineer,Chennai,India,13.08,80.27,Edge,macOS,10,18
+U00976,heatherbell,Marketing,Engineer,Delhi,India,28.61,77.2,Safari,macOS,10,18
+U00977,lebrandon,HR,Intern,Chennai,India,13.08,80.27,Safari,Ubuntu,8,16
+U00978,koconnor,Finance,Intern,Mumbai,India,19.07,72.87,Firefox,macOS,10,18
+U00979,ysnyder,IT,Intern,Chennai,India,13.08,80.27,Chrome,macOS,8,16
+U00980,amy17,Finance,Admin,Delhi,India,28.61,77.2,Edge,Ubuntu,7,15
+U00981,franciscojones,IT,Engineer,Hyderabad,India,17.38,78.48,Edge,Ubuntu,9,17
+U00982,phillipslucas,IT,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,8,16
+U00983,jonesgeorge,Engineering,Engineer,Bengaluru,India,12.97,77.59,Safari,macOS,7,15
+U00984,emartin,Sales,Intern,Mumbai,India,19.07,72.87,Edge,Ubuntu,7,15
+U00985,morgantricia,Engineering,Manager,Delhi,India,28.61,77.2,Firefox,macOS,10,18
+U00986,bbush,Finance,Manager,Bengaluru,India,12.97,77.59,Chrome,Ubuntu,8,16
+U00987,catherinehamilton,Marketing,Intern,Mumbai,India,19.07,72.87,Firefox,macOS,9,17
+U00988,garciajamie,Finance,Manager,Bengaluru,India,12.97,77.59,Chrome,macOS,7,15
+U00989,robertspencer,IT,Intern,Mumbai,India,19.07,72.87,Safari,macOS,7,15
+U00990,donna43,Finance,Manager,Chennai,India,13.08,80.27,Safari,Ubuntu,10,18
+U00991,williamsashley,Engineering,Admin,Hyderabad,India,17.38,78.48,Chrome,Windows 11,10,18
+U00992,xhernandez,Sales,Admin,Delhi,India,28.61,77.2,Edge,Windows 11,9,17
+U00993,pattersonkelly,Engineering,Analyst,Bengaluru,India,12.97,77.59,Chrome,Windows 11,8,16
+U00994,bgonzalez,HR,Engineer,Chennai,India,13.08,80.27,Chrome,Windows 11,9,17
+U00995,georgecarter,Finance,Analyst,Hyderabad,India,17.38,78.48,Edge,Ubuntu,8,16
+U00996,wellsdarrell,Engineering,Engineer,Delhi,India,28.61,77.2,Firefox,Ubuntu,9,17
+U00997,qruiz,Engineering,Intern,Mumbai,India,19.07,72.87,Chrome,Ubuntu,10,18
+U00998,christopher86,Engineering,Analyst,Hyderabad,India,17.38,78.48,Firefox,macOS,8,16
+U00999,nathanjames,Marketing,Manager,Hyderabad,India,17.38,78.48,Chrome,Windows 11,8,16

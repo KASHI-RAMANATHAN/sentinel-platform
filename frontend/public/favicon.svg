@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- The intersecting horizontal line with flared center -->
+  <path d="M 0 50 C 35 50, 42 48, 48 42 C 48 42, 50 40, 50 40 C 50 40, 52 42, 52 42 C 58 48, 65 50, 100 50" stroke="currentColor" stroke-width="2"/>
+  <path d="M 0 50 C 35 50, 42 52, 48 58 C 48 58, 50 60, 50 60 C 50 60, 52 58, 52 58 C 58 52, 65 50, 100 50" stroke="currentColor" stroke-width="2"/>
+  
+  <!-- The circle split in half by the flare -->
+  <path d="M 15 50 A 35 35 0 1 1 85 50" stroke="currentColor" stroke-width="2"/>
+  <path d="M 15 50 A 35 35 0 1 0 85 50" stroke="currentColor" stroke-width="2"/>
+</svg>

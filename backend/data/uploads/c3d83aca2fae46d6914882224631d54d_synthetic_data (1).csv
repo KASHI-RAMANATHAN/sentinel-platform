@@ -1,0 +1,101 @@
+entity_id,entity_type,timestamp,source_ip,geo_location,resource_accessed,auth_method,session_duration,command_sequence,device_fingerprint,login_success,label
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,User,11-07-2026 20:03,124.228.145.91,"Lake Curtis, Saint Vincent and the Grenadines",VPN,OAuth,9024,git push origin main,Windows 10 - Edge,TRUE,Normal
+972a8469-1641-4f82-8b9d-2434e465e150,User,02-07-2026 13:01,33.232.50.155,"East Jessetown, Monaco",ERP,SSO,14825,N/A,Windows 10 - Chrome,TRUE,Normal
+b38a088c-a65e-4389-b74d-0fb132e70629,User,27-07-2026 10:54,5.195.118.95,"Lawrencetown, Senegal",BI,SSO,342,SELECT * FROM users,macOS 13 - Safari,TRUE,Anomaly
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,User,08-07-2026 18:00,41.243.96.76,"Port Matthew, Bermuda",BI,Biometric,25864,N/A,Ubuntu 20.04 - Chrome,TRUE,Normal
+d8f56413-5be6-428e-98c2-67976142ea7d,User,17-07-2026 08:09,48.237.232.233,"Lake Stephenville, Uzbekistan",HRIS,Hardware Token,26018,pg_dump,Windows 10 - Firefox,TRUE,Normal
+4b0dbb41-8d52-48f1-942c-3fe860e7a113,User,23-07-2026 07:16,174.228.160.231,"Lake Chad, Panama",GitLab,MFA,53911,git push origin main,macOS 13 - Firefox,TRUE,Anomaly
+fc377a4c-4a15-444d-85e7-ce8a3a578a8e,User,18-07-2026 13:20,78.230.11.190,"South Joshuastad, Central African Republic",FileServer,SSO,10606,SELECT * FROM users,Ubuntu 22.04 - Chrome,TRUE,Normal
+ab9099a4-35a2-40ae-9af3-05535ec42e08,User,15-07-2026 01:09,120.146.59.122,"New Jessica, Central African Republic",Email,SSO,26331,pg_dump,Windows 10 - Firefox,TRUE,Normal
+fd5166e6-451b-4cf3-a123-fdf77656af72,User,18-07-2026 17:03,215.7.22.100,"Meganton, Denmark",Email,Password,15857,git push origin main,Windows 10 - Edge,TRUE,Normal
+50c187fc-ce17-4b4e-8837-b8a3d261a7ab,User,04-07-2026 11:11,36.60.111.32,"New Nancy, Germany",Database,OAuth,23997,git push origin main,Ubuntu 22.04 - Chrome,TRUE,Normal
+654821d0-7fcd-4eb1-a7ca-d415366eb16f,User,23-07-2026 10:34,222.174.234.21,"West Donald, Samoa",ERP,OAuth,6354,pg_dump,macOS 13 - Safari,TRUE,Normal
+bf3c4c06-4343-48bc-89fa-6a688fb5d27b,User,03-07-2026 17:10,153.143.199.37,"Jeffreyberg, Malawi",ERP,Hardware Token,28618,kubectl get pods,Windows 11 - Chrome,TRUE,Normal
+0c0fd195-c17a-408a-9745-d6d87e570ddf,User,11-07-2026 05:48,212.228.19.123,"Port Erin, Nepal",GitLab,Password,3168,git push origin main,Ubuntu 22.04 - Chrome,TRUE,Normal
+988c24c9-61b1-4d22-a280-1c4510435a10,User,23-07-2026 06:36,198.192.92.172,"Lake Jenniferside, Sao Tome and Principe",GitLab,Hardware Token,13964,python train.py,Windows 10 - Edge,TRUE,Normal
+5715bd6f-a416-4293-84c2-e2e3444ea7c8,User,13-07-2026 18:06,91.211.49.166,"South Aaron, Saint Helena",Database,OAuth,18661,SELECT * FROM users,Ubuntu 20.04 - Chrome,TRUE,Normal
+f8cda88b-436d-46e2-b83c-fe0be037e5ed,User,07-07-2026 17:10,10.219.194.19,"Port Colleenhaven, New Caledonia",BI,Password,8186,kubectl get pods,macOS 13 - Firefox,TRUE,Normal
+c333e861-5fb8-416c-a720-797d32ebd689,User,08-07-2026 18:23,104.2.87.173,"Tracyville, Vanuatu",VPN,SSO,21560,ssh -i key.pem -> aws s3 ls,Ubuntu 22.04 - Firefox,TRUE,Normal
+d4e80839-fc3e-458b-a0f3-eab05cec4eb5,User,23-07-2026 17:19,163.212.203.243,"East Natalieland, Belize",Email,Password,20526,rm -rf /tmp/*,macOS 13 - Firefox,TRUE,Normal
+11b7e948-d0e6-4660-bc69-dee1bb5e4bcf,User,27-07-2026 01:36,192.208.24.235,"Lake Thomas, Mexico",ERP,SSO,23338,UPDATE records -> pg_dump,Windows 11 - Firefox,TRUE,Normal
+df57c59a-8715-4103-83da-c0432a45c2ab,User,08-07-2026 16:16,141.142.26.8,"Lake Larry, Paraguay",GitLab,SSO,15246,git push origin main,macOS 13 - Chrome,TRUE,Normal
+e64d1bcb-7027-43a1-9f98-7c71a65e688e,User,15-07-2026 11:42,9.239.162.25,"East Caleb, Angola",HRIS,MFA,33486,ssh -i key.pem -> aws s3 ls,Ubuntu 22.04 - Firefox,FALSE,Anomaly
+96a402f2-3ae8-4c93-8dcd-cd03969b6662,User,08-07-2026 20:13,113.34.201.165,"East Carloston, Tokelau",Database,Hardware Token,25985,kubectl get pods,macOS 13 - Firefox,TRUE,Normal
+3ceddf2d-839f-4c50-9223-b5135496f63c,User,24-07-2026 17:16,125.241.16.127,"New David, Vietnam",ERP,SSO,11621,N/A,Windows 10 - Chrome,TRUE,Normal
+7900f7f9-9382-4b43-922f-e15ae1e3db63,User,12-07-2026 16:38,119.145.76.18,"Leeville, Palestinian Territory",GitLab,Biometric,2898,pg_dump,Ubuntu 22.04 - Chrome,TRUE,Normal
+693dffbc-6c6f-4611-9ab3-3edf6e595ed3,User,04-07-2026 08:38,17.187.197.52,"North Richardmouth, South Georgia and the South Sandwich Islands",Email,OAuth,27739,python train.py,macOS 13 - Firefox,TRUE,Normal
+310c0c00-3fa7-4104-9bf9-0e27dc96925e,User,09-07-2026 00:23,99.150.194.179,"South Isaiah, Kyrgyz Republic",CRM,OAuth,19015,python train.py,Windows 11 - Firefox,TRUE,Normal
+134c6c92-ec5b-427c-9fde-4fbf3ff350bf,User,10-07-2026 18:21,19.34.17.124,"Lake Yvettetown, Bermuda",BI,Password,18671,pg_dump,Ubuntu 20.04 - Chrome,TRUE,Normal
+3c835dc0-d944-4fa5-80e9-ab30ed2662e9,User,06-07-2026 20:58,111.197.47.161,"Lewisfurt, United Kingdom",GitLab,Password,15794,SELECT * FROM users,Windows 11 - Chrome,TRUE,Normal
+008d4127-6104-41e3-aa25-a8880f02bad0,User,12-07-2026 04:06,197.15.145.99,"Mitchellside, Panama",GitLab,SSO,19150,N/A,Ubuntu 22.04 - Chrome,TRUE,Normal
+309d258c-27a0-43d7-bc96-7f79b7e99aca,User,04-07-2026 06:31,35.190.48.181,"Lake Leeton, Myanmar",Email,OAuth,8501,N/A,Windows 10 - Chrome,TRUE,Normal
+da4bd9ca-eb5c-4467-80ba-cd647a0ecfea,User,24-07-2026 13:32,8.232.250.142,"Port Jacobland, Peru",Email,MFA,10125,pg_dump,Windows 11 - Chrome,TRUE,Normal
+1eb0e38a-675d-45af-bc36-5296dca02eec,User,23-07-2026 23:03,205.248.63.192,"New Christophershire, Mongolia",BI,MFA,8962,python train.py,macOS 13 - Safari,TRUE,Normal
+42c18a62-ef48-48d5-90fd-9d3f85d51695,User,21-07-2026 13:30,103.65.185.106,"West Randy, Paraguay",Email,OAuth,12609,rm -rf /tmp/*,macOS 13 - Safari,TRUE,Normal
+50f0fd0a-750c-4b75-8ccc-9bc2a53f8a28,User,20-07-2026 13:05,204.148.145.124,"South Christineshire, Bolivia",VPN,OAuth,2986,UPDATE records -> pg_dump,Ubuntu 20.04 - Chrome,TRUE,Normal
+8181a8cc-3691-47eb-89a2-688b12c136e0,User,27-07-2026 00:49,122.202.197.36,"East Mikeburgh, Kazakhstan",Email,Hardware Token,7232,pg_dump,macOS 13 - Chrome,TRUE,Normal
+4d71c366-b41b-4143-8b10-550cd5704f32,User,04-07-2026 15:49,128.128.44.124,"Sarahville, Wallis and Futuna",CRM,Biometric,9185,python train.py,macOS 13 - Chrome,TRUE,Normal
+1d8cbbac-43b4-49ef-a260-e70fe0ccedc5,User,27-07-2026 05:49,212.249.109.229,"Juanborough, Saint Barthelemy",ERP,SSO,22369,N/A,Windows 10 - Chrome,TRUE,Normal
+a25d6b29-afff-4fd2-b41e-f40b57c700aa,User,24-07-2026 08:49,169.125.16.108,"Rebeccaton, Bermuda",Database,Hardware Token,16913,rm -rf /tmp/*,Windows 11 - Chrome,TRUE,Normal
+46d483f3-d450-481c-ac6f-7633a2607723,User,19-07-2026 22:52,85.88.253.133,"Lake Tina, Central African Republic",VPN,Hardware Token,1070,rm -rf /tmp/*,Windows 11 - Firefox,TRUE,Normal
+b4a69f3c-8d3a-4d99-b11c-21c9bdc14f1f,User,27-07-2026 23:31,16.79.54.212,"North Sierraberg, Mayotte",CloudStorage,Biometric,23825,rm -rf /tmp/*,Ubuntu 22.04 - Firefox,TRUE,Normal
+951f58d0-5e84-4058-95a8-04eb093923de,User,03-07-2026 20:08,7.112.52.4,"North Kyle, United Arab Emirates",CRM,Hardware Token,8133,git push origin main,Ubuntu 22.04 - Chrome,TRUE,Normal
+dc570131-f8e1-4aa7-8bce-abdeeededb07,User,03-07-2026 10:25,86.230.88.177,"Lake John, Bosnia and Herzegovina",VPN,OAuth,2873,kubectl get pods,Ubuntu 22.04 - Chrome,TRUE,Normal
+e256a6dc-8f54-46b7-87b5-b2bc5a8aaeca,User,04-07-2026 21:20,212.242.25.215,"Port Francisco, South Georgia and the South Sandwich Islands",ERP,Hardware Token,17640,N/A,Windows 10 - Edge,TRUE,Normal
+698c206f-e1a4-4e10-ad53-4dd0cf8ebc5a,User,12-07-2026 22:51,85.66.134.209,"Phambury, Ethiopia",Database,Password,48667,UPDATE records -> pg_dump,Ubuntu 22.04 - Chrome,TRUE,Anomaly
+1bac27a7-b386-47a4-8991-603f28c13091,User,29-07-2026 08:01,34.122.118.194,"Walkermouth, Guernsey",BI,SSO,22540,rm -rf /tmp/*,Ubuntu 22.04 - Chrome,TRUE,Normal
+df0f06cb-cb9b-4326-920e-ac174e20fd1a,User,13-07-2026 21:27,112.96.237.245,"South Mark, Tonga",HRIS,Hardware Token,8821,kubectl get pods,macOS 13 - Safari,TRUE,Normal
+4774bc58-c5f8-4c16-b786-0b5011c58ef0,User,04-07-2026 12:31,57.148.84.167,"Sheilaville, Turkey",HRIS,Password,25637,kubectl get pods,Windows 10 - Chrome,TRUE,Normal
+94a1875d-2db6-4edb-82de-ffccf86c2ca2,User,11-07-2026 08:20,203.97.250.205,"North Candacestad, Saint Lucia",BI,SSO,18617,UPDATE records -> pg_dump,macOS 13 - Firefox,TRUE,Normal
+9b3080d5-6fb7-4271-904d-281fc9535b63,User,14-07-2026 20:02,196.118.107.217,"Lamborough, Equatorial Guinea",GitLab,SSO,13108,pg_dump,Windows 10 - Edge,TRUE,Normal
+006ed6e3-6fa1-4735-b572-f3d00b5cea6a,User,26-07-2026 16:15,11.39.14.79,"Ryanmouth, Nigeria",ERP,OAuth,21043,git push origin main,Windows 10 - Chrome,TRUE,Normal
+1fe771d6-d917-4793-a9d3-c2e6505cc686,User,07-07-2026 12:27,185.156.61.114,"Elizabethmouth, Iraq",ERP,Biometric,29774,UPDATE records -> pg_dump,Windows 11 - Firefox,TRUE,Normal
+2095eef6-8ded-49fb-8bb0-0f20b27c4026,User,14-07-2026 05:18,99.8.125.81,"New Ashley, Iraq",Email,OAuth,6093,SELECT * FROM users,Windows 11 - Firefox,TRUE,Normal
+4dcabfb7-001a-4a8b-956f-03508c459ce2,User,24-07-2026 17:10,59.131.73.146,"Stevenmouth, Peru",GitLab,Hardware Token,17561,git push origin main,Windows 11 - Firefox,TRUE,Normal
+cb323e35-7922-4ac2-82dc-4c8e36b5229a,User,14-07-2026 10:21,213.110.28.164,"West Zacharymouth, Bermuda",VPN,SSO,28176,rm -rf /tmp/*,Windows 10 - Chrome,TRUE,Normal
+3c20592f-c04a-46c4-b3b6-3fe1d1843324,User,28-07-2026 05:30,142.96.131.63,"East Andrew, Ecuador",HRIS,Hardware Token,44014,python train.py,Windows 10 - Chrome,FALSE,Anomaly
+d98868dd-9c7c-4377-b9a2-8903fbe33b24,User,18-07-2026 22:10,190.146.196.236,"Mercadoshire, Congo",CRM,MFA,28348,N/A,Ubuntu 22.04 - Chrome,TRUE,Normal
+7e8f8095-624c-49b6-b244-45a7b7e58481,User,18-07-2026 16:50,41.113.207.17,"Port Michelleville, Slovakia (Slovak Republic)",FileServer,Hardware Token,11101,N/A,Windows 10 - Chrome,TRUE,Normal
+cdda24ba-2d06-48cf-b805-f9076cd66193,User,05-07-2026 23:45,202.237.217.123,"New Johnville, Korea",Database,OAuth,22854,pg_dump,Windows 11 - Edge,TRUE,Normal
+aae65fc1-76f2-4bfe-8d29-a36f222282e1,User,08-07-2026 21:19,13.19.167.5,"Salazarhaven, Japan",FileServer,MFA,8757,ssh -i key.pem -> aws s3 ls,Windows 10 - Edge,TRUE,Normal
+722764e6-8c41-461b-a827-a1b9d4a02e53,User,20-07-2026 23:40,223.48.136.113,"Greenbury, Tajikistan",VPN,Hardware Token,26637,kubectl get pods,Ubuntu 22.04 - Firefox,TRUE,Normal
+c715b2b9-c40c-4d91-86fd-e062a33dc7af,User,06-07-2026 05:56,11.211.243.121,"Scottport, Dominica",Database,Biometric,26800,ssh -i key.pem -> aws s3 ls,macOS 13 - Safari,TRUE,Normal
+e49d681d-51d8-4c64-95fa-1ab8458f1f19,User,23-07-2026 08:17,5.27.99.220,"East Patrick, Cape Verde",CloudStorage,Hardware Token,27757,pg_dump,Windows 11 - Edge,TRUE,Normal
+6a34c854-1071-4d51-b6c5-9dacb4d7e28e,User,10-07-2026 09:00,61.209.180.46,"Brownchester, Iceland",Database,Hardware Token,22627,N/A,macOS 13 - Safari,TRUE,Normal
+f2311f17-9586-4a76-8511-55ffe7a37e81,User,25-07-2026 17:30,152.88.41.173,"Smithstad, French Southern Territories",Email,Biometric,22020,kubectl get pods,macOS 13 - Safari,TRUE,Normal
+e4429ebb-da7b-4095-a3d6-2a39c0e3befd,User,13-07-2026 16:20,201.173.19.234,"South Jeffrey, Jordan",ERP,Biometric,4779,N/A,Windows 10 - Edge,TRUE,Normal
+560c95ee-638c-454c-876e-2bba7c5308bf,User,22-07-2026 02:18,153.224.83.7,"Port Tanner, Brunei Darussalam",HRIS,SSO,20548,UPDATE records -> pg_dump,Windows 11 - Edge,TRUE,Normal
+06e745f9-88bc-439c-9f4c-3b79fb10987f,User,06-07-2026 14:44,208.222.5.31,"Lake Roymouth, Cocos (Keeling) Islands",GitLab,Password,17758,N/A,macOS 13 - Safari,TRUE,Normal
+53cd6268-610c-4373-8299-9aa40cdf742b,User,22-07-2026 04:02,101.167.88.85,"Kathleenfurt, Fiji",Database,Biometric,24225,N/A,Windows 10 - Chrome,TRUE,Normal
+6bebac31-d4f8-4d72-b382-1cfdc083b73a,User,21-07-2026 22:29,120.167.190.116,"Smithside, Austria",ERP,OAuth,12934,pg_dump,Windows 10 - Firefox,TRUE,Normal
+39669fa7-5997-4043-b3b1-025bfff9f585,User,07-07-2026 01:11,130.147.150.220,"East Jamestown, Nigeria",GitLab,MFA,22737,kubectl get pods,Ubuntu 20.04 - Chrome,TRUE,Normal
+793b4c32-2050-4494-bd11-48022702878b,User,20-07-2026 12:49,141.243.33.142,"Lyonsstad, Chad",ERP,Biometric,11688,rm -rf /tmp/*,Ubuntu 20.04 - Chrome,TRUE,Normal
+bf780e3f-f6b7-41f7-9b74-92459b1bc895,User,19-07-2026 09:44,181.61.145.201,"Danieltown, Vanuatu",CRM,Hardware Token,22788,rm -rf /tmp/*,Ubuntu 22.04 - Firefox,TRUE,Normal
+e87466d7-ad66-41bd-9367-6a024fdc6e1b,User,20-07-2026 17:06,202.203.22.74,"North Brittany, Switzerland",CRM,MFA,10861,N/A,macOS 13 - Firefox,TRUE,Normal
+b27b3d90-1a16-442c-be2b-6091a092f52a,User,29-07-2026 03:43,179.223.174.221,"West Amandastad, Bangladesh",HRIS,Biometric,15086,pg_dump,Ubuntu 22.04 - Chrome,TRUE,Normal
+033d2bce-575a-4d2c-a5c5-650c8186a576,User,11-07-2026 08:58,168.250.251.183,"South Susanmouth, Russian Federation",CloudStorage,Password,23138,python train.py,macOS 13 - Firefox,TRUE,Normal
+bbda0242-2d17-4fc9-af7c-15ea272a6d8e,User,26-07-2026 00:32,12.82.65.234,"Marshallshire, Ethiopia",CRM,OAuth,10299,UPDATE records -> pg_dump,Ubuntu 22.04 - Firefox,TRUE,Normal
+d4aac9a3-3ed8-456c-9a09-dfa052828d80,User,16-07-2026 01:39,206.59.62.187,"Sanchezmouth, Montenegro",GitLab,SSO,23046,pg_dump,Windows 11 - Chrome,TRUE,Normal
+561e16d1-6105-416b-ab0e-664e9c3eb2d5,User,24-07-2026 01:34,84.205.8.57,"South Jason, South Georgia and the South Sandwich Islands",CRM,SSO,9023,N/A,Ubuntu 22.04 - Chrome,TRUE,Normal
+e15ca666-4797-42c9-9720-72464223623b,User,28-07-2026 22:42,145.174.98.100,"New Stacyland, Dominican Republic",Email,Password,21636,rm -rf /tmp/*,Windows 11 - Chrome,TRUE,Normal
+8e200724-7d13-4018-a80b-ac63b856d035,User,08-07-2026 03:55,191.60.39.157,"Westtown, Bermuda",FileServer,Password,8994,rm -rf /tmp/*,Ubuntu 22.04 - Firefox,TRUE,Normal
+b118f68d-6786-4506-b8ba-8abc4b5305e5,User,26-07-2026 03:27,117.231.129.253,"Transtad, Jamaica",Email,Password,6763,pg_dump,macOS 13 - Chrome,TRUE,Normal
+54aebd1b-8ce6-424d-bef5-9fe6ff233d5f,User,26-07-2026 18:48,61.10.41.149,"Kristopherbury, British Indian Ocean Territory (Chagos Archipelago)",Email,Password,51875,ssh -i key.pem -> aws s3 ls,macOS 13 - Firefox,TRUE,Anomaly
+1e9b23bc-50c7-4006-b14d-3441b8a6171f,User,27-07-2026 14:19,181.236.191.95,"East Joanna, Falkland Islands (Malvinas)",CloudStorage,MFA,14983,SELECT * FROM users,macOS 13 - Chrome,TRUE,Normal
+c29cfc0c-fa02-4aec-96ef-2ad6b97e6703,User,13-07-2026 00:03,12.135.41.164,"Port Jamesbury, Guyana",CloudStorage,Password,25634,git push origin main,Ubuntu 22.04 - Firefox,TRUE,Normal
+b540b30e-039f-4a25-8d61-68bd2defe193,User,22-07-2026 08:29,12.99.148.71,"North Angelaberg, Northern Mariana Islands",ERP,Password,9998,pg_dump,Windows 10 - Firefox,TRUE,Normal
+1a432f0a-7daa-49f0-80b6-fce2de53790a,User,27-07-2026 05:19,217.25.78.202,"Mendozamouth, Colombia",Database,Biometric,11476,kubectl get pods,Windows 10 - Firefox,TRUE,Normal
+f0e98b3b-40a2-4c60-8d27-0659f72ada9b,User,11-07-2026 09:16,211.166.154.17,"South Travisshire, Norfolk Island",Database,Password,24147,ssh -i key.pem -> aws s3 ls,Windows 10 - Firefox,TRUE,Normal
+2631d00b-26d7-44d3-8db9-5301afbb411a,User,04-07-2026 00:32,164.220.130.161,"East Davidchester, New Caledonia",GitLab,MFA,14624,python train.py,Windows 11 - Chrome,TRUE,Normal
+39c6a1ca-9e50-4a42-8a6d-fda1989bc4da,User,28-07-2026 22:43,188.44.14.139,"Kerrport, Tokelau",FileServer,MFA,29073,N/A,macOS 13 - Safari,TRUE,Normal
+4e2d6645-6dc7-4ac7-bd72-b05096a9954f,User,21-07-2026 08:11,131.218.208.52,"Port Jaredborough, Estonia",GitLab,Biometric,28965,rm -rf /tmp/*,macOS 13 - Firefox,TRUE,Normal
+3d67cde9-2834-44c0-94c8-b3b4a911d192,User,11-07-2026 15:38,105.51.119.57,"North Ricky, Portugal",ERP,MFA,16998,pg_dump,Windows 11 - Firefox,TRUE,Normal
+085b15fb-4a8f-4810-b84c-2f29980402a2,User,20-07-2026 15:03,116.134.3.179,"Jonesbury, Uzbekistan",VPN,Password,22917,kubectl get pods,Ubuntu 20.04 - Chrome,TRUE,Normal
+a003cd28-ca8f-4653-89af-18f843b9da13,User,02-07-2026 07:25,140.169.17.236,"Wilsonbury, Oman",CloudStorage,Hardware Token,18502,N/A,macOS 13 - Safari,TRUE,Normal
+d39e198b-4400-4d5a-a88d-a71926242b40,User,23-07-2026 09:55,67.209.28.19,"Port Kyle, San Marino",VPN,SSO,5446,rm -rf /tmp/*,Windows 10 - Edge,TRUE,Normal
+49e2623d-ebd3-4616-91b7-8d8ed3016989,User,19-07-2026 09:42,30.255.146.224,"Hollyview, Macao",Database,Password,58824,kubectl get pods,Windows 11 - Firefox,FALSE,Anomaly
+1497d658-7010-4719-be69-5d0d8a3c3b5e,User,01-07-2026 22:34,155.166.91.143,"Cassandratown, Bermuda",FileServer,Biometric,16411,UPDATE records -> pg_dump,Ubuntu 20.04 - Chrome,TRUE,Normal
+d6016237-ac9e-4156-b63f-ce413a9aca5e,User,02-07-2026 22:54,208.169.242.95,"Barbaraburgh, Latvia",GitLab,Hardware Token,26599,UPDATE records -> pg_dump,Windows 10 - Chrome,TRUE,Normal
+ea83bf00-7135-4221-a6c9-537f84dad06a,User,12-07-2026 13:55,125.190.88.162,"Costafort, Guernsey",Database,SSO,5993,N/A,Windows 10 - Edge,TRUE,Normal
+ab8ddeb4-5230-4fbd-9553-b2fe6889803e,User,13-07-2026 10:32,74.74.244.85,"Robertfort, France",Email,MFA,16238,pg_dump,Windows 11 - Edge,TRUE,Normal
+d045dd1c-6684-49e3-b1f8-343ea99f1318,User,08-07-2026 22:48,177.44.159.119,"Millerview, Gibraltar",BI,OAuth,26486,UPDATE records -> pg_dump,Windows 11 - Firefox,TRUE,Normal
