@@ -1,8 +1,24 @@
 import axios, { AxiosError, AxiosResponse } from 'axios';
 
+const getDefaultApiUrl = (): string => {
+  if (import.meta.env.VITE_API_BASE_URL) {
+    return import.meta.env.VITE_API_BASE_URL;
+  }
+  if (typeof window !== 'undefined' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+    const host = window.location.hostname;
+    if (host.includes('.onrender.com')) {
+      const prefix = host.split('.onrender.com')[0];
+      const backendPrefix = prefix.replace('sentinel-frontend', 'sentinel-backend');
+      return `https://${backendPrefix}.onrender.com/api/v1`;
+    }
+    return 'https://sentinel-backend.onrender.com/api/v1';
+  }
+  return 'http://127.0.0.1:8000/api/v1';
+};
+
 // Create an Axios instance with base configuration
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000/api/v1',
+  baseURL: getDefaultApiUrl(),
   timeout: 60000, // 60 seconds timeout
   headers: {
     'Content-Type': 'application/json',
