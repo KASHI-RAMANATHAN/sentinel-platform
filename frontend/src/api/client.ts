@@ -19,7 +19,7 @@ const getDefaultApiUrl = (): string => {
 // Create an Axios instance with base configuration
 const apiClient = axios.create({
   baseURL: getDefaultApiUrl(),
-  timeout: 60000, // 60 seconds timeout
+  timeout: 300000, // 5 minutes timeout for heavy ML processing
   headers: {
     'Content-Type': 'application/json',
   },

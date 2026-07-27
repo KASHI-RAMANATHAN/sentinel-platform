@@ -74,6 +74,9 @@ export default function Overview({
         type: 'success',
         text: result.message
       });
+      // Clear the previous baseline so that the new dataset doesn't
+      // show wildly misleading +/- % deltas compared to the old dataset!
+      localStorage.removeItem('sentinel_prev_stats');
       await fetchDashboardData();
     } catch (err: any) {
       const detail = err.response?.data?.message || err.response?.data?.detail || err.message || 'Upload failed.';
