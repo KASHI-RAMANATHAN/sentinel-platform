@@ -14,18 +14,17 @@ export default function AnomalyLineChart({ data }: AnomalyLineChartProps) {
   const innerW = width - padding.left - padding.right;
   const innerH = height - padding.top - padding.bottom;
 
-  const maxNormal = Math.max(0, ...data.map((d) => d.normal)) * 1.1;
-  const maxAnomaly = Math.max(0, ...data.map((d) => d.anomalies)) * 1.3;
-
-  const safeMaxNormal = maxNormal === 0 ? 1 : maxNormal;
-  const safeMaxAnomaly = maxAnomaly === 0 ? 1 : maxAnomaly;
+  const maxNormal = Math.max(0, ...data.map((d) => d.normal));
+  const maxAnomaly = Math.max(0, ...data.map((d) => d.anomalies));
+  const maxScale = Math.max(maxNormal, maxAnomaly, 1) * 1.2; // unified scale, min 1
 
   const xFor = (i: number) =>
     data.length <= 1 ? padding.left : padding.left + (i / (data.length - 1)) * innerW;
-  const yNormal = (v: number) =>
-    padding.top + innerH - (v / safeMaxNormal) * innerH;
-  const yAnomaly = (v: number) =>
-    padding.top + innerH - (v / safeMaxAnomaly) * innerH;
+  const yValue = (v: number) =>
+    padding.top + innerH - (v / maxScale) * innerH;
+
+  const yNormal = yValue;
+  const yAnomaly = yValue;
 
   const normalPath = useMemo(() => {
     return data
@@ -63,7 +62,7 @@ export default function AnomalyLineChart({ data }: AnomalyLineChartProps) {
   }, [anomalyPath, data.length]);
 
   const yTicks = [0, 0.25, 0.5, 0.75, 1].map((t) => ({
-    value: Math.round(maxAnomaly * t),
+    value: Math.round((maxScale / 1.2) * t),
     y: padding.top + innerH - t * innerH,
   }));
 

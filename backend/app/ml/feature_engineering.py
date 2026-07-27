@@ -99,9 +99,10 @@ def engineer_features(df: pd.DataFrame) -> pd.DataFrame:
         # 5. failed_login_count (Rolling count of failed logins in the last 5 attempts)
         if 'login_success' in df.columns:
             df['is_failed'] = (~df['login_success']).astype(int)
-            df['failed_login_count'] = df.groupby('entity_id')['is_failed'].transform(
-                lambda x: x.rolling(window=5, min_periods=1).sum()
-            )
+            # Use fully vectorized rolling sum to drastically speed up processing on lower-tier CPUs (prevents timeouts)
+            df['failed_login_count'] = df.groupby('entity_id')['is_failed'].rolling(
+                window=5, min_periods=1
+            ).sum().reset_index(level=0, drop=True)
             df.drop(columns=['is_failed'], inplace=True)
         else:
             df['failed_login_count'] = 0
