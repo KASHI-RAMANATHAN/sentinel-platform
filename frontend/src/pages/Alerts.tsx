@@ -41,11 +41,7 @@ export default function Alerts({ alerts, loading, error, onInvestigate, onResolv
     }
 
     result.sort((a, b) => {
-      // Simplistic sort by ID assuming IDs are chronological or by RiskScore as fallback since timestamp strings can be tricky
-      // But the requirement says "Sort by timestamp". Let's assume the timestamp can be parsed or we sort by riskScore
-      const timeA = new Date(a.timestamp).getTime() || a.riskScore;
-      const timeB = new Date(b.timestamp).getTime() || b.riskScore;
-      return sortOrder === 'desc' ? timeB - timeA : timeA - timeB;
+      return sortOrder === 'desc' ? b.riskScore - a.riskScore : a.riskScore - b.riskScore;
     });
 
     return result;
