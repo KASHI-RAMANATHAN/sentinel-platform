@@ -3,6 +3,7 @@ import Sidebar from '@/components/layout/Sidebar';
 import TopNav from '@/components/layout/TopNav';
 import AmbientBackground from '@/components/layout/AmbientBackground';
 import { ShieldAlert } from 'lucide-react';
+import VoidLogo from '@/components/VoidLogo';
 
 import type { Alert, Kpi } from '@/types';
 import { DashboardAPI, type AnomalyPoint, type AttackType, type DashboardStats } from '@/api/dashboard';
@@ -372,6 +373,43 @@ export default function App() {
     }
   };
 
+  if (isInitialLoad && loading) {
+    return (
+      <div className="relative min-h-screen bg-[#0a0a0a] flex flex-col items-center justify-center font-mono selection:bg-emerald-500/30">
+        <AmbientBackground />
+        <div className="relative z-10 flex flex-col items-center justify-center">
+          <div className="mb-8 flex items-center justify-center">
+            <VoidLogo className="h-20 w-20 text-white animate-pulse" />
+          </div>
+          <div className="text-center mb-12">
+            <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-white mb-4">
+              Sentinel
+            </h1>
+            <p className="text-xs md:text-sm uppercase tracking-[0.3em] text-emerald-500 font-semibold">
+              Security Console
+            </p>
+          </div>
+          <div className="flex flex-col items-center gap-4">
+            <div className="flex items-center gap-3 text-sm text-emerald-400">
+              <span className="relative flex h-3 w-3">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
+              </span>
+              LOADING DASHBOARD...
+            </div>
+            {isRetrying && (
+              <div className="mt-6 text-xs text-blue-400 max-w-sm text-center px-4 animate-pulse leading-relaxed">
+                <span className="text-blue-500/70">&gt;</span> Waking up backend systems...
+                <br />
+                <span className="text-blue-500/70">&gt;</span> This may take up to a minute on first load.
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="relative min-h-screen">
       <AmbientBackground />
@@ -400,15 +438,6 @@ export default function App() {
           />
 
           <main className="px-4 py-6 lg:px-8 lg:py-8">
-            {isInitialLoad && isRetrying && (
-              <div className="mb-6 rounded-2xl bg-blue-500/10 p-4 text-sm text-blue-600 border border-blue-500/20 flex items-center gap-3 animate-pulse dark:text-blue-400">
-                <span className="relative flex h-3 w-3">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
-                  <span className="relative inline-flex rounded-full h-3 w-3 bg-blue-500"></span>
-                </span>
-                Waking up backend, this can take up to a minute on first load...
-              </div>
-            )}
             {renderContent()}
 
             <footer className="mt-8 flex flex-col gap-2 border-t border-black/5 pt-4 text-xs text-slate-400 sm:flex-row sm:items-center sm:justify-between">
