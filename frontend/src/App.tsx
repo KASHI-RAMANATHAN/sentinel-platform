@@ -375,36 +375,38 @@ export default function App() {
 
   if (isInitialLoad && loading) {
     return (
-      <div className="relative min-h-screen bg-[#0a0a0a] flex flex-col items-center justify-center font-mono selection:bg-emerald-500/30">
+      <div className="relative min-h-screen bg-black flex flex-col items-center justify-center font-mono selection:bg-white/30">
         <AmbientBackground />
-        <div className="relative z-10 flex flex-col items-center justify-center">
-          <div className="mb-8 flex items-center justify-center">
-            <VoidLogo className="h-20 w-20 text-white animate-pulse" />
-          </div>
-          <div className="text-center mb-12">
-            <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-white mb-4">
+        <div className="relative z-10 flex flex-col items-center justify-center gap-16">
+          
+          {/* Logo and Text Inline */}
+          <div className="flex items-center gap-6">
+            <VoidLogo className="h-12 w-12 md:h-16 md:w-16 text-white animate-pulse" />
+            <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-white">
               Sentinel
             </h1>
-            <p className="text-xs md:text-sm uppercase tracking-[0.3em] text-emerald-500 font-semibold">
-              Security Console
-            </p>
           </div>
+
+          {/* Loading Indicator */}
           <div className="flex flex-col items-center gap-4">
-            <div className="flex items-center gap-3 text-sm text-emerald-400">
-              <span className="relative flex h-3 w-3">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
+            <div className="flex items-center gap-3 text-xs md:text-sm text-white/80 tracking-widest">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
               </span>
               LOADING DASHBOARD...
             </div>
+            
+            {/* Retry Feedback */}
             {isRetrying && (
-              <div className="mt-6 text-xs text-blue-400 max-w-sm text-center px-4 animate-pulse leading-relaxed">
-                <span className="text-blue-500/70">&gt;</span> Waking up backend systems...
+              <div className="mt-4 text-[10px] md:text-xs text-white/40 max-w-sm text-center px-4 animate-pulse leading-relaxed">
+                <span>&gt;</span> Waking up backend systems...
                 <br />
-                <span className="text-blue-500/70">&gt;</span> This may take up to a minute on first load.
+                <span>&gt;</span> This may take up to a minute on first load.
               </div>
             )}
           </div>
+
         </div>
       </div>
     );
