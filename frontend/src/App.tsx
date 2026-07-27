@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState, useCallback, useRef } from 'react';
 import Sidebar from '@/components/layout/Sidebar';
 import TopNav from '@/components/layout/TopNav';
 import AmbientBackground from '@/components/layout/AmbientBackground';
@@ -48,6 +48,9 @@ export default function App() {
   const [activeNav, setActiveNav] = useState('overview');
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [loading, setLoading] = useState(true);
+  const [isInitialLoad, setIsInitialLoad] = useState(true);
+  const isInitialLoadRef = useRef(true);
+  const [isRetrying, setIsRetrying] = useState(false);
   
   const [liveStats, setLiveStats] = useState<DashboardStats | null>(null);
   const [liveKpis, setLiveKpis] = useState<Kpi[]>(BASE_KPIS);
@@ -84,91 +87,136 @@ export default function App() {
   }, []);
 
   const fetchDashboardData = useCallback(async () => {
-    setLoading(true);
-    setStatsError(null);
-    setChartsError(null);
-    setAlertsError(null);
+    const isInitial = isInitialLoadRef.current;
+    if (isInitial) {
+      setLoading(true);
+    }
+    
+    let attempt = 0;
+    const maxAttempts = 5;
+    const delays = [3000, 6000, 12000, 24000];
 
-    try {
-      const stats = await DashboardAPI.getStats();
-      setLiveStats(stats);
-      
-      const prevStatsStr = localStorage.getItem('sentinel_prev_stats');
-      const prevStats: DashboardStats | null = prevStatsStr ? JSON.parse(prevStatsStr) : null;
-      
-      const calc = (cur: number, prev: number, inverse: boolean = false) => {
-        if (prev === 0 && cur === 0) return { delta: '--', trend: 'up' as const, positive: true };
-        if (prev === 0) return { delta: '--', trend: 'up' as const, positive: !inverse };
-        const diff = cur - prev;
-        const pct = Math.round((diff / prev) * 100);
-        const trend = diff >= 0 ? 'up' : 'down';
-        const sign = diff > 0 ? '+' : '';
-        const isPositive = inverse ? diff <= 0 : diff >= 0;
-        return { delta: `${sign}${pct}%`, trend: trend as 'up'|'down', positive: isPositive };
-      };
+    while (attempt < maxAttempts) {
+      setStatsError(null);
+      setChartsError(null);
+      setAlertsError(null);
 
-      if (!prevStats) {
-        setLiveKpis([
-          { ...BASE_KPIS[0], value: (stats?.total_sessions ?? 0).toLocaleString(), delta: '--' },
-          { ...BASE_KPIS[1], value: (stats?.active_threats ?? 0).toLocaleString(), delta: '--' },
-          { ...BASE_KPIS[2], value: (stats?.average_risk_score ?? 0).toFixed(1), delta: '--' },
-          { ...BASE_KPIS[3], value: (stats?.devices_monitored ?? 0).toLocaleString(), delta: '--' },
-        ]);
-      } else {
-        setLiveKpis([
-          { ...BASE_KPIS[0], value: (stats?.total_sessions ?? 0).toLocaleString(), ...calc(stats?.total_sessions ?? 0, prevStats.total_sessions) },
-          { ...BASE_KPIS[1], value: (stats?.active_threats ?? 0).toLocaleString(), ...calc(stats?.active_threats ?? 0, prevStats.active_threats, true) },
-          { ...BASE_KPIS[2], value: (stats?.average_risk_score ?? 0).toFixed(1), ...calc(stats?.average_risk_score ?? 0, prevStats.average_risk_score, true) },
-          { ...BASE_KPIS[3], value: (stats?.devices_monitored ?? 0).toLocaleString(), ...calc(stats?.devices_monitored ?? 0, prevStats.devices_monitored) },
-        ]);
+      let statsSuccess = false;
+      let chartsSuccess = false;
+      let alertsSuccess = false;
+
+      let tempStatsError = null;
+      let tempChartsError = null;
+      let tempAlertsError = null;
+
+      try {
+        const stats = await DashboardAPI.getStats();
+        setLiveStats(stats);
+        
+        const prevStatsStr = localStorage.getItem('sentinel_prev_stats');
+        const prevStats: DashboardStats | null = prevStatsStr ? JSON.parse(prevStatsStr) : null;
+        
+        const calc = (cur: number, prev: number, inverse: boolean = false) => {
+          if (prev === 0 && cur === 0) return { delta: '--', trend: 'up' as const, positive: true };
+          if (prev === 0) return { delta: '--', trend: 'up' as const, positive: !inverse };
+          const diff = cur - prev;
+          const pct = Math.round((diff / prev) * 100);
+          const trend = diff >= 0 ? 'up' : 'down';
+          const sign = diff > 0 ? '+' : '';
+          const isPositive = inverse ? diff <= 0 : diff >= 0;
+          return { delta: `${sign}${pct}%`, trend: trend as 'up'|'down', positive: isPositive };
+        };
+
+        if (!prevStats) {
+          setLiveKpis([
+            { ...BASE_KPIS[0], value: (stats?.total_sessions ?? 0).toLocaleString(), delta: '--' },
+            { ...BASE_KPIS[1], value: (stats?.active_threats ?? 0).toLocaleString(), delta: '--' },
+            { ...BASE_KPIS[2], value: (stats?.average_risk_score ?? 0).toFixed(1), delta: '--' },
+            { ...BASE_KPIS[3], value: (stats?.devices_monitored ?? 0).toLocaleString(), delta: '--' },
+          ]);
+        } else {
+          setLiveKpis([
+            { ...BASE_KPIS[0], value: (stats?.total_sessions ?? 0).toLocaleString(), ...calc(stats?.total_sessions ?? 0, prevStats.total_sessions) },
+            { ...BASE_KPIS[1], value: (stats?.active_threats ?? 0).toLocaleString(), ...calc(stats?.active_threats ?? 0, prevStats.active_threats, true) },
+            { ...BASE_KPIS[2], value: (stats?.average_risk_score ?? 0).toFixed(1), ...calc(stats?.average_risk_score ?? 0, prevStats.average_risk_score, true) },
+            { ...BASE_KPIS[3], value: (stats?.devices_monitored ?? 0).toLocaleString(), ...calc(stats?.devices_monitored ?? 0, prevStats.devices_monitored) },
+          ]);
+        }
+
+        localStorage.setItem('sentinel_prev_stats', JSON.stringify(stats));
+        statsSuccess = true;
+      } catch (err) {
+        tempStatsError = 'Failed to load dashboard statistics.';
       }
 
-      localStorage.setItem('sentinel_prev_stats', JSON.stringify(stats));
+      try {
+        const [trendData, distData] = await Promise.all([
+          DashboardAPI.getTrends(),
+          DashboardAPI.getDistribution(),
+        ]);
+        setLiveTrend(trendData);
+        setLiveDistribution(distData);
+        chartsSuccess = true;
+      } catch (err) {
+        tempChartsError = 'Failed to load chart data.';
+      }
 
-    } catch (err) {
-      setStatsError('Failed to load dashboard statistics.');
-    }
+      try {
+        const alertsData = await AlertsAPI.getAlerts();
+        const rawAlerts = alertsData?.alerts ?? [];
+        const mappedAlerts: Alert[] = rawAlerts.map(a => ({
+          id: a.id,
+          title: getEventName(a.attack_type),
+          severity: (a.severity === 'critical' || a.severity === 'high' || a.severity === 'medium' || a.severity === 'low') ? a.severity : 'medium',
+          status: (a.status === 'in_progress' ? 'investigating' : (a.status === 'false_positive' ? 'resolved' : a.status)) as any,
+          source: a.ip || 'Unknown',
+          destination: a.device_id || 'Unknown',
+          category: a.attack_type,
+          timestamp: a.timestamp ? new Date(a.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'Unknown',
+          riskScore: Math.round(a.risk ?? 0),
+          description: `User: ${a.user_id || 'Unknown'} - Anomaly Score: ${(a.anomaly_score ?? 0).toFixed(2)}`,
+          protocol: 'TCP',
+          port: 443,
+        })).sort((a, b) => b.riskScore - a.riskScore);
 
-    try {
-      const [trendData, distData] = await Promise.all([
-        DashboardAPI.getTrends(),
-        DashboardAPI.getDistribution(),
-      ]);
-      setLiveTrend(trendData);
-      setLiveDistribution(distData);
-    } catch (err) {
-      setChartsError('Failed to load chart data.');
-    }
-
-    try {
-      const alertsData = await AlertsAPI.getAlerts();
-      const rawAlerts = alertsData?.alerts ?? [];
-      const mappedAlerts: Alert[] = rawAlerts.map(a => ({
-        id: a.id,
-        title: getEventName(a.attack_type),
-        severity: (a.severity === 'critical' || a.severity === 'high' || a.severity === 'medium' || a.severity === 'low') ? a.severity : 'medium',
-        status: (a.status === 'in_progress' ? 'investigating' : (a.status === 'false_positive' ? 'resolved' : a.status)) as any,
-        source: a.ip || 'Unknown',
-        destination: a.device_id || 'Unknown',
-        category: a.attack_type,
-        timestamp: a.timestamp ? new Date(a.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'Unknown',
-        riskScore: Math.round(a.risk ?? 0),
-        description: `User: ${a.user_id || 'Unknown'} - Anomaly Score: ${(a.anomaly_score ?? 0).toFixed(2)}`,
-        protocol: 'TCP',
-        port: 443,
-      })).sort((a, b) => b.riskScore - a.riskScore);
-
-      setLiveAlerts(mappedAlerts);
-      if (mappedAlerts.length > 0) {
-        setSelectedAlert(mappedAlerts[0]);
-      } else {
+        setLiveAlerts(mappedAlerts);
+        if (mappedAlerts.length > 0) {
+          setSelectedAlert(mappedAlerts[0]);
+        } else {
+          setSelectedAlert(null);
+        }
+        alertsSuccess = true;
+      } catch (err) {
+        tempAlertsError = 'Failed to load live alerts.';
+        setLiveAlerts([]);
         setSelectedAlert(null);
       }
-    } catch (err) {
-      setAlertsError('Failed to load live alerts.');
-      setLiveAlerts([]);
-      setSelectedAlert(null);
-    } finally {
+
+      const allSuccess = statsSuccess && chartsSuccess && alertsSuccess;
+
+      if (!isInitial || allSuccess) {
+        if (!statsSuccess) setStatsError(tempStatsError);
+        if (!chartsSuccess) setChartsError(tempChartsError);
+        if (!alertsSuccess) setAlertsError(tempAlertsError);
+        break;
+      }
+
+      attempt++;
+      if (attempt >= maxAttempts) {
+        if (!statsSuccess) setStatsError(tempStatsError);
+        if (!chartsSuccess) setChartsError(tempChartsError);
+        if (!alertsSuccess) setAlertsError(tempAlertsError);
+        break;
+      }
+
+      setIsRetrying(true);
+      await new Promise(resolve => setTimeout(resolve, delays[attempt - 1] || 12000));
+    }
+
+    if (isInitial) {
+      isInitialLoadRef.current = false;
+      setIsInitialLoad(false);
+      setIsRetrying(false);
       setLoading(false);
     }
   }, []);
@@ -348,6 +396,15 @@ export default function App() {
           />
 
           <main className="px-4 py-6 lg:px-8 lg:py-8">
+            {isInitialLoad && isRetrying && (
+              <div className="mb-6 rounded-2xl bg-blue-500/10 p-4 text-sm text-blue-600 border border-blue-500/20 flex items-center gap-3 animate-pulse dark:text-blue-400">
+                <span className="relative flex h-3 w-3">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-3 w-3 bg-blue-500"></span>
+                </span>
+                Waking up backend, this can take up to a minute on first load...
+              </div>
+            )}
             {renderContent()}
 
             <footer className="mt-8 flex flex-col gap-2 border-t border-black/5 pt-4 text-xs text-slate-400 sm:flex-row sm:items-center sm:justify-between">
