@@ -143,6 +143,10 @@ export default function App() {
           ]);
         }
 
+        if (!stats || stats.total_sessions === 0) {
+          throw new Error('Data not ready (total_sessions is 0)');
+        }
+
         localStorage.setItem('sentinel_prev_stats', JSON.stringify(stats));
         statsSuccess = true;
       } catch (err) {

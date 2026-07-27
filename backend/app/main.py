@@ -65,9 +65,7 @@ def _processed_data_is_stale(source_csv: str, processed_dir: str) -> bool:
     predictions_path = os.path.join(processed_dir, "classified_predictions.csv")
     if not os.path.exists(predictions_path):
         return True
-    if not os.path.exists(source_csv):
-        return False
-    return os.path.getmtime(source_csv) > os.path.getmtime(predictions_path)
+    return False
 
 
 def _run_bootstrap_pipeline() -> None:
