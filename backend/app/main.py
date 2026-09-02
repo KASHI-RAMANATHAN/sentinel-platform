@@ -169,9 +169,11 @@ async def on_startup() -> None:
         logger.warning("Firebase initialization skipped/failed: %s", exc)
 
     # --- Data bootstrap (non-blocking background task) ---
-    asyncio.create_task(
-        asyncio.to_thread(_run_bootstrap_pipeline),
-    )
+    # Disabled to avoid long loading times. The frontend will show hardcoded defaults
+    # until a user manually uploads a CSV.
+    # asyncio.create_task(
+    #     asyncio.to_thread(_run_bootstrap_pipeline),
+    # )
 
 
 # --- Global Exception Handlers ---

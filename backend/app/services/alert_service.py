@@ -116,7 +116,45 @@ class AlertService:
         if self._base_alerts_cache is None:
             df = self._load_threats()
             if df is None or df.empty:
-                self._base_alerts_cache = []
+                logger.info("Using hardcoded initial alerts (CSV missing).")
+                self._base_alerts_cache = [
+                    AlertItem(
+                        id="alert-000101",
+                        risk_score=95,
+                        severity=AlertSeverity.CRITICAL,
+                        attack_type="Credential Abuse",
+                        status=AlertStatus.OPEN,
+                        timestamp=datetime.utcnow(),
+                        entity_id="user-4891",
+                        device_fingerprint="dev-9182",
+                        source_ip="192.168.1.105",
+                        anomaly_score=15.2,
+                    ),
+                    AlertItem(
+                        id="alert-000102",
+                        risk_score=85,
+                        severity=AlertSeverity.HIGH,
+                        attack_type="Impossible Travel",
+                        status=AlertStatus.OPEN,
+                        timestamp=datetime.utcnow(),
+                        entity_id="user-1029",
+                        device_fingerprint="dev-3341",
+                        source_ip="203.0.113.42",
+                        anomaly_score=12.8,
+                    ),
+                    AlertItem(
+                        id="alert-000103",
+                        risk_score=75,
+                        severity=AlertSeverity.HIGH,
+                        attack_type="Session Hijacking",
+                        status=AlertStatus.OPEN,
+                        timestamp=datetime.utcnow(),
+                        entity_id="user-5911",
+                        device_fingerprint="dev-1122",
+                        source_ip="198.51.100.23",
+                        anomaly_score=11.1,
+                    ),
+                ]
             else:
                 self._base_alerts_cache = self._build_alert_items(df)
 
