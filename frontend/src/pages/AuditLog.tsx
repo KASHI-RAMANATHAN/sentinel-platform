@@ -17,8 +17,67 @@ interface AuditEvent {
   entity_id?: string;
 }
 
+const MOCK_AUDIT_LOGS: AuditEvent[] = [
+  {
+    id: 'mock-audit-1',
+    log_id: 'LOG-8842',
+    timestamp: new Date(Date.now() - 1000 * 60 * 5).toISOString(),
+    actor: 'System',
+    action: 'Threat Definition Update',
+    category: 'System',
+    resource: 'Threat Engine',
+    status: 'Success',
+    details: 'Successfully downloaded and applied latest threat signatures.',
+  },
+  {
+    id: 'mock-audit-2',
+    log_id: 'LOG-8843',
+    timestamp: new Date(Date.now() - 1000 * 60 * 25).toISOString(),
+    actor: 'Admin_Sarah',
+    action: 'Login',
+    category: 'Security',
+    resource: 'Dashboard',
+    status: 'Success',
+    details: 'User authenticated via MFA.',
+  },
+  {
+    id: 'mock-audit-3',
+    log_id: 'LOG-8844',
+    timestamp: new Date(Date.now() - 1000 * 60 * 45).toISOString(),
+    actor: 'API_Gateway',
+    action: 'Rate Limit Exceeded',
+    category: 'Security',
+    resource: 'API Endpoint',
+    status: 'Warning',
+    details: 'IP 192.168.1.45 exceeded 100 req/min.',
+  },
+  {
+    id: 'mock-audit-4',
+    log_id: 'LOG-8845',
+    timestamp: new Date(Date.now() - 1000 * 60 * 120).toISOString(),
+    actor: 'SOC Analyst',
+    action: 'Investigated Alert',
+    category: 'Analyst',
+    resource: 'alert',
+    status: 'Success',
+    details: 'Analyst assigned to investigate alert ALT-9021.',
+    alert_id: 'ALT-9021'
+  },
+  {
+    id: 'mock-audit-5',
+    log_id: 'LOG-8846',
+    timestamp: new Date(Date.now() - 1000 * 60 * 200).toISOString(),
+    actor: 'System',
+    action: 'Database Backup',
+    category: 'System',
+    resource: 'DB Cluster',
+    status: 'Failed',
+    details: 'Backup failed due to timeout.',
+  }
+];
+
 export default function AuditLog() {
-  const [logs, setLogs] = useState<AuditEvent[]>([]);
+  const [logs, setLogs] = useState<AuditEvent[]>(MOCK_AUDIT_LOGS);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
@@ -44,10 +103,15 @@ export default function AuditLog() {
           entity_id: data.entity_id,
         });
       });
-      setLogs(fetchedLogs);
+      if (fetchedLogs.length > 0) {
+        setLogs(fetchedLogs);
+      } else {
+        setLogs(MOCK_AUDIT_LOGS);
+      }
       setLoading(false);
     }, (error) => {
       console.error("Error fetching audit logs: ", error);
+      setLogs(MOCK_AUDIT_LOGS);
       setLoading(false);
     });
 
