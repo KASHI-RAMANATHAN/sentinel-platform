@@ -28,6 +28,67 @@ const BASE_KPIS: Kpi[] = [
   { label: 'Devices Monitored', value: '0', delta: '+0%', trend: 'up', positive: true, icon: 'devices' },
 ];
 
+const MOCK_STATS: DashboardStats = {
+  total_sessions: 24512,
+  active_threats: 4,
+  average_risk_score: 38.4,
+  devices_monitored: 1250
+};
+
+const MOCK_KPIS: Kpi[] = [
+  { label: 'Total Sessions', value: '24,512', delta: '+12%', trend: 'up', positive: true, icon: 'sessions' },
+  { label: 'Active Threats', value: '4', delta: '-2', trend: 'down', positive: true, icon: 'threats' },
+  { label: 'Average Risk Score', value: '38.4', delta: '-5%', trend: 'down', positive: true, icon: 'risk' },
+  { label: 'Devices Monitored', value: '1,250', delta: '+5', trend: 'up', positive: true, icon: 'devices' },
+];
+
+const MOCK_TREND: AnomalyPoint[] = [
+  { time: '00:00', normal: 120, anomalies: 2 },
+  { time: '04:00', normal: 300, anomalies: 5 },
+  { time: '08:00', normal: 800, anomalies: 12 },
+  { time: '12:00', normal: 1200, anomalies: 25 },
+  { time: '16:00', normal: 950, anomalies: 8 },
+  { time: '20:00', normal: 400, anomalies: 3 }
+];
+
+const MOCK_DISTRIBUTION: AttackType[] = [
+  { label: 'Credential Abuse', value: 45, color: 'fill-black dark:fill-white' },
+  { label: 'Impossible Travel', value: 25, color: 'fill-black/80 dark:fill-white/80' },
+  { label: 'Session Hijacking', value: 15, color: 'fill-black/60 dark:fill-white/60' },
+  { label: 'Brute Force', value: 15, color: 'fill-black/40 dark:fill-white/40' }
+];
+
+const MOCK_ALERTS: Alert[] = [
+  {
+    id: 'mock-1',
+    title: 'Impossible Travel',
+    severity: 'critical',
+    status: 'new',
+    source: '192.168.1.100',
+    destination: 'Server-A',
+    category: 'Impossible Travel',
+    timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+    riskScore: 95,
+    description: 'Login from New York and Tokyo within 5 minutes.',
+    protocol: 'TCP',
+    port: 443
+  },
+  {
+    id: 'mock-2',
+    title: 'Credential Abuse',
+    severity: 'high',
+    status: 'investigating',
+    source: '10.0.0.50',
+    destination: 'DB-Main',
+    category: 'Credential Abuse',
+    timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+    riskScore: 82,
+    description: 'Multiple failed logins followed by success.',
+    protocol: 'HTTPS',
+    port: 443
+  }
+];
+
 function getEventName(attackType: string): string {
   const map: Record<string, string> = {
     'Credential Abuse': 'Credential Abuse',
@@ -48,22 +109,22 @@ function getEventName(attackType: string): string {
 export default function App() {
   const [activeNav, setActiveNav] = useState('overview');
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
-  const [loading, setLoading] = useState(true);
-  const [isInitialLoad, setIsInitialLoad] = useState(true);
-  const isInitialLoadRef = useRef(true);
+  const [loading, setLoading] = useState(false);
+  const [isInitialLoad, setIsInitialLoad] = useState(false);
+  const isInitialLoadRef = useRef(false);
   const [isRetrying, setIsRetrying] = useState(false);
   
-  const [liveStats, setLiveStats] = useState<DashboardStats | null>(null);
-  const [liveKpis, setLiveKpis] = useState<Kpi[]>(BASE_KPIS);
+  const [liveStats, setLiveStats] = useState<DashboardStats | null>(MOCK_STATS);
+  const [liveKpis, setLiveKpis] = useState<Kpi[]>(MOCK_KPIS);
   const [statsError, setStatsError] = useState<string | null>(null);
 
-  const [liveAlerts, setLiveAlerts] = useState<Alert[]>([]);
+  const [liveAlerts, setLiveAlerts] = useState<Alert[]>(MOCK_ALERTS);
   const [alertsError, setAlertsError] = useState<string | null>(null);
-  const [selectedAlert, setSelectedAlert] = useState<Alert | null>(null);
+  const [selectedAlert, setSelectedAlert] = useState<Alert | null>(MOCK_ALERTS[0]);
   const [toastMessage, setToastMessage] = useState<{title: string, text: string} | null>(null);
 
-  const [liveTrend, setLiveTrend] = useState<AnomalyPoint[]>([]);
-  const [liveDistribution, setLiveDistribution] = useState<AttackType[]>([]);
+  const [liveTrend, setLiveTrend] = useState<AnomalyPoint[]>(MOCK_TREND);
+  const [liveDistribution, setLiveDistribution] = useState<AttackType[]>(MOCK_DISTRIBUTION);
   const [chartsError, setChartsError] = useState<string | null>(null);
 
   // Dark Mode State
@@ -373,44 +434,7 @@ export default function App() {
     }
   };
 
-  if (isInitialLoad && loading) {
-    return (
-      <div className="relative min-h-screen bg-black flex flex-col items-center justify-center font-mono selection:bg-white/30">
-        <AmbientBackground />
-        <div className="relative z-10 flex flex-col items-center justify-center gap-16">
-          
-          {/* Logo and Text Inline */}
-          <div className="flex items-center gap-6">
-            <VoidLogo className="h-12 w-12 md:h-16 md:w-16 text-white animate-pulse" />
-            <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-white">
-              Sentinel
-            </h1>
-          </div>
 
-          {/* Loading Indicator */}
-          <div className="flex flex-col items-center gap-4">
-            <div className="flex items-center gap-3 text-xs md:text-sm text-white/80 tracking-widest">
-              <span className="relative flex h-2 w-2">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
-              </span>
-              LOADING DASHBOARD...
-            </div>
-            
-            {/* Retry Feedback */}
-            {isRetrying && (
-              <div className="mt-4 text-[10px] md:text-xs text-white/40 max-w-sm text-center px-4 animate-pulse leading-relaxed">
-                <span>&gt;</span> Waking up backend systems...
-                <br />
-                <span>&gt;</span> This may take up to a minute on first load.
-              </div>
-            )}
-          </div>
-
-        </div>
-      </div>
-    );
-  }
 
   return (
     <div className="relative min-h-screen">
