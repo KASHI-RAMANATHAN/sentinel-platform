@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Menu, Search, Bell, ChevronDown, Terminal, Moon, Sun } from 'lucide-react';
 
 interface TopNavProps {
@@ -9,12 +9,25 @@ interface TopNavProps {
 
 export default function TopNav({ onMenuClick, isDarkMode, onToggleDarkMode }: TopNavProps) {
   const [time, setTime] = useState('');
+  const [searchQuery, setSearchQuery] = useState('');
+  const searchInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     const updateTime = () => setTime(new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', timeZoneName: 'short' }));
     updateTime();
     const interval = setInterval(updateTime, 60000);
     return () => clearInterval(interval);
+  }, []);
+
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        searchInputRef.current?.focus();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
   return (
@@ -31,7 +44,15 @@ export default function TopNav({ onMenuClick, isDarkMode, onToggleDarkMode }: To
         <div className="relative hidden flex-1 sm:block sm:max-w-md">
           <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-black/40 dark:text-white/40" />
           <input
+            ref={searchInputRef}
             type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && searchQuery.trim()) {
+                alert(`Searching for: ${searchQuery}`);
+              }
+            }}
             placeholder="Search alerts, IPs, devices..."
             className="w-full rounded-none border border-black/20 bg-transparent py-2 pl-9 pr-16 text-sm text-black placeholder:text-black/40 outline-none transition-colors focus:border-black dark:border-white/20 dark:text-white dark:placeholder:text-white/40 dark:focus:border-white"
           />

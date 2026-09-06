@@ -326,8 +326,8 @@ export default function App() {
 
   const handleResolve = useCallback(async (alertId: string) => {
     // Optimistic UI update
-    setLiveAlerts(prev => prev.map(a => a.id === alertId ? { ...a, status: 'resolved', severity: 'resolved', riskScore: 0 } : a));
-    setSelectedAlert(prev => prev?.id === alertId ? { ...prev, status: 'resolved', severity: 'resolved', riskScore: 0 } : prev);
+    setLiveAlerts(prev => prev.map(a => a.id === alertId ? { ...a, status: 'resolved', severity: 'low', riskScore: 0 } : a));
+    setSelectedAlert(prev => prev?.id === alertId ? { ...prev, status: 'resolved', severity: 'low', riskScore: 0 } : prev);
     
     setLiveStats(prev => prev ? { ...prev, active_threats: Math.max(0, prev.active_threats - 1) } : null);
     setLiveKpis(prev => {
@@ -350,7 +350,7 @@ export default function App() {
         await setDoc(alertRef, {
             status: 'resolved',
             risk_score: 0,
-            severity: 'resolved',
+            severity: 'low',
             resolved_by: 'SOC Analyst',
             resolved_at: new Date().toISOString()
         }, { merge: true });

@@ -67,7 +67,7 @@ export default function DevicesTable({ devices }: DevicesTableProps) {
           <select
             value={riskFilter}
             onChange={e => setRiskFilter(e.target.value)}
-            className="h-8 rounded-none border border-black/20 bg-transparent px-2 text-xs text-black focus:border-black focus:outline-none dark:border-white/20 dark:text-white dark:focus:border-white"
+            className="h-8 rounded-none border border-black/20 bg-transparent px-2 text-xs text-black focus:border-black focus:outline-none dark:border-white/20 dark:text-white dark:focus:border-white dark:bg-black"
           >
             <option value="all">All Risk Levels</option>
             <option value="80">Critical (80+)</option>

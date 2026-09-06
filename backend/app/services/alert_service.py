@@ -252,11 +252,28 @@ class AlertService:
         return items
 
     async def get_alert_by_id(self, alert_id: str) -> AlertDetail:
-        row_index = self._parse_alert_id(alert_id)
         df = self._load_full_dataset()
-        if df is None:
-            raise HTTPException(status_code=503, detail="Prediction dataset unavailable.")
+        if df is None or df.empty:
+            # Fallback to hardcoded mock alerts if CSV is unavailable
+            mocks = await self._get_all_alerts()
+            for mock in mocks:
+                if mock.id == alert_id:
+                    return AlertDetail(
+                        id=mock.id,
+                        timestamp=mock.timestamp,
+                        risk_score=mock.risk_score,
+                        anomaly_score=mock.anomaly_score,
+                        attack_type=mock.attack_type,
+                        prediction=-1,
+                        shap_explanation=ShapExplanation(top_features=[], summary="High risk behavioral anomaly detected."),
+                        recommended_action="Monitor activity.",
+                        entity_id=mock.entity_id,
+                        source_ip=mock.source_ip,
+                        device_fingerprint=mock.device_fingerprint
+                    )
+            raise HTTPException(status_code=404, detail="Alert not found")
 
+        row_index = self._parse_alert_id(alert_id)
         if row_index >= len(df) or row_index < 0:
             raise HTTPException(status_code=404, detail="Alert not found")
 
