@@ -7,11 +7,11 @@ interface SkeletonProps {
 
 export function Skeleton({
   className = '',
-  rounded = 'rounded-lg',
+  rounded = 'rounded-none',
 }: SkeletonProps) {
   return (
     <div
-      className={`animate-shimmer ${rounded} ${className}`}
+      className={`animate-pulse bg-black/10 dark:bg-white/10 ${rounded} ${className}`}
       aria-hidden="true"
     />
   );
@@ -42,7 +42,7 @@ export function SkeletonText({
 
 export function SkeletonCard({ children }: { children?: ReactNode }) {
   return (
-    <div className="rounded-3xl glass p-6">
+    <div className="rounded-none border border-black/20 bg-white p-6 dark:border-white/20 dark:bg-black">
       {children ?? (
         <>
           <div className="flex items-start justify-between">
@@ -59,7 +59,7 @@ export function SkeletonCard({ children }: { children?: ReactNode }) {
 
 export function KpiCardSkeleton() {
   return (
-    <div className="rounded-3xl glass p-6">
+    <div className="rounded-none border border-black/20 bg-white p-6 dark:border-white/20 dark:bg-black">
       <div className="flex items-start justify-between">
         <Skeleton className="h-11 w-11 rounded-2xl" />
         <Skeleton className="h-6 w-16 rounded-full" />
@@ -138,32 +138,32 @@ export function AlertsTableSkeleton({ rows = 6 }: { rows?: number }) {
 
 export function AlertDetailsSkeleton() {
   return (
-    <div className="flex h-full flex-col overflow-hidden rounded-3xl glass">
-      <div className="flex items-center justify-between border-b border-black/5 px-6 py-4">
+    <div className="flex h-full flex-col overflow-hidden rounded-none border border-black/20 bg-white dark:border-white/20 dark:bg-black">
+      <div className="flex items-center justify-between border-b border-black/10 px-6 py-4 dark:border-white/10">
         <div className="space-y-2">
           <Skeleton className="h-2.5 w-20" />
           <Skeleton className="h-4 w-48" />
         </div>
-        <Skeleton className="h-8 w-8 rounded-xl" />
+        <Skeleton className="h-8 w-8 rounded-none" />
       </div>
       <div className="flex-1 space-y-4 px-6 py-5">
         <div className="flex gap-2">
-          <Skeleton className="h-5 w-20 rounded-full" />
-          <Skeleton className="h-5 w-24 rounded-full" />
+          <Skeleton className="h-5 w-20 rounded-none" />
+          <Skeleton className="h-5 w-24 rounded-none" />
         </div>
-        <div className="rounded-2xl border border-black/5 bg-black/[0.02] p-4 space-y-3">
+        <div className="rounded-none border border-black/10 bg-transparent p-4 space-y-3 dark:border-white/10">
           <div className="flex items-center justify-between">
             <Skeleton className="h-3 w-20" />
             <Skeleton className="h-7 w-12" />
           </div>
-          <Skeleton className="h-2 w-full rounded-full" />
+          <Skeleton className="h-2 w-full rounded-none" />
         </div>
         {Array.from({ length: 5 }).map((_, i) => (
           <div
             key={i}
-            className="flex items-center gap-3 rounded-2xl border border-black/5 bg-black/[0.02] px-3.5 py-3"
+            className="flex items-center gap-3 rounded-none border border-black/10 bg-transparent px-3.5 py-3 dark:border-white/10"
           >
-            <Skeleton className="h-9 w-9 rounded-xl" />
+            <Skeleton className="h-9 w-9 rounded-none" />
             <div className="flex-1 space-y-1.5">
               <Skeleton className="h-2 w-16" />
               <Skeleton className="h-3 w-32" />
@@ -177,9 +177,9 @@ export function AlertDetailsSkeleton() {
           <Skeleton className="h-3 w-2/3" />
         </div>
       </div>
-      <div className="flex gap-2.5 border-t border-black/5 p-5">
-        <Skeleton className="h-10 flex-1 rounded-2xl" />
-        <Skeleton className="h-10 flex-1 rounded-2xl" />
+      <div className="flex gap-2.5 border-t border-black/10 p-5 dark:border-white/10">
+        <Skeleton className="h-10 flex-1 rounded-none" />
+        <Skeleton className="h-10 flex-1 rounded-none" />
       </div>
     </div>
   );

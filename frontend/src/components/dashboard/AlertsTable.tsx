@@ -28,9 +28,23 @@ export default function AlertsTable({
   headerActions,
 }: AlertsTableProps) {
   const [currentPage, setCurrentPage] = useState(1);
+  const [showFilters, setShowFilters] = useState(false);
+  const [filterSeverity, setFilterSeverity] = useState<Severity | 'all'>('all');
+  const [filterStatus, setFilterStatus] = useState<string | 'all'>('all');
+  
   const itemsPerPage = 20;
-  const totalPages = Math.max(1, Math.ceil(alerts.length / itemsPerPage));
-  const paginatedAlerts = alerts.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
+
+  const filteredAlerts = alerts.filter(alert => {
+    if (filterSeverity !== 'all' && alert.severity !== filterSeverity) return false;
+    if (filterStatus !== 'all' && alert.status !== filterStatus) return false;
+    return true;
+  });
+
+  const totalPages = Math.max(1, Math.ceil(filteredAlerts.length / itemsPerPage));
+  const paginatedAlerts = filteredAlerts.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
+
+  const severities: Severity[] = ['critical', 'high', 'medium', 'low', 'resolved'];
+  const statuses = ['open', 'investigating', 'resolved'];
 
   return (
     <div className="overflow-hidden rounded-none border border-black/20 bg-white dark:border-white/20 dark:bg-black">
@@ -44,21 +58,85 @@ export default function AlertsTable({
               <Skeleton className="h-3 w-40" />
             ) : (
               <span>
-                {alerts.length} events in the last 24 hours
+                {filteredAlerts.length} events in the last 24 hours
               </span>
             )}
           </div>
         </div>
         {headerActions ? headerActions : (
-          <button className="inline-flex items-center gap-1.5 rounded-none border border-black bg-transparent px-3 py-1.5 text-xs text-black transition-colors hover:bg-black hover:text-white dark:border-white dark:text-white dark:hover:bg-white dark:hover:text-black">
+          <button 
+            onClick={() => setShowFilters(!showFilters)}
+            className={`inline-flex items-center gap-1.5 rounded-none border px-3 py-1.5 text-xs transition-colors ${
+              showFilters 
+                ? 'border-black bg-black text-white dark:border-white dark:bg-white dark:text-black' 
+                : 'border-black bg-transparent text-black hover:bg-black hover:text-white dark:border-white dark:text-white dark:hover:bg-white dark:hover:text-black'
+            }`}
+          >
             <ListFilter className="h-3.5 w-3.5" />
             <span className="hidden sm:inline">Filter</span>
           </button>
         )}
       </div>
 
+      {showFilters && !loading && (
+        <div className="flex flex-wrap items-center gap-4 border-b border-black/10 px-6 py-3 bg-black/5 dark:border-white/10 dark:bg-white/5">
+          <div className="flex items-center gap-2">
+            <span className="text-[10px] font-mono font-semibold uppercase tracking-wider text-black/60 dark:text-white/60">
+              Severity:
+            </span>
+            <select
+              value={filterSeverity}
+              onChange={(e) => {
+                setFilterSeverity(e.target.value as Severity | 'all');
+                setCurrentPage(1);
+              }}
+              className="rounded-none border border-black/20 bg-transparent px-2 py-1 text-xs text-black dark:border-white/20 dark:text-white outline-none focus:border-black dark:focus:border-white"
+            >
+              <option value="all" className="bg-white dark:bg-black">All</option>
+              {severities.map(s => (
+                <option key={s} value={s} className="bg-white dark:bg-black">{s.charAt(0).toUpperCase() + s.slice(1)}</option>
+              ))}
+            </select>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="text-[10px] font-mono font-semibold uppercase tracking-wider text-black/60 dark:text-white/60">
+              Status:
+            </span>
+            <select
+              value={filterStatus}
+              onChange={(e) => {
+                setFilterStatus(e.target.value);
+                setCurrentPage(1);
+              }}
+              className="rounded-none border border-black/20 bg-transparent px-2 py-1 text-xs text-black dark:border-white/20 dark:text-white outline-none focus:border-black dark:focus:border-white"
+            >
+              <option value="all" className="bg-white dark:bg-black">All</option>
+              {statuses.map(s => (
+                <option key={s} value={s} className="bg-white dark:bg-black">{s.charAt(0).toUpperCase() + s.slice(1)}</option>
+              ))}
+            </select>
+          </div>
+          {(filterSeverity !== 'all' || filterStatus !== 'all') && (
+            <button
+              onClick={() => {
+                setFilterSeverity('all');
+                setFilterStatus('all');
+                setCurrentPage(1);
+              }}
+              className="ml-auto text-[10px] font-mono font-semibold uppercase tracking-wider text-black/60 hover:text-black dark:text-white/60 dark:hover:text-white transition-colors"
+            >
+              Clear Filters
+            </button>
+          )}
+        </div>
+      )}
+
       {loading ? (
         <AlertsTableSkeleton />
+      ) : filteredAlerts.length === 0 ? (
+        <div className="p-8 text-center text-sm text-black/60 dark:text-white/60 font-mono">
+          No alerts found matching the current filters.
+        </div>
       ) : (
         <div className="overflow-x-auto">
           <table className="w-full text-left">
